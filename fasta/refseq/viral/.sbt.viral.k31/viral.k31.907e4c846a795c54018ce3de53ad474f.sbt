@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886055.1/GCF_000886055.1_ViralProj41625_genomic.fna.gz",
+        "filename": "GCF_000886055.1_ViralProj41625_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013467.1 Sweet potato leaf curl Lanzarote virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

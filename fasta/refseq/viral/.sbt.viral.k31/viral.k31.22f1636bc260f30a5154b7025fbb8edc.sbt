@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854325.1/GCF_000854325.1_ViralMultiSegProj15061_genomic.fna.gz",
+        "filename": "GCF_000854325.1_ViralMultiSegProj15061_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006275.1 White clover cryptic virus 1 RNA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

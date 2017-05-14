@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955135.1/GCF_000955135.1_ViralProj277469_genomic.fna.gz",
+        "filename": "GCF_000955135.1_ViralProj277469_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026620.1 Jutiapa virus strain JG-128, complete genome",
         "signatures": [
             {
                 "ksize": 31,

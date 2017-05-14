@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001966035.1/GCF_001966035.1_ViralProj362058_genomic.fna.gz",
+        "filename": "GCF_001966035.1_ViralProj362058_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032982.1 Hubei dimarhabdovirus virus 3 strain QTM26149 putative nucleoprotein, hypothetical protein 2, hypothetical protein 3, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

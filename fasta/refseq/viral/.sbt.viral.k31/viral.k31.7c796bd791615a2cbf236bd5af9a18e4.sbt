@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000973275.1/GCF_000973275.1_ViralProj281395_genomic.fna.gz",
+        "filename": "GCF_000973275.1_ViralProj281395_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026811.1 Possum nidovirus isolate WPDV, partial genome",
         "signatures": [
             {
                 "ksize": 31,

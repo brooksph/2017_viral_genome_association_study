@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000960945.1/GCF_000960945.1_ViralProj279079_genomic.fna.gz",
+        "filename": "GCF_000960945.1_ViralProj279079_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026733.1 Graminella nigrifrons virus 1 isolate Ohio, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001766605.1/GCF_001766605.1_ViralProj348329_genomic.fna.gz",
+        "filename": "GCF_001766605.1_ViralProj348329_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031340.1 Grapevine geminivirus A isolate Tamar, complete genome",
         "signatures": [
             {
                 "ksize": 31,

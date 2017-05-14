@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904055.1/GCF_000904055.1_ViralProj186434_genomic.fna.gz",
+        "filename": "GCF_000904055.1_ViralProj186434_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020106.1 STL polyomavirus strain MA138, complete genome",
         "signatures": [
             {
                 "ksize": 31,

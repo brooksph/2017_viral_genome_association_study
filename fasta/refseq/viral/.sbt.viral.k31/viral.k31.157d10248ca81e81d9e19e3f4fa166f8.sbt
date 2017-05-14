@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002029595.1/GCF_002029595.1_ViralProj378771_genomic.fna.gz",
+        "filename": "GCF_002029595.1_ViralProj378771_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034204.1 Menghai flavivirus isolate MHAedFV1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

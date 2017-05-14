@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922775.1/GCF_000922775.1_ViralProj248634_genomic.fna.gz",
+        "filename": "GCF_000922775.1_ViralProj248634_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024145.1 Mycobacterium phage Hosp, complete genome",
         "signatures": [
             {
                 "ksize": 31,

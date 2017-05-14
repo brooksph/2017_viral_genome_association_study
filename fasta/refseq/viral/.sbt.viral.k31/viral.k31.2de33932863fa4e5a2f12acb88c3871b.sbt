@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898955.1/GCF_000898955.1_ViralProj170854_genomic.fna.gz",
+        "filename": "GCF_000898955.1_ViralProj170854_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018151.1 Citrus chlorotic dwarf associated virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

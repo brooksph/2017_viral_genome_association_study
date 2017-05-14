@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001271295.1/GCF_001271295.1_ViralProj293050_genomic.fna.gz",
+        "filename": "GCF_001271295.1_ViralProj293050_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027711.1 Dromedary astrovirus isolate DcAstV-274, complete genome",
         "signatures": [
             {
                 "ksize": 31,

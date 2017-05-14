@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001966635.1/GCF_001966635.1_ViralProj362063_genomic.fna.gz",
+        "filename": "GCF_001966635.1_ViralProj362063_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033030.1 Hubei coleoptera virus 1 strain QCM131202 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

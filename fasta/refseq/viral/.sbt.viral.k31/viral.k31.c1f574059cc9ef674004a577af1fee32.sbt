@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837785.1/GCF_000837785.1_ViralProj14057_genomic.fna.gz",
+        "filename": "GCF_000837785.1_ViralProj14057_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002232.1 Rabbit oral papillomavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

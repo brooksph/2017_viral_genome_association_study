@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925595.1/GCF_000925595.1_ViralProj265900_genomic.fna.gz",
+        "filename": "GCF_000925595.1_ViralProj265900_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025387.1 Scophthalmus maximus rhabdovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

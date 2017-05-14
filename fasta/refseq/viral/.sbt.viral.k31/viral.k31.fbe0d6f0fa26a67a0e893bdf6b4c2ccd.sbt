@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925155.1/GCF_000925155.1_ViralProj267775_genomic.fna.gz",
+        "filename": "GCF_000925155.1_ViralProj267775_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025676.1 San Miguel sea lion virus 8, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865105.1/GCF_000865105.1_ViralProj15717_genomic.fna.gz",
+        "filename": "GCF_000865105.1_ViralProj15717_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007415.1 Sclerotinia sclerotiorum debilitation-associated RNA virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

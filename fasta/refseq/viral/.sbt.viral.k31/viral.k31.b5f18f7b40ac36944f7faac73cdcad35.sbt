@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891235.1/GCF_000891235.1_ViralProj69999_genomic.fna.gz",
+        "filename": "GCF_000891235.1_ViralProj69999_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015780.1 Wiseana iridescent virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

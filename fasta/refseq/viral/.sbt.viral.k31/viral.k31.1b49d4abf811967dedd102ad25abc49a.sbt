@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008535.1/GCF_002008535.1_ViralProj376916_genomic.fna.gz",
+        "filename": "GCF_002008535.1_ViralProj376916_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033820.1 Bat sapelovirus clone Bat/CAM/Sap-P24/2013 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

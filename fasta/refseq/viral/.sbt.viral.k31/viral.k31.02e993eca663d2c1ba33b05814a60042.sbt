@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914675.1/GCF_000914675.1_ViralProj240025_genomic.fna.gz",
+        "filename": "GCF_000914675.1_ViralProj240025_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023555.1 Edwardsiella phage eiAU-183, complete genome",
         "signatures": [
             {
                 "ksize": 31,

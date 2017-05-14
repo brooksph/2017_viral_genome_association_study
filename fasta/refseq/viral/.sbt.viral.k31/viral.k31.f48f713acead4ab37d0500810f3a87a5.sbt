@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001433585.1/GCF_001433585.1_ViralProj301067_genomic.fna.gz",
+        "filename": "GCF_001433585.1_ViralProj301067_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028245.1 Avian paramyxovirus 2 strain APMV-2/Chicken/England/7702/06, complete genome",
         "signatures": [
             {
                 "ksize": 31,

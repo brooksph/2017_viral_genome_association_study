@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885335.1/GCF_000885335.1_ViralMultiSegProj41081_genomic.fna.gz",
+        "filename": "GCF_000885335.1_ViralMultiSegProj41081_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013396.1 Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey) segment 1",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844885.1/GCF_000844885.1_ViralProj14472_genomic.fna.gz",
+        "filename": "GCF_000844885.1_ViralProj14472_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005902.1 Lymphocystis disease virus - isolate China, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841505.1/GCF_000841505.1_ViralProj14302_genomic.fna.gz",
+        "filename": "GCF_000841505.1_ViralProj14302_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005068.1 Cryptophlebia leucotreta granulovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

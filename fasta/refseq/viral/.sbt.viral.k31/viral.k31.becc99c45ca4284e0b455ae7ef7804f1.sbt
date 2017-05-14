@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851025.1/GCF_000851025.1_ViralMultiSegProj14862_genomic.fna.gz",
+        "filename": "GCF_000851025.1_ViralMultiSegProj14862_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004291.1 Lymphocytic choriomeningitis virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

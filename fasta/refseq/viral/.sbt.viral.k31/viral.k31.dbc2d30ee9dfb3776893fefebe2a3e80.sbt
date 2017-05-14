@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871425.1/GCF_000871425.1_ViralProj28273_genomic.fna.gz",
+        "filename": "GCF_000871425.1_ViralProj28273_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010236.1 Tomato leaf curl Joydebpur beta virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

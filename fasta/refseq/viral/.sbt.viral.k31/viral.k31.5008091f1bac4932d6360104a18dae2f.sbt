@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921935.1/GCF_000921935.1_ViralProj253323_genomic.fna.gz",
+        "filename": "GCF_000921935.1_ViralProj253323_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024368.1 Mycobacterium phage Pinto, complete genome",
         "signatures": [
             {
                 "ksize": 31,

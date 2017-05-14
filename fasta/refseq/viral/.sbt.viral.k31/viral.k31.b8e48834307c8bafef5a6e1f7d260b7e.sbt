@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916715.1/GCF_000916715.1_ViralMultiSegProj230993_genomic.fna.gz",
+        "filename": "GCF_000916715.1_ViralMultiSegProj230993_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023016.1 Lamium mild mosaic virus isolate DSMZ PV-0454 segment RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

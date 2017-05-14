@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002024655.1/GCF_002024655.1_ViralMultiSegProj378397_genomic.fna.gz",
+        "filename": "GCF_002024655.1_ViralMultiSegProj378397_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034159.1 Pepper cryptic virus 2 isolate HW-01 segment RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856045.1/GCF_000856045.1_ViralMultiSegProj14919_genomic.fna.gz",
+        "filename": "GCF_000856045.1_ViralMultiSegProj14919_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005897.1 Pirital virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

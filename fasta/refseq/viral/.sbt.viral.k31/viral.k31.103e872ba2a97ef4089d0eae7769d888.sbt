@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855405.1/GCF_000855405.1_ViralProj14973_genomic.fna.gz",
+        "filename": "GCF_000855405.1_ViralProj14973_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000885.1 Tomato chlorotic dwarf viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

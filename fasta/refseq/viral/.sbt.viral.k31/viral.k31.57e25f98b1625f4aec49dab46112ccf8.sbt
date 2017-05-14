@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837525.1/GCF_000837525.1_ViralProj14168_genomic.fna.gz",
+        "filename": "GCF_000837525.1_ViralProj14168_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003529.1 Mamestra configurata NPV-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

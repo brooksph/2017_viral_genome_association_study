@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840385.1/GCF_000840385.1_ViralProj14233_genomic.fna.gz",
+        "filename": "GCF_000840385.1_ViralProj14233_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004450.1 Taro bacilliform virus complete genome",
         "signatures": [
             {
                 "ksize": 31,

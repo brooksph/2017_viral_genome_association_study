@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838605.1/GCF_000838605.1_ViralProj14052_genomic.fna.gz",
+        "filename": "GCF_000838605.1_ViralProj14052_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002188.1 Fowlpox virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

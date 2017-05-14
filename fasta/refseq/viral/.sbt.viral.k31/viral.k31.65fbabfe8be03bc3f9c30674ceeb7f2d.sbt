@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853625.1/GCF_000853625.1_ViralProj14908_genomic.fna.gz",
+        "filename": "GCF_000853625.1_ViralProj14908_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001410.1 Avocado sunblotch viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925135.1/GCF_000925135.1_ViralMultiSegProj267263_genomic.fna.gz",
+        "filename": "GCF_000925135.1_ViralMultiSegProj267263_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025487.1 Fako virus strain CSW77 segment 1 nonstructural protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

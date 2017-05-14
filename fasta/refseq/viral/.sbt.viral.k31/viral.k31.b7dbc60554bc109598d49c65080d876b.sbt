@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001746075.1/GCF_001746075.1_ViralMultiSegProj344202_genomic.fna.gz",
+        "filename": "GCF_001746075.1_ViralMultiSegProj344202_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031141.1 Sanxia Water Strider Virus 1 strain SXSSP08 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871265.1/GCF_000871265.1_ViralProj21043_genomic.fna.gz",
+        "filename": "GCF_000871265.1_ViralProj21043_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009935.1 Pseudomonas phage LKD16, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897235.1/GCF_000897235.1_ViralProj167735_genomic.fna.gz",
+        "filename": "GCF_000897235.1_ViralProj167735_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017987.1 Sida yellow mosaic China virus - [Hainan 8] complete genome, isolate Hn7",
         "signatures": [
             {
                 "ksize": 31,

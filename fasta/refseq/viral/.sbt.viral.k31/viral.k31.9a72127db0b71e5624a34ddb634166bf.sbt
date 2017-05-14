@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861125.1/GCF_000861125.1_ViralProj15439_genomic.fna.gz",
+        "filename": "GCF_000861125.1_ViralProj15439_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000858.1 Simian T-lymphotropic virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

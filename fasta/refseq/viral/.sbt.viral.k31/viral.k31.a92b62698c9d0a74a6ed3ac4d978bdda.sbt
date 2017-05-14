@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899115.1/GCF_000899115.1_ViralProj173051_genomic.fna.gz",
+        "filename": "GCF_000899115.1_ViralProj173051_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018451.1 Arabis mosaic virus small satellite RNA barley/CHE/1991 RNA3-VI, complete genome",
         "signatures": [
             {
                 "ksize": 31,

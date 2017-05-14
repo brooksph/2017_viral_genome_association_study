@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901415.1/GCF_000901415.1_ViralProj177643_genomic.fna.gz",
+        "filename": "GCF_000901415.1_ViralProj177643_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018864.1 Tomato leaf curl Yemen betasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

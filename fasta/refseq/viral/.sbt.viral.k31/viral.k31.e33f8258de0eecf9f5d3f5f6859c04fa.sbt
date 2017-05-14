@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844525.2/GCF_000844525.2_ViralProj14399_genomic.fna.gz",
+        "filename": "GCF_000844525.2_ViralProj14399_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004100.1 Macroptilium yellow mosaic Florida virus DNA B, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

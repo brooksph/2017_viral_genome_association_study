@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895895.1/GCF_000895895.1_ViralMultiSegProj82351_genomic.fna.gz",
+        "filename": "GCF_000895895.1_ViralMultiSegProj82351_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016757.1 Rosellinia necatrix quadrivirus 1 segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

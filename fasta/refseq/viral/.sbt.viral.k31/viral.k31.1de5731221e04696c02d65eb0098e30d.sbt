@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901635.1/GCF_000901635.1_ViralProj179432_genomic.fna.gz",
+        "filename": "GCF_000901635.1_ViralProj179432_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019412.1 Yam mild mosaic virus from Brazil, complete genome",
         "signatures": [
             {
                 "ksize": 31,

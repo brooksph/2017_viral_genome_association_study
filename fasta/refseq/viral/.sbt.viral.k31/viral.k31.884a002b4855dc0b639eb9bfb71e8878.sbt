@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001714455.1/GCF_001714455.1_ViralProj339878_genomic.fna.gz",
+        "filename": "GCF_001714455.1_ViralProj339878_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030792.1 Equine adenovirus 1 strain M1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

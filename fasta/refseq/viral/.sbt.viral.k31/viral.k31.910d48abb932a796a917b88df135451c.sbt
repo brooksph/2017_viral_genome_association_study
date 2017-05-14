@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871805.1/GCF_000871805.1_ViralMultiSegProj19971_genomic.fna.gz",
+        "filename": "GCF_000871805.1_ViralMultiSegProj19971_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009606.1 Tomato leaf curl Sinaloa virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914695.1/GCF_000914695.1_ViralProj240029_genomic.fna.gz",
+        "filename": "GCF_000914695.1_ViralProj240029_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023553.1 Mycobacterium phage Echild, complete genome",
         "signatures": [
             {
                 "ksize": 31,

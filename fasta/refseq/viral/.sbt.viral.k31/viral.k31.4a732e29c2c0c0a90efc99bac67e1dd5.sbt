@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001629905.1/GCF_001629905.1_ViralProj318651_genomic.fna.gz",
+        "filename": "GCF_001629905.1_ViralProj318651_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029900.1 Potato necrosis virus isolate QV323, complete genome",
         "signatures": [
             {
                 "ksize": 31,

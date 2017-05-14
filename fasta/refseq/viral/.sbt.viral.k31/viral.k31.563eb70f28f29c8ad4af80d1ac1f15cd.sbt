@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744775.1/GCF_001744775.1_ViralMultiSegProj344205_genomic.fna.gz",
+        "filename": "GCF_001744775.1_ViralMultiSegProj344205_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031135.1 Huangpi Tick Virus 1 strain H124-1 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

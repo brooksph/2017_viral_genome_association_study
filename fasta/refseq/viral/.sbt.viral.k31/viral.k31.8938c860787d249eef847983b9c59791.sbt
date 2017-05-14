@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855605.1/GCF_000855605.1_ViralProj15016_genomic.fna.gz",
+        "filename": "GCF_000855605.1_ViralProj15016_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003890.1 Tomato black ring virus satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004475.1/GCF_002004475.1_ViralProj375017_genomic.fna.gz",
+        "filename": "GCF_002004475.1_ViralProj375017_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033702.1 Wuhan spider virus 7 strain spider133569 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

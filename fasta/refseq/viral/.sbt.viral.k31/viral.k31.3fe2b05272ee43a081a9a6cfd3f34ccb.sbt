@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904695.1/GCF_000904695.1_ViralProj197297_genomic.fna.gz",
+        "filename": "GCF_000904695.1_ViralProj197297_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021061.1 Mycobacterium phage Butters, complete genome",
         "signatures": [
             {
                 "ksize": 31,

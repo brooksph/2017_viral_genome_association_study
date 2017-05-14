@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922795.1/GCF_000922795.1_ViralProj248746_genomic.fna.gz",
+        "filename": "GCF_000922795.1_ViralProj248746_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024151.1 Beauveria bassiana victorivirus NZL/1980 isolate 6887, complete genome",
         "signatures": [
             {
                 "ksize": 31,

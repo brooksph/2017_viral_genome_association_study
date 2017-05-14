@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001678835.1/GCF_001678835.1_ViralProj327401_genomic.fna.gz",
+        "filename": "GCF_001678835.1_ViralProj327401_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030445.1 Bluegill hepadnavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

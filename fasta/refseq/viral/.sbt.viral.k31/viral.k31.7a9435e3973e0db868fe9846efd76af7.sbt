@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909335.1/GCF_000909335.1_ViralProj209066_genomic.fna.gz",
+        "filename": "GCF_000909335.1_ViralProj209066_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021537.1 Halorubrum phage CGphi46 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

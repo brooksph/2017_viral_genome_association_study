@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856525.1/GCF_000856525.1_ViralMultiSegProj15024_genomic.fna.gz",
+        "filename": "GCF_000856525.1_ViralMultiSegProj15024_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001915.1 Infectious pancreatic necrosis virus segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889835.1/GCF_000889835.1_ViralProj48173_genomic.fna.gz",
+        "filename": "GCF_000889835.1_ViralProj48173_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014087.1 Torque teno douroucouli virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

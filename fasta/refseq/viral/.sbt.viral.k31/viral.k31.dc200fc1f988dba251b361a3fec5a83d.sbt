@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001717315.1/GCF_001717315.1_ViralProj340457_genomic.fna.gz",
+        "filename": "GCF_001717315.1_ViralProj340457_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030843.1 Washington bat picornavirus polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

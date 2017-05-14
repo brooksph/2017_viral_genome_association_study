@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845245.1/GCF_000845245.1_ViralProj14559_genomic.fna.gz",
+        "filename": "GCF_000845245.1_ViralProj14559_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006273.2 Human herpesvirus 5 strain Merlin, complete genome",
         "signatures": [
             {
                 "ksize": 31,

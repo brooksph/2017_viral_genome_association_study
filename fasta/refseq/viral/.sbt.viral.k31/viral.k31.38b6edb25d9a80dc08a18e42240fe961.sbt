@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859925.1/GCF_000859925.1_ViralProj15205_genomic.fna.gz",
+        "filename": "GCF_000859925.1_ViralProj15205_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003982.1 Equine rhinitis A virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

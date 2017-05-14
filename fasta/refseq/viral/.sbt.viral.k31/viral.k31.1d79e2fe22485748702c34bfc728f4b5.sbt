@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002003795.1/GCF_002003795.1_ViralProj371622_genomic.fna.gz",
+        "filename": "GCF_002003795.1_ViralProj371622_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033620.1 Murine roseolovirus isolate YOK1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

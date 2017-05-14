@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274145.1/GCF_001274145.1_ViralProj293733_genomic.fna.gz",
+        "filename": "GCF_001274145.1_ViralProj293733_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027788.1 Marine snail associated circular virus isolate I0084, complete genome",
         "signatures": [
             {
                 "ksize": 31,

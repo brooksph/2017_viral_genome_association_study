@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001310215.1/GCF_001310215.1_ViralProj298247_genomic.fna.gz",
+        "filename": "GCF_001310215.1_ViralProj298247_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028044.1 Maize-associated totivirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

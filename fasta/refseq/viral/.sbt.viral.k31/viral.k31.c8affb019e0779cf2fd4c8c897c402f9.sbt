@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845405.1/GCF_000845405.1_ViralProj14401_genomic.fna.gz",
+        "filename": "GCF_000845405.1_ViralProj14401_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005892.1 Sulfolobus turreted icosahedral virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

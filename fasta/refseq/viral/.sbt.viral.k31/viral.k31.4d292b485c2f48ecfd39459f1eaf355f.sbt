@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001611625.1/GCF_001611625.1_ViralMultiSegProj317364_genomic.fna.gz",
+        "filename": "GCF_001611625.1_ViralMultiSegProj317364_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029801.1 Porcine picobirnavirus strain 221/04-16/ITA/2004 clone LA-5 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

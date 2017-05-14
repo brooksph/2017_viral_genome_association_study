@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502755.1/GCF_001502755.1_ViralProj307773_genomic.fna.gz",
+        "filename": "GCF_001502755.1_ViralProj307773_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028868.1 Asian prunus virus 2 isolate Bungo Q-1256-01, complete genome",
         "signatures": [
             {
                 "ksize": 31,

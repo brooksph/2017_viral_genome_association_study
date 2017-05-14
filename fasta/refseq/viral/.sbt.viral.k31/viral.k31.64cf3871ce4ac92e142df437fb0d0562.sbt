@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905675.1/GCF_000905675.1_ViralMultiSegProj186431_genomic.fna.gz",
+        "filename": "GCF_000905675.1_ViralMultiSegProj186431_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020103.1 Aspergillus foetidus dsRNA mycovirus RdRp gene for RNA dependent RNA polymerase, segment 1, genomic RNA",
         "signatures": [
             {
                 "ksize": 31,

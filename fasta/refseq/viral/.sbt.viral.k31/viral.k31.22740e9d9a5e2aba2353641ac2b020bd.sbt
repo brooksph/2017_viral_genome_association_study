@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001316415.1/GCF_001316415.1_ViralProj298251_genomic.fna.gz",
+        "filename": "GCF_001316415.1_ViralProj298251_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028045.1 Tadarida brasiliensis circovirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

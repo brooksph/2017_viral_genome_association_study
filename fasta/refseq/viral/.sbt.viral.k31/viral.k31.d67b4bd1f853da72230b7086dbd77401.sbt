@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840545.1/GCF_000840545.1_ViralProj14266_genomic.fna.gz",
+        "filename": "GCF_000840545.1_ViralProj14266_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004673.1 Okra yellow vein mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

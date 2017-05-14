@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002003975.1/GCF_002003975.1_ViralProj375042_genomic.fna.gz",
+        "filename": "GCF_002003975.1_ViralProj375042_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033723.1 Gadgets Gully virus from Australia polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

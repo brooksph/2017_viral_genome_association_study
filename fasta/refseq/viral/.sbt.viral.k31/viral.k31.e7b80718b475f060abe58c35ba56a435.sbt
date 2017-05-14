@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909875.1/GCF_000909875.1_ViralProj203664_genomic.fna.gz",
+        "filename": "GCF_000909875.1_ViralProj203664_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021249.1 Choristoneura rosaceana entomopoxvirus 'L', complete genome",
         "signatures": [
             {
                 "ksize": 31,

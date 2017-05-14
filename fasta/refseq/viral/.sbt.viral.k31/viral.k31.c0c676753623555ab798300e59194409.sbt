@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955595.1/GCF_000955595.1_ViralProj277515_genomic.fna.gz",
+        "filename": "GCF_000955595.1_ViralProj277515_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026622.1 Fusarium coeruleum mitovirus 1 gene for RNA-dependent RNA polymerase, complete cds",
         "signatures": [
             {
                 "ksize": 31,

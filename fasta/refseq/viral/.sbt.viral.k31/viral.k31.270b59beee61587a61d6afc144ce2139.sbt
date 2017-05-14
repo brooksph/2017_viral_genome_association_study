@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470855.1/GCF_001470855.1_ViralProj306283_genomic.fna.gz",
+        "filename": "GCF_001470855.1_ViralProj306283_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028677.1 Rhodococcus phage CosmicSans, complete genome",
         "signatures": [
             {
                 "ksize": 31,

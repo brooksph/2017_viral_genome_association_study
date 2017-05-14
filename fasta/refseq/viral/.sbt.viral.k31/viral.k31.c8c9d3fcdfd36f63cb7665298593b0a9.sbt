@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646015.1/GCF_001646015.1_ViralProj321707_genomic.fna.gz",
+        "filename": "GCF_001646015.1_ViralProj321707_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030131.1 Duck faeces associated circular DNA virus 1 isolate 7_Fec4_duck, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

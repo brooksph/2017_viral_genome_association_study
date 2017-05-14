@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001448375.1/GCF_001448375.1_ViralProj303940_genomic.fna.gz",
+        "filename": "GCF_001448375.1_ViralProj303940_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028461.1 Epizootic haematopoietic necrosis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

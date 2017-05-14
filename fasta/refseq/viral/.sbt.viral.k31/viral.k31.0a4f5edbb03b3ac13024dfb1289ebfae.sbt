@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928055.1/GCF_000928055.1_ViralProj269796_genomic.fna.gz",
+        "filename": "GCF_000928055.1_ViralProj269796_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025836.1 Fisavirus 1 strain HAL1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

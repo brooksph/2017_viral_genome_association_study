@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923615.1/GCF_000923615.1_ViralProj253321_genomic.fna.gz",
+        "filename": "GCF_000923615.1_ViralProj253321_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024358.1 Anabaena phage A-4L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

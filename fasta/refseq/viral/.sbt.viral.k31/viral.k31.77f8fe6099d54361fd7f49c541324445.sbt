@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861465.1/GCF_000861465.1_ViralProj15349_genomic.fna.gz",
+        "filename": "GCF_000861465.1_ViralProj15349_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003606.1 Johnsongrass mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

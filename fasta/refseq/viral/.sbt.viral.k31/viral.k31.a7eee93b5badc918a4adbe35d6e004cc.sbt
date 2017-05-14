@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894475.1/GCF_000894475.1_ViralMultiSegProj124063_genomic.fna.gz",
+        "filename": "GCF_000894475.1_ViralMultiSegProj124063_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017001.1 Macroptilium yellow net virus DNA A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

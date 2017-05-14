@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654265.1/GCF_001654265.1_ViralMultiSegProj323862_genomic.fna.gz",
+        "filename": "GCF_001654265.1_ViralMultiSegProj323862_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030242.1 Victorian trout aquabirnavirus isolate VTAB 10-04677 segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

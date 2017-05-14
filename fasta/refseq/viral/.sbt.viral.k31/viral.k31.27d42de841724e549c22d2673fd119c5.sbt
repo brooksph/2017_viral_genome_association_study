@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913555.1/GCF_000913555.1_ViralProj219120_genomic.fna.gz",
+        "filename": "GCF_000913555.1_ViralProj219120_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022325.1 Mycobacterium phage Dylan, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905035.1/GCF_000905035.1_ViralProj185777_genomic.fna.gz",
+        "filename": "GCF_000905035.1_ViralProj185777_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020083.1 Serratia phage phiMAM1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

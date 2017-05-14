@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001579375.1/GCF_001579375.1_ViralProj313549_genomic.fna.gz",
+        "filename": "GCF_001579375.1_ViralProj313549_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029312.1 Camponotus nipponicus virus genes for capsid protein, RdRp, complete cds, strain: SS-2014a",
         "signatures": [
             {
                 "ksize": 31,

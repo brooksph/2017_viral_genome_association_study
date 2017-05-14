@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001190735.1/GCF_001190735.1_ViralProj291273_genomic.fna.gz",
+        "filename": "GCF_001190735.1_ViralProj291273_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027624.1 Propionibacterium phage SKKY, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903175.1/GCF_000903175.1_ViralProj181066_genomic.fna.gz",
+        "filename": "GCF_000903175.1_ViralProj181066_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019455.1 Haemophilus phage SuMu, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001446245.1/GCF_001446245.1_ViralMultiSegProj302224_genomic.fna.gz",
+        "filename": "GCF_001446245.1_ViralMultiSegProj302224_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028398.1 Wuhan flea virus strain WHZM segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

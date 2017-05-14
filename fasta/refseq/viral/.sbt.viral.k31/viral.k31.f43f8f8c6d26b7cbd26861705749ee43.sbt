@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963135.1/GCF_001963135.1_ViralProj361930_genomic.fna.gz",
+        "filename": "GCF_001963135.1_ViralProj361930_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032957.1 Beihai sobemo-like virus 9 strain BHZY60769 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

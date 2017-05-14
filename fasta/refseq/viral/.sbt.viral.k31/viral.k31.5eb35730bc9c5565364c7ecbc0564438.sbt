@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848225.1/GCF_000848225.1_ViralProj14646_genomic.fna.gz",
+        "filename": "GCF_000848225.1_ViralProj14646_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001831.1 Bovine foamy virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

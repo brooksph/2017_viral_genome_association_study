@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001935505.1/GCF_001935505.1_ViralProj359903_genomic.fna.gz",
+        "filename": "GCF_001935505.1_ViralProj359903_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032535.1 Beihai picorna-like virus 40 strain BHNXC39087 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

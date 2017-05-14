@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868865.1/GCF_000868865.1_ViralProj18853_genomic.fna.gz",
+        "filename": "GCF_000868865.1_ViralProj18853_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009017.1 Nootka lupine vein-clearing virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

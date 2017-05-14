@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908075.1/GCF_000908075.1_ViralProj213017_genomic.fna.gz",
+        "filename": "GCF_000908075.1_ViralProj213017_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021856.1 Bacillus phage phiNIT1 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

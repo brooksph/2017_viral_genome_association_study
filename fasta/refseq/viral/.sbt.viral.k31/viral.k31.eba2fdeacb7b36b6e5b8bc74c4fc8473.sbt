@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912775.1/GCF_000912775.1_ViralMultiSegProj222995_genomic.fna.gz",
+        "filename": "GCF_000912775.1_ViralMultiSegProj222995_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022554.1 Wallal virus isolate 927 segment 2, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

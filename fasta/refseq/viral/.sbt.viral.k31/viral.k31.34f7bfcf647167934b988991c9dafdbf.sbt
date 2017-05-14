@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925655.1/GCF_000925655.1_ViralProj265912_genomic.fna.gz",
+        "filename": "GCF_000925655.1_ViralProj265912_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025401.1 Sunguru virus isolate Ug#41, complete genome",
         "signatures": [
             {
                 "ksize": 31,

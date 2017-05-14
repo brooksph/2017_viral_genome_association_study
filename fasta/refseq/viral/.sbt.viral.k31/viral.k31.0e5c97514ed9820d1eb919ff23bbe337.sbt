@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965255.1/GCF_001965255.1_ViralMultiSegProj362068_genomic.fna.gz",
+        "filename": "GCF_001965255.1_ViralMultiSegProj362068_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033326.1 Hubei Wuhan insect virus 9 strain QTM27230 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

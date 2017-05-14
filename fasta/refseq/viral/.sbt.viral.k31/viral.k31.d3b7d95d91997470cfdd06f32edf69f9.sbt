@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868405.1/GCF_000868405.1_ViralMultiSegProj17547_genomic.fna.gz",
+        "filename": "GCF_000868405.1_ViralMultiSegProj17547_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008302.1 Capsicum chlorosis virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

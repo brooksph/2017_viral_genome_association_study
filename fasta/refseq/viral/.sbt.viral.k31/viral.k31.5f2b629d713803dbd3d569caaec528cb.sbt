@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889375.1/GCF_000889375.1_ViralProj59505_genomic.fna.gz",
+        "filename": "GCF_000889375.1_ViralProj59505_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014630.1 Euphorbia yellow mosaic virus associated DNA 1, isolate Brazil:Mato grosso do sul:1:2007",
         "signatures": [
             {
                 "ksize": 31,

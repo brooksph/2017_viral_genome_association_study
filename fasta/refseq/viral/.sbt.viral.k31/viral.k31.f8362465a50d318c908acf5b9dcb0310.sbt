@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503455.1/GCF_001503455.1_ViralProj307919_genomic.fna.gz",
+        "filename": "GCF_001503455.1_ViralProj307919_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028926.1 Bacillus phage Palmer, complete genome",
         "signatures": [
             {
                 "ksize": 31,

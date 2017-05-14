@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908435.1/GCF_000908435.1_ViralProj206025_genomic.fna.gz",
+        "filename": "GCF_000908435.1_ViralProj206025_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021311.1 Mycobacterium phage Phaux, complete genome",
         "signatures": [
             {
                 "ksize": 31,

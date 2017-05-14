@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856985.1/GCF_000856985.1_ViralMultiSegProj15129_genomic.fna.gz",
+        "filename": "GCF_000856985.1_ViralMultiSegProj15129_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005094.1 Macrobrachium rosenbergii nodavirus RNA-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

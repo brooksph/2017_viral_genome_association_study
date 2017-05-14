@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903895.1/GCF_000903895.1_ViralProj185188_genomic.fna.gz",
+        "filename": "GCF_000903895.1_ViralProj185188_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020067.1 Cardioderma polyomavirus isolate KY336, complete genome",
         "signatures": [
             {
                 "ksize": 31,

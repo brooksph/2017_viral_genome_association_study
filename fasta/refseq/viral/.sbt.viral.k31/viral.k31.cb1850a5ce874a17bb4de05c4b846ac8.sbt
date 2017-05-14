@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872685.1/GCF_000872685.1_ViralProj28825_genomic.fna.gz",
+        "filename": "GCF_000872685.1_ViralProj28825_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010352.1 Eragrostis streak virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

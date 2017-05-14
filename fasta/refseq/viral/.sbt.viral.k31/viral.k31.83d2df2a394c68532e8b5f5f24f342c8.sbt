@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963835.1/GCF_001963835.1_ViralProj361951_genomic.fna.gz",
+        "filename": "GCF_001963835.1_ViralProj361951_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032987.1 Rat arterivirus 1 isolate Ningxia2015 ORF1ab polyprotein, ORF1a polyprotein, E, GP2, GP3, GP4, ORF5a, GP5, M, and N genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

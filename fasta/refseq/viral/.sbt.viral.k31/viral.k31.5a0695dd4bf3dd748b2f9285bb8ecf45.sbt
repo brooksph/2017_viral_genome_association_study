@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915915.1/GCF_000915915.1_ViralProj232646_genomic.fna.gz",
+        "filename": "GCF_000915915.1_ViralProj232646_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023162.1 Carp picornavirus 1 isolate F37/06, complete genome",
         "signatures": [
             {
                 "ksize": 31,

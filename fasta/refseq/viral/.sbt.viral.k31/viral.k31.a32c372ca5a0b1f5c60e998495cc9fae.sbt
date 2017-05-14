@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001579335.1/GCF_001579335.1_ViralProj313552_genomic.fna.gz",
+        "filename": "GCF_001579335.1_ViralProj313552_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029313.1 Bhindi yellow vein alphasatellite replication protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

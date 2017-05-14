@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871585.1/GCF_000871585.1_ViralProj19695_genomic.fna.gz",
+        "filename": "GCF_000871585.1_ViralProj19695_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009503.1 Spodoptera litura granulovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

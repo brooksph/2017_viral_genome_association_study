@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851145.1/GCF_000851145.1_ViralMultiSegProj14892_genomic.fna.gz",
+        "filename": "GCF_000851145.1_ViralMultiSegProj14892_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004910.1 Influenza A virus pb2 gene for polymerase Pb2, genomic RNA, strain A/Hong Kong/1073/99(H9N2)",
         "signatures": [
             {
                 "ksize": 31,

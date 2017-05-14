@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922295.1/GCF_000922295.1_ViralProj257698_genomic.fna.gz",
+        "filename": "GCF_000922295.1_ViralProj257698_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024685.1 Phomopsis longicolla hypovirus isolate ME711, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900215.1/GCF_000900215.1_ViralProj177523_genomic.fna.gz",
+        "filename": "GCF_000900215.1_ViralProj177523_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018848.1 Streptomyces phage SV1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

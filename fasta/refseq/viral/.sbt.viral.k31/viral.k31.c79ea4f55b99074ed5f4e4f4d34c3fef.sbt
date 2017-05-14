@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838085.1/GCF_000838085.1_ViralProj14120_genomic.fna.gz",
+        "filename": "GCF_000838085.1_ViralProj14120_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002981.1 Ageratum yellow vein Sri Lanka virus segment A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

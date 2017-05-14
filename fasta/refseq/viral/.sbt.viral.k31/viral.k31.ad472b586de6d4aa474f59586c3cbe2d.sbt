@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754445.1/GCF_001754445.1_ViralProj344641_genomic.fna.gz",
+        "filename": "GCF_001754445.1_ViralProj344641_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031240.1 Wuhan Louse Fly Virus 10 strain BFJSC-8 nucleocapsid (N), putative phosphoprotein (ORF2), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

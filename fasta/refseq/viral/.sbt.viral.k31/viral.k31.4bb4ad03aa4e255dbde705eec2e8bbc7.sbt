@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840425.1/GCF_000840425.1_ViralProj14241_genomic.fna.gz",
+        "filename": "GCF_000840425.1_ViralProj14241_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004583.1 Cotton leaf curl Kokhran virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

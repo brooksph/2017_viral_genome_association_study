@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921775.1/GCF_000921775.1_ViralProj261536_genomic.fna.gz",
+        "filename": "GCF_000921775.1_ViralProj261536_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024908.1 Torque teno Tadarida brasiliensis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001689855.1/GCF_001689855.1_ViralProj329636_genomic.fna.gz",
+        "filename": "GCF_001689855.1_ViralProj329636_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030650.1 Gorilla anellovirus isolate GorF ORF2 and ORF1 genes, complete cds; and nonfunctional ORF3 gene, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887375.1/GCF_000887375.1_ViralProj48417_genomic.fna.gz",
+        "filename": "GCF_000887375.1_ViralProj48417_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014126.1 Providence virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

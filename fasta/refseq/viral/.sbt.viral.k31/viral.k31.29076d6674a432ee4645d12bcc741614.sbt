@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920535.1/GCF_000920535.1_ViralProj243496_genomic.fna.gz",
+        "filename": "GCF_000920535.1_ViralProj243496_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023882.1 Equus asinus papillomavirus AA-2014 isolate Asinara, complete genome",
         "signatures": [
             {
                 "ksize": 31,

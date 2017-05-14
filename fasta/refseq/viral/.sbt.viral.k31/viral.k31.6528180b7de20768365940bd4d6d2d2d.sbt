@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855465.1/GCF_000855465.1_ViralProj14986_genomic.fna.gz",
+        "filename": "GCF_000855465.1_ViralProj14986_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003203.1 Grapevine fanleaf virus satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

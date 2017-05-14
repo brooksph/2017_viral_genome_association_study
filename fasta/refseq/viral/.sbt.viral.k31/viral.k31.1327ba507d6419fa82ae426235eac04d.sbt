@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001012905.1/GCF_001012905.1_ViralProj284421_genomic.fna.gz",
+        "filename": "GCF_001012905.1_ViralProj284421_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027117.1 Desmodus rotundus endogenous retrovirus isolate 824, complete genome",
         "signatures": [
             {
                 "ksize": 31,

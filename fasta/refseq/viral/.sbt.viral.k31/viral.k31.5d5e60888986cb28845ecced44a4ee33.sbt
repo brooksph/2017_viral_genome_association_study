@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001500555.1/GCF_001500555.1_ViralProj307742_genomic.fna.gz",
+        "filename": "GCF_001500555.1_ViralProj307742_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028928.1 Mycobacterium phage Nerujay, complete genome",
         "signatures": [
             {
                 "ksize": 31,

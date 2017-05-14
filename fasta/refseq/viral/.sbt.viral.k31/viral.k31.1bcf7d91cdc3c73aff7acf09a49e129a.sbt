@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911775.1/GCF_000911775.1_ViralMultiSegProj214689_genomic.fna.gz",
+        "filename": "GCF_000911775.1_ViralMultiSegProj214689_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022007.1 Capraria yellow spot Yucatan virus segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

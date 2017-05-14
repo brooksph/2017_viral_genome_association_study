@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001275535.1/GCF_001275535.1_ViralProj167781_genomic.fna.gz",
+        "filename": "GCF_001275535.1_ViralProj167781_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018264.1 Thermoanaerobacterium phage THSA-485A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

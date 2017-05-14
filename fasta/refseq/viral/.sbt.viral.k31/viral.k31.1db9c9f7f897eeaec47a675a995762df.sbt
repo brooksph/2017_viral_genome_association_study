@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001777265.1/GCF_001777265.1_ViralMultiSegProj348723_genomic.fna.gz",
+        "filename": "GCF_001777265.1_ViralMultiSegProj348723_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031455.1 Sida chlorotic vein virus isolate ALS15_2C segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915035.1/GCF_000915035.1_ViralProj230580_genomic.fna.gz",
+        "filename": "GCF_000915035.1_ViralProj230580_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022990.1 Zamilon virophage complete genome",
         "signatures": [
             {
                 "ksize": 31,

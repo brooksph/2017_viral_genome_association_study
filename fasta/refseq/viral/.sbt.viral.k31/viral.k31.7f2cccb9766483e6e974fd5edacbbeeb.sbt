@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885875.1/GCF_000885875.1_ViralMultiSegProj40117_genomic.fna.gz",
+        "filename": "GCF_000885875.1_ViralMultiSegProj40117_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013133.1 Japanese holly fern mottle virus RNA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

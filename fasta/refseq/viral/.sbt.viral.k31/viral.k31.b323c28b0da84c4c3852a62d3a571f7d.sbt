@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001441095.1/GCF_001441095.1_ViralProj301248_genomic.fna.gz",
+        "filename": "GCF_001441095.1_ViralProj301248_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028264.1 Tacheng Tick Virus 5 strain TC254, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874325.1/GCF_000874325.1_ViralProj20977_genomic.fna.gz",
+        "filename": "GCF_000874325.1_ViralProj20977_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009892.1 Peach chlorotic mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

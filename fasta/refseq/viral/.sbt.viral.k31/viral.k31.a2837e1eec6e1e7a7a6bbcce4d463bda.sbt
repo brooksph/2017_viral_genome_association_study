@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881235.1/GCF_000881235.1_ViralMultiSegProj36621_genomic.fna.gz",
+        "filename": "GCF_000881235.1_ViralMultiSegProj36621_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012535.1 Homalodisca vitripennis reovirus segment S1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

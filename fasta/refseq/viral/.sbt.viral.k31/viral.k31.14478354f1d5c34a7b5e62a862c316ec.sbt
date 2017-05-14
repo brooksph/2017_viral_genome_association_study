@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924575.1/GCF_000924575.1_ViralProj264917_genomic.fna.gz",
+        "filename": "GCF_000924575.1_ViralProj264917_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025376.1 Grass carp rhabdovirus V76, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926835.1/GCF_000926835.1_ViralProj266721_genomic.fna.gz",
+        "filename": "GCF_000926835.1_ViralProj266721_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025432.1 Chicken orivirus 1 strain chicken/Pf-CHK1/2013/HUN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

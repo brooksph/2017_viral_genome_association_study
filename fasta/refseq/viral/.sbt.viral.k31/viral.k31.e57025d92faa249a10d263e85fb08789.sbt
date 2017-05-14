@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551545.1/GCF_001551545.1_ViralMultiSegProj310896_genomic.fna.gz",
+        "filename": "GCF_001551545.1_ViralMultiSegProj310896_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029125.1 Rosellinia necatrix megabirnavirus 2-W8 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

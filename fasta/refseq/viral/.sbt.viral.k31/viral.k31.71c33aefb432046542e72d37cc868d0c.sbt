@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736695.1/GCF_001736695.1_ViralProj343484_genomic.fna.gz",
+        "filename": "GCF_001736695.1_ViralProj343484_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030922.1 Mamastrovirus 1 genomic RNA, complete genome, isolate: V1347",
         "signatures": [
             {
                 "ksize": 31,

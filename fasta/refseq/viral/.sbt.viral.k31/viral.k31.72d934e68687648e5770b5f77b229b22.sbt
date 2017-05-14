@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505815.1/GCF_001505815.1_ViralProj307937_genomic.fna.gz",
+        "filename": "GCF_001505815.1_ViralProj307937_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028794.1 Mycobacterium phage Piro94, complete genome",
         "signatures": [
             {
                 "ksize": 31,

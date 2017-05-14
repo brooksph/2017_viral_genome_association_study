@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962935.1/GCF_001962935.1_ViralProj361888_genomic.fna.gz",
+        "filename": "GCF_001962935.1_ViralProj361888_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033193.1 Hubei zhaovirus-like virus 2 strain WHBL71389 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

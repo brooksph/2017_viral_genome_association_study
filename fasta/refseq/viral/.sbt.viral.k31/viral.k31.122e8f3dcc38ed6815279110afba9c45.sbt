@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000819615.1/GCF_000819615.1_ViralProj14015_genomic.fna.gz",
+        "filename": "GCF_000819615.1_ViralProj14015_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001422.1 Enterobacteria phage phiX174 sensu lato, complete genome",
         "signatures": [
             {
                 "ksize": 31,

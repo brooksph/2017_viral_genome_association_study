@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501875.1/GCF_001501875.1_ViralProj307720_genomic.fna.gz",
+        "filename": "GCF_001501875.1_ViralProj307720_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028782.1 Bacillus phage Pavlov, complete genome",
         "signatures": [
             {
                 "ksize": 31,

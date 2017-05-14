@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900375.1/GCF_000900375.1_ViralProj177933_genomic.fna.gz",
+        "filename": "GCF_000900375.1_ViralProj177933_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018874.1 Abalone herpesvirus Victoria/AUS/2009, complete genome",
         "signatures": [
             {
                 "ksize": 31,

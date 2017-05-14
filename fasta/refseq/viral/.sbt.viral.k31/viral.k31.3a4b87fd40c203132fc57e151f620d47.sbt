@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851445.1/GCF_000851445.1_ViralMultiSegProj14808_genomic.fna.gz",
+        "filename": "GCF_000851445.1_ViralMultiSegProj14808_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003805.1 Tobacco rattle virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

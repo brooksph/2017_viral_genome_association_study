@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001924275.1/GCF_001924275.1_ViralProj358963_genomic.fna.gz",
+        "filename": "GCF_001924275.1_ViralProj358963_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032227.1 Hubei sobemo-like virus 33 strain LCM101922 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

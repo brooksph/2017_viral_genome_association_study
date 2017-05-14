@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874185.2/GCF_000874185.2_ViralProj20757_genomic.fna.gz",
+        "filename": "GCF_000874185.2_ViralProj20757_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009799.3 Corynebacterium phage BFK20",
         "signatures": [
             {
                 "ksize": 31,

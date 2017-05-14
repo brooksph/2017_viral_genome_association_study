@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906835.1/GCF_000906835.1_ViralProj194141_genomic.fna.gz",
+        "filename": "GCF_000906835.1_ViralProj194141_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020806.1 Isfahan virus N gene, P gene, M gene, G gene and L gene, genomic RNA",
         "signatures": [
             {
                 "ksize": 31,

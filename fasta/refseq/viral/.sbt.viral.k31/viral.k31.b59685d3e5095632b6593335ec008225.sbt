@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002005645.1/GCF_002005645.1_ViralProj376172_genomic.fna.gz",
+        "filename": "GCF_002005645.1_ViralProj376172_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033779.1 Tomato leaf curl Burkina Faso virus isolate Burkina Faso:Loumbila:Tomate51B1:2013, complete genome",
         "signatures": [
             {
                 "ksize": 31,

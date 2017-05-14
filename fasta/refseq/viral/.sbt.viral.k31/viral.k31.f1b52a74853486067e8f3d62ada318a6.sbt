@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880155.1/GCF_000880155.1_ViralProj30175_genomic.fna.gz",
+        "filename": "GCF_000880155.1_ViralProj30175_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010954.1 Fritillary virus Y, complete genome",
         "signatures": [
             {
                 "ksize": 31,

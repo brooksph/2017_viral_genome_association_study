@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004075.1/GCF_002004075.1_ViralProj375062_genomic.fna.gz",
+        "filename": "GCF_002004075.1_ViralProj375062_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033716.1 Zhejiang mosquito virus 1 strain mosZJ35497 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

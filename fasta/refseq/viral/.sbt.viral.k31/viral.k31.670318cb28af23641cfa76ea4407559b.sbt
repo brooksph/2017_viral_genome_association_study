@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902855.1/GCF_000902855.1_ViralProj183910_genomic.fna.gz",
+        "filename": "GCF_000902855.1_ViralProj183910_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019852.1 Canine papillomavirus 14 from Switzerland, complete genome",
         "signatures": [
             {
                 "ksize": 31,

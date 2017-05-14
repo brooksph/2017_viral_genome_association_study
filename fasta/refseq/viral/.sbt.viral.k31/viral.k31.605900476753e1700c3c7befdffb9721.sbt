@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874705.1/GCF_000874705.1_ViralMultiSegProj30737_genomic.fna.gz",
+        "filename": "GCF_000874705.1_ViralMultiSegProj30737_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011068.1 Ourmia melon virus",
         "signatures": [
             {
                 "ksize": 31,

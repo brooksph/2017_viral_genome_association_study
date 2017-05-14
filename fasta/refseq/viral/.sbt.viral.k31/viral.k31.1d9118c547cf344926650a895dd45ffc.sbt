@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001045265.1/GCF_001045265.1_ViralProj288349_genomic.fna.gz",
+        "filename": "GCF_001045265.1_ViralProj288349_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027426.1 Astrovirus Er/SZAL6/HUN/2011, complete genome",
         "signatures": [
             {
                 "ksize": 31,

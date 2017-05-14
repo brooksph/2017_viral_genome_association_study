@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845465.1/GCF_000845465.1_ViralProj14417_genomic.fna.gz",
+        "filename": "GCF_000845465.1_ViralProj14417_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001350.1 Saimiriine herpesvirus 2 complete genome",
         "signatures": [
             {
                 "ksize": 31,

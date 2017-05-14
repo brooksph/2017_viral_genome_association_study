@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868185.1/GCF_000868185.1_ViralMultiSegProj17095_genomic.fna.gz",
+        "filename": "GCF_000868185.1_ViralMultiSegProj17095_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008169.1 Citrus leprosis virus C RNA-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

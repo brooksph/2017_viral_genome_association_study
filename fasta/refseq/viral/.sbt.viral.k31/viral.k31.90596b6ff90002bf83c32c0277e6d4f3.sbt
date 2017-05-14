@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001271175.1/GCF_001271175.1_ViralProj293044_genomic.fna.gz",
+        "filename": "GCF_001271175.1_ViralProj293044_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027705.1 Equine adenovirus 2 isolate EAdV2.385/75.9, complete genome",
         "signatures": [
             {
                 "ksize": 31,

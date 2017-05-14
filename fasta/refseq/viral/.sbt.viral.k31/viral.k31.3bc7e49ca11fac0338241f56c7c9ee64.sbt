@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869865.1/GCF_000869865.1_ViralProj17141_genomic.fna.gz",
+        "filename": "GCF_000869865.1_ViralProj17141_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008207.1 Mycobacterium phage Catera, complete genome",
         "signatures": [
             {
                 "ksize": 31,

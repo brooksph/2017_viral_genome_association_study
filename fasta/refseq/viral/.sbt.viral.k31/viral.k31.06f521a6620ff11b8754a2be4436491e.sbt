@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866325.1/GCF_001866325.1_ViralProj351803_genomic.fna.gz",
+        "filename": "GCF_001866325.1_ViralProj351803_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031686.1 Corey virus strain UWV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

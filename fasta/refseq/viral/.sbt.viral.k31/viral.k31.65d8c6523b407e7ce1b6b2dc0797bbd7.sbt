@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755725.1/GCF_001755725.1_ViralProj344639_genomic.fna.gz",
+        "filename": "GCF_001755725.1_ViralProj344639_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031259.1 Lishi Spider Virus 2 strain LSZZ-4 ORF1 (ORF1), ORF2 (ORF2), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

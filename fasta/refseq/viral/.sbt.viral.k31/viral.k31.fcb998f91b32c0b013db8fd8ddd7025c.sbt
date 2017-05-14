@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551205.1/GCF_001551205.1_ViralProj310897_genomic.fna.gz",
+        "filename": "GCF_001551205.1_ViralProj310897_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029078.1 Erysipelothrix phage SE-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

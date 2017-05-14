@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004035.1/GCF_002004035.1_ViralProj375054_genomic.fna.gz",
+        "filename": "GCF_002004035.1_ViralProj375054_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033743.1 Thrips-associated gemycircularvirus 2 isolate thrp_197934, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910175.1/GCF_000910175.1_ViralProj208539_genomic.fna.gz",
+        "filename": "GCF_000910175.1_ViralProj208539_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021480.1 Grapevine satellite virus isolate AUD46129, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

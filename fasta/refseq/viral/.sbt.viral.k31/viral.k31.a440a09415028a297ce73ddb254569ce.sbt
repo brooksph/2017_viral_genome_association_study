@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923915.1/GCF_000923915.1_ViralProj255793_genomic.fna.gz",
+        "filename": "GCF_000923915.1_ViralProj255793_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024486.1 Duck adenovirus 2 strain GR, complete genome",
         "signatures": [
             {
                 "ksize": 31,

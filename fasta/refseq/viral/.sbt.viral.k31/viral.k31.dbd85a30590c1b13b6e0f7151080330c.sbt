@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850125.1/GCF_000850125.1_ViralProj14690_genomic.fna.gz",
+        "filename": "GCF_000850125.1_ViralProj14690_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000960.1 Cryphonectria hypovirus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

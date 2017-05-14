@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879735.1/GCF_000879735.1_ViralProj28739_genomic.fna.gz",
+        "filename": "GCF_000879735.1_ViralProj28739_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010325.1 Pseudomonas phage LUZ24, complete genome",
         "signatures": [
             {
                 "ksize": 31,

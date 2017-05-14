@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897335.1/GCF_000897335.1_ViralProj169556_genomic.fna.gz",
+        "filename": "GCF_000897335.1_ViralProj169556_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018091.1 French bean leaf curl betasatellite-Kanpur, complete genome",
         "signatures": [
             {
                 "ksize": 31,

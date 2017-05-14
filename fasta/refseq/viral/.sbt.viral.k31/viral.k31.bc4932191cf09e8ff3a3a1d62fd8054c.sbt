@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001970325.1/GCF_001970325.1_ViralProj362920_genomic.fna.gz",
+        "filename": "GCF_001970325.1_ViralProj362920_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033419.1 Wuchan romanomermis nematode virus 1 strain WCLSXC58279 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

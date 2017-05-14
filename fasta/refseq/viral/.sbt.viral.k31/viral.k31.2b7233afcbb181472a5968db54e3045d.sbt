@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001968355.1/GCF_001968355.1_ViralProj360860_genomic.fna.gz",
+        "filename": "GCF_001968355.1_ViralProj360860_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032727.1 Hubei narna-like virus 25 strain SCM51430 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

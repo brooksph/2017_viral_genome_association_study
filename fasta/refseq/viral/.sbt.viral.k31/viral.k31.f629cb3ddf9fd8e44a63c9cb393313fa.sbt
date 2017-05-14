@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501815.1/GCF_001501815.1_ViralProj307708_genomic.fna.gz",
+        "filename": "GCF_001501815.1_ViralProj307708_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028823.1 Mycobacterium phage Bipolar, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890935.1/GCF_000890935.1_ViralProj65305_genomic.fna.gz",
+        "filename": "GCF_000890935.1_ViralProj65305_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015327.1 Cotton leaf curl virus associated DNA 1 isolate Lucknow, complete genome",
         "signatures": [
             {
                 "ksize": 31,

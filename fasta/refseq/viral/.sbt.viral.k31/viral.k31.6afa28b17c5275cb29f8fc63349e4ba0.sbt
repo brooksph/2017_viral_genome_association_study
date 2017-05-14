@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837485.1/GCF_000837485.1_ViralProj14160_genomic.fna.gz",
+        "filename": "GCF_000837485.1_ViralProj14160_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001902.1 Methanobacterium phage psiM2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

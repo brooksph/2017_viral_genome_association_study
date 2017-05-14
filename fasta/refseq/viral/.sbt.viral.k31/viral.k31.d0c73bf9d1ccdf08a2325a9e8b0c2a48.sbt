@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001443825.1/GCF_001443825.1_ViralProj302033_genomic.fna.gz",
+        "filename": "GCF_001443825.1_ViralProj302033_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028369.1 Shayang spider virus 4 strain SYZZ-1 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

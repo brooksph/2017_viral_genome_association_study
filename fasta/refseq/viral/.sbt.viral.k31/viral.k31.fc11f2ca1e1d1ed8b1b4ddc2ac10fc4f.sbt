@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505175.1/GCF_001505175.1_ViralProj307940_genomic.fna.gz",
+        "filename": "GCF_001505175.1_ViralProj307940_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029002.1 Microcystis phage MaMV-DC, complete genome",
         "signatures": [
             {
                 "ksize": 31,

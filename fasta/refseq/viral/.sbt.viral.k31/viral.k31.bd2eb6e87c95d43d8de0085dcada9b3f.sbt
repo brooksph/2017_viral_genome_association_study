@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863405.1/GCF_000863405.1_ViralProj15396_genomic.fna.gz",
+        "filename": "GCF_000863405.1_ViralProj15396_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004441.1 Porcine enterovirus 9 strain UKG/410/73 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

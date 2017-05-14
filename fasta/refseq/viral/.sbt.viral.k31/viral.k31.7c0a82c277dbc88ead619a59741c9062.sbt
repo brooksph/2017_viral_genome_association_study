@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900435.1/GCF_000900435.1_ViralProj178634_genomic.fna.gz",
+        "filename": "GCF_000900435.1_ViralProj178634_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019034.1 Jatropha mosaic Nigerian virus isolate 2 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848065.1/GCF_000848065.1_ViralProj14611_genomic.fna.gz",
+        "filename": "GCF_000848065.1_ViralProj14611_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "AC_000190.1 Tree shrew adenovirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

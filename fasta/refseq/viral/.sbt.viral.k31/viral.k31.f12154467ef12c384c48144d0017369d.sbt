@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902955.1/GCF_000902955.1_ViralProj184163_genomic.fna.gz",
+        "filename": "GCF_000902955.1_ViralProj184163_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019928.1 Helicobacter phage KHP30 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

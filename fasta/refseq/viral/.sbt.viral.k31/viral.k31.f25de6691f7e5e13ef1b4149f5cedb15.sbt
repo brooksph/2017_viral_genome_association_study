@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921235.1/GCF_000921235.1_ViralProj253465_genomic.fna.gz",
+        "filename": "GCF_000921235.1_ViralProj253465_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024443.1 Roundleaf bat hepatitis B virus isolate RBHBV/GB09-256/Hip_rub/GAB/2009, complete genome",
         "signatures": [
             {
                 "ksize": 31,

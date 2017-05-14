@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890215.1/GCF_000890215.1_ViralProj56021_genomic.fna.gz",
+        "filename": "GCF_000890215.1_ViralProj56021_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014596.1 Tobacco leaf curl Pusa virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

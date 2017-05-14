@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849105.1/GCF_000849105.1_ViralMultiSegProj14652_genomic.fna.gz",
+        "filename": "GCF_000849105.1_ViralMultiSegProj14652_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001981.1 Helicoverpa armigera stunt virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

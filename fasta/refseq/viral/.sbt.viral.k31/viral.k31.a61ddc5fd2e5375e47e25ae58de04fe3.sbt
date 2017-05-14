@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842545.1/GCF_000842545.1_ViralProj14346_genomic.fna.gz",
+        "filename": "GCF_000842545.1_ViralProj14346_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005341.1 Mythimna loreyi densovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842925.2/GCF_000842925.2_ViralProj14243_genomic.fna.gz",
+        "filename": "GCF_000842925.2_ViralProj14243_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004611.1 Tomato leaf curl New Delhi virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

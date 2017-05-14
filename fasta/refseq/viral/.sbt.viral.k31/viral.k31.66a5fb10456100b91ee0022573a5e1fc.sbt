@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901235.1/GCF_000901235.1_ViralProj184150_genomic.fna.gz",
+        "filename": "GCF_000901235.1_ViralProj184150_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019916.1 Lactobacillus phage ATCC 8014-B1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

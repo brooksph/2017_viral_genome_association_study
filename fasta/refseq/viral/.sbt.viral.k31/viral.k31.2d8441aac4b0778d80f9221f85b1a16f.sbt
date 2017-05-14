@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926335.1/GCF_001926335.1_ViralProj359333_genomic.fna.gz",
+        "filename": "GCF_001926335.1_ViralProj359333_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032473.1 Wenzhou picorna-like virus 3 strain WZSBei69560 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903415.1/GCF_000903415.1_ViralProj181239_genomic.fna.gz",
+        "filename": "GCF_000903415.1_ViralProj181239_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019512.1 Helicobacter phage 1961P, complete genome",
         "signatures": [
             {
                 "ksize": 31,

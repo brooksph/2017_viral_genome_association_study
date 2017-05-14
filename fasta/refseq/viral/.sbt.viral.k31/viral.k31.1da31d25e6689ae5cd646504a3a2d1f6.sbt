@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888075.1/GCF_000888075.1_ViralProj43007_genomic.fna.gz",
+        "filename": "GCF_000888075.1_ViralProj43007_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013699.1 Diplodia scrobiculata RNA virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

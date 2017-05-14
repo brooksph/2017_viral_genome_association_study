@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884835.1/GCF_000884835.1_ViralProj38085_genomic.fna.gz",
+        "filename": "GCF_000884835.1_ViralProj38085_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012698.2 Cassava brown streak virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

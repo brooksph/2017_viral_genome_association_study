@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001045305.1/GCF_001045305.1_ViralProj288325_genomic.fna.gz",
+        "filename": "GCF_001045305.1_ViralProj288325_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027428.1 Beauveria bassiana RNA virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

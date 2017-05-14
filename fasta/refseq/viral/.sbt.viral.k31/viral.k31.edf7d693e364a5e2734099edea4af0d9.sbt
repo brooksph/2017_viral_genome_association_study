@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839245.1/GCF_000839245.1_ViralMultiSegProj14186_genomic.fna.gz",
+        "filename": "GCF_000839245.1_ViralMultiSegProj14186_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003865.1 Melon chlorotic leaf curl virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

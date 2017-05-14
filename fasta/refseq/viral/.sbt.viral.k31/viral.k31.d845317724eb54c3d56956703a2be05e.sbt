@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883635.1/GCF_000883635.1_ViralProj34815_genomic.fna.gz",
+        "filename": "GCF_000883635.1_ViralProj34815_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012206.1 Tomato leaf curl Nigeria virus-[Nigeria:2006], complete genome",
         "signatures": [
             {
                 "ksize": 31,

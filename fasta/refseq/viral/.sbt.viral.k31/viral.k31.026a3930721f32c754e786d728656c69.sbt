@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867165.1/GCF_000867165.1_ViralMultiSegProj16699_genomic.fna.gz",
+        "filename": "GCF_000867165.1_ViralMultiSegProj16699_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007965.1 Merremia mosaic virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

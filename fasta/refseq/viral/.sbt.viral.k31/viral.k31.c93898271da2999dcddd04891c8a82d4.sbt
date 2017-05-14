@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004415.1/GCF_002004415.1_ViralProj369691_genomic.fna.gz",
+        "filename": "GCF_002004415.1_ViralProj369691_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033619.1 Helicoverpa armigera iflavirus strain HBLF2013-1 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

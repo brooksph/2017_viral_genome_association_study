@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001933845.1/GCF_001933845.1_ViralProj359819_genomic.fna.gz",
+        "filename": "GCF_001933845.1_ViralProj359819_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032540.1 Beihai razor shell virus 4 strain BHZC37363 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

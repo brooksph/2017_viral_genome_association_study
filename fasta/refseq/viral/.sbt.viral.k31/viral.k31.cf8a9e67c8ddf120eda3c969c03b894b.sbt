@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501195.1/GCF_001501195.1_ViralProj307739_genomic.fna.gz",
+        "filename": "GCF_001501195.1_ViralProj307739_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028848.1 Acinetobacter phage Fri1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

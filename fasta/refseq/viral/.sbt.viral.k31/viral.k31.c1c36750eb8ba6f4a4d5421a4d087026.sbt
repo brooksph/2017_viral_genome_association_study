@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927195.1/GCF_000927195.1_ViralProj264993_genomic.fna.gz",
+        "filename": "GCF_000927195.1_ViralProj264993_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025382.1 Spodoptera frugiperda rhabdovirus isolate Sf, complete genome",
         "signatures": [
             {
                 "ksize": 31,

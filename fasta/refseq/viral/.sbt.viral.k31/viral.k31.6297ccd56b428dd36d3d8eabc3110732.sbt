@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889315.1/GCF_000889315.1_ViralProj53503_genomic.fna.gz",
+        "filename": "GCF_000889315.1_ViralProj53503_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014547.1 Digitaria didactyla striate mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

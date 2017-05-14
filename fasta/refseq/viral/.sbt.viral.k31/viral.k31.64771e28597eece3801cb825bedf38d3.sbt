@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914055.1/GCF_000914055.1_ViralProj230593_genomic.fna.gz",
+        "filename": "GCF_000914055.1_ViralProj230593_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022982.1 Xylella phage Paz, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960735.1/GCF_001960735.1_ViralProj361807_genomic.fna.gz",
+        "filename": "GCF_001960735.1_ViralProj361807_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033095.1 Shuangao insect virus 9 strain insectZJ96499 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

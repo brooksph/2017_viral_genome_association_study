@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001448435.1/GCF_001448435.1_ViralProj303113_genomic.fna.gz",
+        "filename": "GCF_001448435.1_ViralProj303113_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028459.1 Human plasma-associated gemycircularvirus isolate DB1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

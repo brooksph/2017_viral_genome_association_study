@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869645.1/GCF_000869645.1_ViralMultiSegProj18507_genomic.fna.gz",
+        "filename": "GCF_000869645.1_ViralMultiSegProj18507_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008708.2 Strawberry necrotic shock virus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

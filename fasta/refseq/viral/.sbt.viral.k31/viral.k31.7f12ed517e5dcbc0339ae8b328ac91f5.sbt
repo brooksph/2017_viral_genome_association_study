@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926315.1/GCF_001926315.1_ViralMultiSegProj359329_genomic.fna.gz",
+        "filename": "GCF_001926315.1_ViralMultiSegProj359329_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032514.1 Wuhan pillworm virus 1 strain WHSFII20185 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

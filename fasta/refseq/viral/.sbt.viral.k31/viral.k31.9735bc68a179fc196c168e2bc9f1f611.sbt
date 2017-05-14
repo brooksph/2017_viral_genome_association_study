@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922995.1/GCF_000922995.1_ViralProj253324_genomic.fna.gz",
+        "filename": "GCF_000922995.1_ViralProj253324_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024369.2 Vibrio phage X29, complete genome",
         "signatures": [
             {
                 "ksize": 31,

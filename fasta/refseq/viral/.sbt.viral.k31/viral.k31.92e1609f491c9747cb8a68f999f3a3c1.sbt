@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916095.1/GCF_000916095.1_ViralProj238954_genomic.fna.gz",
+        "filename": "GCF_000916095.1_ViralProj238954_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023485.1 Hibiscus bacilliform virus GD1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

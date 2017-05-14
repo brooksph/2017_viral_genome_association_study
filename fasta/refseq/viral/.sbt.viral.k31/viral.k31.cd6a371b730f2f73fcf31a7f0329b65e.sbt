@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874565.1/GCF_000874565.1_ViralMultiSegProj30187_genomic.fna.gz",
+        "filename": "GCF_000874565.1_ViralMultiSegProj30187_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010833.1 Tomato mild mosaic virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

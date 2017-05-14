@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916535.1/GCF_000916535.1_ViralProj240228_genomic.fna.gz",
+        "filename": "GCF_000916535.1_ViralProj240228_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023636.1 Porcine astrovirus 5 isolate AstV5-US-IA122, complete genome",
         "signatures": [
             {
                 "ksize": 31,

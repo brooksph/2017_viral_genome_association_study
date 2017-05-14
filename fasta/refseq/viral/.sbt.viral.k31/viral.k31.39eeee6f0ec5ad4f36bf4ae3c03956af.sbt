@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895415.1/GCF_000895415.1_ViralProj109279_genomic.fna.gz",
+        "filename": "GCF_000895415.1_ViralProj109279_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016995.1 Wigeon coronavirus HKU20, complete genome",
         "signatures": [
             {
                 "ksize": 31,

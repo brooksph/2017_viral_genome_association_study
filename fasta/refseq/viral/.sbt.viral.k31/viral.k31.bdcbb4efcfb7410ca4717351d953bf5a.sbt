@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851365.2/GCF_000851365.2_ViralProj14791_genomic.fna.gz",
+        "filename": "GCF_000851365.2_ViralProj14791_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003739.1 Raspberry bushy dwarf virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899775.1/GCF_000899775.1_ViralProj169555_genomic.fna.gz",
+        "filename": "GCF_000899775.1_ViralProj169555_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018090.1 French bean leaf curl virus-Kanpur isolate FbLCV-Kanpur segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

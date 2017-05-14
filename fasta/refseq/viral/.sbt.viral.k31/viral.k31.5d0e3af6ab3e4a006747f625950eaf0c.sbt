@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893575.1/GCF_000893575.1_ViralProj66545_genomic.fna.gz",
+        "filename": "GCF_000893575.1_ViralProj66545_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015487.1 Bean yellow mosaic Mexico virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849845.1/GCF_000849845.1_ViralProj14633_genomic.fna.gz",
+        "filename": "GCF_000849845.1_ViralProj14633_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001408.1 Avian leukosis virus - RSA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

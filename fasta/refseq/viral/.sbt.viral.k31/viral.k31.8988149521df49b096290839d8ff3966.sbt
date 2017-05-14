@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905635.1/GCF_000905635.1_ViralProj196180_genomic.fna.gz",
+        "filename": "GCF_000905635.1_ViralProj196180_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020896.1 Sweet potato latent virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

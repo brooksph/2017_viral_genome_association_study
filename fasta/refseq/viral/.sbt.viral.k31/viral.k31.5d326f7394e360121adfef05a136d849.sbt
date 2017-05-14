@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886935.1/GCF_000886935.1_ViralProj42351_genomic.fna.gz",
+        "filename": "GCF_000886935.1_ViralProj42351_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013585.1 Acidianus spindle-shaped virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

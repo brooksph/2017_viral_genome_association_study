@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501755.1/GCF_001501755.1_ViralProj307855_genomic.fna.gz",
+        "filename": "GCF_001501755.1_ViralProj307855_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028824.1 BtRf-AlphaCoV/YN2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

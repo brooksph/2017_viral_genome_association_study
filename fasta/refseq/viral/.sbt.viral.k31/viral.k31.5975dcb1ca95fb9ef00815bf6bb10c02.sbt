@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845845.1/GCF_000845845.1_ViralProj14494_genomic.fna.gz",
+        "filename": "GCF_000845845.1_ViralProj14494_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003498.1 Carnation etched ring virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

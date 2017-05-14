@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961775.1/GCF_001961775.1_ViralProj361993_genomic.fna.gz",
+        "filename": "GCF_001961775.1_ViralProj361993_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033111.1 Changjiang narna-like virus 2 strain CJLX29055 RNA-dependent RNA polymerase and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

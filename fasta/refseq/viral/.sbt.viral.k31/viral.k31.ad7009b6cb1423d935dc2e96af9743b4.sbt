@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964635.1/GCF_001964635.1_ViralProj362085_genomic.fna.gz",
+        "filename": "GCF_001964635.1_ViralProj362085_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033249.1 Hubei narna-like virus 21 strain QCM13322 hypothetical protein and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

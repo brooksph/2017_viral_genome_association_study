@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955095.1/GCF_000955095.1_ViralProj276878_genomic.fna.gz",
+        "filename": "GCF_000955095.1_ViralProj276878_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026584.1 Mycobacterium phage Minerva, complete genome",
         "signatures": [
             {
                 "ksize": 31,

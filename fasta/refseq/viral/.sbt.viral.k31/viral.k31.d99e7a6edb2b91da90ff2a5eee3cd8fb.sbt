@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922895.1/GCF_000922895.1_ViralProj252623_genomic.fna.gz",
+        "filename": "GCF_000922895.1_ViralProj252623_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024300.1 Fulmarus glacialis papillomavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

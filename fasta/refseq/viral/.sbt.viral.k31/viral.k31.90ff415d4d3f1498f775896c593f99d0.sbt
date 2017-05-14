@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853065.1/GCF_000853065.1_ViralMultiSegProj14815_genomic.fna.gz",
+        "filename": "GCF_000853065.1_ViralMultiSegProj14815_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003837.1 Tomato aspermy virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004695.1/GCF_002004695.1_ViralProj375061_genomic.fna.gz",
+        "filename": "GCF_002004695.1_ViralProj375061_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033720.1 Ubei picorna-like virus 3 strain WHCC101453 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

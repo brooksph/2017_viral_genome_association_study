@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961295.1/GCF_001961295.1_ViralProj361895_genomic.fna.gz",
+        "filename": "GCF_001961295.1_ViralProj361895_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033158.1 Hubei virga-like virus 2 strain mosHB235832 RdRp and putative coat protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

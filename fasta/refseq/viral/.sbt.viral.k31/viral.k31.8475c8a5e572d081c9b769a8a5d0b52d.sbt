@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000954895.1/GCF_000954895.1_ViralProj277518_genomic.fna.gz",
+        "filename": "GCF_000954895.1_ViralProj277518_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026640.1 Canine papillomavirus 16 isolate Chana, complete genome",
         "signatures": [
             {
                 "ksize": 31,

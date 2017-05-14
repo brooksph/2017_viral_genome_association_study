@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960095.1/GCF_001960095.1_ViralMultiSegProj361798_genomic.fna.gz",
+        "filename": "GCF_001960095.1_ViralMultiSegProj361798_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033293.1 Wenling crustacean virus 13 strain WLJQ104251 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

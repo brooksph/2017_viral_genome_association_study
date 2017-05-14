@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430475.1/GCF_001430475.1_ViralProj300551_genomic.fna.gz",
+        "filename": "GCF_001430475.1_ViralProj300551_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028136.1 Ungulate tetraparvovirus 1 isolate Yak hokovirus GS1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

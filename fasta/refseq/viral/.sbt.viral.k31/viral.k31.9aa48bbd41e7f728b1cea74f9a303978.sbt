@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430555.1/GCF_001430555.1_ViralProj300238_genomic.fna.gz",
+        "filename": "GCF_001430555.1_ViralProj300238_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028113.1 Simian adenovirus 8 strain P-5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926835.1/GCF_001926835.1_ViralProj359254_genomic.fna.gz",
+        "filename": "GCF_001926835.1_ViralProj359254_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032405.1 Bermuda grass latent virus isolate BGLV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

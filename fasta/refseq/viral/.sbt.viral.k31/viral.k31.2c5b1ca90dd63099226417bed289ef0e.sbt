@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869805.1/GCF_000869805.1_ViralProj17097_genomic.fna.gz",
+        "filename": "GCF_000869805.1_ViralProj17097_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008168.1 Choristoneura occidentalis granulovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

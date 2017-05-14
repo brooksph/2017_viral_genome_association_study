@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001806215.1/GCF_001806215.1_ViralProj349161_genomic.fna.gz",
+        "filename": "GCF_001806215.1_ViralProj349161_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031466.1 Lisianthus enation leaf curl virus DNA, complete genome, isolate: BG-1",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862445.1/GCF_000862445.1_ViralProj15372_genomic.fna.gz",
+        "filename": "GCF_000862445.1_ViralProj15372_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002568.2 Sesbania mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843645.2/GCF_000843645.2_ViralProj14387_genomic.fna.gz",
+        "filename": "GCF_000843645.2_ViralProj14387_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005964.2 Mycoplasma phage phiMFV1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

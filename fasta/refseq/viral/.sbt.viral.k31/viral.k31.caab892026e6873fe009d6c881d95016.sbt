@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909115.1/GCF_000909115.1_ViralProj206466_genomic.fna.gz",
+        "filename": "GCF_000909115.1_ViralProj206466_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021341.1 Tomato yellow leaf curl Yunnan virus isolate YN2013 clone 10 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

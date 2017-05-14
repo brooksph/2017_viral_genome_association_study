@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002037695.1/GCF_002037695.1_ViralProj379592_genomic.fna.gz",
+        "filename": "GCF_002037695.1_ViralProj379592_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034218.1 Rhinolophus hildebrandtii polyomavirus 1 DNA, complete genome, strain: 12SuB17",
         "signatures": [
             {
                 "ksize": 31,

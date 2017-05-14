@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893335.1/GCF_000893335.1_ViralProj64617_genomic.fna.gz",
+        "filename": "GCF_000893335.1_ViralProj64617_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015274.1 Streptococcus phage Dp-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

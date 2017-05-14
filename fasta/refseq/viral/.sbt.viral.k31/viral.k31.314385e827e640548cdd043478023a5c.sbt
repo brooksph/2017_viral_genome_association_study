@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001019895.1/GCF_001019895.1_ViralProj285601_genomic.fna.gz",
+        "filename": "GCF_001019895.1_ViralProj285601_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027129.1 Hollyhock yellow vein mosaic Islamabad virus complete genome, isolate 3AK",
         "signatures": [
             {
                 "ksize": 31,

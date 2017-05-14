@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430335.1/GCF_001430335.1_ViralProj300233_genomic.fna.gz",
+        "filename": "GCF_001430335.1_ViralProj300233_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028124.1 Vinca leaf curl virus isolate RK, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

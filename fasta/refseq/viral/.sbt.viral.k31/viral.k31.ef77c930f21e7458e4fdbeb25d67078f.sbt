@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844685.1/GCF_000844685.1_ViralProj14432_genomic.fna.gz",
+        "filename": "GCF_000844685.1_ViralProj14432_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003854.1 Pea enation mosaic virus satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

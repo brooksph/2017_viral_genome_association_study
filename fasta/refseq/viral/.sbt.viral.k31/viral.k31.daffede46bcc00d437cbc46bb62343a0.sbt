@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001579395.1/GCF_001579395.1_ViralProj313553_genomic.fna.gz",
+        "filename": "GCF_001579395.1_ViralProj313553_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029316.1 Acidianus tailed spindle virus isolate 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

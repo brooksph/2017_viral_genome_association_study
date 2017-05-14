@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001923735.1/GCF_001923735.1_ViralMultiSegProj358940_genomic.fna.gz",
+        "filename": "GCF_001923735.1_ViralMultiSegProj358940_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032270.1 Soybean latent spherical virus isolate ND1 segment RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

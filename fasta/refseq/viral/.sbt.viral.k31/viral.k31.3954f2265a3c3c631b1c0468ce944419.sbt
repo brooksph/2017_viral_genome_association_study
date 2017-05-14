@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919095.1/GCF_000919095.1_ViralProj243540_genomic.fna.gz",
+        "filename": "GCF_000919095.1_ViralProj243540_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023873.1 Enhydra lutris papillomavirus 1 isolate 6898-13, complete genome",
         "signatures": [
             {
                 "ksize": 31,

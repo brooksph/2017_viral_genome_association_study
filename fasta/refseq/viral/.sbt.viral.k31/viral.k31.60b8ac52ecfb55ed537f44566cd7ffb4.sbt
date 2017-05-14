@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502395.1/GCF_001502395.1_ViralProj307201_genomic.fna.gz",
+        "filename": "GCF_001502395.1_ViralProj307201_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028751.1 Mycobacterium phage Quico, complete genome",
         "signatures": [
             {
                 "ksize": 31,

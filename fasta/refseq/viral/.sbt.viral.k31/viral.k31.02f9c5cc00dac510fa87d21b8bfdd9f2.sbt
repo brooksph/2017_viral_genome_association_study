@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895515.1/GCF_000895515.1_ViralProj159107_genomic.fna.gz",
+        "filename": "GCF_000895515.1_ViralProj159107_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017714.1 Kotonkan virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897455.1/GCF_000897455.1_ViralProj171982_genomic.fna.gz",
+        "filename": "GCF_000897455.1_ViralProj171982_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018284.1 Staphylococcus phage vB_SepiS-phiIPLA7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

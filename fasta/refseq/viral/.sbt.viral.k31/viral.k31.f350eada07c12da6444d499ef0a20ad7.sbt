@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000973215.1/GCF_000973215.1_ViralProj281400_genomic.fna.gz",
+        "filename": "GCF_000973215.1_ViralProj281400_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026814.1 Canine astrovirus strain Gillingham/2012/UK, complete genome",
         "signatures": [
             {
                 "ksize": 31,

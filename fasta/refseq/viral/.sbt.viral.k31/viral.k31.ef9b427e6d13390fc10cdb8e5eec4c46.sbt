@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955055.1/GCF_000955055.1_ViralProj276870_genomic.fna.gz",
+        "filename": "GCF_000955055.1_ViralProj276870_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026603.1 Mycobacterium phage Keshu, complete genome",
         "signatures": [
             {
                 "ksize": 31,

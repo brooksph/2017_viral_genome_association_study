@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897695.1/GCF_000897695.1_ViralProj176432_genomic.fna.gz",
+        "filename": "GCF_000897695.1_ViralProj176432_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018668.1 Bovine hungarovirus 1 strain BHUV1/2008/HUN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

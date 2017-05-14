@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000970565.2/GCF_000970565.2_ViralProj280459_genomic.fna.gz",
+        "filename": "GCF_000970565.2_ViralProj280459_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026801.1 Black grass varicosavirus-like virus segment RNA 1",
         "signatures": [
             {
                 "ksize": 31,

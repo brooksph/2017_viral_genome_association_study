@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838145.1/GCF_000838145.1_ViralProj14132_genomic.fna.gz",
+        "filename": "GCF_000838145.1_ViralProj14132_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003214.2 Sulfolobus islandicus filamentous virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

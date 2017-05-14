@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858045.1/GCF_000858045.1_ViralProj15149_genomic.fna.gz",
+        "filename": "GCF_000858045.1_ViralProj15149_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006947.1 Karshi virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

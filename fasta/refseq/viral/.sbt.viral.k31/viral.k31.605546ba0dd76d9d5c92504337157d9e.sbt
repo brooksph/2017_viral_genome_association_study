@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840085.1/GCF_000840085.1_ViralProj14181_genomic.fna.gz",
+        "filename": "GCF_000840085.1_ViralProj14181_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003822.1 Tobacco yellow dwarf virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

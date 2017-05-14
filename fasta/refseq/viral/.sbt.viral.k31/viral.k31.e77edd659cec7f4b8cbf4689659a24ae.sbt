@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008435.1/GCF_002008435.1_ViralProj376919_genomic.fna.gz",
+        "filename": "GCF_002008435.1_ViralProj376919_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033828.1 Peach virus D isolate SK, complete genome",
         "signatures": [
             {
                 "ksize": 31,

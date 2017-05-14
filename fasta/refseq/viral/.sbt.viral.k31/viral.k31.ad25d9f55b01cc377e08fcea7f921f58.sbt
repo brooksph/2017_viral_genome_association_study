@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001402145.1/GCF_001402145.1_ViralMultiSegProj299193_genomic.fna.gz",
+        "filename": "GCF_001402145.1_ViralMultiSegProj299193_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028097.1 Orsay virus isolate JU1580 RNA dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

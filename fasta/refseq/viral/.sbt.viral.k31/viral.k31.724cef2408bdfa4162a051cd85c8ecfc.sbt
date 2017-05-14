@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930295.1/GCF_000930295.1_ViralProj273531_genomic.fna.gz",
+        "filename": "GCF_000930295.1_ViralProj273531_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026250.1 Thaumetopoea pityocampa iflavirus 1 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

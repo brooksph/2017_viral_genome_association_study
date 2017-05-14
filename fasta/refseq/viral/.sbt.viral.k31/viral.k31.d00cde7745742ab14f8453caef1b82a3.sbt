@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921735.1/GCF_000921735.1_ViralProj261261_genomic.fna.gz",
+        "filename": "GCF_000921735.1_ViralProj261261_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024887.1 Middelburg virus isolate ArB-8422, complete genome",
         "signatures": [
             {
                 "ksize": 31,

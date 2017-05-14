@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893755.1/GCF_000893755.1_ViralProj68437_genomic.fna.gz",
+        "filename": "GCF_000893755.1_ViralProj68437_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015718.1 Helicoverpa armigera densovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909895.1/GCF_000909895.1_ViralProj203676_genomic.fna.gz",
+        "filename": "GCF_000909895.1_ViralProj203676_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021245.1 Malvastrum leaf curl Philippines virus isolate Mc1 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

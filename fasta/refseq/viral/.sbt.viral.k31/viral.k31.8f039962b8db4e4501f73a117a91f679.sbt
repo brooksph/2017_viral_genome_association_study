@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858505.1/GCF_000858505.1_ViralProj15246_genomic.fna.gz",
+        "filename": "GCF_000858505.1_ViralProj15246_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007021.1 Staphylococcus phage Twort, complete genome",
         "signatures": [
             {
                 "ksize": 31,

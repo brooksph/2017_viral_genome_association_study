@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852485.1/GCF_000852485.1_ViralProj14865_genomic.fna.gz",
+        "filename": "GCF_000852485.1_ViralProj14865_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004322.1 Tulip virus X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

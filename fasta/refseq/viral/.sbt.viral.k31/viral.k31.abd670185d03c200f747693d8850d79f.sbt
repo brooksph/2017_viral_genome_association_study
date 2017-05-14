@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001602065.1/GCF_001602065.1_ViralProj316117_genomic.fna.gz",
+        "filename": "GCF_001602065.1_ViralProj316117_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029691.1 Ixeridium yellow mottle virus 1 isolate Bonghwa, complete genome",
         "signatures": [
             {
                 "ksize": 31,

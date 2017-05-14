@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896415.1/GCF_000896415.1_ViralProj76475_genomic.fna.gz",
+        "filename": "GCF_000896415.1_ViralProj76475_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016144.1 Lloviu cuevavirus isolate Lloviu virus/M.schreibersii-wt/ESP/2003/Asturias-Bat86, complete genome",
         "signatures": [
             {
                 "ksize": 31,

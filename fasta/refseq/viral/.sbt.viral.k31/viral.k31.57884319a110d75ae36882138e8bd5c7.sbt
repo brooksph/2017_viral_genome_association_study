@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001959855.1/GCF_001959855.1_ViralProj361750_genomic.fna.gz",
+        "filename": "GCF_001959855.1_ViralProj361750_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033147.1 Wenzhou hepe-like virus 2 strain WZFSL85851 replicase and putative structural protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

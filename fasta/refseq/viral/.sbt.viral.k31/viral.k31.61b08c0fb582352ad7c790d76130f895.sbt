@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911355.1/GCF_000911355.1_ViralProj227125_genomic.fna.gz",
+        "filename": "GCF_000911355.1_ViralProj227125_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022770.1 Bacillus phage Pony, complete genome",
         "signatures": [
             {
                 "ksize": 31,

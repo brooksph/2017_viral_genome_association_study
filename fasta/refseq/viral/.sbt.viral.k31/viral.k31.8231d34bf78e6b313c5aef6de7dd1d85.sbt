@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654325.1/GCF_001654325.1_ViralProj323876_genomic.fna.gz",
+        "filename": "GCF_001654325.1_ViralProj323876_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030227.1 Wuhan centipede virus strain WHWG-11 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

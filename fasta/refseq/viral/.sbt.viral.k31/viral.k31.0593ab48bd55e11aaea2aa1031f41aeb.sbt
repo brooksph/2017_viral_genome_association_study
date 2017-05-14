@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928995.1/GCF_000928995.1_ViralProj270092_genomic.fna.gz",
+        "filename": "GCF_000928995.1_ViralProj270092_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025895.1 Mastomys polyomavirus DNA, complete genome, isolate: NR55",
         "signatures": [
             {
                 "ksize": 31,

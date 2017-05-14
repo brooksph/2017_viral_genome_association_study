@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875085.1/GCF_000875085.1_ViralProj29255_genomic.fna.gz",
+        "filename": "GCF_000875085.1_ViralProj29255_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010415.1 Enterovirus J strain 1631, complete genome",
         "signatures": [
             {
                 "ksize": 31,

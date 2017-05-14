@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904075.1/GCF_000904075.1_ViralProj188154_genomic.fna.gz",
+        "filename": "GCF_000904075.1_ViralProj188154_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020197.1 Streptococcus phage TP-J34 complete genome",
         "signatures": [
             {
                 "ksize": 31,

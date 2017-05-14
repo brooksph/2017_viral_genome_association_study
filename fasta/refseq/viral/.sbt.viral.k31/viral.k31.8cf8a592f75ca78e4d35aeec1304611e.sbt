@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923295.1/GCF_000923295.1_ViralProj255800_genomic.fna.gz",
+        "filename": "GCF_000923295.1_ViralProj255800_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024490.1 Mirabilis leaf curl India virus associated betasatellite complete sequence, isolate Pragpur",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001707025.1/GCF_001707025.1_ViralProj339072_genomic.fna.gz",
+        "filename": "GCF_001707025.1_ViralProj339072_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030746.1 Senna mosaic virus isolate Brazilian, complete genome",
         "signatures": [
             {
                 "ksize": 31,

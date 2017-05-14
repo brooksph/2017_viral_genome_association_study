@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001029025.1/GCF_001029025.1_ViralProj286899_genomic.fna.gz",
+        "filename": "GCF_001029025.1_ViralProj286899_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027210.1 Catharanthus mosaic virus isolate Mandevilla-US, complete genome",
         "signatures": [
             {
                 "ksize": 31,

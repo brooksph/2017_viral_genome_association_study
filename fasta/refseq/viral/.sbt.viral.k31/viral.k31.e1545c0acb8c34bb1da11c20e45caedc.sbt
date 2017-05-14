@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001019935.1/GCF_001019935.1_ViralProj285496_genomic.fna.gz",
+        "filename": "GCF_001019935.1_ViralProj285496_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027122.1 Vesivirus ferret badger/JX12/China/2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

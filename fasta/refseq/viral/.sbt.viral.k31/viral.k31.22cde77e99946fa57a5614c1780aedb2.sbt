@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856845.1/GCF_000856845.1_ViralProj15094_genomic.fna.gz",
+        "filename": "GCF_000856845.1_ViralProj15094_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002187.1 Japanese iris necrotic ring virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870605.1/GCF_000870605.1_ViralProj18985_genomic.fna.gz",
+        "filename": "GCF_000870605.1_ViralProj18985_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009087.2 Chrysanthemum virus B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

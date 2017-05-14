@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926355.1/GCF_000926355.1_ViralMultiSegProj264185_genomic.fna.gz",
+        "filename": "GCF_000926355.1_ViralMultiSegProj264185_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025265.1 Tomato mottle wrinkle virus isolate Ar:Pichanal:400 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

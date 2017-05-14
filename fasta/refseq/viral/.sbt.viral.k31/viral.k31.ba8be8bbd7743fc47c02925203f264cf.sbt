@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755485.1/GCF_001755485.1_ViralMultiSegProj344591_genomic.fna.gz",
+        "filename": "GCF_001755485.1_ViralMultiSegProj344591_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031293.1 Wuchang Cockraoch Virus 1 strain WCZL-5 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

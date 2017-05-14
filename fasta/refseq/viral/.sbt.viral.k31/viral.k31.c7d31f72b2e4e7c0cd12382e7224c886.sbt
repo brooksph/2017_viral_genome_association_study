@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910995.1/GCF_000910995.1_ViralProj219023_genomic.fna.gz",
+        "filename": "GCF_000910995.1_ViralProj219023_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022332.1 Eel picornavirus 1 strain F15/05, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004855.1/GCF_002004855.1_ViralProj375024_genomic.fna.gz",
+        "filename": "GCF_002004855.1_ViralProj375024_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033731.1 Wuhan pillworm virus 2 strain WHSFII14871 putative nucleoprotein, hypothetical protein, putative matrix protein, putative glycoprotein 1, RNA-dependent RNA polymerase, and putative glycoprotein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

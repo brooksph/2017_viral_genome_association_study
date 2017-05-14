@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974515.1/GCF_001974515.1_ViralProj369103_genomic.fna.gz",
+        "filename": "GCF_001974515.1_ViralProj369103_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033554.1 Pea leaf distortion virus clone N36-41 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

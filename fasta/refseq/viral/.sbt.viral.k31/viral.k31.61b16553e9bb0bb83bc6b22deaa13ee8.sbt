@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838105.1/GCF_000838105.1_ViralProj14124_genomic.fna.gz",
+        "filename": "GCF_000838105.1_ViralProj14124_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003038.1 Invertebrate iridescent virus 6, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925435.1/GCF_000925435.1_ViralProj264922_genomic.fna.gz",
+        "filename": "GCF_000925435.1_ViralProj264922_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025378.1 Yug Bogdanovac virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

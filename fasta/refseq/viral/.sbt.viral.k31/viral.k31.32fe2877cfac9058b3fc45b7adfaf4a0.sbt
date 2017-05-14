@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001021275.1/GCF_001021275.1_ViralProj286009_genomic.fna.gz",
+        "filename": "GCF_001021275.1_ViralProj286009_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027197.1 Phytophthora parasitica virus isolate 1 ORF3, putative replication protein, and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

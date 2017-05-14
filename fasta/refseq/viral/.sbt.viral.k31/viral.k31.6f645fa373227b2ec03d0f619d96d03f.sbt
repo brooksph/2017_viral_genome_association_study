@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963235.1/GCF_001963235.1_ViralProj361950_genomic.fna.gz",
+        "filename": "GCF_001963235.1_ViralProj361950_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033176.1 Cynomolgus cytomegalovirus isolate 31908, complete genome",
         "signatures": [
             {
                 "ksize": 31,

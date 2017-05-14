@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881915.1/GCF_000881915.1_ViralProj33189_genomic.fna.gz",
+        "filename": "GCF_000881915.1_ViralProj33189_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011659.1 Schlumbergera virus X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

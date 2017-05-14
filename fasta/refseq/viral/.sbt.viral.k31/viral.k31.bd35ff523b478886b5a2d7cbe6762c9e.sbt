@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856965.1/GCF_000856965.1_ViralProj15125_genomic.fna.gz",
+        "filename": "GCF_000856965.1_ViralProj15125_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004067.1 Pepino mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

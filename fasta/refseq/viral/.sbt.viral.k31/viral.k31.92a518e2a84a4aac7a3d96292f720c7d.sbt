@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744415.1/GCF_001744415.1_ViralProj344122_genomic.fna.gz",
+        "filename": "GCF_001744415.1_ViralProj344122_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031100.1 Bacillus phage Phrodo, complete genome",
         "signatures": [
             {
                 "ksize": 31,

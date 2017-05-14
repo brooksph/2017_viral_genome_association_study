@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846245.1/GCF_000846245.1_ViralMultiSegProj14398_genomic.fna.gz",
+        "filename": "GCF_000846245.1_ViralMultiSegProj14398_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004097.1 Macroptilium mosaic Puerto Rico virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

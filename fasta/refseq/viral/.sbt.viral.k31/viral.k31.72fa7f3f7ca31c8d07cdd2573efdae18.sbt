@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736755.1/GCF_001736755.1_ViralProj343508_genomic.fna.gz",
+        "filename": "GCF_001736755.1_ViralProj343508_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030912.1 Gordonia phage McGonagall, complete genome",
         "signatures": [
             {
                 "ksize": 31,

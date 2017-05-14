@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851165.1/GCF_000851165.1_ViralProj14896_genomic.fna.gz",
+        "filename": "GCF_000851165.1_ViralProj14896_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005064.1 Kamiti River virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

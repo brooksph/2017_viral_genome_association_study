@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920475.1/GCF_000920475.1_ViralProj243247_genomic.fna.gz",
+        "filename": "GCF_000920475.1_ViralProj243247_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023865.1 Pectobacterium phage PM1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001967595.1/GCF_001967595.1_ViralProj361665_genomic.fna.gz",
+        "filename": "GCF_001967595.1_ViralProj361665_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033267.1 Hubei rhabdo-like virus 9 strain WHZHC73015 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, hypothetical protein 4, hypothetical protein 5, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

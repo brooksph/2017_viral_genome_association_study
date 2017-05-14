@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890775.1/GCF_000890775.1_ViralProj64597_genomic.fna.gz",
+        "filename": "GCF_000890775.1_ViralProj64597_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015267.1 Camelus dromedarius papillomavirus type 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

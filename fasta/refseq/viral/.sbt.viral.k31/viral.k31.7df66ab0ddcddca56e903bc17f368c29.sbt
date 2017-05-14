@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002003895.1/GCF_002003895.1_ViralProj375026_genomic.fna.gz",
+        "filename": "GCF_002003895.1_ViralProj375026_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033733.1 Wuhan millipede virus 3 strain WHWG56524 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

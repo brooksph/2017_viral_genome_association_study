@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001580335.1/GCF_001580335.1_ViralMultiSegProj314256_genomic.fna.gz",
+        "filename": "GCF_001580335.1_ViralMultiSegProj314256_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029562.1 Fig mosaic virus mRNA for RNA-dependent RNA polymerase (RdRp gene)",
         "signatures": [
             {
                 "ksize": 31,

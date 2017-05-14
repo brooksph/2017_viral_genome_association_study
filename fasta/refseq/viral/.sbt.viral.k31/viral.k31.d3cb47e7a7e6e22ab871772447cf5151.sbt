@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885995.1/GCF_000885995.1_ViralProj41303_genomic.fna.gz",
+        "filename": "GCF_000885995.1_ViralProj41303_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013423.1 Vernonia yellow vein betasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

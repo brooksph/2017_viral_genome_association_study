@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842145.1/GCF_000842145.1_ViralProj14261_genomic.fna.gz",
+        "filename": "GCF_000842145.1_ViralProj14261_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004654.1 Tobacco leaf curl Japan virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

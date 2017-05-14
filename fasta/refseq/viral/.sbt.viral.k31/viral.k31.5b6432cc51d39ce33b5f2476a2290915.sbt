@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964575.1/GCF_001964575.1_ViralProj362073_genomic.fna.gz",
+        "filename": "GCF_001964575.1_ViralProj362073_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032956.1 Hubei odonate virus 11 strain QTM161788 RNA-dependent RNA polymerase, putative glycoprotein, and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

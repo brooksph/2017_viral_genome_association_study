@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001907925.1/GCF_001907925.1_ViralProj357839_genomic.fna.gz",
+        "filename": "GCF_001907925.1_ViralProj357839_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032120.1 Leptonychotes weddellii polyomavirus 1 isolate WSK37, complete genome",
         "signatures": [
             {
                 "ksize": 31,

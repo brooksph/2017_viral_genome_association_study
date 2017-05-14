@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926475.1/GCF_000926475.1_ViralProj264923_genomic.fna.gz",
+        "filename": "GCF_000926475.1_ViralProj264923_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025346.1 Rabbit astrovirus TN/2208/2010, complete genome",
         "signatures": [
             {
                 "ksize": 31,

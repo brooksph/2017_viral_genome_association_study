@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904155.1/GCF_000904155.1_ViralMultiSegProj189211_genomic.fna.gz",
+        "filename": "GCF_000904155.1_ViralMultiSegProj189211_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020257.1 Tomato rugose yellow leaf curl virus isolate U2 clone 1 segment DNA_A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

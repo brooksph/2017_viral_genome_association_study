@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866065.1/GCF_000866065.1_ViralProj16238_genomic.fna.gz",
+        "filename": "GCF_000866065.1_ViralProj16238_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007649.1 Oryza rufipogon endornavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

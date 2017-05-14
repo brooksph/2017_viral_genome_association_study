@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916235.1/GCF_000916235.1_ViralProj239737_genomic.fna.gz",
+        "filename": "GCF_000916235.1_ViralProj239737_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023615.1 Invertebrate iridescent virus 22 isolate IIV22Aberystwyth complete genome",
         "signatures": [
             {
                 "ksize": 31,

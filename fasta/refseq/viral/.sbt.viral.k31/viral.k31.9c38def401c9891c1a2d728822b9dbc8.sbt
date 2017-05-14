@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008695.1/GCF_002008695.1_ViralProj376914_genomic.fna.gz",
+        "filename": "GCF_002008695.1_ViralProj376914_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033824.1 Bat dicibavirus clone Bat/CAM/DicV-P2/2013 non-structural polyprotein and structural polyprotein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

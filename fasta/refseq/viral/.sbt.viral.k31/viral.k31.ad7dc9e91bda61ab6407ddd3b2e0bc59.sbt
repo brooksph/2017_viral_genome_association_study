@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001190295.1/GCF_001190295.1_ViralProj291268_genomic.fna.gz",
+        "filename": "GCF_001190295.1_ViralProj291268_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027625.1 Propionibacterium phage Kubed, complete genome",
         "signatures": [
             {
                 "ksize": 31,

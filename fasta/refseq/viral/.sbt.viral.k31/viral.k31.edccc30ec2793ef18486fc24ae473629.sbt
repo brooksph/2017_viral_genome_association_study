@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001567035.1/GCF_001567035.1_ViralProj312655_genomic.fna.gz",
+        "filename": "GCF_001567035.1_ViralProj312655_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029301.1 Currant virus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

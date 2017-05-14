@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915655.1/GCF_000915655.1_ViralProj240015_genomic.fna.gz",
+        "filename": "GCF_000915655.1_ViralProj240015_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023602.1 Mycobacterium phage 32HC, complete genome",
         "signatures": [
             {
                 "ksize": 31,

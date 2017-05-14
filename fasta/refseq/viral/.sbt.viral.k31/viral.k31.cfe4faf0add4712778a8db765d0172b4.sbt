@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926715.1/GCF_001926715.1_ViralProj359343_genomic.fna.gz",
+        "filename": "GCF_001926715.1_ViralProj359343_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032472.1 Hubei virga-like virus 18 strain fly97447 RdRp and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

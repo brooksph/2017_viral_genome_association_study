@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001399245.1/GCF_001399245.1_ViralProj298907_genomic.fna.gz",
+        "filename": "GCF_001399245.1_ViralProj298907_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028094.1 Chrysochromulina ericina virus isolate CeV-01B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

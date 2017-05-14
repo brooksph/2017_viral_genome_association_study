@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001443985.1/GCF_001443985.1_ViralProj302020_genomic.fna.gz",
+        "filename": "GCF_001443985.1_ViralProj302020_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028380.1 Chicken sicinivirus JSY, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928255.1/GCF_000928255.1_ViralProj272443_genomic.fna.gz",
+        "filename": "GCF_000928255.1_ViralProj272443_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026136.1 Alternaria brassicicola endornavirus isolate 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922235.1/GCF_000922235.1_ViralProj255795_genomic.fna.gz",
+        "filename": "GCF_000922235.1_ViralProj255795_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024487.1 Drosophila subobscura Nora virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869405.1/GCF_000869405.1_ViralProj17741_genomic.fna.gz",
+        "filename": "GCF_000869405.1_ViralProj17741_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008366.1 Strawberry chlorotic fleck associated virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

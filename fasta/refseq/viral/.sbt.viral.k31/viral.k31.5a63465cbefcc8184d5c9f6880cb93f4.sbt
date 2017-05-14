@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850365.1/GCF_000850365.1_ViralProj14738_genomic.fna.gz",
+        "filename": "GCF_000850365.1_ViralProj14738_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002201.1 Equine foamy virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

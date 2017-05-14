@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430435.1/GCF_001430435.1_ViralProj300253_genomic.fna.gz",
+        "filename": "GCF_001430435.1_ViralProj300253_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028120.1 Carollia perspicillata polyomavirus 1 isolate C1109, complete genome",
         "signatures": [
             {
                 "ksize": 31,

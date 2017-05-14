@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886675.2/GCF_000886675.2_ViralProj39791_genomic.fna.gz",
+        "filename": "GCF_000886675.2_ViralProj39791_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013058.1 Morogoro virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

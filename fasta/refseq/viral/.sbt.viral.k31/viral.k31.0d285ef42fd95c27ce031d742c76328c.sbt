@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001698395.1/GCF_001698395.1_ViralProj336039_genomic.fna.gz",
+        "filename": "GCF_001698395.1_ViralProj336039_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030699.1 Ramie mosaic Yunnan virus isolate 4819-5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

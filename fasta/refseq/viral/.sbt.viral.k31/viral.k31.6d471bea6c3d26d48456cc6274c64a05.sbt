@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885715.1/GCF_000885715.1_ViralProj39601_genomic.fna.gz",
+        "filename": "GCF_000885715.1_ViralProj39601_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012932.1 Aedes flavivirus genomic RNA, complete genome, strain: Narita-21",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889215.1/GCF_000889215.1_ViralProj51669_genomic.fna.gz",
+        "filename": "GCF_000889215.1_ViralProj51669_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014459.1 Mycobacterium phage CrimD, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963715.1/GCF_001963715.1_ViralProj361927_genomic.fna.gz",
+        "filename": "GCF_001963715.1_ViralProj361927_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033078.1 Beihai sphaeromadae virus 4 strain BHTSS17969 RdRp and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

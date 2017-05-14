@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866005.1/GCF_000866005.1_ViralProj16189_genomic.fna.gz",
+        "filename": "GCF_000866005.1_ViralProj16189_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007611.1 Simian virus 12, complete genome",
         "signatures": [
             {
                 "ksize": 31,

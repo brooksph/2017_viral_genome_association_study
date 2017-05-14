@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503675.1/GCF_001503675.1_ViralProj307963_genomic.fna.gz",
+        "filename": "GCF_001503675.1_ViralProj307963_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028853.1 Mannheimia phage vB_MhS_535AP2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

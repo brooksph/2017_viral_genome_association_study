@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001737015.1/GCF_001737015.1_ViralProj343515_genomic.fna.gz",
+        "filename": "GCF_001737015.1_ViralProj343515_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030943.1 Gordonia phage Blueberry, complete genome",
         "signatures": [
             {
                 "ksize": 31,

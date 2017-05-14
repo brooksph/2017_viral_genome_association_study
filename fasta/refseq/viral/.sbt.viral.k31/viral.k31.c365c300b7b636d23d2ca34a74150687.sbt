@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755825.1/GCF_001755825.1_ViralProj345627_genomic.fna.gz",
+        "filename": "GCF_001755825.1_ViralProj345627_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031336.1 Psophocarpus tetragonolobus endornavirus genomic RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

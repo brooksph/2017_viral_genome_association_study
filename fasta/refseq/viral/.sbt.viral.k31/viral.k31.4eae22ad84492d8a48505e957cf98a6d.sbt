@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842385.1/GCF_000842385.1_ViralProj14313_genomic.fna.gz",
+        "filename": "GCF_000842385.1_ViralProj14313_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005261.2 Bovine herpesvirus 5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

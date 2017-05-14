@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897575.1/GCF_000897575.1_ViralMultiSegProj173359_genomic.fna.gz",
+        "filename": "GCF_000897575.1_ViralMultiSegProj173359_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018476.1 Simbu virus RdRp gene for RNA-dependent RNA polymerase, segment L, genomic RNA, isolate SA Ar 53",
         "signatures": [
             {
                 "ksize": 31,

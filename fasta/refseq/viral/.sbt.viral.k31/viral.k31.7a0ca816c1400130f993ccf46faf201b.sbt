@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001343745.1/GCF_001343745.1_ViralMultiSegProj237137_genomic.fna.gz",
+        "filename": "GCF_001343745.1_ViralMultiSegProj237137_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023420.2 Cimodo virus strain C74-CI-2004 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

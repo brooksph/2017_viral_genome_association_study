@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870125.1/GCF_000870125.1_ViralProj17803_genomic.fna.gz",
+        "filename": "GCF_000870125.1_ViralProj17803_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008365.1 Streptocarpus flower break virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

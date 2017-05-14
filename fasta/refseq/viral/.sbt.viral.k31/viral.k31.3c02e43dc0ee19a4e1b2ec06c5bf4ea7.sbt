@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857045.1/GCF_000857045.1_ViralProj15142_genomic.fna.gz",
+        "filename": "GCF_000857045.1_ViralProj15142_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003310.1 Monkeypox virus Zaire-96-I-16, complete genome",
         "signatures": [
             {
                 "ksize": 31,

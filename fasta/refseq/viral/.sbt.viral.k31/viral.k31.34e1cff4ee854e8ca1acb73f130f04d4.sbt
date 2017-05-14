@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896655.1/GCF_000896655.1_ViralMultiSegProj81011_genomic.fna.gz",
+        "filename": "GCF_000896655.1_ViralMultiSegProj81011_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016575.1 Asystasia begomovirus 1 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

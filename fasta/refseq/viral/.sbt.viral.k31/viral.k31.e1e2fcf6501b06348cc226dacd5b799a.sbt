@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841405.1/GCF_000841405.1_ViralProj14280_genomic.fna.gz",
+        "filename": "GCF_000841405.1_ViralProj14280_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004745.1 Yersinia phage L-413C, complete genome",
         "signatures": [
             {
                 "ksize": 31,

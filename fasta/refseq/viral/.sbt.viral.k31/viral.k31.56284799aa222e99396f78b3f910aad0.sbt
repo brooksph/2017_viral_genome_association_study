@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895995.1/GCF_000895995.1_ViralProj88123_genomic.fna.gz",
+        "filename": "GCF_000895995.1_ViralProj88123_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016963.1 New World begomovirus associated satellite DNA isolate 177H3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

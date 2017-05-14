@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907195.1/GCF_000907195.1_ViralProj198433_genomic.fna.gz",
+        "filename": "GCF_000907195.1_ViralProj198433_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021067.1 Vibrio phage helene 12B3 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001589675.1/GCF_001589675.1_ViralProj314673_genomic.fna.gz",
+        "filename": "GCF_001589675.1_ViralProj314673_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029581.1 Lake Sarah-associated circular virus-32 isolate LSaCV-32-LSGA-2013, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

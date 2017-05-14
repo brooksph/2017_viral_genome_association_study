@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926615.1/GCF_001926615.1_ViralProj359311_genomic.fna.gz",
+        "filename": "GCF_001926615.1_ViralProj359311_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032415.1 Beihai narna-like virus 16 strain BHJP26864 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

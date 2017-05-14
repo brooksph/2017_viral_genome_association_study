@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461345.1/GCF_001461345.1_ViralProj304917_genomic.fna.gz",
+        "filename": "GCF_001461345.1_ViralProj304917_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028489.1 Daeseongdong virus 2 strain A12.2549/ROK/2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

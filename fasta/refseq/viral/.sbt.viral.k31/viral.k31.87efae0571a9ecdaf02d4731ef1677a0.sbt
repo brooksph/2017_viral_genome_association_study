@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844505.1/GCF_000844505.1_ViralProj14395_genomic.fna.gz",
+        "filename": "GCF_000844505.1_ViralProj14395_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001942.1 Mycoplasma phage MAV1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899735.1/GCF_000899735.1_ViralProj168668_genomic.fna.gz",
+        "filename": "GCF_000899735.1_ViralProj168668_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018076.1 Phocoena phocoena papillomavirus 4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

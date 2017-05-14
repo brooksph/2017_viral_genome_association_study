@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504675.1/GCF_001504675.1_ViralProj307836_genomic.fna.gz",
+        "filename": "GCF_001504675.1_ViralProj307836_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028765.1 Staphylococcus phage phiIPLA-RODI, complete genome",
         "signatures": [
             {
                 "ksize": 31,

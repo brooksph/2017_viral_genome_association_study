@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891475.1/GCF_000891475.1_ViralProj61949_genomic.fna.gz",
+        "filename": "GCF_000891475.1_ViralProj61949_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014928.1 Cyclovirus PKgoat11/PAK/2009, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892255.1/GCF_000892255.1_ViralProj62755_genomic.fna.gz",
+        "filename": "GCF_000892255.1_ViralProj62755_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015124.1 Tomato leaf curl Hanoi virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

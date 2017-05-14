@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922155.1/GCF_000922155.1_ViralProj255103_genomic.fna.gz",
+        "filename": "GCF_000922155.1_ViralProj255103_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024471.1 Yellow oat-grass mosaic virus isolate YOgMV-Sb, complete genome",
         "signatures": [
             {
                 "ksize": 31,

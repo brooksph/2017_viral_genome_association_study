@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850705.1/GCF_000850705.1_ViralProj14793_genomic.fna.gz",
+        "filename": "GCF_000850705.1_ViralProj14793_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003746.1 Rice yellow stunt virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

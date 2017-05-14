@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000989155.1/GCF_000989155.1_ViralProj283065_genomic.fna.gz",
+        "filename": "GCF_000989155.1_ViralProj283065_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026946.1 Human papillomavirus KC5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

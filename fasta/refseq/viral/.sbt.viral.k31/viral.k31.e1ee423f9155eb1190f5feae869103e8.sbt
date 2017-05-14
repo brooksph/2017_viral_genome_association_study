@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924795.1/GCF_000924795.1_ViralProj265907_genomic.fna.gz",
+        "filename": "GCF_000924795.1_ViralProj265907_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025388.1 Asian prunus virus 1 isolate tatao5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924135.1/GCF_000924135.1_ViralProj259988_genomic.fna.gz",
+        "filename": "GCF_000924135.1_ViralProj259988_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024775.1 Porcine stool-associated circular virus 8 isolate GP2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

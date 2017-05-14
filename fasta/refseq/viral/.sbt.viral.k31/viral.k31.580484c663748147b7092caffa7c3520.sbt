@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911295.1/GCF_000911295.1_ViralProj227111_genomic.fna.gz",
+        "filename": "GCF_000911295.1_ViralProj227111_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022776.1 Streptococcus phage TP-778L complete genome",
         "signatures": [
             {
                 "ksize": 31,

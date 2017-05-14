@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839545.1/GCF_000839545.1_ViralProj14068_genomic.fna.gz",
+        "filename": "GCF_000839545.1_ViralProj14068_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001466.1 Chloris striate mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

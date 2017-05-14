@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915875.1/GCF_000915875.1_ViralProj231203_genomic.fna.gz",
+        "filename": "GCF_000915875.1_ViralProj231203_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023023.1 Spinach yellow vein Sikar virus clone AS22, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852425.1/GCF_000852425.1_ViralMultiSegProj14850_genomic.fna.gz",
+        "filename": "GCF_000852425.1_ViralMultiSegProj14850_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004142.1 Boolarra virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

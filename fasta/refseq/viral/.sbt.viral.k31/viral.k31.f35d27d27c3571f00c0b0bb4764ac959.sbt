@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887735.1/GCF_000887735.1_ViralProj60047_genomic.fna.gz",
+        "filename": "GCF_000887735.1_ViralProj60047_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014647.1 Malvastrum yellow vein Changa Manga virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

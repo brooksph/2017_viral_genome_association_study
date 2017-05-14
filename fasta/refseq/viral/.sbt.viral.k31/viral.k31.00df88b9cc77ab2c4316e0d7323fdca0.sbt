@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004715.1/GCF_002004715.1_ViralProj375066_genomic.fna.gz",
+        "filename": "GCF_002004715.1_ViralProj375066_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033704.1 Xinzhou nematode virus 5 strain XZSJSC65765 hypothetical protein and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925715.1/GCF_001925715.1_ViralProj359284_genomic.fna.gz",
+        "filename": "GCF_001925715.1_ViralProj359284_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032446.1 Beihai barnacle virus 4 strain BHTH16136 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

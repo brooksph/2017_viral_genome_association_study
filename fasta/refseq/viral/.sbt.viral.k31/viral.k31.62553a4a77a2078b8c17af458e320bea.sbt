@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869085.1/GCF_000869085.1_ViralMultiSegProj16819_genomic.fna.gz",
+        "filename": "GCF_000869085.1_ViralMultiSegProj16819_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008040.1 Redspotted grouper nervous necrosis virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

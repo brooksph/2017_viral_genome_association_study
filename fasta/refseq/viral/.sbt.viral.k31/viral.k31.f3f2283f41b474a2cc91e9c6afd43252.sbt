@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863325.1/GCF_000863325.1_ViralProj15378_genomic.fna.gz",
+        "filename": "GCF_000863325.1_ViralProj15378_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004004.1 Foot-and-mouth disease virus - type O, complete genome",
         "signatures": [
             {
                 "ksize": 31,

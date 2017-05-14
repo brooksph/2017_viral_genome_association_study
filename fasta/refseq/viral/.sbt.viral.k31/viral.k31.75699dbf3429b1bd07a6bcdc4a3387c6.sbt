@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907855.1/GCF_000907855.1_ViralProj210796_genomic.fna.gz",
+        "filename": "GCF_000907855.1_ViralProj210796_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021706.1 Sclerotinia sclerotiorum endornavirus-1 strain JZJL2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

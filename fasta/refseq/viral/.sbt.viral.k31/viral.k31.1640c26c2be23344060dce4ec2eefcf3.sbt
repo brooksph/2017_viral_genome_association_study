@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917815.1/GCF_000917815.1_ViralProj240775_genomic.fna.gz",
+        "filename": "GCF_000917815.1_ViralProj240775_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023725.1 Mycobacterium phage Nappy, complete genome",
         "signatures": [
             {
                 "ksize": 31,

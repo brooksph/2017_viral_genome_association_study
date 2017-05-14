@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883555.1/GCF_000883555.1_ViralProj33675_genomic.fna.gz",
+        "filename": "GCF_000883555.1_ViralProj33675_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011918.1 Pepper veinal mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001881735.1/GCF_001881735.1_ViralProj353713_genomic.fna.gz",
+        "filename": "GCF_001881735.1_ViralProj353713_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031937.1 Escherichia phage LM33_P1 genome assembly, chromosome: I",
         "signatures": [
             {
                 "ksize": 31,

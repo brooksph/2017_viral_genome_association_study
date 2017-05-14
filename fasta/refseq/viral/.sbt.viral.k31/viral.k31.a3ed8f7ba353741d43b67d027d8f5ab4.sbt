@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920135.1/GCF_000920135.1_ViralProj240735_genomic.fna.gz",
+        "filename": "GCF_000920135.1_ViralProj240735_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023746.1 Mycobacterium phage GUmbie, complete genome",
         "signatures": [
             {
                 "ksize": 31,

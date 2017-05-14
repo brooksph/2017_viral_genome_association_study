@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889535.1/GCF_000889535.1_ViralProj61089_genomic.fna.gz",
+        "filename": "GCF_000889535.1_ViralProj61089_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014790.2 Passion fruit woodiness virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

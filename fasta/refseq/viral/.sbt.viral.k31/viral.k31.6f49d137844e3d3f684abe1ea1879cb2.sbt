@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916755.1/GCF_000916755.1_ViralProj232404_genomic.fna.gz",
+        "filename": "GCF_000916755.1_ViralProj232404_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023153.1 Citrus endogenous pararetrovirus clone CB16-3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

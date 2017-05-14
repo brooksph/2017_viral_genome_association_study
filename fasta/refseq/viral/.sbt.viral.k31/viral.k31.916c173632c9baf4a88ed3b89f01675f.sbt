@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002024795.1/GCF_002024795.1_ViralProj378400_genomic.fna.gz",
+        "filename": "GCF_002024795.1_ViralProj378400_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034153.1 Biratnagar virus strain Nepal12-1 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845825.1/GCF_000845825.1_ViralProj14490_genomic.fna.gz",
+        "filename": "GCF_000845825.1_ViralProj14490_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004090.1 Ageratum yellow vein China virus-[Hn2] complete genome, isolate Hn2",
         "signatures": [
             {
                 "ksize": 31,

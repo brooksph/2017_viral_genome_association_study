@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868065.1/GCF_000868065.1_ViralProj16663_genomic.fna.gz",
+        "filename": "GCF_000868065.1_ViralProj16663_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007924.1 Lactobacillus phage KC5a, complete genome",
         "signatures": [
             {
                 "ksize": 31,

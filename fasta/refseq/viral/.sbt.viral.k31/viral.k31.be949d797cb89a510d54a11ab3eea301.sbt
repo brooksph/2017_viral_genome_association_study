@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001698275.1/GCF_001698275.1_ViralProj336042_genomic.fna.gz",
+        "filename": "GCF_001698275.1_ViralProj336042_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030698.1 Gordonia phage Soups, complete genome",
         "signatures": [
             {
                 "ksize": 31,

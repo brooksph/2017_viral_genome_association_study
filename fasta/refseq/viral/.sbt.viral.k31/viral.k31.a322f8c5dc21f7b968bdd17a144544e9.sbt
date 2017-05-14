@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884655.1/GCF_000884655.1_ViralProj45911_genomic.fna.gz",
+        "filename": "GCF_000884655.1_ViralProj45911_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013797.1 Pieris rapae granulovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

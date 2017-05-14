@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001040815.1/GCF_001040815.1_ViralProj287862_genomic.fna.gz",
+        "filename": "GCF_001040815.1_ViralProj287862_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027299.1 Sulfitobacter phage NYA-2014a, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923415.1/GCF_000923415.1_ViralProj258186_genomic.fna.gz",
+        "filename": "GCF_000923415.1_ViralProj258186_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024702.1 Soybean cyst nematode midway virus N-protein, hypothetical proteins, glycoprotein, and putative RNA dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

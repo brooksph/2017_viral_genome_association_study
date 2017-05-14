@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879915.1/GCF_000879915.1_ViralProj29413_genomic.fna.gz",
+        "filename": "GCF_000879915.1_ViralProj29413_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010618.1 Pepper leaf curl Yunnan virus-[YN323], complete sequence",
         "signatures": [
             {
                 "ksize": 31,

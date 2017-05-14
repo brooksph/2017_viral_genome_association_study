@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918675.1/GCF_000918675.1_ViralProj240742_genomic.fna.gz",
+        "filename": "GCF_000918675.1_ViralProj240742_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023741.1 Mycobacterium phage Stinger, complete genome",
         "signatures": [
             {
                 "ksize": 31,

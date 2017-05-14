@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847625.1/GCF_000847625.1_ViralProj14688_genomic.fna.gz",
+        "filename": "GCF_000847625.1_ViralProj14688_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002066.1 Sacbrood virus complete genome",
         "signatures": [
             {
                 "ksize": 31,

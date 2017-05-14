@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840145.1/GCF_000840145.1_ViralProj14193_genomic.fna.gz",
+        "filename": "GCF_000840145.1_ViralProj14193_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003898.1 Tomato leaf curl Taiwan virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

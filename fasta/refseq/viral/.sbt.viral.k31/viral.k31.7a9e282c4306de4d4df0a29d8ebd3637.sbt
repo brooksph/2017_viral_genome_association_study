@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853725.1/GCF_000853725.1_ViralMultiSegProj14931_genomic.fna.gz",
+        "filename": "GCF_000853725.1_ViralMultiSegProj14931_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005079.1 Machupo virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

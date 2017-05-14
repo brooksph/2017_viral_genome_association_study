@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502575.1/GCF_001502575.1_ViralProj307737_genomic.fna.gz",
+        "filename": "GCF_001502575.1_ViralProj307737_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028763.1 Polaribacter phage P12002S, complete genome",
         "signatures": [
             {
                 "ksize": 31,

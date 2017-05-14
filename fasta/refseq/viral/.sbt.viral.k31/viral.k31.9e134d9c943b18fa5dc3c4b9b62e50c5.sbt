@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001967995.1/GCF_001967995.1_ViralProj361644_genomic.fna.gz",
+        "filename": "GCF_001967995.1_ViralProj361644_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033026.1 Hubei picorna-like virus 52 strain QCM127295 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

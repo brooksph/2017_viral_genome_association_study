@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001465105.1/GCF_001465105.1_ViralProj305160_genomic.fna.gz",
+        "filename": "GCF_001465105.1_ViralProj305160_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028635.1 Pan troglodytes verus polyomavirus 8 isolate Ch-Regina, complete genome",
         "signatures": [
             {
                 "ksize": 31,

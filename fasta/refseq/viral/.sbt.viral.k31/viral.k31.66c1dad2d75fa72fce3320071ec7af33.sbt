@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838565.1/GCF_000838565.1_ViralProj14042_genomic.fna.gz",
+        "filename": "GCF_000838565.1_ViralProj14042_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001993.1 Melanoplus sanguinipes entomopoxvirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

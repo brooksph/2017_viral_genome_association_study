@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001706905.1/GCF_001706905.1_ViralMultiSegProj339074_genomic.fna.gz",
+        "filename": "GCF_001706905.1_ViralMultiSegProj339074_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030752.1 Wuhan Insect virus 2 strain WHDL02 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001743935.1/GCF_001743935.1_ViralProj344169_genomic.fna.gz",
+        "filename": "GCF_001743935.1_ViralProj344169_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031030.1 Escherichia phage UFV-AREG1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921595.1/GCF_000921595.1_ViralProj259985_genomic.fna.gz",
+        "filename": "GCF_000921595.1_ViralProj259985_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024771.1 Equid herpesvirus 3 strain AR/2007/C3A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

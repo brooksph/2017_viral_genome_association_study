@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881375.1/GCF_000881375.1_ViralProj30845_genomic.fna.gz",
+        "filename": "GCF_000881375.1_ViralProj30845_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011103.1 Rhizobium phage 16-3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

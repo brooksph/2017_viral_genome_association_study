@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001766585.1/GCF_001766585.1_ViralProj348111_genomic.fna.gz",
+        "filename": "GCF_001766585.1_ViralProj348111_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031338.1 Moku virus isolate Big Island, complete genome",
         "signatures": [
             {
                 "ksize": 31,

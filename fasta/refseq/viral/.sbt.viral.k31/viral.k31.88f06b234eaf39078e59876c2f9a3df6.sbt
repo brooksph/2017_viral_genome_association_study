@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899255.1/GCF_000899255.1_ViralProj175587_genomic.fna.gz",
+        "filename": "GCF_000899255.1_ViralProj175587_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018614.1 Tomato leaf curl Hajipur betasatellite clone HJP09, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

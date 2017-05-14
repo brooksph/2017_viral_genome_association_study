@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504315.1/GCF_001504315.1_ViralProj307930_genomic.fna.gz",
+        "filename": "GCF_001504315.1_ViralProj307930_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028914.1 Mycobacterium phage Sheen, complete genome",
         "signatures": [
             {
                 "ksize": 31,

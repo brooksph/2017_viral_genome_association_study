@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914255.1/GCF_000914255.1_ViralProj232776_genomic.fna.gz",
+        "filename": "GCF_000914255.1_ViralProj232776_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023178.1 Castor canadensis papillomavirus type 1 isolate CcanPV1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

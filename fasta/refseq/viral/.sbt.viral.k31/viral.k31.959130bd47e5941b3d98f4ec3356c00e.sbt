@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001958635.1/GCF_001958635.1_ViralProj361839_genomic.fna.gz",
+        "filename": "GCF_001958635.1_ViralProj361839_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033106.1 Shahe isopoda virus 3 strain SHWC0209c10670 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

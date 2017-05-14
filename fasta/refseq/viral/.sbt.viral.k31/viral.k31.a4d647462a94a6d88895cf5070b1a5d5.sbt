@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505995.1/GCF_001505995.1_ViralProj307973_genomic.fna.gz",
+        "filename": "GCF_001505995.1_ViralProj307973_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028779.1 Mycobacterium phage Carcharodon, complete genome",
         "signatures": [
             {
                 "ksize": 31,

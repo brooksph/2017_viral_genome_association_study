@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856665.2/GCF_000856665.2_ViralMultiSegProj15055_genomic.fna.gz",
+        "filename": "GCF_000856665.2_ViralMultiSegProj15055_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006307.1 Influenza C virus (C/Ann Arbor/1/50) segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

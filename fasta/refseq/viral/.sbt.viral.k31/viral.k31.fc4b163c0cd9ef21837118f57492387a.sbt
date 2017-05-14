@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895935.1/GCF_000895935.1_ViralProj82751_genomic.fna.gz",
+        "filename": "GCF_000895935.1_ViralProj82751_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016769.1 Porcine kobuvirus SH-W-CHN/2010/China, complete genome",
         "signatures": [
             {
                 "ksize": 31,

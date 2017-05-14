@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925895.1/GCF_001925895.1_ViralProj359332_genomic.fna.gz",
+        "filename": "GCF_001925895.1_ViralProj359332_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032420.1 Wenzhou shrimp virus 7 strain beimix73547 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

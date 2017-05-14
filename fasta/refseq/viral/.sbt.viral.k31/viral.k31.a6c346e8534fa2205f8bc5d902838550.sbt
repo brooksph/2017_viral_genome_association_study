@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001698255.1/GCF_001698255.1_ViralProj335748_genomic.fna.gz",
+        "filename": "GCF_001698255.1_ViralProj335748_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030693.1 Grapevine Red Globe virus isolate Graciano-T101, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914575.1/GCF_000914575.1_ViralProj239909_genomic.fna.gz",
+        "filename": "GCF_000914575.1_ViralProj239909_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023627.1 Laodelphax striatella honeydew virus 1 isolate Nanjing, complete genome",
         "signatures": [
             {
                 "ksize": 31,

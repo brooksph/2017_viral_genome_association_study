@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654145.1/GCF_001654145.1_ViralMultiSegProj323873_genomic.fna.gz",
+        "filename": "GCF_001654145.1_ViralMultiSegProj323873_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030243.1 Sinapis alba cryptic virus 1 isolate LTBJ RNA dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

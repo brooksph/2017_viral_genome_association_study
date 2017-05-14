@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962915.1/GCF_001962915.1_ViralProj361884_genomic.fna.gz",
+        "filename": "GCF_001962915.1_ViralProj361884_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032869.1 Sanxia atyid shrimp virus 1 strain SXXX35475 RdRp and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

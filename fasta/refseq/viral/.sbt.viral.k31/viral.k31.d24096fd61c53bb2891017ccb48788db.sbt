@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925235.1/GCF_000925235.1_ViralProj263034_genomic.fna.gz",
+        "filename": "GCF_000925235.1_ViralProj263034_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025244.1 Synedrella leaf curl alphasatellite isolate Synd-1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

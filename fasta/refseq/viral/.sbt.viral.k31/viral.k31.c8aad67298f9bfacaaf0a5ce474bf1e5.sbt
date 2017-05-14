@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860945.1/GCF_000860945.1_ViralProj15401_genomic.fna.gz",
+        "filename": "GCF_000860945.1_ViralProj15401_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003976.2 Ljungan virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

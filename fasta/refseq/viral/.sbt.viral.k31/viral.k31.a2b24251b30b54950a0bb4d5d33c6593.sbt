@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001190455.1/GCF_001190455.1_ViralProj291271_genomic.fna.gz",
+        "filename": "GCF_001190455.1_ViralProj291271_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027622.1 Propionibacterium phage Stormborn, complete genome",
         "signatures": [
             {
                 "ksize": 31,

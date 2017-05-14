@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865725.1/GCF_000865725.1_ViralMultiSegProj15521_genomic.fna.gz",
+        "filename": "GCF_000865725.1_ViralMultiSegProj15521_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002023.1 Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

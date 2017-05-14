@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974395.1/GCF_001974395.1_ViralMultiSegProj368936_genomic.fna.gz",
+        "filename": "GCF_001974395.1_ViralMultiSegProj368936_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033490.1 Wuhan insect virus 15 strain WHCCII13252 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

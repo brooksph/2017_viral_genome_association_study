@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885495.1/GCF_000885495.1_ViralProj42743_genomic.fna.gz",
+        "filename": "GCF_000885495.1_ViralProj42743_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013639.1 Tomato leaf curl Cameroon virus - [Cameroon:Buea:Okra:2008], complete genome",
         "signatures": [
             {
                 "ksize": 31,

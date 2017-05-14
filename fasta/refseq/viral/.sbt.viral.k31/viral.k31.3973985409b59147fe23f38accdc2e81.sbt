@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863565.1/GCF_000863565.1_ViralProj15430_genomic.fna.gz",
+        "filename": "GCF_000863565.1_ViralProj15430_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000943.1 Murray Valley encephalitis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

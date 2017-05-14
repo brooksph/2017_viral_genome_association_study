@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841045.1/GCF_000841045.1_ViralProj14205_genomic.fna.gz",
+        "filename": "GCF_000841045.1_ViralProj14205_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004068.1 Fringilla coelebs papillomavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845665.1/GCF_000845665.1_ViralProj14458_genomic.fna.gz",
+        "filename": "GCF_000845665.1_ViralProj14458_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001826.2 Murine herpesvirus 68 strain WUMS, complete genome",
         "signatures": [
             {
                 "ksize": 31,

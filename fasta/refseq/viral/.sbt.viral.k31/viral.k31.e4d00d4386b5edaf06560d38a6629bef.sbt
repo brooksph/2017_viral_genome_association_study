@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505015.1/GCF_001505015.1_ViralProj307908_genomic.fna.gz",
+        "filename": "GCF_001505015.1_ViralProj307908_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028968.1 Mycobacterium phage BrownCNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

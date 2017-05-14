@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887775.1/GCF_000887775.1_ViralProj60361_genomic.fna.gz",
+        "filename": "GCF_000887775.1_ViralProj60361_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014707.1 Papaya leaf crumple virus-Panipat 8 [India:Panipat:Papaya:2008] DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856005.1/GCF_000856005.1_ViralMultiSegProj15093_genomic.fna.gz",
+        "filename": "GCF_000856005.1_ViralMultiSegProj15093_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002358.1 Oat golden stripe virus RNA1 complete genome",
         "signatures": [
             {
                 "ksize": 31,

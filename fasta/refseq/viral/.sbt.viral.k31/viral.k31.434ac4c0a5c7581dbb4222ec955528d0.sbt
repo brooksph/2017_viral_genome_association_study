@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755665.1/GCF_001755665.1_ViralProj344627_genomic.fna.gz",
+        "filename": "GCF_001755665.1_ViralProj344627_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031243.1 Mycobacterium phage Xeno, complete genome",
         "signatures": [
             {
                 "ksize": 31,

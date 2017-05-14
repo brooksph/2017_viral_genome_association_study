@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918595.1/GCF_000918595.1_ViralProj240726_genomic.fna.gz",
+        "filename": "GCF_000918595.1_ViralProj240726_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023721.1 Mycobacterium phage Drago, complete genome",
         "signatures": [
             {
                 "ksize": 31,

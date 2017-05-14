@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866895.1/GCF_001866895.1_ViralProj352517_genomic.fna.gz",
+        "filename": "GCF_001866895.1_ViralProj352517_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031748.1 Lodeiro virus strain N10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

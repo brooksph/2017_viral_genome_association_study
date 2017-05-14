@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889295.1/GCF_000889295.1_ViralProj52813_genomic.fna.gz",
+        "filename": "GCF_000889295.1_ViralProj52813_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014536.1 Brugmansia suaveolens mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001968175.1/GCF_001968175.1_ViralProj361680_genomic.fna.gz",
+        "filename": "GCF_001968175.1_ViralProj361680_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033272.1 Chicken stool-associated circular virus strain RS/BR/2015, complete genome",
         "signatures": [
             {
                 "ksize": 31,

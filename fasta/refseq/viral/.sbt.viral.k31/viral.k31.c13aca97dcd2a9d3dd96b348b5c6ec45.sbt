@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274165.1/GCF_001274165.1_ViralProj293706_genomic.fna.gz",
+        "filename": "GCF_001274165.1_ViralProj293706_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027783.1 Littorina sp. associated circular virus isolate I0041, complete genome",
         "signatures": [
             {
                 "ksize": 31,

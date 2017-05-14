@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892755.1/GCF_000892755.1_ViralProj66973_genomic.fna.gz",
+        "filename": "GCF_000892755.1_ViralProj66973_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015524.1 Bombyx mori Macula-like virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

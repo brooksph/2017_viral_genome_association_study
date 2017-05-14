@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755125.1/GCF_001755125.1_ViralProj344604_genomic.fna.gz",
+        "filename": "GCF_001755125.1_ViralProj344604_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031279.1 Mycobacterium phage Bactobuster, complete genome",
         "signatures": [
             {
                 "ksize": 31,

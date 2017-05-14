@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001432115.1/GCF_001432115.1_ViralProj301018_genomic.fna.gz",
+        "filename": "GCF_001432115.1_ViralProj301018_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028232.1 Walkabout Creek virus isolate CS1056, complete genome",
         "signatures": [
             {
                 "ksize": 31,

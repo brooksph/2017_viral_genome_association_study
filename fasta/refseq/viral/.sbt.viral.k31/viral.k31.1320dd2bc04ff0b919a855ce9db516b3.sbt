@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000931275.1/GCF_000931275.1_ViralProj274118_genomic.fna.gz",
+        "filename": "GCF_000931275.1_ViralProj274118_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026272.1 Trifolium-associated circular DNA virus 1 isolate TasCV-1_FR34-34-Cam, complete genome",
         "signatures": [
             {
                 "ksize": 31,

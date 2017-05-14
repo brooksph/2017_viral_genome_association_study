@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904715.1/GCF_000904715.1_ViralProj198434_genomic.fna.gz",
+        "filename": "GCF_000904715.1_ViralProj198434_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021070.1 Vibrio phage martha 12B12 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

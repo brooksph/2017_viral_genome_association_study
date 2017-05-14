@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001432055.1/GCF_001432055.1_ViralProj301021_genomic.fna.gz",
+        "filename": "GCF_001432055.1_ViralProj301021_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028234.1 Santa barbara virus strain AR775619, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843025.2/GCF_000843025.2_ViralProj14264_genomic.fna.gz",
+        "filename": "GCF_000843025.2_ViralProj14264_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004661.1 Sida yellow vein virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

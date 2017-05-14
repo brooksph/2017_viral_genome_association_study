@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001970785.1/GCF_001970785.1_ViralProj362922_genomic.fna.gz",
+        "filename": "GCF_001970785.1_ViralProj362922_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033428.1 Wenzhou yanvirus-like virus 1 strain WZFSL78003 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

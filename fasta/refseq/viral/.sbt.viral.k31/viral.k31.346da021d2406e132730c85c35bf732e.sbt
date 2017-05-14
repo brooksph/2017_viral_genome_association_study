@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744915.1/GCF_001744915.1_ViralProj344092_genomic.fna.gz",
+        "filename": "GCF_001744915.1_ViralProj344092_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031060.1 Gordonia phage JSwag, complete genome",
         "signatures": [
             {
                 "ksize": 31,

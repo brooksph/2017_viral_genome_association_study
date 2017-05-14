@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964255.1/GCF_001964255.1_ViralProj362035_genomic.fna.gz",
+        "filename": "GCF_001964255.1_ViralProj362035_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033018.1 Changjiang polero-like virus 1 strain CJLX30310 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

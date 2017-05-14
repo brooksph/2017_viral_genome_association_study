@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850485.1/GCF_000850485.1_ViralProj14748_genomic.fna.gz",
+        "filename": "GCF_000850485.1_ViralProj14748_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003497.1 Bamboo mosaic virus satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

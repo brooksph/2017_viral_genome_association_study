@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001723025.1/GCF_001723025.1_ViralMultiSegProj342452_genomic.fna.gz",
+        "filename": "GCF_001723025.1_ViralMultiSegProj342452_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030883.1 Fusarium poae alternavirus 1 genomic RNA, segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

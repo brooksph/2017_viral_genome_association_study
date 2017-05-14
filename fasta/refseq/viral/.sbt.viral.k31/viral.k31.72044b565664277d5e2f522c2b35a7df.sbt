@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858065.1/GCF_000858065.1_ViralProj15153_genomic.fna.gz",
+        "filename": "GCF_000858065.1_ViralProj15153_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006941.1 Cucumber vein yellowing virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

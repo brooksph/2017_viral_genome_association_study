@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898975.1/GCF_000898975.1_ViralProj171374_genomic.fna.gz",
+        "filename": "GCF_000898975.1_ViralProj171374_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018226.1 Swine pasivirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

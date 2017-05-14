@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871825.1/GCF_000871825.1_ViralProj20055_genomic.fna.gz",
+        "filename": "GCF_000871825.1_ViralProj20055_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009640.1 Porcine rubulavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

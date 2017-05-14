@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857105.1/GCF_000857105.1_ViralProj15154_genomic.fna.gz",
+        "filename": "GCF_000857105.1_ViralProj15154_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006937.2 Fusarium graminearum dsRNA mycovirus-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

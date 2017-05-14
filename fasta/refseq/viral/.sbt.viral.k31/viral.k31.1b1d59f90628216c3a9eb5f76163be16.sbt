@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001743995.1/GCF_001743995.1_ViralProj344182_genomic.fna.gz",
+        "filename": "GCF_001743995.1_ViralProj344182_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031067.1 Mycobacterium phage Makemake, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926735.1/GCF_000926735.1_ViralProj266642_genomic.fna.gz",
+        "filename": "GCF_000926735.1_ViralProj266642_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025423.1 Bacillus phage CP-51, complete genome",
         "signatures": [
             {
                 "ksize": 31,

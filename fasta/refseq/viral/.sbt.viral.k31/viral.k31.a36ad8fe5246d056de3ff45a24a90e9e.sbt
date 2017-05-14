@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845605.1/GCF_000845605.1_ViralProj14446_genomic.fna.gz",
+        "filename": "GCF_000845605.1_ViralProj14446_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004546.1 Tobacco curly shoot virus-associated DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

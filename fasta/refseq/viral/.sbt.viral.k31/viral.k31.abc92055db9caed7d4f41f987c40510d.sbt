@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847985.1/GCF_000847985.1_ViralProj14594_genomic.fna.gz",
+        "filename": "GCF_000847985.1_ViralProj14594_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001739.2 Soybean chlorotic mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

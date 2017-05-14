@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857965.1/GCF_000857965.1_ViralProj15132_genomic.fna.gz",
+        "filename": "GCF_000857965.1_ViralProj15132_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005093.1 Hirame rhabdovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

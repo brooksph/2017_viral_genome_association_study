@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837045.1/GCF_000837045.1_ViralProj14067_genomic.fna.gz",
+        "filename": "GCF_000837045.1_ViralProj14067_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001465.1 Coconut foliar decay alphasatellite, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

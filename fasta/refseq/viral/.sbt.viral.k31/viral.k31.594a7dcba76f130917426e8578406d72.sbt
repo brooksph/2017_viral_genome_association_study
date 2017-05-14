@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853825.1/GCF_000853825.1_ViralProj14952_genomic.fna.gz",
+        "filename": "GCF_000853825.1_ViralProj14952_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010624.1 Sapovirus Mc10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

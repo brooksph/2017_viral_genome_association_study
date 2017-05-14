@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000973315.1/GCF_000973315.1_ViralProj281403_genomic.fna.gz",
+        "filename": "GCF_000973315.1_ViralProj281403_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026819.1 Taro bacilliform CH virus isolate TaBCHV-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

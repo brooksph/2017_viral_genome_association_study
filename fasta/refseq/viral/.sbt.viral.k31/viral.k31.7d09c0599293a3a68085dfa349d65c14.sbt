@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848465.1/GCF_000848465.1_ViralProj14695_genomic.fna.gz",
+        "filename": "GCF_000848465.1_ViralProj14695_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002500.1 Cherry mottle leaf virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

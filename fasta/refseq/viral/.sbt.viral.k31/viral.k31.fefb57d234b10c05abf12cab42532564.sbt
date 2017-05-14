@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961135.1/GCF_001961135.1_ViralProj361889_genomic.fna.gz",
+        "filename": "GCF_001961135.1_ViralProj361889_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033186.1 Hubei zhaovirus-like virus 1 strain WHBL52766 RNA-dependent RNA polymerase and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

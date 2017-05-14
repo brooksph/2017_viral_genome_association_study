@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974295.1/GCF_001974295.1_ViralProj368947_genomic.fna.gz",
+        "filename": "GCF_001974295.1_ViralProj368947_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033474.1 Wuhan horsefly Virus 3 strain horsefly123863 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

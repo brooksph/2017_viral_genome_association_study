@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744935.1/GCF_001744935.1_ViralProj344096_genomic.fna.gz",
+        "filename": "GCF_001744935.1_ViralProj344096_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031029.1 Gordonia phage Cucurbita, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898535.1/GCF_000898535.1_ViralMultiSegProj173353_genomic.fna.gz",
+        "filename": "GCF_000898535.1_ViralMultiSegProj173353_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018484.1 CAS virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863665.1/GCF_000863665.1_ViralProj15452_genomic.fna.gz",
+        "filename": "GCF_000863665.1_ViralProj15452_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004197.1 Bovine papillomavirus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

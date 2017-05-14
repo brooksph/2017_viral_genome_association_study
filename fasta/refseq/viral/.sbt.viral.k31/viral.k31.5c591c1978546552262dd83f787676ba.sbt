@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001959655.1/GCF_001959655.1_ViralProj361710_genomic.fna.gz",
+        "filename": "GCF_001959655.1_ViralProj361710_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032947.1 Wenzhou picorna-like virus 42 strain WZFSL74289 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

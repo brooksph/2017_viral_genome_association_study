@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864365.1/GCF_000864365.1_ViralMultiSegProj16242_genomic.fna.gz",
+        "filename": "GCF_000864365.1_ViralMultiSegProj16242_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007656.1 Yunnan orbivirus segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

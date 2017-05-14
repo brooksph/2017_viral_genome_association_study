@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855485.1/GCF_000855485.1_ViralMultiSegProj14990_genomic.fna.gz",
+        "filename": "GCF_000855485.1_ViralMultiSegProj14990_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004178.1 Infectious bursal disease virus segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

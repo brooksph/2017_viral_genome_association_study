@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930015.1/GCF_000930015.1_ViralProj270089_genomic.fna.gz",
+        "filename": "GCF_000930015.1_ViralProj270089_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025894.1 Yellow baboon polyomavirus 1 DNA, complete genome, isolate: BS20",
         "signatures": [
             {
                 "ksize": 31,

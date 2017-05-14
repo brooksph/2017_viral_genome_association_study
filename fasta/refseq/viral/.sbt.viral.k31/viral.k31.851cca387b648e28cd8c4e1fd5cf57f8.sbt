@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840805.1/GCF_000840805.1_ViralProj14322_genomic.fna.gz",
+        "filename": "GCF_000840805.1_ViralProj14322_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004466.2 Pseudomonas aeruginosa phage PaP3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

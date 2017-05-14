@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873445.1/GCF_000873445.1_ViralProj20397_genomic.fna.gz",
+        "filename": "GCF_000873445.1_ViralProj20397_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009737.2 Bacillus virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897855.1/GCF_000897855.1_ViralProj177540_genomic.fna.gz",
+        "filename": "GCF_000897855.1_ViralProj177540_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018832.1 Providencia phage Redjac, complete genome",
         "signatures": [
             {
                 "ksize": 31,

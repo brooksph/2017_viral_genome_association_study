@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274425.1/GCF_001274425.1_ViralProj293713_genomic.fna.gz",
+        "filename": "GCF_001274425.1_ViralProj293713_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027791.1 Fiddler Crab associated circular virus isolate I0086a, complete genome",
         "signatures": [
             {
                 "ksize": 31,

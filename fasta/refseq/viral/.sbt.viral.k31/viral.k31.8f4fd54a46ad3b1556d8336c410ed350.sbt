@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925355.1/GCF_000925355.1_ViralProj264902_genomic.fna.gz",
+        "filename": "GCF_000925355.1_ViralProj264902_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025345.1 Sunshine virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

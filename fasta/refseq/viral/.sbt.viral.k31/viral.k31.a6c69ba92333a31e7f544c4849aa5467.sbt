@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898115.1/GCF_000898115.1_ViralMultiSegProj167162_genomic.fna.gz",
+        "filename": "GCF_000898115.1_ViralMultiSegProj167162_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017939.1 Grapevine deformation virus RNA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001308755.1/GCF_001308755.1_ViralProj298043_genomic.fna.gz",
+        "filename": "GCF_001308755.1_ViralProj298043_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027919.1 Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN",
         "signatures": [
             {
                 "ksize": 31,

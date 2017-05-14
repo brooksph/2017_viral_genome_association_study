@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862965.1/GCF_000862965.1_ViralProj15303_genomic.fna.gz",
+        "filename": "GCF_000862965.1_ViralProj15303_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001451.1 Avian infectious bronchitis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

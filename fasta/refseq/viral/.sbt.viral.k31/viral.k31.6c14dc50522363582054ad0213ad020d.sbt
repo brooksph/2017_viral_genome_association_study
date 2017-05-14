@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917615.1/GCF_000917615.1_ViralProj240732_genomic.fna.gz",
+        "filename": "GCF_000917615.1_ViralProj240732_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023731.1 Mycobacterium phage Trixie, complete genome",
         "signatures": [
             {
                 "ksize": 31,

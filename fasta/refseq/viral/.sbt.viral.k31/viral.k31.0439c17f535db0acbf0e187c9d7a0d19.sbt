@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736775.1/GCF_001736775.1_ViralProj343512_genomic.fna.gz",
+        "filename": "GCF_001736775.1_ViralProj343512_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030901.1 Gordonia phage ClubL, complete genome",
         "signatures": [
             {
                 "ksize": 31,

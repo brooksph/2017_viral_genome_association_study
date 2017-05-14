@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854165.1/GCF_000854165.1_ViralMultiSegProj15026_genomic.fna.gz",
+        "filename": "GCF_000854165.1_ViralMultiSegProj15026_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005301.3 Crimean-Congo hemorrhagic fever virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

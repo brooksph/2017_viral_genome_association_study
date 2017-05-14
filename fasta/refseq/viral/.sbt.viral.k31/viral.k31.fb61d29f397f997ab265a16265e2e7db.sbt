@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846985.1/GCF_000846985.1_ViralProj14562_genomic.fna.gz",
+        "filename": "GCF_000846985.1_ViralProj14562_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006294.1 Vibrio phage KSF-1phi, complete genome",
         "signatures": [
             {
                 "ksize": 31,

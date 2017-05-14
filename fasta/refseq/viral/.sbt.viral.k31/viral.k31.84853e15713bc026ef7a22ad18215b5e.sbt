@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274325.1/GCF_001274325.1_ViralProj293719_genomic.fna.gz",
+        "filename": "GCF_001274325.1_ViralProj293719_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027796.1 Artemia melana sponge associated circular genome isolate I0307, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889575.1/GCF_000889575.1_ViralProj61555_genomic.fna.gz",
+        "filename": "GCF_000889575.1_ViralProj61555_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014845.1 Bhendi yellow vein India virus [India:Dharwad OYDWR2:2006] DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001634095.1/GCF_001634095.1_ViralProj319527_genomic.fna.gz",
+        "filename": "GCF_001634095.1_ViralProj319527_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029989.1 Penicillium digitatum virus 1 strain HS-RH1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

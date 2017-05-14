@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862045.1/GCF_000862045.1_ViralProj15289_genomic.fna.gz",
+        "filename": "GCF_000862045.1_ViralProj15289_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001785.1 Papaya ringspot virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

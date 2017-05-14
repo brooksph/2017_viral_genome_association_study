@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920395.1/GCF_000920395.1_ViralProj242954_genomic.fna.gz",
+        "filename": "GCF_000920395.1_ViralProj242954_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023852.1 Canine papillomavirus 13 isolate Zurich/2011, complete genome",
         "signatures": [
             {
                 "ksize": 31,

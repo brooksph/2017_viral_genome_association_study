@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964455.1/GCF_001964455.1_ViralMultiSegProj362049_genomic.fna.gz",
+        "filename": "GCF_001964455.1_ViralMultiSegProj362049_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033301.1 Hubei diptera virus 17 strain SCM172187 segment Seg 1 RdRp gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

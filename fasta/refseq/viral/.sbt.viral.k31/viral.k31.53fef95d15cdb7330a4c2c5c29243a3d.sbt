@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646455.1/GCF_001646455.1_ViralProj321680_genomic.fna.gz",
+        "filename": "GCF_001646455.1_ViralProj321680_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030122.1 Sheep faeces associated smacovirus 2 isolate 47_Fec60415_sheep, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

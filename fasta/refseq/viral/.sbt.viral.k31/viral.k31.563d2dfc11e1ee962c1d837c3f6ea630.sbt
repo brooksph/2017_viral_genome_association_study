@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960275.1/GCF_001960275.1_ViralProj361834_genomic.fna.gz",
+        "filename": "GCF_001960275.1_ViralProj361834_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032750.1 Shahe narna-like virus 3 strain SHWC01c3372 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

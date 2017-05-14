@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930375.1/GCF_000930375.1_ViralProj268423_genomic.fna.gz",
+        "filename": "GCF_000930375.1_ViralProj268423_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025713.1 Circoviridae 8 LDMD-2013, complete genome",
         "signatures": [
             {
                 "ksize": 31,

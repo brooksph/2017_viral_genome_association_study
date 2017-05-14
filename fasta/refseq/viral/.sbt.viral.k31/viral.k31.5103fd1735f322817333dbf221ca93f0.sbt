@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001695505.1/GCF_001695505.1_ViralProj331043_genomic.fna.gz",
+        "filename": "GCF_001695505.1_ViralProj331043_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030654.1 Fusarium graminearum deltaflexivirus 1 isolate BJ59, complete genome",
         "signatures": [
             {
                 "ksize": 31,

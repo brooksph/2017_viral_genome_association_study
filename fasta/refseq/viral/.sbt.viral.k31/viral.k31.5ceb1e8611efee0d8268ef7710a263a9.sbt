@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857225.1/GCF_000857225.1_ViralMultiSegProj15179_genomic.fna.gz",
+        "filename": "GCF_000857225.1_ViralMultiSegProj15179_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000869.1 Tomato yellow leaf curl Thailand virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

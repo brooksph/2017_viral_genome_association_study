@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845025.2/GCF_000845025.2_ViralProj14500_genomic.fna.gz",
+        "filename": "GCF_000845025.2_ViralProj14500_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002484.2 Bacteriophage D3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

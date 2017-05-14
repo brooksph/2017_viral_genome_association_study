@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896075.1/GCF_000896075.1_ViralProj129589_genomic.fna.gz",
+        "filename": "GCF_000896075.1_ViralProj129589_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017003.1 Clitocybe odora virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

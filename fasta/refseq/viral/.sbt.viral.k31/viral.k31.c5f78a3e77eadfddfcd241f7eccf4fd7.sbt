@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871765.1/GCF_000871765.1_ViralProj19833_genomic.fna.gz",
+        "filename": "GCF_000871765.1_ViralProj19833_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009562.1 Alternanthera yellow vein virus satellite DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

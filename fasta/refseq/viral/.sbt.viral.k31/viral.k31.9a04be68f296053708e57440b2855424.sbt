@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890355.1/GCF_000890355.1_ViralProj60751_genomic.fna.gz",
+        "filename": "GCF_000890355.1_ViralProj60751_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014747.1 Tomato leaf curl Cameroon alphasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001957655.1/GCF_001957655.1_ViralProj361667_genomic.fna.gz",
+        "filename": "GCF_001957655.1_ViralProj361667_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032783.1 Hubei rhabdo-like virus 4 strain arthropodmix13990 hypothetical protein 1, hypothetical protein 2, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

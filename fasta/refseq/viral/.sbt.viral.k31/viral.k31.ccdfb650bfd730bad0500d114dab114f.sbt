@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902455.1/GCF_000902455.1_ViralProj181225_genomic.fna.gz",
+        "filename": "GCF_000902455.1_ViralProj181225_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019521.1 Sphingomonas phage PAU, complete genome",
         "signatures": [
             {
                 "ksize": 31,

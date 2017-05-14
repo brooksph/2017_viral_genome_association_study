@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910015.1/GCF_000910015.1_ViralProj206473_genomic.fna.gz",
+        "filename": "GCF_000910015.1_ViralProj206473_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021326.1 Staphylococcus phage StauST398-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

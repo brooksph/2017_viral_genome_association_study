@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964755.1/GCF_001964755.1_ViralProj362109_genomic.fna.gz",
+        "filename": "GCF_001964755.1_ViralProj362109_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033224.1 Hubei picorna-like virus 1 strain WHSF7464 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

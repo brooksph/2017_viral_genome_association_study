@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864745.1/GCF_000864745.1_ViralMultiSegProj15470_genomic.fna.gz",
+        "filename": "GCF_000864745.1_ViralMultiSegProj15470_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002034.1 Cucumber mosaic virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910895.1/GCF_000910895.1_ViralProj215669_genomic.fna.gz",
+        "filename": "GCF_000910895.1_ViralProj215669_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022090.1 Staphylococcus phage vB_SauM_Remus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

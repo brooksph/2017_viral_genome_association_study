@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894355.2/GCF_000894355.2_ViralProj84399_genomic.fna.gz",
+        "filename": "GCF_000894355.2_ViralProj84399_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016895.2 Bat adenovirus TJM, complete genome",
         "signatures": [
             {
                 "ksize": 31,

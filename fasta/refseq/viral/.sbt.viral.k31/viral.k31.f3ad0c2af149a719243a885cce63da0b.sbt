@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847385.1/GCF_000847385.1_ViralProj14639_genomic.fna.gz",
+        "filename": "GCF_000847385.1_ViralProj14639_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001480.1 Eggplant mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

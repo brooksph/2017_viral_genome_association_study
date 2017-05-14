@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923515.1/GCF_000923515.1_ViralProj252620_genomic.fna.gz",
+        "filename": "GCF_000923515.1_ViralProj252620_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024301.1 Pagoda yellow mosaic associated virus strain pymav-01, complete genome",
         "signatures": [
             {
                 "ksize": 31,

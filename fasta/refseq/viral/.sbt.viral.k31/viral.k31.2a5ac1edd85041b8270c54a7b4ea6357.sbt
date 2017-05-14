@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855565.1/GCF_000855565.1_ViralProj15007_genomic.fna.gz",
+        "filename": "GCF_000855565.1_ViralProj15007_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006431.1 Cryphonectria hypovirus 4 endogenous virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

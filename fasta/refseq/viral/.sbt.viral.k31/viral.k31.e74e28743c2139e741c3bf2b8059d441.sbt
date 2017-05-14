@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839905.1/GCF_000839905.1_ViralProj14142_genomic.fna.gz",
+        "filename": "GCF_000839905.1_ViralProj14142_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003291.2 Bacteriophage PSA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894675.1/GCF_000894675.1_ViralProj167576_genomic.fna.gz",
+        "filename": "GCF_000894675.1_ViralProj167576_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017984.1 Acinetobacter bacteriophage AP22, complete genome",
         "signatures": [
             {
                 "ksize": 31,

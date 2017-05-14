@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906735.1/GCF_000906735.1_ViralProj192866_genomic.fna.gz",
+        "filename": "GCF_000906735.1_ViralProj192866_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020481.1 Pelagibacter phage HTVC010P, complete genome",
         "signatures": [
             {
                 "ksize": 31,

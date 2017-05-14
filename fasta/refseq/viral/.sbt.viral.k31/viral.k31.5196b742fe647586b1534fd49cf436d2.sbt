@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646255.1/GCF_001646255.1_ViralProj321677_genomic.fna.gz",
+        "filename": "GCF_001646255.1_ViralProj321677_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030126.1 Porcine faeces associated smacovirus 1 isolate 49_Fec25_pig, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

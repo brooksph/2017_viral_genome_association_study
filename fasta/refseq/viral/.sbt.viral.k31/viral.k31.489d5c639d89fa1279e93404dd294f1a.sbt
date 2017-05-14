@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875385.1/GCF_000875385.1_ViralProj30293_genomic.fna.gz",
+        "filename": "GCF_000875385.1_ViralProj30293_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009942.1 West Nile virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840165.1/GCF_000840165.1_ViralProj14197_genomic.fna.gz",
+        "filename": "GCF_000840165.1_ViralProj14197_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004003.1 Goatpox virus Pellor, complete genome",
         "signatures": [
             {
                 "ksize": 31,

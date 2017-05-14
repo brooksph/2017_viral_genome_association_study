@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002022195.1/GCF_002022195.1_ViralProj377304_genomic.fna.gz",
+        "filename": "GCF_002022195.1_ViralProj377304_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034007.1 Phnom Penh bat virus strain 30834_A38, complete genome",
         "signatures": [
             {
                 "ksize": 31,

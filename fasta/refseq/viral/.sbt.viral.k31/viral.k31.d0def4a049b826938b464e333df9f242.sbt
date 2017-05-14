@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274105.1/GCF_001274105.1_ViralProj293724_genomic.fna.gz",
+        "filename": "GCF_001274105.1_ViralProj293724_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027790.1 Hermit crab associated circular genome isolate I0085b, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874905.1/GCF_000874905.1_ViralProj28699_genomic.fna.gz",
+        "filename": "GCF_000874905.1_ViralProj28699_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010313.1 Tomato leaf curl Ghana virus segment A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

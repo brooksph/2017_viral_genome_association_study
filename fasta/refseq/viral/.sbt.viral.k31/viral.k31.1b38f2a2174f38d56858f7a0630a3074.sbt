@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884875.1/GCF_000884875.1_ViralProj38267_genomic.fna.gz",
+        "filename": "GCF_000884875.1_ViralProj38267_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012742.1 Xanthomonas phage phiL7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903335.1/GCF_000903335.1_ViralProj181223_genomic.fna.gz",
+        "filename": "GCF_000903335.1_ViralProj181223_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019526.1 Enterobacteria phage vB_KleM-RaK2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

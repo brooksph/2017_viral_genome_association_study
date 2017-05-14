@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886895.1/GCF_000886895.1_ViralProj41611_genomic.fna.gz",
+        "filename": "GCF_000886895.1_ViralProj41611_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013464.1 Saccharum streak virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

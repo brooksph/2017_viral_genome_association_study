@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501435.1/GCF_001501435.1_ViralProj307787_genomic.fna.gz",
+        "filename": "GCF_001501435.1_ViralProj307787_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028948.1 Penicillium aurantiogriseum totivirus 1 isolate MUT4330, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001431935.1/GCF_001431935.1_ViralProj301027_genomic.fna.gz",
+        "filename": "GCF_001431935.1_ViralProj301027_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028238.1 Turkeypox virus strain TKPV-HU1124/2011, complete genome",
         "signatures": [
             {
                 "ksize": 31,

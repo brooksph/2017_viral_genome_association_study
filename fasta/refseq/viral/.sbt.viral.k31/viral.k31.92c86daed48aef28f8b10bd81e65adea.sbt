@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923115.1/GCF_000923115.1_ViralProj253463_genomic.fna.gz",
+        "filename": "GCF_000923115.1_ViralProj253463_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024444.1 Horseshoe bat hepatitis B virus isolate HBHBV/GB09-403/Rhi_alc/GAB/2009, complete genome",
         "signatures": [
             {
                 "ksize": 31,

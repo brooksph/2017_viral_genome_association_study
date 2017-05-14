@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881575.1/GCF_000881575.1_ViralProj32075_genomic.fna.gz",
+        "filename": "GCF_000881575.1_ViralProj32075_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011309.1 Jatropha yellow mosaic India virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

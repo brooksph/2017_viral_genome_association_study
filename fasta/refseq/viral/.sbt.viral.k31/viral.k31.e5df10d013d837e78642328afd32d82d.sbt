@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925815.1/GCF_000925815.1_ViralProj266767_genomic.fna.gz",
+        "filename": "GCF_000925815.1_ViralProj266767_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025428.1 Ruegeria phage DSS3-P1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913895.1/GCF_000913895.1_ViralProj227566_genomic.fna.gz",
+        "filename": "GCF_000913895.1_ViralProj227566_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022802.1 Feline sakobuvirus A isolate FFUP1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

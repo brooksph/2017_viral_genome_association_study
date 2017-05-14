@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905555.1/GCF_000905555.1_ViralProj195515_genomic.fna.gz",
+        "filename": "GCF_000905555.1_ViralProj195515_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020875.1 Cyanophage S-SSM4 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

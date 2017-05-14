@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884075.1/GCF_000884075.1_ViralProj39585_genomic.fna.gz",
+        "filename": "GCF_000884075.1_ViralProj39585_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013007.1 Carrot yellow leaf virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

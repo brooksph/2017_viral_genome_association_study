@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837305.1/GCF_000837305.1_ViralMultiSegProj14121_genomic.fna.gz",
+        "filename": "GCF_000837305.1_ViralMultiSegProj14121_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002984.1 Cucurbit leaf crumple virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

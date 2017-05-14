@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862745.1/GCF_000862745.1_ViralProj15437_genomic.fna.gz",
+        "filename": "GCF_000862745.1_ViralProj15437_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001961.1 Porcine respiratory and reproductive syndrome virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

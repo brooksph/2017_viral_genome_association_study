@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001271075.1/GCF_001271075.1_ViralMultiSegProj293055_genomic.fna.gz",
+        "filename": "GCF_001271075.1_ViralMultiSegProj293055_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027717.1 Hunter Island virus isolate CSIRO1568 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

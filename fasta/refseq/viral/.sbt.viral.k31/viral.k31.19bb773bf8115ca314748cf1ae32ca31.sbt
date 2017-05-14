@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903295.1/GCF_000903295.1_ViralProj181215_genomic.fna.gz",
+        "filename": "GCF_000903295.1_ViralProj181215_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019525.1 Bdellovibrio phage phi1422, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274225.2/GCF_001274225.2_ViralMultiSegProj293722_genomic.fna.gz",
+        "filename": "GCF_001274225.2_ViralMultiSegProj293722_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027803.1 Fengkai orbivirus isolate D181/2008 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

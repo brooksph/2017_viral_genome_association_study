@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926715.1/GCF_000926715.1_ViralProj266636_genomic.fna.gz",
+        "filename": "GCF_000926715.1_ViralProj266636_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025425.1 Enterobacteria phage GEC-3S complete genome",
         "signatures": [
             {
                 "ksize": 31,

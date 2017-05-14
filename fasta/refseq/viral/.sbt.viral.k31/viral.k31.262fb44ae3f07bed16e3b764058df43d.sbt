@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872985.1/GCF_000872985.1_ViralProj18847_genomic.fna.gz",
+        "filename": "GCF_000872985.1_ViralProj18847_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009026.2 Bussuquara virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

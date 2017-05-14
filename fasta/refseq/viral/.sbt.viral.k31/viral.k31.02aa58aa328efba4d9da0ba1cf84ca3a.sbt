@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504635.1/GCF_001504635.1_ViralProj307828_genomic.fna.gz",
+        "filename": "GCF_001504635.1_ViralProj307828_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028997.1 Enterobacteria phage JenP2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

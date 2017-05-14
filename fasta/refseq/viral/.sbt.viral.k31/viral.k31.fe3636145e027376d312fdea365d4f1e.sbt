@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900975.1/GCF_000900975.1_ViralProj181992_genomic.fna.gz",
+        "filename": "GCF_000900975.1_ViralProj181992_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019540.1 Salinivibrio phage CW02, complete genome",
         "signatures": [
             {
                 "ksize": 31,

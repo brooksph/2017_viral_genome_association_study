@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907295.1/GCF_000907295.1_ViralProj202888_genomic.fna.gz",
+        "filename": "GCF_000907295.1_ViralProj202888_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021205.1 Tomato leaf curl China virus - OX2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

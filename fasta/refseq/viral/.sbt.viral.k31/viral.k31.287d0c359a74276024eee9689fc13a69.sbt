@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001308375.1/GCF_001308375.1_ViralProj298049_genomic.fna.gz",
+        "filename": "GCF_001308375.1_ViralProj298049_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027921.1 Binucleate Rhizoctonia mitovirus K1 isolate FAS2909W, complete genome",
         "signatures": [
             {
                 "ksize": 31,

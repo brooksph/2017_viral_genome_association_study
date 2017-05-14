@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859665.1/GCF_000859665.1_ViralProj15152_genomic.fna.gz",
+        "filename": "GCF_000859665.1_ViralProj15152_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003266.2 Human adenovirus E, complete genome",
         "signatures": [
             {
                 "ksize": 31,

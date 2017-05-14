@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844405.1/GCF_000844405.1_ViralMultiSegProj14556_genomic.fna.gz",
+        "filename": "GCF_000844405.1_ViralMultiSegProj14556_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006633.1 Cotesia congregata virus complete genome, segment Circle1",
         "signatures": [
             {
                 "ksize": 31,

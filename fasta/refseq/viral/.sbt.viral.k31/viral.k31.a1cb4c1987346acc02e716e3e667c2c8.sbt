@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922575.1/GCF_000922575.1_ViralProj261347_genomic.fna.gz",
+        "filename": "GCF_000922575.1_ViralProj261347_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024889.1 Equine hepacivirus JPN3/JAPAN/2013 gene for polyprotein, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902515.1/GCF_000902515.1_ViralProj181237_genomic.fna.gz",
+        "filename": "GCF_000902515.1_ViralProj181237_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019516.1 Cyanophage S-TIM5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

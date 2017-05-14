@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000931155.1/GCF_000931155.1_ViralProj275612_genomic.fna.gz",
+        "filename": "GCF_000931155.1_ViralProj275612_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026473.1 Meles meles polyomavirus 1 isolate French, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915935.1/GCF_000915935.1_ViralProj232841_genomic.fna.gz",
+        "filename": "GCF_000915935.1_ViralProj232841_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023177.1 Choristoneura murinana alphabaculovirus strain Darmstadt, complete genome",
         "signatures": [
             {
                 "ksize": 31,

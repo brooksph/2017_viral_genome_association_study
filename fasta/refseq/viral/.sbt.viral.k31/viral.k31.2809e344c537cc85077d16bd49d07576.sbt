@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881995.1/GCF_000881995.1_ViralProj33537_genomic.fna.gz",
+        "filename": "GCF_000881995.1_ViralProj33537_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011811.1 Erwinia phage phiEa21-4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

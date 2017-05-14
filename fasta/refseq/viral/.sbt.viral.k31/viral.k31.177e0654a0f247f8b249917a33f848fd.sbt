@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001675505.1/GCF_001675505.1_ViralMultiSegProj326136_genomic.fna.gz",
+        "filename": "GCF_001675505.1_ViralMultiSegProj326136_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030378.1 Tospovirus kiwifruit/YXW/2014 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

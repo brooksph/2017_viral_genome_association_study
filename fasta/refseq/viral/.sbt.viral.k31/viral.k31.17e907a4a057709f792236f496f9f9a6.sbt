@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001634495.1/GCF_001634495.1_ViralProj319880_genomic.fna.gz",
+        "filename": "GCF_001634495.1_ViralProj319880_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029994.1 Tobacco leaf curl virus isolate KH6, complete genome",
         "signatures": [
             {
                 "ksize": 31,

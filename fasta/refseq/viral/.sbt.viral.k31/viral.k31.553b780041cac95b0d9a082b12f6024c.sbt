@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505475.1/GCF_001505475.1_ViralProj307869_genomic.fna.gz",
+        "filename": "GCF_001505475.1_ViralProj307869_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028875.1 Malvastrum yellow vein Chitwan betasatellite clone bet07, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

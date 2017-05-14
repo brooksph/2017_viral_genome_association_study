@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501455.1/GCF_001501455.1_ViralProj307791_genomic.fna.gz",
+        "filename": "GCF_001501455.1_ViralProj307791_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028963.1 Rat arterivirus Jilin2014, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001471015.1/GCF_001471015.1_ViralProj306351_genomic.fna.gz",
+        "filename": "GCF_001471015.1_ViralProj306351_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028689.1 Mycobacterium phage Colbert, complete genome",
         "signatures": [
             {
                 "ksize": 31,

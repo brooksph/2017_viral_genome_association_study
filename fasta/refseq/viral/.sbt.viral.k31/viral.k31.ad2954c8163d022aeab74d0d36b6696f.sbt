@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000969195.1/GCF_000969195.1_ViralProj280300_genomic.fna.gz",
+        "filename": "GCF_000969195.1_ViralProj280300_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026761.1 Tomato enation leaf curl virus isolate TC14 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

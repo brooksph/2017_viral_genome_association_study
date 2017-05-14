@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882255.1/GCF_000882255.1_ViralMultiSegProj32175_genomic.fna.gz",
+        "filename": "GCF_000882255.1_ViralMultiSegProj32175_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011346.1 Clerodendrum golden mosaic China virus DNA A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

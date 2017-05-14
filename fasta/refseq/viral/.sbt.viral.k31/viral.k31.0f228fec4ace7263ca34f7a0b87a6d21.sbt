@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001743675.1/GCF_001743675.1_ViralProj344109_genomic.fna.gz",
+        "filename": "GCF_001743675.1_ViralProj344109_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031121.1 Bacillus phage Aurora, complete genome",
         "signatures": [
             {
                 "ksize": 31,

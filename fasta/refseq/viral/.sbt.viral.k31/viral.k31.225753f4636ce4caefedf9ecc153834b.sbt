@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857205.1/GCF_000857205.1_ViralMultiSegProj15175_genomic.fna.gz",
+        "filename": "GCF_000857205.1_ViralMultiSegProj15175_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001467.1 African cassava mosaic virus isolate West Kenyan 844 segment DNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

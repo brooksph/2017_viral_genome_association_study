@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001041735.1/GCF_001041735.1_ViralProj287959_genomic.fna.gz",
+        "filename": "GCF_001041735.1_ViralProj287959_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027334.1 Aurantimonas phage AmM-1 DNA, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

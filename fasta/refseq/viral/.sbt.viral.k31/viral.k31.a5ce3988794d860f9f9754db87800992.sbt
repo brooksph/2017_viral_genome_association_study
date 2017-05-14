@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001343825.1/GCF_001343825.1_ViralMultiSegProj209727_genomic.fna.gz",
+        "filename": "GCF_001343825.1_ViralMultiSegProj209727_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021590.1 Rotavirus G chicken/03V0567/DEU/2003 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

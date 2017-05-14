@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864005.1/GCF_000864005.1_ViralProj15520_genomic.fna.gz",
+        "filename": "GCF_000864005.1_ViralProj15520_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001959.2 Norovirus GI, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504015.1/GCF_001504015.1_ViralProj307870_genomic.fna.gz",
+        "filename": "GCF_001504015.1_ViralProj307870_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028985.1 Okra leaf curl Oman virus, complete genome, isolate OK-2",
         "signatures": [
             {
                 "ksize": 31,

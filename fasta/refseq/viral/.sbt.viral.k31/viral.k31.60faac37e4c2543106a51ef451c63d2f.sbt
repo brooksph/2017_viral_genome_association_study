@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904775.1/GCF_000904775.1_ViralProj198869_genomic.fna.gz",
+        "filename": "GCF_000904775.1_ViralProj198869_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021153.1 Rodent hepacivirus isolate RHV-339, complete genome",
         "signatures": [
             {
                 "ksize": 31,

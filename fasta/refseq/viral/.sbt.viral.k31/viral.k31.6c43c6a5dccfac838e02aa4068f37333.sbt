@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430315.1/GCF_001430315.1_ViralProj300228_genomic.fna.gz",
+        "filename": "GCF_001430315.1_ViralProj300228_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028115.1 Sida yellow vein mosaic alphasatellite isolate WOK75, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

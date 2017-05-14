@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504995.1/GCF_001504995.1_ViralProj307904_genomic.fna.gz",
+        "filename": "GCF_001504995.1_ViralProj307904_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028965.1 Mycobacterium phage Pioneer, complete genome",
         "signatures": [
             {
                 "ksize": 31,

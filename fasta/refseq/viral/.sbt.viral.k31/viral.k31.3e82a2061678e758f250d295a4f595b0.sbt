@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880515.1/GCF_000880515.1_ViralProj31177_genomic.fna.gz",
+        "filename": "GCF_000880515.1_ViralProj31177_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011203.1 Human adenovirus B1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

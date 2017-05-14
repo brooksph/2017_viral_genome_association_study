@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898235.1/GCF_000898235.1_ViralProj167865_genomic.fna.gz",
+        "filename": "GCF_000898235.1_ViralProj167865_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017993.1 Human papillomavirus type 135, complete genome",
         "signatures": [
             {
                 "ksize": 31,

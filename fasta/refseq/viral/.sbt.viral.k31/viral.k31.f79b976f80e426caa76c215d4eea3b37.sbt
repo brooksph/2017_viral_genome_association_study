@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846545.1/GCF_000846545.1_ViralProj14459_genomic.fna.gz",
+        "filename": "GCF_000846545.1_ViralProj14459_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001335.1 Mycobacterium phage L5 complete genome",
         "signatures": [
             {
                 "ksize": 31,

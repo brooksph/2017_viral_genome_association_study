@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837705.2/GCF_000837705.2_ViralProj14038_genomic.fna.gz",
+        "filename": "GCF_000837705.2_ViralProj14038_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001936.1 Squash leaf curl virus A component DNA, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

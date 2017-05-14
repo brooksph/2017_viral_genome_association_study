@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872485.1/GCF_000872485.1_ViralMultiSegProj28327_genomic.fna.gz",
+        "filename": "GCF_000872485.1_ViralMultiSegProj28327_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010252.1 Cupixi virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852865.1/GCF_000852865.1_ViralProj14773_genomic.fna.gz",
+        "filename": "GCF_000852865.1_ViralProj14773_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003637.1 Mexican papita viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

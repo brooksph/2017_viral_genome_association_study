@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930875.1/GCF_000930875.1_ViralProj273464_genomic.fna.gz",
+        "filename": "GCF_000930875.1_ViralProj273464_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026242.1 Tipula oleracea nudivirus isolate 35, complete genome",
         "signatures": [
             {
                 "ksize": 31,

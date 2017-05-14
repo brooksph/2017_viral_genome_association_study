@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964555.1/GCF_001964555.1_ViralProj362069_genomic.fna.gz",
+        "filename": "GCF_001964555.1_ViralProj362069_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032912.1 Hubei Poty-like virus 1 strain SCM51506 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

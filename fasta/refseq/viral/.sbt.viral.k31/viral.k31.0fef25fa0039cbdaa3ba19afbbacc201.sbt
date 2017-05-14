@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001611645.1/GCF_001611645.1_ViralMultiSegProj317362_genomic.fna.gz",
+        "filename": "GCF_001611645.1_ViralMultiSegProj317362_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029799.1 Iris yellow spot virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

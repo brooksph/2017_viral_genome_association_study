@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884095.1/GCF_000884095.1_ViralMultiSegProj39595_genomic.fna.gz",
+        "filename": "GCF_000884095.1_ViralMultiSegProj39595_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013014.1 Sclerotinia sclerotiorum partitivirus S segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

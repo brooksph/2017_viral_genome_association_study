@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001746115.1/GCF_001746115.1_ViralProj344210_genomic.fna.gz",
+        "filename": "GCF_001746115.1_ViralProj344210_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031080.1 Mycobacterium phage Tonenili, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962095.1/GCF_001962095.1_ViralProj361906_genomic.fna.gz",
+        "filename": "GCF_001962095.1_ViralProj361906_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032954.1 Hubei toti-like virus 5 strain WHSWHC37547 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868125.1/GCF_000868125.1_ViralProj16796_genomic.fna.gz",
+        "filename": "GCF_000868125.1_ViralProj16796_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008033.1 Starling circovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923155.1/GCF_000923155.1_ViralProj253719_genomic.fna.gz",
+        "filename": "GCF_000923155.1_ViralProj253719_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024451.1 Armadillidium vulgare iridescent virus complete genome",
         "signatures": [
             {
                 "ksize": 31,

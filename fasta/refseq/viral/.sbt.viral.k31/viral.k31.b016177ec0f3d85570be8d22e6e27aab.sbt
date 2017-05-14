@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873765.1/GCF_000873765.1_ViralProj27903_genomic.fna.gz",
+        "filename": "GCF_000873765.1_ViralProj27903_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009990.1 Thalassomonas phage BA3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

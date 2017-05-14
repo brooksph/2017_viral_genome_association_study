@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001876855.1/GCF_001876855.1_ViralProj353087_genomic.fna.gz",
+        "filename": "GCF_001876855.1_ViralProj353087_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031761.1 Anticarsia gemmatalis multicapsid nucleopolyhedrovirus isolate AgMNPV-37, complete genome",
         "signatures": [
             {
                 "ksize": 31,

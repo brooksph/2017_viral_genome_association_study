@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855185.1/GCF_000855185.1_ViralProj15099_genomic.fna.gz",
+        "filename": "GCF_000855185.1_ViralProj15099_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003400.1 Scallion virus X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

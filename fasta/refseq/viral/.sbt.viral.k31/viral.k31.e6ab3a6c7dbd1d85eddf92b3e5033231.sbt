@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892135.1/GCF_000892135.1_ViralMultiSegProj67693_genomic.fna.gz",
+        "filename": "GCF_000892135.1_ViralMultiSegProj67693_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015627.1 Tobacco yellow crinkle virus DNA A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

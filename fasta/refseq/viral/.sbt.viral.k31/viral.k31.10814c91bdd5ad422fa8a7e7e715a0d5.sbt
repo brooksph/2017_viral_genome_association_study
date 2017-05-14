@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859005.1/GCF_000859005.1_ViralProj15188_genomic.fna.gz",
+        "filename": "GCF_000859005.1_ViralProj15188_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003347.1 Grapevine fleck virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839085.1/GCF_000839085.1_ViralProj14152_genomic.fna.gz",
+        "filename": "GCF_000839085.1_ViralProj14152_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003380.1 Rice yellow mottle virus satellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

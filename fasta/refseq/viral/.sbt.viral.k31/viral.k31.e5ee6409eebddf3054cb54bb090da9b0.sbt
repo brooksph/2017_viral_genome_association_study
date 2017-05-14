@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504595.1/GCF_001504595.1_ViralProj308020_genomic.fna.gz",
+        "filename": "GCF_001504595.1_ViralProj308020_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028840.1 Escherichia phage slur09 genome assembly slu09, chromosome : 1",
         "signatures": [
             {
                 "ksize": 31,

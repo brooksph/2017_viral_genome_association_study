@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862345.1/GCF_000862345.1_ViralProj15350_genomic.fna.gz",
+        "filename": "GCF_000862345.1_ViralProj15350_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001846.1 Mouse hepatitis virus strain MHV-A59 C12 mutant, complete genome",
         "signatures": [
             {
                 "ksize": 31,

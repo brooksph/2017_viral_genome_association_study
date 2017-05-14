@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001310135.2/GCF_001310135.2_ViralProj298087_genomic.fna.gz",
+        "filename": "GCF_001310135.2_ViralProj298087_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027998.2 Human pegivirus 2 isolate UC0125.US polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

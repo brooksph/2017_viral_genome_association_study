@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897495.1/GCF_000897495.1_ViralMultiSegProj172462_genomic.fna.gz",
+        "filename": "GCF_000897495.1_ViralMultiSegProj172462_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018383.1 Grapevine Anatolian ringspot virus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

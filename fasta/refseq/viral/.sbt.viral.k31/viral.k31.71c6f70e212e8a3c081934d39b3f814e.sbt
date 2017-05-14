@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872885.1/GCF_000872885.1_ViralMultiSegProj29847_genomic.fna.gz",
+        "filename": "GCF_000872885.1_ViralMultiSegProj29847_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010705.1 Ceratocystis polonica partitivirus segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

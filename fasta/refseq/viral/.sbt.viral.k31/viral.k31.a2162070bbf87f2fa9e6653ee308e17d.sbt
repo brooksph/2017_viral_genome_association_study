@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886615.1/GCF_000886615.1_ViralProj39615_genomic.fna.gz",
+        "filename": "GCF_000886615.1_ViralProj39615_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013022.2 Ipomoea yellow vein virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

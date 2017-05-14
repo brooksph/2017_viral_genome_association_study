@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861565.1/GCF_000861565.1_ViralProj15371_genomic.fna.gz",
+        "filename": "GCF_000861565.1_ViralProj15371_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003988.1 Simian enterovirus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

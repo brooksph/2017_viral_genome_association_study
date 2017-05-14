@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854345.1/GCF_000854345.1_ViralProj15066_genomic.fna.gz",
+        "filename": "GCF_000854345.1_ViralProj15066_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003532.1 Cymbidium ringspot virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

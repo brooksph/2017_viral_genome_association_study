@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646155.1/GCF_001646155.1_ViralProj321698_genomic.fna.gz",
+        "filename": "GCF_001646155.1_ViralProj321698_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030117.1 Canid herpesvirus 1 strain 0194, complete genome",
         "signatures": [
             {
                 "ksize": 31,

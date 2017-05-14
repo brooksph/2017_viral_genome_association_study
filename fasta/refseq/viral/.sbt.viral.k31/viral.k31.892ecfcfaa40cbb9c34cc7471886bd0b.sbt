@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744655.1/GCF_001744655.1_ViralProj344179_genomic.fna.gz",
+        "filename": "GCF_001744655.1_ViralProj344179_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031014.1 Pseudomonas phage Andromeda, complete genome",
         "signatures": [
             {
                 "ksize": 31,

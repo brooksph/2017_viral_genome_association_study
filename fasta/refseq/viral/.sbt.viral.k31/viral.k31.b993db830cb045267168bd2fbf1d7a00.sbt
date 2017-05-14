@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863625.1/GCF_000863625.1_ViralProj15443_genomic.fna.gz",
+        "filename": "GCF_000863625.1_ViralProj15443_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002728.1 Nipah virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

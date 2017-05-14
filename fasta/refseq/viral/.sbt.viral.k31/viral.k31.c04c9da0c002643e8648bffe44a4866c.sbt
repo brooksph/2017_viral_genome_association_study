@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914035.1/GCF_000914035.1_ViralProj230589_genomic.fna.gz",
+        "filename": "GCF_000914035.1_ViralProj230589_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022985.1 Mycobacterium phage Zaka, complete genome",
         "signatures": [
             {
                 "ksize": 31,

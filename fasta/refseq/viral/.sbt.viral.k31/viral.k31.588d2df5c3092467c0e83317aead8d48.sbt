@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883915.1/GCF_000883915.1_ViralProj38295_genomic.fna.gz",
+        "filename": "GCF_000883915.1_ViralProj38295_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012735.1 Wesselsbron virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

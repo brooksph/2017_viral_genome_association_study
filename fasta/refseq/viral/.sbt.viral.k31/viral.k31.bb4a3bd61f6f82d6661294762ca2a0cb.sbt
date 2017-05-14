@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001579495.1/GCF_001579495.1_ViralProj313551_genomic.fna.gz",
+        "filename": "GCF_001579495.1_ViralProj313551_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029314.1 Acidianus rod-shaped virus 2 strain ARV2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916915.1/GCF_000916915.1_ViralProj237558_genomic.fna.gz",
+        "filename": "GCF_000916915.1_ViralProj237558_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023441.1 Chaetoceros sp. DNA virus 7 genes for putative replication-associated protein, hypothetical proteins, complete cds, isolate: Csp07DNAV",
         "signatures": [
             {
                 "ksize": 31,

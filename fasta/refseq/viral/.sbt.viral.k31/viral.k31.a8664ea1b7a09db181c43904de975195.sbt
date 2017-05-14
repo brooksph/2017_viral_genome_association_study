@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880195.2/GCF_000880195.2_ViralProj30363_genomic.fna.gz",
+        "filename": "GCF_000880195.2_ViralProj30363_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010986.1 Curvularia thermal tolerance virus RNA2, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

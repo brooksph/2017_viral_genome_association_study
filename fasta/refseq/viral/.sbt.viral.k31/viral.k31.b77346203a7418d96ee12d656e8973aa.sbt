@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502975.1/GCF_001502975.1_ViralProj307817_genomic.fna.gz",
+        "filename": "GCF_001502975.1_ViralProj307817_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029012.1 Parabacteroides phage YZ-2015a, complete genome",
         "signatures": [
             {
                 "ksize": 31,

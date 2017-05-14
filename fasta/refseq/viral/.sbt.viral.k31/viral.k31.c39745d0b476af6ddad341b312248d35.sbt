@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964475.1/GCF_001964475.1_ViralMultiSegProj362053_genomic.fna.gz",
+        "filename": "GCF_001964475.1_ViralMultiSegProj362053_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033331.1 Hubei diptera virus 13 strain SCM94998 segment 1 hypothetical protein 1 and RdRp genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

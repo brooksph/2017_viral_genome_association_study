@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001500795.1/GCF_001500795.1_ViralProj307790_genomic.fna.gz",
+        "filename": "GCF_001500795.1_ViralProj307790_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028987.1 Acinetobacter phage vB_AbaP_IME200, complete genome",
         "signatures": [
             {
                 "ksize": 31,

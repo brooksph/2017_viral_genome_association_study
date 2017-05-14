@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912175.1/GCF_000912175.1_ViralProj225011_genomic.fna.gz",
+        "filename": "GCF_000912175.1_ViralProj225011_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022586.1 Sweet potato leaf curl Henan4 virus isolate China:Sichuan14:2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913695.1/GCF_000913695.1_ViralProj226107_genomic.fna.gz",
+        "filename": "GCF_000913695.1_ViralProj226107_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022647.1 Mesocricetus auratus papillomavirus 1 complete genome, isolate APV10",
         "signatures": [
             {
                 "ksize": 31,

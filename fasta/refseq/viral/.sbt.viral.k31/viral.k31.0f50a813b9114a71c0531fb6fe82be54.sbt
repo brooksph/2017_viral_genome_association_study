@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001440975.1/GCF_001440975.1_ViralProj301258_genomic.fna.gz",
+        "filename": "GCF_001440975.1_ViralProj301258_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028270.1 Yellowstone Lake virophage 6, complete genome",
         "signatures": [
             {
                 "ksize": 31,

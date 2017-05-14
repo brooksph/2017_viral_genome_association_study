@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868105.1/GCF_000868105.1_ViralProj16750_genomic.fna.gz",
+        "filename": "GCF_000868105.1_ViralProj16750_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008017.1 Sugarcane bacilliform Mor virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

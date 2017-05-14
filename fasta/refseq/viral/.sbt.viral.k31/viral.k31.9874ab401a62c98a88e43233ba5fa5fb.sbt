@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913955.1/GCF_000913955.1_ViralProj230064_genomic.fna.gz",
+        "filename": "GCF_000913955.1_ViralProj230064_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022919.1 Cardamom bushy dwarf virus satellite clone Fr-X7, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

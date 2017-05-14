@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001970525.1/GCF_001970525.1_ViralProj362932_genomic.fna.gz",
+        "filename": "GCF_001970525.1_ViralProj362932_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033430.1 Wenzhou tombus-like virus 2 strain WZFSL84050 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

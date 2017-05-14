@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854545.1/GCF_000854545.1_ViralMultiSegProj14959_genomic.fna.gz",
+        "filename": "GCF_000854545.1_ViralMultiSegProj14959_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006051.1 Lettuce ring necrosis virus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

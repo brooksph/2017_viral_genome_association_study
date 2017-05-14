@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004495.1/GCF_002004495.1_ViralProj375021_genomic.fna.gz",
+        "filename": "GCF_002004495.1_ViralProj375021_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033718.1 Wuhan spider virus 3 strain spider133889 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

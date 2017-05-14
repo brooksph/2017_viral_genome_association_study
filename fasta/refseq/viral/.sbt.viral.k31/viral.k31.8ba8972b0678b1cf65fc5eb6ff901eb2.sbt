@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889955.1/GCF_000889955.1_ViralMultiSegProj49651_genomic.fna.gz",
+        "filename": "GCF_000889955.1_ViralMultiSegProj49651_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014236.1 Broome virus segment L1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

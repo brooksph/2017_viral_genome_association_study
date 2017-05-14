@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890655.1/GCF_000890655.1_ViralProj63231_genomic.fna.gz",
+        "filename": "GCF_000890655.1_ViralProj63231_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015158.1 Vibrio phage ICP2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

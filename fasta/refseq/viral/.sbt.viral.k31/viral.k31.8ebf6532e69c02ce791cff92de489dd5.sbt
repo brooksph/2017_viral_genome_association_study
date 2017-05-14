@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865085.1/GCF_000865085.1_ViralMultiSegProj15622_genomic.fna.gz",
+        "filename": "GCF_000865085.1_ViralMultiSegProj15622_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007373.1 Influenza A virus (A/New York/392/2004(H3N2)) segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

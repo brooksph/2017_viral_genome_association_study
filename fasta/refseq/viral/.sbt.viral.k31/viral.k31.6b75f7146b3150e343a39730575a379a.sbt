@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855045.1/GCF_000855045.1_ViralProj15069_genomic.fna.gz",
+        "filename": "GCF_000855045.1_ViralProj15069_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003820.1 White clover mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

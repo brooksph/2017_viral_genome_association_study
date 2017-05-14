@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001968235.1/GCF_001968235.1_ViralProj361692_genomic.fna.gz",
+        "filename": "GCF_001968235.1_ViralProj361692_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033164.1 Wenzhou shrimp virus 10 strain WZRBX43419 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

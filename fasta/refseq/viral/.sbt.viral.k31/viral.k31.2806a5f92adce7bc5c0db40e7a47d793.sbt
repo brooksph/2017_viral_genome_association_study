@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879895.1/GCF_000879895.1_ViralProj29283_genomic.fna.gz",
+        "filename": "GCF_000879895.1_ViralProj29283_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010576.1 Lactococcus phage 1706, complete genome",
         "signatures": [
             {
                 "ksize": 31,

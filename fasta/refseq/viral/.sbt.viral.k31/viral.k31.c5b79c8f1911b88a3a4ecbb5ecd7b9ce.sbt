@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860565.1/GCF_000860565.1_ViralProj15320_genomic.fna.gz",
+        "filename": "GCF_000860565.1_ViralProj15320_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004763.2 African green monkey polyomavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

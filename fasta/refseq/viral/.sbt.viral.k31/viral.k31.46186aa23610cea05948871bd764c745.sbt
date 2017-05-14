@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502415.1/GCF_001502415.1_ViralProj307687_genomic.fna.gz",
+        "filename": "GCF_001502415.1_ViralProj307687_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028747.1 Mycobacterium phage Brusacoram, complete genome",
         "signatures": [
             {
                 "ksize": 31,

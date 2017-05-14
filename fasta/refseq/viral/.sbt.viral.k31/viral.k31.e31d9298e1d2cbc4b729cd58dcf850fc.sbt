@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867585.1/GCF_000867585.1_ViralProj17595_genomic.fna.gz",
+        "filename": "GCF_000867585.1_ViralProj17595_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008317.1 Siegesbeckia yellow vein Guangxi virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

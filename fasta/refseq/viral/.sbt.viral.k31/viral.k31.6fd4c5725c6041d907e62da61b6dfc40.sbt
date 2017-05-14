@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848525.1/GCF_000848525.1_ViralProj14707_genomic.fna.gz",
+        "filename": "GCF_000848525.1_ViralProj14707_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002604.1 Botrytis virus F, complete genome",
         "signatures": [
             {
                 "ksize": 31,

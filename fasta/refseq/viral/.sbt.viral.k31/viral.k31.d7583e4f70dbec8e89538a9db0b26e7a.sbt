@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899715.1/GCF_000899715.1_ViralMultiSegProj167870_genomic.fna.gz",
+        "filename": "GCF_000899715.1_ViralMultiSegProj167870_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017990.1 Botrytis porri RNA virus 1 RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

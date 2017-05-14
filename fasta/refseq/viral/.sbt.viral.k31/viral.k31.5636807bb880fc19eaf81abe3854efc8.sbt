@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848385.1/GCF_000848385.1_ViralProj14678_genomic.fna.gz",
+        "filename": "GCF_000848385.1_ViralProj14678_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001782.1 Saccharomyces cerevisiae killer virus M1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

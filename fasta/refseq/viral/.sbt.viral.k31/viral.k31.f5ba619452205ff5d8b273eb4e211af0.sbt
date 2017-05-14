@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001924075.1/GCF_001924075.1_ViralProj358923_genomic.fna.gz",
+        "filename": "GCF_001924075.1_ViralProj358923_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032245.1 Hubei myriapoda virus 8 strain WGML66308 putative glycoprotein, hypothetical protein 1, hypothetical protein 2, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

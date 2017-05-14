@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925955.1/GCF_000925955.1_ViralMultiSegProj267135_genomic.fna.gz",
+        "filename": "GCF_000925955.1_ViralMultiSegProj267135_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025477.1 Lilac leaf chlorosis virus replicase gene for methyltransferase/helicase, segment RNA 1, genomic RNA",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962855.1/GCF_001962855.1_ViralProj361872_genomic.fna.gz",
+        "filename": "GCF_001962855.1_ViralProj361872_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033209.1 Sanxia picorna-like virus 4 strain SXXX37816 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

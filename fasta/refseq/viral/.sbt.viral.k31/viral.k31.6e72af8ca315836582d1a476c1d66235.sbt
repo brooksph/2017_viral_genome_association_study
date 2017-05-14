@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871365.1/GCF_000871365.1_ViralProj28053_genomic.fna.gz",
+        "filename": "GCF_000871365.1_ViralProj28053_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010116.1 Pseudomonas phage YuA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913275.1/GCF_000913275.1_ViralProj215112_genomic.fna.gz",
+        "filename": "GCF_000913275.1_ViralProj215112_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022063.1 Myobacteriophage Phelemich, complete genome",
         "signatures": [
             {
                 "ksize": 31,

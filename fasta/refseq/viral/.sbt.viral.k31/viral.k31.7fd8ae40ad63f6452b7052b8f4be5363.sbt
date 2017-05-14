@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001725855.1/GCF_001725855.1_ViralProj342645_genomic.fna.gz",
+        "filename": "GCF_001725855.1_ViralProj342645_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030887.1 Common bean-associated gemycircularvirus isolate 53_2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

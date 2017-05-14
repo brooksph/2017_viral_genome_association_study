@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851565.1/GCF_000851565.1_ViralMultiSegProj14833_genomic.fna.gz",
+        "filename": "GCF_000851565.1_ViralMultiSegProj14833_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004008.1 Broad bean mottle virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

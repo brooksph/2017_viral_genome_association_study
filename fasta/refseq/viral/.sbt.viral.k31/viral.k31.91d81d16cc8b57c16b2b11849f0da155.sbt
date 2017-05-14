@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927675.1/GCF_000927675.1_ViralProj267778_genomic.fna.gz",
+        "filename": "GCF_000927675.1_ViralProj267778_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025675.1 Norway rat hunnivirus isolate NrHuV/NYC-E21 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

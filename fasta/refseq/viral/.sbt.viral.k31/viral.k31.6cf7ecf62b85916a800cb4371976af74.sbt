@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894795.1/GCF_000894795.1_ViralProj72381_genomic.fna.gz",
+        "filename": "GCF_000894795.1_ViralProj72381_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015935.1 Mouse astrovirus M-52/USA/2008, complete genome",
         "signatures": [
             {
                 "ksize": 31,

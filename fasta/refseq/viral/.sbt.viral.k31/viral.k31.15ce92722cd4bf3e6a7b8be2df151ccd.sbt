@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000973295.1/GCF_000973295.1_ViralProj281399_genomic.fna.gz",
+        "filename": "GCF_000973295.1_ViralProj281399_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026817.1 Human genital-associated circular DNA virus-1 isolate 349, complete genome",
         "signatures": [
             {
                 "ksize": 31,

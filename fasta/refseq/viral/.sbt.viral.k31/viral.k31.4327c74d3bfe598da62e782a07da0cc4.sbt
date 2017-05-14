@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898135.1/GCF_000898135.1_ViralProj167574_genomic.fna.gz",
+        "filename": "GCF_000898135.1_ViralProj167574_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017973.1 Mycobacterium phage SWU1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

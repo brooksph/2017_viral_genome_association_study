@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884555.1/GCF_000884555.1_ViralProj42787_genomic.fna.gz",
+        "filename": "GCF_000884555.1_ViralProj42787_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013648.1 Enterococcus phage phiFL3A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

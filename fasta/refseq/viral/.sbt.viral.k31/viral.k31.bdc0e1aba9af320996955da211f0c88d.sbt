@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430055.5/GCF_001430055.5_ViralProj300260.3_genomic.fna.gz",
+        "filename": "GCF_001430055.5_ViralProj300260.3_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030688.1 Parrot bornavirus 4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

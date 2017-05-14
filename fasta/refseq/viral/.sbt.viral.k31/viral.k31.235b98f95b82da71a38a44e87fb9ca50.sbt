@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900355.1/GCF_000900355.1_ViralProj177773_genomic.fna.gz",
+        "filename": "GCF_000900355.1_ViralProj177773_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018869.1 Mungbean yellow mosaic India virus associated betasatellite [India: Faizabad: Cow Pea:2012], complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903835.1/GCF_000903835.1_ViralProj184161_genomic.fna.gz",
+        "filename": "GCF_000903835.1_ViralProj184161_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019922.1 Enterobacteria phage Hgal1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

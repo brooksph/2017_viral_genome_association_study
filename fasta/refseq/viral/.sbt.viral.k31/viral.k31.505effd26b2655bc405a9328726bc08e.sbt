@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001020055.1/GCF_001020055.1_ViralProj285596_genomic.fna.gz",
+        "filename": "GCF_001020055.1_ViralProj285596_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027127.1 Thika virus putative polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

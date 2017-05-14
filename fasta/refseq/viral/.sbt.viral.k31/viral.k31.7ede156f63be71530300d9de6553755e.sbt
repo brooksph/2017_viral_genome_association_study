@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918395.1/GCF_000918395.1_ViralProj240052_genomic.fna.gz",
+        "filename": "GCF_000918395.1_ViralProj240052_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023591.1 Mycobacterium phage Adler, complete genome",
         "signatures": [
             {
                 "ksize": 31,

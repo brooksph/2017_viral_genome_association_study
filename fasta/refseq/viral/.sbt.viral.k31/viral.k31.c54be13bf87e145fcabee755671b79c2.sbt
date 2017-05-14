@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470295.1/GCF_001470295.1_ViralProj306276_genomic.fna.gz",
+        "filename": "GCF_001470295.1_ViralProj306276_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028674.1 Mycobacterium phage ShiVal, complete genome",
         "signatures": [
             {
                 "ksize": 31,

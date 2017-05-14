@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838585.1/GCF_000838585.1_ViralProj14046_genomic.fna.gz",
+        "filename": "GCF_000838585.1_ViralProj14046_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000882.1 Pepper leaf curl virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

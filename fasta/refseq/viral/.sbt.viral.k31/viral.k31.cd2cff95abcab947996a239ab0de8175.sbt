@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004515.1/GCF_002004515.1_ViralProj375025_genomic.fna.gz",
+        "filename": "GCF_002004515.1_ViralProj375025_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033735.1 Wuhan nido-like virus 1 strain SCM49454 1ab, hypothetical protein, and putative structural polyprotein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

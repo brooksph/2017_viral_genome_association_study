@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912635.1/GCF_000912635.1_ViralMultiSegProj218015_genomic.fna.gz",
+        "filename": "GCF_000912635.1_ViralMultiSegProj218015_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022250.1 Blueberry shock virus isolate Berkely segment RNA1 replicase P1 gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

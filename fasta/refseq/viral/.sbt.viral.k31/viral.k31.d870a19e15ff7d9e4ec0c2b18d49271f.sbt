@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654125.1/GCF_001654125.1_ViralProj323867_genomic.fna.gz",
+        "filename": "GCF_001654125.1_ViralProj323867_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030225.1 Pepo aphid-borne yellows virus isolate RSA BB Marrow, complete genome",
         "signatures": [
             {
                 "ksize": 31,

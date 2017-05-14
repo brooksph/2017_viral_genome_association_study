@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875245.1/GCF_000875245.1_ViralProj30037_genomic.fna.gz",
+        "filename": "GCF_000875245.1_ViralProj30037_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010799.1 Oat dwarf virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

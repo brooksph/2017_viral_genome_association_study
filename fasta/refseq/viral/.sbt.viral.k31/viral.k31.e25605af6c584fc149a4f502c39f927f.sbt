@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874485.1/GCF_000874485.1_ViralProj30095_genomic.fna.gz",
+        "filename": "GCF_000874485.1_ViralProj30095_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010820.1 Simian foamy virus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

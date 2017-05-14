@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858445.1/GCF_000858445.1_ViralProj15230_genomic.fna.gz",
+        "filename": "GCF_000858445.1_ViralProj15230_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005965.1 Gremmeniella abietina RNA virus L2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

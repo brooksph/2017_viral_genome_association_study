@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001580315.1/GCF_001580315.1_ViralMultiSegProj314255_genomic.fna.gz",
+        "filename": "GCF_001580315.1_ViralMultiSegProj314255_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029567.1 Raspberry leaf blotch virus segment RNA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

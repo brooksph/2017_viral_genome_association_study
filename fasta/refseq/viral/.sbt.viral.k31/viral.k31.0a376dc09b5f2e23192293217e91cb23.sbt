@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961275.1/GCF_001961275.1_ViralProj361891_genomic.fna.gz",
+        "filename": "GCF_001961275.1_ViralProj361891_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032765.1 Hubei virga-like virus 9 strain SCM51642 RdRp, hypothetical protein, putative capsid protein, and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

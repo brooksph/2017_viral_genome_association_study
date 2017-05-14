@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856885.1/GCF_000856885.1_ViralProj15102_genomic.fna.gz",
+        "filename": "GCF_000856885.1_ViralProj15102_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "AC_000020.1 Canine adenovirus type 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923075.1/GCF_000923075.1_ViralProj253390_genomic.fna.gz",
+        "filename": "GCF_000923075.1_ViralProj253390_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024387.1 Listeria phage LP-101, complete genome",
         "signatures": [
             {
                 "ksize": 31,

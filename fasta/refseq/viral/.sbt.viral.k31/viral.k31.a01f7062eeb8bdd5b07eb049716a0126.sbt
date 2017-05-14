@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840045.1/GCF_000840045.1_ViralMultiSegProj14173_genomic.fna.gz",
+        "filename": "GCF_000840045.1_ViralMultiSegProj14173_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003648.1 Milk vetch dwarf virus segment DNA-R, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

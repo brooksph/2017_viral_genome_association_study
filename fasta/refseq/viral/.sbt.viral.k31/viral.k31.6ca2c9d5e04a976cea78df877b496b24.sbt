@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001706885.1/GCF_001706885.1_ViralProj339070_genomic.fna.gz",
+        "filename": "GCF_001706885.1_ViralProj339070_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030749.1 Malvastrum yellow vein Honghe virus segment DNA-A, complete sequence, isolate Y249",
         "signatures": [
             {
                 "ksize": 31,

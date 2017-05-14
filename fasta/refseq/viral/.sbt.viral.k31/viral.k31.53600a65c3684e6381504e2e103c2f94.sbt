@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921795.1/GCF_000921795.1_ViralProj251391_genomic.fna.gz",
+        "filename": "GCF_000921795.1_ViralProj251391_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024217.1 Nitrincola phage 1M3-16, complete genome",
         "signatures": [
             {
                 "ksize": 31,

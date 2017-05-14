@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745315.1/GCF_001745315.1_ViralProj344181_genomic.fna.gz",
+        "filename": "GCF_001745315.1_ViralProj344181_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031041.1 Mycobacterium phage Papez, complete genome",
         "signatures": [
             {
                 "ksize": 31,

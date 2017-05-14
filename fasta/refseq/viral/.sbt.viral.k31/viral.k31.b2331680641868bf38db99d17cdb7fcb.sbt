@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930615.1/GCF_000930615.1_ViralMultiSegProj269795_genomic.fna.gz",
+        "filename": "GCF_000930615.1_ViralMultiSegProj269795_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025845.1 Dendrolimus punctatus cypovirus 22 isolate Macheng segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

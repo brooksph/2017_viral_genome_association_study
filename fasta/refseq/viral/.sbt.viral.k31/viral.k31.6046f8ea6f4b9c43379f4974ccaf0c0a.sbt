@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891055.1/GCF_000891055.1_ViralMultiSegProj66547_genomic.fna.gz",
+        "filename": "GCF_000891055.1_ViralMultiSegProj66547_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015488.1 Rhynchosai mild mosaic virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

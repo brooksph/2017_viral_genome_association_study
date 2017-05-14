@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862405.1/GCF_000862405.1_ViralProj15364_genomic.fna.gz",
+        "filename": "GCF_000862405.1_ViralProj15364_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001655.1 Hepatitis GB virus B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

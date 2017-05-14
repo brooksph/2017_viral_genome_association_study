@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863005.1/GCF_000863005.1_ViralProj15311_genomic.fna.gz",
+        "filename": "GCF_000863005.1_ViralProj15311_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001512.1 O'nyong-nyong virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

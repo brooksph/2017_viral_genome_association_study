@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887975.1/GCF_000887975.1_ViralProj61909_genomic.fna.gz",
+        "filename": "GCF_000887975.1_ViralProj61909_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014907.1 Malvastrum yellow mosaic Cameroon alphasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

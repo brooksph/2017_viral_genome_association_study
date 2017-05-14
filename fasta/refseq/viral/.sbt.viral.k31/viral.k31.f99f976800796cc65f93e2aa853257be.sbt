@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850845.1/GCF_000850845.1_ViralProj14822_genomic.fna.gz",
+        "filename": "GCF_000850845.1_ViralProj14822_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003873.1 Trichomonas vaginalis virus II, complete genome",
         "signatures": [
             {
                 "ksize": 31,

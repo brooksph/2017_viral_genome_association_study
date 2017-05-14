@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858605.1/GCF_000858605.1_ViralProj15267_genomic.fna.gz",
+        "filename": "GCF_000858605.1_ViralProj15267_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007051.1 Staphylococcus phage 2638A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

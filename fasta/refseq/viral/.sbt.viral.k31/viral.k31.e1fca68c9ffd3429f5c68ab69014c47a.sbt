@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550785.1/GCF_001550785.1_ViralMultiSegProj308206_genomic.fna.gz",
+        "filename": "GCF_001550785.1_ViralMultiSegProj308206_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029124.1 Tofla virus viral cRNA, complete genome, segment: L",
         "signatures": [
             {
                 "ksize": 31,

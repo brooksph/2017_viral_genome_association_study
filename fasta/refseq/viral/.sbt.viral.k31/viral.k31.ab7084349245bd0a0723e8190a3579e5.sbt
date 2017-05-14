@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551225.1/GCF_001551225.1_ViralProj310901_genomic.fna.gz",
+        "filename": "GCF_001551225.1_ViralProj310901_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029081.1 Pectobacterium phage Peat1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

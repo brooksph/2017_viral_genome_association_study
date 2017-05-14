@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001777205.1/GCF_001777205.1_ViralMultiSegProj348357_genomic.fna.gz",
+        "filename": "GCF_001777205.1_ViralMultiSegProj348357_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031448.1 Macroptilium common mosaic virus isolate ALM2_5B segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

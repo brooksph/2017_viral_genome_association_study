@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893975.1/GCF_000893975.1_ViralMultiSegProj76617_genomic.fna.gz",
+        "filename": "GCF_000893975.1_ViralMultiSegProj76617_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016153.1 Luna virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

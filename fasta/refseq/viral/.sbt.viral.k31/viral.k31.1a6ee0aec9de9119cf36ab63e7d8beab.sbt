@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922335.1/GCF_000922335.1_ViralProj258005_genomic.fna.gz",
+        "filename": "GCF_000922335.1_ViralProj258005_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024697.1 Aureococcus anophagefferens virus isolate BtV-01, complete genome",
         "signatures": [
             {
                 "ksize": 31,

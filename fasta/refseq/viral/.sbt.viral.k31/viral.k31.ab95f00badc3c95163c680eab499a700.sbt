@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867605.1/GCF_000867605.1_ViralProj17721_genomic.fna.gz",
+        "filename": "GCF_000867605.1_ViralProj17721_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008361.1 Spodoptera frugiperda ascovirus 1a complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885955.1/GCF_000885955.1_ViralMultiSegProj40419_genomic.fna.gz",
+        "filename": "GCF_000885955.1_ViralMultiSegProj40419_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013258.1 Tomato infectious chlorosis virus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001921635.1/GCF_001921635.1_ViralMultiSegProj358551_genomic.fna.gz",
+        "filename": "GCF_001921635.1_ViralMultiSegProj358551_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032139.1 Hubei partiti-like virus 11 strain QTM25188 segment Seg 1 RdRp gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001444045.1/GCF_001444045.1_ViralProj302032_genomic.fna.gz",
+        "filename": "GCF_001444045.1_ViralProj302032_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028373.1 Shuangao lacewing virus 2 strain SCL polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879215.1/GCF_000879215.1_ViralProj29107_genomic.fna.gz",
+        "filename": "GCF_000879215.1_ViralProj29107_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010521.1 Squash vein yellowing virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854645.1/GCF_000854645.1_ViralProj14980_genomic.fna.gz",
+        "filename": "GCF_000854645.1_ViralProj14980_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002792.2 Ribgrass mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

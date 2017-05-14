@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889195.1/GCF_000889195.1_ViralProj51591_genomic.fna.gz",
+        "filename": "GCF_000889195.1_ViralProj51591_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014413.1 Turdivirus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

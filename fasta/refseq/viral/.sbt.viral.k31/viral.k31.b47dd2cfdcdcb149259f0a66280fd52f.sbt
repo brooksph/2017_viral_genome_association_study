@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001967215.1/GCF_001967215.1_ViralProj362372_genomic.fna.gz",
+        "filename": "GCF_001967215.1_ViralProj362372_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033334.1 Sweet potato mosaic virus isolate KT10BII, complete genome",
         "signatures": [
             {
                 "ksize": 31,

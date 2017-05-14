@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868845.2/GCF_000868845.2_ViralProj18843.1_genomic.fna.gz",
+        "filename": "GCF_000868845.2_ViralProj18843.1_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032088.1 New Mapoon virus, complete cds",
         "signatures": [
             {
                 "ksize": 31,

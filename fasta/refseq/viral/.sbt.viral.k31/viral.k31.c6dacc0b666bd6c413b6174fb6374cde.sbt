@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867185.1/GCF_000867185.1_ViralProj16747_genomic.fna.gz",
+        "filename": "GCF_000867185.1_ViralProj16747_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008018.1 Banana streak virus Acuminata Yunnan, complete genome",
         "signatures": [
             {
                 "ksize": 31,

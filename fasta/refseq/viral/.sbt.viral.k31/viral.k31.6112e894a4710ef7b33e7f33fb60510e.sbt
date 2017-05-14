@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461065.3/GCF_001461065.3_ViralProj304422_genomic.fna.gz",
+        "filename": "GCF_001461065.3_ViralProj304422_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028466.3 Botrytis cinerea negative-stranded RNA virus 1 RdRp gene for RNA dependent RNA polymerase, isolate HAZ3-9",
         "signatures": [
             {
                 "ksize": 31,

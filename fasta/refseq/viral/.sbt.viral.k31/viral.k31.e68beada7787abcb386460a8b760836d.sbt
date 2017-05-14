@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922215.1/GCF_000922215.1_ViralProj255787_genomic.fna.gz",
+        "filename": "GCF_000922215.1_ViralProj255787_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024485.1 Rosellinia necatrix fusarivirus 1 genomic RNA, complete genome, strain: NW10",
         "signatures": [
             {
                 "ksize": 31,

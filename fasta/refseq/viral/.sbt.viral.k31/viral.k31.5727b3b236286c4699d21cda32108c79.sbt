@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907835.1/GCF_000907835.1_ViralMultiSegProj209367_genomic.fna.gz",
+        "filename": "GCF_000907835.1_ViralMultiSegProj209367_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021541.1 Human rotavirus B strain Bang373 RNA dependent RNA polymerase (VP1) mRNA, complete cds",
         "signatures": [
             {
                 "ksize": 31,

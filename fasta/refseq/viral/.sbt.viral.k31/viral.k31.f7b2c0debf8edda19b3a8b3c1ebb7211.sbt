@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875045.1/GCF_000875045.1_ViralProj29191_genomic.fna.gz",
+        "filename": "GCF_000875045.1_ViralProj29191_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010538.1 Hop mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874985.1/GCF_000874985.1_ViralProj28971_genomic.fna.gz",
+        "filename": "GCF_000874985.1_ViralProj28971_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010434.1 Lolium latent virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

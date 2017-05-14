@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873145.1/GCF_000873145.1_ViralProj19599_genomic.fna.gz",
+        "filename": "GCF_000873145.1_ViralProj19599_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009451.1 Clerodendron yellow mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

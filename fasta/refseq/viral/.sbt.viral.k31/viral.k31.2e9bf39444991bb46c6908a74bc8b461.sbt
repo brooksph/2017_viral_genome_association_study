@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965215.1/GCF_001965215.1_ViralProj362060_genomic.fna.gz",
+        "filename": "GCF_001965215.1_ViralProj362060_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033070.1 Hubei dimarhabdovirus virus 1 strain SCM51525 putative nucleoprotein, hypothetical protein, putative matrix protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

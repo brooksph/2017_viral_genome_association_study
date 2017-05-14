@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754625.1/GCF_001754625.1_ViralProj344590_genomic.fna.gz",
+        "filename": "GCF_001754625.1_ViralProj344590_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031276.1 Wuhan Ant Virus strain WHMY02 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001275275.1/GCF_001275275.1_ViralProj293729_genomic.fna.gz",
+        "filename": "GCF_001275275.1_ViralProj293729_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027800.1 Palaemonetes sp. common grass shrimp associated circular virus isolate I0006H, complete genome",
         "signatures": [
             {
                 "ksize": 31,

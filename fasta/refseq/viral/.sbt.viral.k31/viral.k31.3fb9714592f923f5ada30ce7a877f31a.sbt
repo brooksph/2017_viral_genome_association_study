@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001482955.1/GCF_001482955.1_ViralProj306892_genomic.fna.gz",
+        "filename": "GCF_001482955.1_ViralProj306892_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028742.1 Mycobacterium phage Baee, complete genome",
         "signatures": [
             {
                 "ksize": 31,

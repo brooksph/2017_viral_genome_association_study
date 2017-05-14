@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001465085.1/GCF_001465085.1_ViralProj305153_genomic.fna.gz",
+        "filename": "GCF_001465085.1_ViralProj305153_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028636.1 Sucra jujuba nucleopolyhedrovirus isolate 473, complete genome",
         "signatures": [
             {
                 "ksize": 31,

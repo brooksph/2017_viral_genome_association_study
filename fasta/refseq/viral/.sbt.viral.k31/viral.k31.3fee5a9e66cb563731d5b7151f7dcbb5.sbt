@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848945.1/GCF_000848945.1_ViralProj14618_genomic.fna.gz",
+        "filename": "GCF_000848945.1_ViralProj14618_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005890.1 Sheldgoose hepatitis B virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

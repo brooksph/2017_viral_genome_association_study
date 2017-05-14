@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736315.1/GCF_001736315.1_ViralProj343510_genomic.fna.gz",
+        "filename": "GCF_001736315.1_ViralProj343510_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030944.1 Gordonia phage Demosthenes, complete genome",
         "signatures": [
             {
                 "ksize": 31,

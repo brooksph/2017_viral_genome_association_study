@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850965.1/GCF_000850965.1_ViralMultiSegProj14847_genomic.fna.gz",
+        "filename": "GCF_000850965.1_ViralMultiSegProj14847_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004108.1 La Crosse virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

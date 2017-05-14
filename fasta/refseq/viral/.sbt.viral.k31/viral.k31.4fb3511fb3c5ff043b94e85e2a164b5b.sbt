@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854805.1/GCF_000854805.1_ViralProj15014_genomic.fna.gz",
+        "filename": "GCF_000854805.1_ViralProj15014_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006430.1 Parainfluenza virus 5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

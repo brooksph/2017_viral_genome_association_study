@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926915.1/GCF_000926915.1_ViralProj263036_genomic.fna.gz",
+        "filename": "GCF_000926915.1_ViralProj263036_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025217.1 Bat Hp-betacoronavirus/Zhejiang2013, complete genome",
         "signatures": [
             {
                 "ksize": 31,

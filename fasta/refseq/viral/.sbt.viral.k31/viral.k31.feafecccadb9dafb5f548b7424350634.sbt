@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847065.1/GCF_000847065.1_ViralProj14568_genomic.fna.gz",
+        "filename": "GCF_000847065.1_ViralProj14568_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002602.2 Cucumber mosaic virus satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

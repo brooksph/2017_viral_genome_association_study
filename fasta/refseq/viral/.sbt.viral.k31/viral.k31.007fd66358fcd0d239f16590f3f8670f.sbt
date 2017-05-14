@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001679895.1/GCF_001679895.1_ViralProj327662_genomic.fna.gz",
+        "filename": "GCF_001679895.1_ViralProj327662_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030446.1 Tibetan frog hepadnavirus isolate 243398, complete genome",
         "signatures": [
             {
                 "ksize": 31,

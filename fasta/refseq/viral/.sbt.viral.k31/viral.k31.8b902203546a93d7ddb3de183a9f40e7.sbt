@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856085.1/GCF_000856085.1_ViralMultiSegProj14929_genomic.fna.gz",
+        "filename": "GCF_000856085.1_ViralMultiSegProj14929_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005222.1 Hantaan virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

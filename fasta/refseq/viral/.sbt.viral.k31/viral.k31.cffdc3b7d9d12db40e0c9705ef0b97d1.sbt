@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845165.1/GCF_000845165.1_ViralMultiSegProj14541_genomic.fna.gz",
+        "filename": "GCF_000845165.1_ViralMultiSegProj14541_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004580.1 Cotton leaf crumple virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

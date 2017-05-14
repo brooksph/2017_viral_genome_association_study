@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551705.1/GCF_001551705.1_ViralProj310932_genomic.fna.gz",
+        "filename": "GCF_001551705.1_ViralProj310932_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029061.1 Rhodoferax phage P26218, complete genome",
         "signatures": [
             {
                 "ksize": 31,

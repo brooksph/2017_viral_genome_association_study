@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921555.1/GCF_000921555.1_ViralProj259293_genomic.fna.gz",
+        "filename": "GCF_000921555.1_ViralProj259293_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024710.1 Ageratum conyzoides symtomless alphasatellite complete sequence, isolate Okra, clone Neo 23",
         "signatures": [
             {
                 "ksize": 31,

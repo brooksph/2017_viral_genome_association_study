@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915695.1/GCF_000915695.1_ViralProj240023_genomic.fna.gz",
+        "filename": "GCF_000915695.1_ViralProj240023_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023562.1 Mycobacterium phage BellusTerra, complete genome",
         "signatures": [
             {
                 "ksize": 31,

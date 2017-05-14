@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857285.1/GCF_000857285.1_ViralProj15191_genomic.fna.gz",
+        "filename": "GCF_000857285.1_ViralProj15191_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004086.1 Sulfolobus islandicus rod-shaped virus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

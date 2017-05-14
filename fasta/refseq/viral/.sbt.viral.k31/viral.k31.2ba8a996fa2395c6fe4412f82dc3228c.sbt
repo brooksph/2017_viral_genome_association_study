@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897735.1/GCF_000897735.1_ViralMultiSegProj176617_genomic.fna.gz",
+        "filename": "GCF_000897735.1_ViralMultiSegProj176617_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018717.1 Datura leaf distortion virus isolate Venezuela:Rubio 933:2007 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

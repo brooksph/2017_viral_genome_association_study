@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008495.1/GCF_002008495.1_ViralMultiSegProj376931_genomic.fna.gz",
+        "filename": "GCF_002008495.1_ViralMultiSegProj376931_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033836.1 Anhanga virus strain BeAn46852 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001766565.1/GCF_001766565.1_ViralMultiSegProj348330_genomic.fna.gz",
+        "filename": "GCF_001766565.1_ViralMultiSegProj348330_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031341.1 Privet leaf blotch-associated virus segment RNA1",
         "signatures": [
             {
                 "ksize": 31,

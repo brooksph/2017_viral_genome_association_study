@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470115.1/GCF_001470115.1_ViralProj306290_genomic.fna.gz",
+        "filename": "GCF_001470115.1_ViralProj306290_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028691.1 Mycobacterium phage Apizium, complete genome",
         "signatures": [
             {
                 "ksize": 31,

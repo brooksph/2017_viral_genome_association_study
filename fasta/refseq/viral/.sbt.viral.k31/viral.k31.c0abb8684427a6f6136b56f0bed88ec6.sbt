@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001500735.1/GCF_001500735.1_ViralProj307778_genomic.fna.gz",
+        "filename": "GCF_001500735.1_ViralProj307778_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028921.1 Thelephora terrestris virus 1 isolate Lasovice, complete genome",
         "signatures": [
             {
                 "ksize": 31,

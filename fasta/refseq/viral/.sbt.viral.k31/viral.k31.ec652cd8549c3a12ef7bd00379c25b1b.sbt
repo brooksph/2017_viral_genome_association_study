@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930775.1/GCF_000930775.1_ViralProj272150_genomic.fna.gz",
+        "filename": "GCF_000930775.1_ViralProj272150_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026135.1 Phomopsis vexans RNA virus isolate 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

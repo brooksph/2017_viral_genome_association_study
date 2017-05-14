@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916435.1/GCF_000916435.1_ViralProj240038_genomic.fna.gz",
+        "filename": "GCF_000916435.1_ViralProj240038_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023554.1 Mycobacterium phage JAMaL, complete genome",
         "signatures": [
             {
                 "ksize": 31,

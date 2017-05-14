@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924815.1/GCF_000924815.1_ViralProj265911_genomic.fna.gz",
+        "filename": "GCF_000924815.1_ViralProj265911_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025406.1 Dolphin rhabdovirus isolate pxV1 1992, complete genome",
         "signatures": [
             {
                 "ksize": 31,

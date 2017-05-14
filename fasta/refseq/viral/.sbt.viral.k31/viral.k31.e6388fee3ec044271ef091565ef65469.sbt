@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837905.2/GCF_000837905.2_ViralProj14083_genomic.fna.gz",
+        "filename": "GCF_000837905.2_ViralProj14083_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002046.1 Sida golden mosaic virus coat protein (AV1), AC3 (AC3), transactivator protein (AC2), replication associated protein (AC1), and AC4 (AC4) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

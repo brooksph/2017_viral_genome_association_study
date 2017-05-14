@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501255.1/GCF_001501255.1_ViralProj307751_genomic.fna.gz",
+        "filename": "GCF_001501255.1_ViralProj307751_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028837.1 Paenibacillus phage Xenia, complete genome",
         "signatures": [
             {
                 "ksize": 31,

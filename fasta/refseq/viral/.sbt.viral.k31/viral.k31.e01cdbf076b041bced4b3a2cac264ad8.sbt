@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863505.1/GCF_000863505.1_ViralProj15417_genomic.fna.gz",
+        "filename": "GCF_000863505.1_ViralProj15417_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007023.1 Enterobacteria phage RB43, complete genome",
         "signatures": [
             {
                 "ksize": 31,

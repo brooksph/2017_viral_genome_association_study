@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963015.1/GCF_001963015.1_ViralMultiSegProj361904_genomic.fna.gz",
+        "filename": "GCF_001963015.1_ViralMultiSegProj361904_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033280.1 Hubei unio douglasiae virus 1 strain WHBL72336 RNA-dependent RNA polymerase and B2-like protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

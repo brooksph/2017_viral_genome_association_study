@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505695.1/GCF_001505695.1_ViralProj307913_genomic.fna.gz",
+        "filename": "GCF_001505695.1_ViralProj307913_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028967.1 Propionibacterium phage PAC1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

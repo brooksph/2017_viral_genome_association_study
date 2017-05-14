@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905935.1/GCF_000905935.1_ViralProj193981_genomic.fna.gz",
+        "filename": "GCF_000905935.1_ViralProj193981_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020502.1 Guar leaf curl alphasatellite clone B81_A03, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

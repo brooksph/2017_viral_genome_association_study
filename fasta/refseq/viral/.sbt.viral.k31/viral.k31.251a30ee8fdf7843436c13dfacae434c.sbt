@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001433645.1/GCF_001433645.1_ViralProj301070_genomic.fna.gz",
+        "filename": "GCF_001433645.1_ViralProj301070_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028248.1 Escherichia phage slur16, complete genome",
         "signatures": [
             {
                 "ksize": 31,

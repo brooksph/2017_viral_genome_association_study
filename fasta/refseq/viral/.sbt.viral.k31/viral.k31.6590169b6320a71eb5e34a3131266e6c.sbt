@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871465.1/GCF_000871465.1_ViralProj19059_genomic.fna.gz",
+        "filename": "GCF_000871465.1_ViralProj19059_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009127.1 Cyprinid herpesvirus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849065.1/GCF_000849065.1_ViralProj14644_genomic.fna.gz",
+        "filename": "GCF_000849065.1_ViralProj14644_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001746.1 Kennedya yellow mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

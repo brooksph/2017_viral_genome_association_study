@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916615.1/GCF_000916615.1_ViralProj240594_genomic.fna.gz",
+        "filename": "GCF_000916615.1_ViralProj240594_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023734.1 Psychrobacter phage Psymv2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

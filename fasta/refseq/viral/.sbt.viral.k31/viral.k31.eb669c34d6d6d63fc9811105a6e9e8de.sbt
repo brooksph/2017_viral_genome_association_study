@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880915.1/GCF_000880915.1_ViralProj33001_genomic.fna.gz",
+        "filename": "GCF_000880915.1_ViralProj33001_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011614.1 Staphylococcus phage phiSauS-IPLA88, complete genome",
         "signatures": [
             {
                 "ksize": 31,

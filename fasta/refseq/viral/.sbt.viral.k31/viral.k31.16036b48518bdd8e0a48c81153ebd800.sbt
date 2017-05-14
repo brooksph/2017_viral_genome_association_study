@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911415.1/GCF_000911415.1_ViralProj227738_genomic.fna.gz",
+        "filename": "GCF_000911415.1_ViralProj227738_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022800.1 Feline bocavirus 2 isolate POR1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

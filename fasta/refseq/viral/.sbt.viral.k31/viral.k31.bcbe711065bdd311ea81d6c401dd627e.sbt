@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853845.1/GCF_000853845.1_ViralProj14956_genomic.fna.gz",
+        "filename": "GCF_000853845.1_ViralProj14956_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006060.1 Opuntia virus X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

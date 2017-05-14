@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755205.1/GCF_001755205.1_ViralProj344620_genomic.fna.gz",
+        "filename": "GCF_001755205.1_ViralProj344620_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031267.1 Gordonia phage Lucky10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

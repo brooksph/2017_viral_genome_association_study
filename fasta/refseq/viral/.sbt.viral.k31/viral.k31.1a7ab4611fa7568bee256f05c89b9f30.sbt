@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923275.1/GCF_000923275.1_ViralProj255792_genomic.fna.gz",
+        "filename": "GCF_000923275.1_ViralProj255792_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024489.1 Asterionellopsis glacialis RNA virus genomic RNA, complete genome, isolate: AglaRNAV",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880595.1/GCF_000880595.1_ViralProj32013_genomic.fna.gz",
+        "filename": "GCF_000880595.1_ViralProj32013_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011288.1 Mycobacterium phage Fruitloop, complete genome",
         "signatures": [
             {
                 "ksize": 31,

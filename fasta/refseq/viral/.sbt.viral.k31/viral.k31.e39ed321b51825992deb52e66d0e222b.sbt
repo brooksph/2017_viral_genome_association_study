@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754585.1/GCF_001754585.1_ViralProj344344_genomic.fna.gz",
+        "filename": "GCF_001754585.1_ViralProj344344_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031224.1 Arthrobacter phage Mudcat, complete genome",
         "signatures": [
             {
                 "ksize": 31,

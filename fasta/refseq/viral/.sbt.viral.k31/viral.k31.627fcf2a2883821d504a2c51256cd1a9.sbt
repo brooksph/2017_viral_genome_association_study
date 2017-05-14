@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744515.1/GCF_001744515.1_ViralProj344147_genomic.fna.gz",
+        "filename": "GCF_001744515.1_ViralProj344147_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031102.1 Mycobacterium phage Sneeze, complete genome",
         "signatures": [
             {
                 "ksize": 31,

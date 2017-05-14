@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869945.1/GCF_000869945.1_ViralProj17347_genomic.fna.gz",
+        "filename": "GCF_000869945.1_ViralProj17347_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008250.2 Duck hepatitis A virus 1 strain R85952, complete genome",
         "signatures": [
             {
                 "ksize": 31,

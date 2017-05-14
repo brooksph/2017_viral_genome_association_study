@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001876895.1/GCF_001876895.1_ViralMultiSegProj352510_genomic.fna.gz",
+        "filename": "GCF_001876895.1_ViralMultiSegProj352510_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031762.1 Zucchini lethal chlorosis virus isolate ZLCV-SP segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885555.1/GCF_000885555.1_ViralMultiSegProj38405_genomic.fna.gz",
+        "filename": "GCF_000885555.1_ViralMultiSegProj38405_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012777.1 Lujo virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

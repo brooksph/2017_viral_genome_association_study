@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505855.1/GCF_001505855.1_ViralProj307945_genomic.fna.gz",
+        "filename": "GCF_001505855.1_ViralProj307945_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028983.1 Bacillus phage Shanette, complete genome",
         "signatures": [
             {
                 "ksize": 31,

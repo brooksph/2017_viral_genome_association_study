@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896215.1/GCF_000896215.1_ViralMultiSegProj165747_genomic.fna.gz",
+        "filename": "GCF_000896215.1_ViralMultiSegProj165747_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011348.1 Tomato yellow leaf distortion virus DNA A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

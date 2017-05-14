@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755505.1/GCF_001755505.1_ViralProj344595_genomic.fna.gz",
+        "filename": "GCF_001755505.1_ViralProj344595_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031275.1 Wenzhou Crab Virus 1 strain RBX2 nucleocapsid (N), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461145.1/GCF_001461145.1_ViralProj304897_genomic.fna.gz",
+        "filename": "GCF_001461145.1_ViralProj304897_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028469.1 Penicillium aurantiogriseum partiti-like virus 66 kDa protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

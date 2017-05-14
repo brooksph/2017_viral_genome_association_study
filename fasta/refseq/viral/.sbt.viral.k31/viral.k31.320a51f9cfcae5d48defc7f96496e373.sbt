@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860765.1/GCF_000860765.1_ViralMultiSegProj15362_genomic.fna.gz",
+        "filename": "GCF_000860765.1_ViralMultiSegProj15362_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002990.1 Barley yellow mosaic virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

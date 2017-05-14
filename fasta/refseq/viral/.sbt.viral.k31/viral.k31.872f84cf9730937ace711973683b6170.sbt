@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960015.1/GCF_001960015.1_ViralProj361782_genomic.fna.gz",
+        "filename": "GCF_001960015.1_ViralProj361782_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033038.1 Wenling narna-like virus 5 strain WLJQ94194 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927735.1/GCF_000927735.1_ViralProj268176_genomic.fna.gz",
+        "filename": "GCF_000927735.1_ViralProj268176_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025682.1 Po-Circo-like virus 21, complete genome",
         "signatures": [
             {
                 "ksize": 31,

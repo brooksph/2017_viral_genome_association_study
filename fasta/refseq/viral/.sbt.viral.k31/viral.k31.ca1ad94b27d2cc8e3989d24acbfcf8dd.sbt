@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654305.1/GCF_001654305.1_ViralProj323872_genomic.fna.gz",
+        "filename": "GCF_001654305.1_ViralProj323872_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030230.1 Tokyovirus A1 DNA, nearly complete genome",
         "signatures": [
             {
                 "ksize": 31,

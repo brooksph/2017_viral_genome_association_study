@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865345.1/GCF_000865345.1_ViralProj16246_genomic.fna.gz",
+        "filename": "GCF_000865345.1_ViralProj16246_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007653.1 Papiine herpesvirus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

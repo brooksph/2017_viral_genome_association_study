@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861925.1/GCF_000861925.1_ViralProj15450_genomic.fna.gz",
+        "filename": "GCF_000861925.1_ViralProj15450_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001595.1 Human papillomavirus type 7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872785.1/GCF_000872785.1_ViralProj29233_genomic.fna.gz",
+        "filename": "GCF_000872785.1_ViralProj29233_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010569.1 Ludwigia leaf distortion betasatellite [India:Amadalavalasa:Hibiscus:2007], complete genome",
         "signatures": [
             {
                 "ksize": 31,

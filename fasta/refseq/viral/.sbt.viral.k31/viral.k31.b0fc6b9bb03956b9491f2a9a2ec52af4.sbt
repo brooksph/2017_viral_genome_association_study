@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274385.1/GCF_001274385.1_ViralProj293732_genomic.fna.gz",
+        "filename": "GCF_001274385.1_ViralProj293732_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027794.1 Mytilus sp. clam associated circular virus isolate I0169, complete genome",
         "signatures": [
             {
                 "ksize": 31,

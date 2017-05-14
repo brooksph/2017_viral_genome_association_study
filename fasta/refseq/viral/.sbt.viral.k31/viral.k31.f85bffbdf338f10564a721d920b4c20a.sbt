@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654425.1/GCF_001654425.1_ViralProj323875_genomic.fna.gz",
+        "filename": "GCF_001654425.1_ViralProj323875_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030228.1 Xinzhou spider virus 3 strain XZZZ-3 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

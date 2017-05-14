@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551585.1/GCF_001551585.1_ViralProj310904_genomic.fna.gz",
+        "filename": "GCF_001551585.1_ViralProj310904_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029089.1 Elderberry carlavirus E isolate EBCVE, complete genome",
         "signatures": [
             {
                 "ksize": 31,

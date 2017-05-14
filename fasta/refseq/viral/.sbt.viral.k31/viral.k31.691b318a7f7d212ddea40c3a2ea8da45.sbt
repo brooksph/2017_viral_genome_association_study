@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001190615.1/GCF_001190615.1_ViralProj291246_genomic.fna.gz",
+        "filename": "GCF_001190615.1_ViralProj291246_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027633.1 Gokushovirinae Bog1183_53, complete genome",
         "signatures": [
             {
                 "ksize": 31,

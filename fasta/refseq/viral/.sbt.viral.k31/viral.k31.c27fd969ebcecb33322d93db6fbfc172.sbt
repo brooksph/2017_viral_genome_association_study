@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922195.1/GCF_000922195.1_ViralProj255732_genomic.fna.gz",
+        "filename": "GCF_000922195.1_ViralProj255732_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024480.1 McMurdo Ice Shelf pond-associated circular DNA virus-4 isolate alg49-63, complete genome",
         "signatures": [
             {
                 "ksize": 31,

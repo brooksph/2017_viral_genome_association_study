@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864685.1/GCF_000864685.1_ViralProj15457_genomic.fna.gz",
+        "filename": "GCF_000864685.1_ViralProj15457_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002657.1 Classical swine fever virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

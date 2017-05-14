@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859785.1/GCF_000859785.1_ViralMultiSegProj15177_genomic.fna.gz",
+        "filename": "GCF_000859785.1_ViralMultiSegProj15177_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004674.1 East African cassava mosaic virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

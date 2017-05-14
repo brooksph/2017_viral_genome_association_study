@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911135.1/GCF_000911135.1_ViralProj224247_genomic.fna.gz",
+        "filename": "GCF_000911135.1_ViralProj224247_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022580.1 Drosophila obscura sigma virus 10A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918175.1/GCF_000918175.1_ViralProj246130_genomic.fna.gz",
+        "filename": "GCF_000918175.1_ViralProj246130_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024070.1 Rosavirus 2 strain GA7403, complete genome",
         "signatures": [
             {
                 "ksize": 31,

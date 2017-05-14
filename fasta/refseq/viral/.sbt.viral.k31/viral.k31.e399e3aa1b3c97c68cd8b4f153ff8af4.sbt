@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890975.1/GCF_000890975.1_ViralProj65819_genomic.fna.gz",
+        "filename": "GCF_000890975.1_ViralProj65819_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015398.1 Clostera anachoreta granulovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

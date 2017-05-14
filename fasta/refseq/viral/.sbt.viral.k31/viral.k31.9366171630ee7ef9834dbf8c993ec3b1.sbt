@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001019915.1/GCF_001019915.1_ViralProj284772_genomic.fna.gz",
+        "filename": "GCF_001019915.1_ViralProj284772_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027130.1 Synechococcus phage ACG-2014b isolate Syn7803C100, complete genome",
         "signatures": [
             {
                 "ksize": 31,

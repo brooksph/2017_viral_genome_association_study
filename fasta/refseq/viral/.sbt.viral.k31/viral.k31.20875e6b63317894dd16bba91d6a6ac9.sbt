@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857885.1/GCF_000857885.1_ViralProj15115_genomic.fna.gz",
+        "filename": "GCF_000857885.1_ViralProj15115_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "AC_000019.1 Human adenovirus type 35, complete genome",
         "signatures": [
             {
                 "ksize": 31,

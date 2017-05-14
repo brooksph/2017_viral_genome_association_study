@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430255.1/GCF_001430255.1_ViralProj300259_genomic.fna.gz",
+        "filename": "GCF_001430255.1_ViralProj300259_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028104.1 Yellowstone lake mimivirus DNA, complete genome, isolate: 1",
         "signatures": [
             {
                 "ksize": 31,

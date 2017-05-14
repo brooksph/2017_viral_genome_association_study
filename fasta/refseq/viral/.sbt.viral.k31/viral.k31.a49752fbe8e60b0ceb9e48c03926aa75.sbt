@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839405.1/GCF_000839405.1_ViralProj14036_genomic.fna.gz",
+        "filename": "GCF_000839405.1_ViralProj14036_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001899.1 Diatraea saccharalis densovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

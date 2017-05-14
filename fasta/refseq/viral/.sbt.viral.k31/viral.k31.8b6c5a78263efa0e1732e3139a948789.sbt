@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888475.1/GCF_000888475.1_ViralProj51257_genomic.fna.gz",
+        "filename": "GCF_000888475.1_ViralProj51257_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014372.1 Tai Forest ebolavirus isolate Tai Forest virus/H.sapiens-tc/CIV/1994/Pauleoula-CI, complete genome",
         "signatures": [
             {
                 "ksize": 31,

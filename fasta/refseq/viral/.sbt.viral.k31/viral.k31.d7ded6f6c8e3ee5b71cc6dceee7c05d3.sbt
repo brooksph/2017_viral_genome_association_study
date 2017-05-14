@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859525.1/GCF_000859525.1_ViralProj15123_genomic.fna.gz",
+        "filename": "GCF_000859525.1_ViralProj15123_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006875.1 Calicivirus isolate TCG, complete genome",
         "signatures": [
             {
                 "ksize": 31,

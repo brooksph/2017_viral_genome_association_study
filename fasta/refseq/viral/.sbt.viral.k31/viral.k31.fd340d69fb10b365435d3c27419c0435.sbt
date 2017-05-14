@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900135.1/GCF_000900135.1_ViralProj176429_genomic.fna.gz",
+        "filename": "GCF_000900135.1_ViralProj176429_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018702.1 Murine astrovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

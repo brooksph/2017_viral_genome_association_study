@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842025.1/GCF_000842025.1_ViralProj14236_genomic.fna.gz",
+        "filename": "GCF_000842025.1_ViralProj14236_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004540.1 Kalanchoe top-spotting virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

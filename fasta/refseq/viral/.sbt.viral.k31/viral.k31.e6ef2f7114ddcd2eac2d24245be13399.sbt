@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920515.2/GCF_000920515.2_ViralProj243492_genomic.fna.gz",
+        "filename": "GCF_000920515.2_ViralProj243492_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023876.2 Andrographis yellow vein leaf curl betasatellite clone bt-2, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

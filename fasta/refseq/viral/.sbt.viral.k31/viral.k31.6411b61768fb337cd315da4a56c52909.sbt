@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908155.1/GCF_000908155.1_ViralMultiSegProj213142_genomic.fna.gz",
+        "filename": "GCF_000908155.1_ViralMultiSegProj213142_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021873.1 Ustilaginoidea virens partitivirus 2 isolate Uv0901 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000989055.1/GCF_000989055.1_ViralProj283064_genomic.fna.gz",
+        "filename": "GCF_000989055.1_ViralProj283064_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026947.1 Bhendi yellow vein mosaic alphasatellite isolate Madurai MKU-2, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

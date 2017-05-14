@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866875.1/GCF_001866875.1_ViralProj352514_genomic.fna.gz",
+        "filename": "GCF_001866875.1_ViralProj352514_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031754.1 Bhendi yellow vein mosaic virus TJ-2016a isolate Trincomalee segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

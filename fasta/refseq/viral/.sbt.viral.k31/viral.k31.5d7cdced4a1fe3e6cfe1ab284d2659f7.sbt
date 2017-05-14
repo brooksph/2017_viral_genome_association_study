@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840105.1/GCF_000840105.1_ViralMultiSegProj14185_genomic.fna.gz",
+        "filename": "GCF_000840105.1_ViralMultiSegProj14185_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003856.1 Dicliptera yellow mottle virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

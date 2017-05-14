@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850985.1/GCF_000850985.1_ViralMultiSegProj14851_genomic.fna.gz",
+        "filename": "GCF_000850985.1_ViralMultiSegProj14851_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004159.1 Dugbe virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

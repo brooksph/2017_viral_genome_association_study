@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886875.1/GCF_000886875.1_ViralProj41599_genomic.fna.gz",
+        "filename": "GCF_000886875.1_ViralProj41599_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013455.1 Sugarcane bacilliform Guadeloupe D virus isolate BataviaD, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001725835.1/GCF_001725835.1_ViralProj342647_genomic.fna.gz",
+        "filename": "GCF_001725835.1_ViralProj342647_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030886.1 Rousettus bat coronavirus isolate GCCDC1 356, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646415.1/GCF_001646415.1_ViralProj321709_genomic.fna.gz",
+        "filename": "GCF_001646415.1_ViralProj321709_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030136.1 Chamois faeces associated circular DNA virus 1 isolate 62_chamois, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

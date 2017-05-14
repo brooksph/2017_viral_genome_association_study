@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912215.1/GCF_000912215.1_ViralMultiSegProj225930_genomic.fna.gz",
+        "filename": "GCF_000912215.1_ViralMultiSegProj225930_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022626.1 Mobuck virus strain 12-2 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846005.2/GCF_000846005.2_ViralProj14539_genomic.fna.gz",
+        "filename": "GCF_000846005.2_ViralProj14539_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005030.2 Tobacco leaf curl Yunnan virus satellite DNA beta clone 17, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

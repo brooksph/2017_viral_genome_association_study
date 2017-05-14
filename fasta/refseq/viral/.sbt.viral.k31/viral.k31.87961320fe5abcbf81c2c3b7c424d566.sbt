@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870825.1/GCF_000870825.1_ViralProj19781_genomic.fna.gz",
+        "filename": "GCF_000870825.1_ViralProj19781_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009546.1 Mimosa yellow leaf curl virus DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

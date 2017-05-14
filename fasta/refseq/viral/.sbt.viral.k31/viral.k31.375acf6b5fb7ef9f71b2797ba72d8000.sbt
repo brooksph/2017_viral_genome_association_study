@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922415.1/GCF_000922415.1_ViralProj259982_genomic.fna.gz",
+        "filename": "GCF_000922415.1_ViralProj259982_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024768.1 Chicken picornavirus 4 isolate 5C, complete genome",
         "signatures": [
             {
                 "ksize": 31,

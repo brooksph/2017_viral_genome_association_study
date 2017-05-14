@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856225.1/GCF_000856225.1_ViralMultiSegProj14958_genomic.fna.gz",
+        "filename": "GCF_000856225.1_ViralMultiSegProj14958_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006064.1 Humulus japonicus latent virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

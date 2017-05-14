@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898695.1/GCF_000898695.1_ViralProj176434_genomic.fna.gz",
+        "filename": "GCF_000898695.1_ViralProj176434_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018703.1 Culex originated Tymoviridae-like virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

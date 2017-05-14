@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502655.1/GCF_001502655.1_ViralProj307753_genomic.fna.gz",
+        "filename": "GCF_001502655.1_ViralProj307753_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028851.1 Paenibacillus phage Fern, complete genome",
         "signatures": [
             {
                 "ksize": 31,

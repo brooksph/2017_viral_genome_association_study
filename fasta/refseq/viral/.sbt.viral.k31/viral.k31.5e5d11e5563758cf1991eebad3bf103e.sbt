@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927995.1/GCF_000927995.1_ViralMultiSegProj269629_genomic.fna.gz",
+        "filename": "GCF_000927995.1_ViralMultiSegProj269629_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025831.1 Leopards Hill virus cRNA, segment: L, complete sequence, strain: 11SB17",
         "signatures": [
             {
                 "ksize": 31,

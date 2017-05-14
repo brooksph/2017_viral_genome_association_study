@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857245.1/GCF_000857245.1_ViralProj15183_genomic.fna.gz",
+        "filename": "GCF_000857245.1_ViralProj15183_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003397.1 Bean common mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

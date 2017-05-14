@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850885.1/GCF_000850885.1_ViralProj14831_genomic.fna.gz",
+        "filename": "GCF_000850885.1_ViralProj14831_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003908.1 Western equine encephalomyelitis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879035.1/GCF_000879035.1_ViralProj28501_genomic.fna.gz",
+        "filename": "GCF_000879035.1_ViralProj28501_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010276.1 Orgyia leucostigma NPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

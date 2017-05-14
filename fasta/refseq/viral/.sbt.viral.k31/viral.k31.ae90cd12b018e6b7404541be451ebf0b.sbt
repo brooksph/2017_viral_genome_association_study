@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955555.1/GCF_000955555.1_ViralProj277507_genomic.fna.gz",
+        "filename": "GCF_000955555.1_ViralProj277507_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026643.1 Avon-Heathcote Estuary associated circular virus 16 isolate AHEaCV-16-NZ-2991SG-2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

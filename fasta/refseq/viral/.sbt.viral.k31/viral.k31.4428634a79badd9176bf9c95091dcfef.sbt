@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837445.1/GCF_000837445.1_ViralProj14150_genomic.fna.gz",
+        "filename": "GCF_000837445.1_ViralProj14150_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003378.1 Tobacco vein clearing virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862185.1/GCF_000862185.1_ViralProj15318_genomic.fna.gz",
+        "filename": "GCF_000862185.1_ViralProj15318_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004044.1 Tomato yellow leaf curl China virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

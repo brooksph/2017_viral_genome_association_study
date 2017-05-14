@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906255.1/GCF_000906255.1_ViralProj196418_genomic.fna.gz",
+        "filename": "GCF_000906255.1_ViralProj196418_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020899.1 Hana virus strain A4/CI/2004, complete genome",
         "signatures": [
             {
                 "ksize": 31,

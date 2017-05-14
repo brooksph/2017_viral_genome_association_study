@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745455.1/GCF_001745455.1_ViralProj344211_genomic.fna.gz",
+        "filename": "GCF_001745455.1_ViralProj344211_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031097.1 Gordonia phage Zirinka, complete genome",
         "signatures": [
             {
                 "ksize": 31,

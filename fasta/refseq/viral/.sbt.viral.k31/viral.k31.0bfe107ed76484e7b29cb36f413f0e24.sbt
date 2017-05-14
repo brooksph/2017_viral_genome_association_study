@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871165.1/GCF_000871165.1_ViralProj20937_genomic.fna.gz",
+        "filename": "GCF_000871165.1_ViralProj20937_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009823.1 Hepatitis C virus genotype 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

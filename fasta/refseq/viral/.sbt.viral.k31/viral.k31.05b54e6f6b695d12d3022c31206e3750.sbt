@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849265.1/GCF_000849265.1_ViralProj14689_genomic.fna.gz",
+        "filename": "GCF_000849265.1_ViralProj14689_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000903.1 Snakehead rhabdovirus complete genome",
         "signatures": [
             {
                 "ksize": 31,

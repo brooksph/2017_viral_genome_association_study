@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001661835.1/GCF_001661835.1_ViralProj324249_genomic.fna.gz",
+        "filename": "GCF_001661835.1_ViralProj324249_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030290.1 Culiseta flavivirus strain 502-13, complete genome",
         "signatures": [
             {
                 "ksize": 31,

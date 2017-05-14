@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961455.1/GCF_001961455.1_ViralProj361929_genomic.fna.gz",
+        "filename": "GCF_001961455.1_ViralProj361929_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032977.1 Beihai sphaeromadae virus 1 strain BHTSS18012 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

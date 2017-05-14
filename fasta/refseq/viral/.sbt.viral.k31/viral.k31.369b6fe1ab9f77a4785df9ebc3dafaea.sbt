@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870525.1/GCF_000870525.1_ViralProj18885_genomic.fna.gz",
+        "filename": "GCF_000870525.1_ViralProj18885_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009041.1 Rehmannia mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

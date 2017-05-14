@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754505.1/GCF_001754505.1_ViralProj345032_genomic.fna.gz",
+        "filename": "GCF_001754505.1_ViralProj345032_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031305.1 Yongjia Tick Virus 2 strain YJ1-2 nucleocapsid (N), putative phosphoprotein (ORF2), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

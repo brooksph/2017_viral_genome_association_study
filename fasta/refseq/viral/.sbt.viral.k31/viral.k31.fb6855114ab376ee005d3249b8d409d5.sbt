@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846225.1/GCF_000846225.1_ViralProj14394_genomic.fna.gz",
+        "filename": "GCF_000846225.1_ViralProj14394_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004680.1 Mycobacterium phage Che8, complete genome",
         "signatures": [
             {
                 "ksize": 31,

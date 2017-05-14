@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894395.1/GCF_000894395.1_ViralProj88121_genomic.fna.gz",
+        "filename": "GCF_000894395.1_ViralProj88121_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016962.1 Bebaru virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

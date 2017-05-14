@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926775.1/GCF_001926775.1_ViralMultiSegProj359242_genomic.fna.gz",
+        "filename": "GCF_001926775.1_ViralMultiSegProj359242_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032520.1 Beihai barnacle virus 11 strain BHTH10280 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

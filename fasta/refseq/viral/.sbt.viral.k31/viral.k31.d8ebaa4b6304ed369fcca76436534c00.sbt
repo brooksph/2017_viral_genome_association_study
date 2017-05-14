@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918215.1/GCF_000918215.1_ViralProj248100_genomic.fna.gz",
+        "filename": "GCF_000918215.1_ViralProj248100_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024115.1 Leishmania aethiopica RNA virus isolate LRV2-Lae-L494, complete genome",
         "signatures": [
             {
                 "ksize": 31,

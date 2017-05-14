@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879795.1/GCF_000879795.1_ViralProj28973_genomic.fna.gz",
+        "filename": "GCF_000879795.1_ViralProj28973_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010417.1 Beet curly top Iran virus-[K], complete genome",
         "signatures": [
             {
                 "ksize": 31,

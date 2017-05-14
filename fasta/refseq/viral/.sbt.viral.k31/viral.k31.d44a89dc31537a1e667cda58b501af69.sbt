@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860545.1/GCF_000860545.1_ViralProj15316_genomic.fna.gz",
+        "filename": "GCF_000860545.1_ViralProj15316_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001547.1 Sindbis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

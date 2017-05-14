@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862145.1/GCF_000862145.1_ViralProj15310_genomic.fna.gz",
+        "filename": "GCF_000862145.1_ViralProj15310_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001437.1 Japanese encephalitis virus, genome",
         "signatures": [
             {
                 "ksize": 31,

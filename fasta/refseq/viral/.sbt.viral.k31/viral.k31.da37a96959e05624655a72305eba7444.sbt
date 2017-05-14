@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001924135.1/GCF_001924135.1_ViralMultiSegProj358935_genomic.fna.gz",
+        "filename": "GCF_001924135.1_ViralMultiSegProj358935_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032280.1 Hubei diptera virus 4 strain SCM94992 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

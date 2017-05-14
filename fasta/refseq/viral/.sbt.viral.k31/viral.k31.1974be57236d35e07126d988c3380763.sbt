@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851805.1/GCF_000851805.1_ViralMultiSegProj14890_genomic.fna.gz",
+        "filename": "GCF_000851805.1_ViralMultiSegProj14890_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004809.1 Cucurbit yellow stunting disorder virus RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

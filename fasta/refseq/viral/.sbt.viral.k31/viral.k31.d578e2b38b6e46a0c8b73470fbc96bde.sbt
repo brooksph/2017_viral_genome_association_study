@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430235.1/GCF_001430235.1_ViralProj300255_genomic.fna.gz",
+        "filename": "GCF_001430235.1_ViralProj300255_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028127.1 Sumatran orang-utan polyomavirus complete genome, isolate Pi",
         "signatures": [
             {
                 "ksize": 31,

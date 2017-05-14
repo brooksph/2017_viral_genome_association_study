@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882695.1/GCF_000882695.1_ViralProj34709_genomic.fna.gz",
+        "filename": "GCF_000882695.1_ViralProj34709_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012123.1 Equine papillomavirus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840265.1/GCF_000840265.1_ViralProj14208_genomic.fna.gz",
+        "filename": "GCF_000840265.1_ViralProj14208_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004092.1 Hollyhock leaf crumple virus satellite DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

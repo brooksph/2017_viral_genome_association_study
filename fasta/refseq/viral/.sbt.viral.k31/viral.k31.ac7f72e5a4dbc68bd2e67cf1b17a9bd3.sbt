@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926075.1/GCF_001926075.1_ViralProj359269_genomic.fna.gz",
+        "filename": "GCF_001926075.1_ViralProj359269_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032490.1 Beihai hermit crab virus 4 strain BHJJX25971 1ab, putative glycoprotein 1, hypothetical protein, putative glycoprotein 2, and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

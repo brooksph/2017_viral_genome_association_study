@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882955.1/GCF_000882955.1_ViralProj38109_genomic.fna.gz",
+        "filename": "GCF_000882955.1_ViralProj38109_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012703.1 Nyamanini virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

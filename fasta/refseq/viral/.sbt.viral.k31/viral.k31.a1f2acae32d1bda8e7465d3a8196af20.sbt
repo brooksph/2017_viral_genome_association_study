@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925915.1/GCF_001925915.1_ViralProj359336_genomic.fna.gz",
+        "filename": "GCF_001925915.1_ViralProj359336_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032438.1 Shayang virga-like virus 1 strain SYJFC48301 RdRp and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

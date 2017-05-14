@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899515.1/GCF_000899515.1_ViralProj178458_genomic.fna.gz",
+        "filename": "GCF_000899515.1_ViralProj178458_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019023.1 Human papillomavirus type 166 isolate KC9, complete genome",
         "signatures": [
             {
                 "ksize": 31,

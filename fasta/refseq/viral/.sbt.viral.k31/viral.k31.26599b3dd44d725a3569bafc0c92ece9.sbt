@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915995.1/GCF_000915995.1_ViralProj237458_genomic.fna.gz",
+        "filename": "GCF_000915995.1_ViralProj237458_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023425.1 Avian hepatitis E virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

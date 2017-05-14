@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965195.1/GCF_001965195.1_ViralProj362056_genomic.fna.gz",
+        "filename": "GCF_001965195.1_ViralProj362056_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033103.1 Hubei diptera virus 10 strain SCM43656 putative nucleoprotein, hypothetical protein, putative X protein, putative matrix protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001019795.1/GCF_001019795.1_ViralMultiSegProj285599_genomic.fna.gz",
+        "filename": "GCF_001019795.1_ViralMultiSegProj285599_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027137.1 Okahandja virus strain N73 OkhMi.n4 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

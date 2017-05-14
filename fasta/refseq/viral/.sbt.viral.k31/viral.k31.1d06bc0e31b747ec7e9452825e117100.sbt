@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850045.1/GCF_000850045.1_ViralProj14673_genomic.fna.gz",
+        "filename": "GCF_000850045.1_ViralProj14673_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001560.1 Vesicular stomatitis Indiana virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925335.1/GCF_000925335.1_ViralProj264897_genomic.fna.gz",
+        "filename": "GCF_000925335.1_ViralProj264897_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025342.1 Kolente virus isolate DakAr K7292, complete genome",
         "signatures": [
             {
                 "ksize": 31,

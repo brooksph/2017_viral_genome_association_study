@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837585.1/GCF_000837585.1_ViralProj14184_genomic.fna.gz",
+        "filename": "GCF_000837585.1_ViralProj14184_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003850.1 Solanum nodiflorum mottle virus satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

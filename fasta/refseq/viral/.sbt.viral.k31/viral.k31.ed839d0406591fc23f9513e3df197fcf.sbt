@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470335.1/GCF_001470335.1_ViralProj306284_genomic.fna.gz",
+        "filename": "GCF_001470335.1_ViralProj306284_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028697.1 Streptococcus phage A25, complete genome",
         "signatures": [
             {
                 "ksize": 31,

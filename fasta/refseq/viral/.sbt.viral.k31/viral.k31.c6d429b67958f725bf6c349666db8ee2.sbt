@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879075.1/GCF_000879075.1_ViralProj28689_genomic.fna.gz",
+        "filename": "GCF_000879075.1_ViralProj28689_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010307.1 Emilia yellow vein virus-[Fz1], complete genome",
         "signatures": [
             {
                 "ksize": 31,

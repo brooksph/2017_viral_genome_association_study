@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754605.1/GCF_001754605.1_ViralProj344586_genomic.fna.gz",
+        "filename": "GCF_001754605.1_ViralProj344586_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031283.1 Wuhan House Fly Virus 2 strain SYY4-5 ORF1 (ORF1), ORF2 (ORF2), ORF3 (ORF3), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

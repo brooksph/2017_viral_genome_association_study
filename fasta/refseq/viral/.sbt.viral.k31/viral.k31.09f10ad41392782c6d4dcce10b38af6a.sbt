@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000969075.1/GCF_000969075.1_ViralProj280302_genomic.fna.gz",
+        "filename": "GCF_000969075.1_ViralProj280302_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026765.1 Simian torque teno virus 34 isolate VGA00120.1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

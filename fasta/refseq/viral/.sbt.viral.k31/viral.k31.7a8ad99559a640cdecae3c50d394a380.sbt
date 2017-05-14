@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916595.2/GCF_000916595.2_ViralProj240572_genomic.fna.gz",
+        "filename": "GCF_000916595.2_ViralProj240572_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023682.1 Anopheline-associated C virus isolate acc_1.1s segment 1 RNA-dependent RNA polymerase-like protein and hypothetical proteins genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914115.1/GCF_000914115.1_ViralProj230598_genomic.fna.gz",
+        "filename": "GCF_000914115.1_ViralProj230598_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022979.1 Mycobacterium phage Graduation, complete genome",
         "signatures": [
             {
                 "ksize": 31,

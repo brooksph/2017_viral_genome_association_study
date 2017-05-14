@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909415.1/GCF_000909415.1_ViralProj209359_genomic.fna.gz",
+        "filename": "GCF_000909415.1_ViralProj209359_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021566.1 Nilaparvata lugens honeydew virus-2 genomic RNA, complete genome, isolate: Izumo",
         "signatures": [
             {
                 "ksize": 31,

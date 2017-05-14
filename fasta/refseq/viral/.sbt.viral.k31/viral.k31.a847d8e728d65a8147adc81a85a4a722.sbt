@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870205.1/GCF_000870205.1_ViralProj18019_genomic.fna.gz",
+        "filename": "GCF_000870205.1_ViralProj18019_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008521.1 Gull circovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

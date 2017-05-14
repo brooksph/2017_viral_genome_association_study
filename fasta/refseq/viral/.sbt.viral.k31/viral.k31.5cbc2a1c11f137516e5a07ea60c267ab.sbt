@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913975.1/GCF_000913975.1_ViralProj230268_genomic.fna.gz",
+        "filename": "GCF_000913975.1_ViralProj230268_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022962.1 Olive viral satellite RNA isolate Caltabellotta1 from Italy, complete genome",
         "signatures": [
             {
                 "ksize": 31,

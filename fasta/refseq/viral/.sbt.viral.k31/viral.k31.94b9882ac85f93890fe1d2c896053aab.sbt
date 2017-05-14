@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861185.1/GCF_000861185.1_ViralProj15292_genomic.fna.gz",
+        "filename": "GCF_000861185.1_ViralProj15292_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001366.1 Theilovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

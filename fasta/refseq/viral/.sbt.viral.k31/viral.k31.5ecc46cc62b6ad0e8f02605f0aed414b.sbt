@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904435.1/GCF_000904435.1_ViralProj195485_genomic.fna.gz",
+        "filename": "GCF_000904435.1_ViralProj195485_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020844.1 Salicola phage CGphi29 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

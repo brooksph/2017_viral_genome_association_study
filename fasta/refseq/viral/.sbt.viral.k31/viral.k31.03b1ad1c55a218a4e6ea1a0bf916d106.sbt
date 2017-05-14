@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910795.1/GCF_000910795.1_ViralProj215113_genomic.fna.gz",
+        "filename": "GCF_000910795.1_ViralProj215113_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022071.1 Mycobacterium phage Crossroads, complete genome",
         "signatures": [
             {
                 "ksize": 31,

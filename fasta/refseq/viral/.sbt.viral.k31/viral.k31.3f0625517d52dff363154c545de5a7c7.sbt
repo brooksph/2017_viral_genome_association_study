@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470875.1/GCF_001470875.1_ViralProj306287_genomic.fna.gz",
+        "filename": "GCF_001470875.1_ViralProj306287_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028669.1 Staphylococcus phage phiJB, complete genome",
         "signatures": [
             {
                 "ksize": 31,

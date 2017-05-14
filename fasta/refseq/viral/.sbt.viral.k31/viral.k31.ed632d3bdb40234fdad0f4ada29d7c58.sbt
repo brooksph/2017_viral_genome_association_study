@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913235.1/GCF_000913235.1_ViralProj230595_genomic.fna.gz",
+        "filename": "GCF_000913235.1_ViralProj230595_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022969.1 Mycobacterium phage PhatBacter, complete genome",
         "signatures": [
             {
                 "ksize": 31,

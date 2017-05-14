@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912455.1/GCF_000912455.1_ViralProj215114_genomic.fna.gz",
+        "filename": "GCF_000912455.1_ViralProj215114_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022065.1 Mycobacterium phage Contagion, complete genome",
         "signatures": [
             {
                 "ksize": 31,

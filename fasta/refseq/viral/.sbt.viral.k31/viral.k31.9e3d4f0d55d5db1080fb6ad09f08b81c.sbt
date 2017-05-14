@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000878995.1/GCF_000878995.1_ViralProj28281_genomic.fna.gz",
+        "filename": "GCF_000878995.1_ViralProj28281_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010239.1 Radish leaf curl virus satellite DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

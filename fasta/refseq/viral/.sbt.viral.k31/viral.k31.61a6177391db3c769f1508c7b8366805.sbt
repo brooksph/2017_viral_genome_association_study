@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001746175.1/GCF_001746175.1_ViralProj344222_genomic.fna.gz",
+        "filename": "GCF_001746175.1_ViralProj344222_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031055.1 Bacillus phage PfEFR-5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

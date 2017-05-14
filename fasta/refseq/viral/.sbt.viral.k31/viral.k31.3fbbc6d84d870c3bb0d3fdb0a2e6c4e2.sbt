@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894695.1/GCF_000894695.1_ViralProj167580_genomic.fna.gz",
+        "filename": "GCF_000894695.1_ViralProj167580_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017967.1 Hippeastrum mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

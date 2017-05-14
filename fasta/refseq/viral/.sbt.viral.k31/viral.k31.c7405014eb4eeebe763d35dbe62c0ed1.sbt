@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744115.1/GCF_001744115.1_ViralProj344208_genomic.fna.gz",
+        "filename": "GCF_001744115.1_ViralProj344208_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031033.1 Volepox virus strain CA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

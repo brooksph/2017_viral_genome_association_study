@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916175.1/GCF_000916175.1_ViralProj239725_genomic.fna.gz",
+        "filename": "GCF_000916175.1_ViralProj239725_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023559.1 Oenococcus phage phi9805, complete genome",
         "signatures": [
             {
                 "ksize": 31,

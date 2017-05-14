@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909015.1/GCF_000909015.1_ViralProj203666_genomic.fna.gz",
+        "filename": "GCF_000909015.1_ViralProj203666_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021248.1 Choristoneura biennis entomopoxvirus 'L', complete genome",
         "signatures": [
             {
                 "ksize": 31,

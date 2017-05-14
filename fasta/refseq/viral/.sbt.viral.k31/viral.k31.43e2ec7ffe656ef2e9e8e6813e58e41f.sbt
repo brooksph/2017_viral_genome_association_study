@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962315.1/GCF_001962315.1_ViralProj361952_genomic.fna.gz",
+        "filename": "GCF_001962315.1_ViralProj361952_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032730.1 Lucheng Rn rat coronavirus isolate Lucheng-19, complete genome",
         "signatures": [
             {
                 "ksize": 31,

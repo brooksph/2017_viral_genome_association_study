@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879875.1/GCF_000879875.1_ViralProj29245_genomic.fna.gz",
+        "filename": "GCF_000879875.1_ViralProj29245_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010438.1 Bat coronavirus HKU8, complete genome",
         "signatures": [
             {
                 "ksize": 31,

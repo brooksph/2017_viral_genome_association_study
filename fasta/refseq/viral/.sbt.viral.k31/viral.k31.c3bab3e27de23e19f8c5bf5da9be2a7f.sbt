@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842425.1/GCF_000842425.1_ViralProj14321_genomic.fna.gz",
+        "filename": "GCF_000842425.1_ViralProj14321_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005135.1 Aeromonas phage 44RR2.8t, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922875.1/GCF_000922875.1_ViralProj252619_genomic.fna.gz",
+        "filename": "GCF_000922875.1_ViralProj252619_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024297.1 Bovine astrovirus strain BAstV-GX7/CHN/2014, complete genome",
         "signatures": [
             {
                 "ksize": 31,

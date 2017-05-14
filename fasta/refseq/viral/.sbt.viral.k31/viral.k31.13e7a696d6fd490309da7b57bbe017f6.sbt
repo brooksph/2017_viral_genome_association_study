@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837105.1/GCF_000837105.1_ViralMultiSegProj14079_genomic.fna.gz",
+        "filename": "GCF_000837105.1_ViralMultiSegProj14079_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001938.1 Tomato mottle virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

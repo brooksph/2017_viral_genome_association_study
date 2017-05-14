@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002005665.1/GCF_002005665.1_ViralProj376169_genomic.fna.gz",
+        "filename": "GCF_002005665.1_ViralProj376169_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033780.1 Mythimna unipuncta granulovirus isolate MyunGV#8, complete genome",
         "signatures": [
             {
                 "ksize": 31,

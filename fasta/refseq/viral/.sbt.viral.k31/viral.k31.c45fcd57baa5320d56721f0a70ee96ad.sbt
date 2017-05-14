@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001308735.1/GCF_001308735.1_ViralProj297596_genomic.fna.gz",
+        "filename": "GCF_001308735.1_ViralProj297596_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027915.1 Bellflower vein chlorosis virus isolate CT1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

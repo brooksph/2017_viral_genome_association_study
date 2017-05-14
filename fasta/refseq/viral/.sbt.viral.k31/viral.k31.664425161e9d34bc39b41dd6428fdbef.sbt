@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924655.1/GCF_000924655.1_ViralProj264935_genomic.fna.gz",
+        "filename": "GCF_000924655.1_ViralProj264935_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025361.1 Avian paramyxovirus 5 strain budgerigar/Kunitachi/74, complete genome",
         "signatures": [
             {
                 "ksize": 31,

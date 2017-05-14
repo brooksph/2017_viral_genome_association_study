@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860865.1/GCF_000860865.1_ViralProj15383_genomic.fna.gz",
+        "filename": "GCF_000860865.1_ViralProj15383_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002532.2 Equine arteritis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

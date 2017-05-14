@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850105.1/GCF_000850105.1_ViralProj14686_genomic.fna.gz",
+        "filename": "GCF_000850105.1_ViralProj14686_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001940.1 Feline leukemia virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

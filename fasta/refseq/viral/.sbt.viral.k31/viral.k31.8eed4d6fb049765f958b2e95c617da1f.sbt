@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868085.1/GCF_000868085.1_ViralProj16745_genomic.fna.gz",
+        "filename": "GCF_000868085.1_ViralProj16745_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008094.1 Y73 sarcoma virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

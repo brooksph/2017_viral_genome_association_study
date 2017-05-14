@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001190575.1/GCF_001190575.1_ViralProj291266_genomic.fna.gz",
+        "filename": "GCF_001190575.1_ViralProj291266_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027620.1 Propionibacterium phage MrAK, complete genome",
         "signatures": [
             {
                 "ksize": 31,

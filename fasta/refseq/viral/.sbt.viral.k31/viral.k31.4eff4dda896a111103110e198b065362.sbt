@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921435.1/GCF_000921435.1_ViralMultiSegProj256090_genomic.fna.gz",
+        "filename": "GCF_000921435.1_ViralMultiSegProj256090_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024501.1 Gentian ovary ring-spot virus genomic RNA, segment 1, complete sequence, isolate: S",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900115.1/GCF_000900115.1_ViralProj175589_genomic.fna.gz",
+        "filename": "GCF_000900115.1_ViralProj175589_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018616.1 Dahlia mosaic virus clone pDaMV-p2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

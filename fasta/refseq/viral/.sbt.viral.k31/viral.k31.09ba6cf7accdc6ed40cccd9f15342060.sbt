@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889695.1/GCF_000889695.1_ViralProj62181_genomic.fna.gz",
+        "filename": "GCF_000889695.1_ViralProj62181_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014956.1 Human papillomavirus type 134, complete genome",
         "signatures": [
             {
                 "ksize": 31,

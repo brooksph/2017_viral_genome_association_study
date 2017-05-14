@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505055.1/GCF_001505055.1_ViralProj307916_genomic.fna.gz",
+        "filename": "GCF_001505055.1_ViralProj307916_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028947.1 Mycobacterium phage Kratio, complete genome",
         "signatures": [
             {
                 "ksize": 31,

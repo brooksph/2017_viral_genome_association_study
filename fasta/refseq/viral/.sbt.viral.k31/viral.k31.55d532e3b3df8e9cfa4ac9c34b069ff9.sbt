@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000973455.1/GCF_000973455.1_ViralProj281401_genomic.fna.gz",
+        "filename": "GCF_000973455.1_ViralProj281401_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026813.1 Fusarium graminearum hypovirus 2 isolate FgHV2/JS16, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928935.1/GCF_000928935.1_ViralProj269775_genomic.fna.gz",
+        "filename": "GCF_000928935.1_ViralProj269775_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025834.1 Switchgrass mosaic-associated virus 1 isolate Cloud Nine movement protein, capsid protein, replication-associated protein RepB, and replication-associated protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860085.1/GCF_000860085.1_ViralProj15241_genomic.fna.gz",
+        "filename": "GCF_000860085.1_ViralProj15241_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006998.1 Vaccinia virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

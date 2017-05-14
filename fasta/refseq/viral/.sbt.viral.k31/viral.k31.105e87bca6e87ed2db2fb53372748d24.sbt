@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960195.1/GCF_001960195.1_ViralMultiSegProj361818_genomic.fna.gz",
+        "filename": "GCF_001960195.1_ViralMultiSegProj361818_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033287.1 Shahe qinvirus-like virus 1 strain SHWC0209c11359 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

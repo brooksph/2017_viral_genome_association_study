@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899475.1/GCF_000899475.1_ViralProj177550_genomic.fna.gz",
+        "filename": "GCF_000899475.1_ViralProj177550_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018856.1 Bacillus phage Bastille, complete genome",
         "signatures": [
             {
                 "ksize": 31,

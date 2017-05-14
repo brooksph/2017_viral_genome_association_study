@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001921335.1/GCF_001921335.1_ViralProj358550_genomic.fna.gz",
+        "filename": "GCF_001921335.1_ViralProj358550_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032124.1 Shahe hepe-like virus 2 strain SHWC13612 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

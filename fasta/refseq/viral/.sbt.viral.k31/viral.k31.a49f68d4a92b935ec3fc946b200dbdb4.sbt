@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860985.1/GCF_000860985.1_ViralMultiSegProj15409_genomic.fna.gz",
+        "filename": "GCF_000860985.1_ViralMultiSegProj15409_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003785.2 Satsuma dwarf virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

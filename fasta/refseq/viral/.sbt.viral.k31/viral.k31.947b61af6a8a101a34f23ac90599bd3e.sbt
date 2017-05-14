@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918635.1/GCF_000918635.1_ViralProj240734_genomic.fna.gz",
+        "filename": "GCF_000918635.1_ViralProj240734_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023724.1 Mycobacterium phage Larva, complete genome",
         "signatures": [
             {
                 "ksize": 31,

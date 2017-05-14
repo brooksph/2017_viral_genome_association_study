@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883815.1/GCF_000883815.1_ViralProj37891_genomic.fna.gz",
+        "filename": "GCF_000883815.1_ViralProj37891_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012665.1 Malvastrum yellow vein Baoshan virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

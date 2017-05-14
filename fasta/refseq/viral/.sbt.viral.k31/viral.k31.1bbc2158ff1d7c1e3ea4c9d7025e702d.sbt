@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845765.1/GCF_000845765.1_ViralProj14478_genomic.fna.gz",
+        "filename": "GCF_000845765.1_ViralProj14478_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002371.2 Enterobacteria phage P22 virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

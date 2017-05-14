@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001500615.1/GCF_001500615.1_ViralProj307754_genomic.fna.gz",
+        "filename": "GCF_001500615.1_ViralProj307754_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028762.1 Proteus phage vB_PmiM_Pm5461, complete genome",
         "signatures": [
             {
                 "ksize": 31,

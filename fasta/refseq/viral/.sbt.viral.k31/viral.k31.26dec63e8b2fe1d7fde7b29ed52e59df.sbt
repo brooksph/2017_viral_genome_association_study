@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001706965.1/GCF_001706965.1_ViralProj338306_genomic.fna.gz",
+        "filename": "GCF_001706965.1_ViralProj338306_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030742.1 Gompholobium virus A isolate Monadnocks putative RNA dependent RNA polymerase (RdRP), replication-associated protein (RdRP), movement protein 1 (MP1), movement protein 2 (MP2), and coat protein (CP) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

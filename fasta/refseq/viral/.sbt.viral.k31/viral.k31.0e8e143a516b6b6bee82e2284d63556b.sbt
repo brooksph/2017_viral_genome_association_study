@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755745.1/GCF_001755745.1_ViralProj344643_genomic.fna.gz",
+        "filename": "GCF_001755745.1_ViralProj344643_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031232.1 Wuhan Insect virus 6 strain SXCC01-1 nucleocapsid (N), phosphoprotein (P), 4b protein (4b), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

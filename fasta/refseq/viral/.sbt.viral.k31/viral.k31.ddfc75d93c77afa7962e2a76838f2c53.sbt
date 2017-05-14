@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001184985.1/GCF_001184985.1_ViralProj290311_genomic.fna.gz",
+        "filename": "GCF_001184985.1_ViralProj290311_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027530.1 Cyclovirus TsCyV-1_JP-NUBS-2014 genes for capsid protein, replication-associated protein, complete cds",
         "signatures": [
             {
                 "ksize": 31,

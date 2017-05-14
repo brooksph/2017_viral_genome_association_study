@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897075.1/GCF_000897075.1_ViralProj165743_genomic.fna.gz",
+        "filename": "GCF_000897075.1_ViralProj165743_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017915.1 Sclerotinia sclerotiorum dsRNA mycovirus-L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

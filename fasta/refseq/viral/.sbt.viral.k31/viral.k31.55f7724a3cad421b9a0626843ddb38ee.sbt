@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925595.1/GCF_001925595.1_ViralProj359260_genomic.fna.gz",
+        "filename": "GCF_001925595.1_ViralProj359260_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032481.1 Beihai mollusks virus 2 strain WZSLuoI86113 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

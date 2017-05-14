@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505635.1/GCF_001505635.1_ViralProj307901_genomic.fna.gz",
+        "filename": "GCF_001505635.1_ViralProj307901_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028887.1 Bacillus phage AvesoBmore, complete genome",
         "signatures": [
             {
                 "ksize": 31,

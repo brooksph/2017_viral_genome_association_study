@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907735.1/GCF_000907735.1_ViralProj209073_genomic.fna.gz",
+        "filename": "GCF_000907735.1_ViralProj209073_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021532.1 Alteromonas phage vB_AmaP_AD45-P1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

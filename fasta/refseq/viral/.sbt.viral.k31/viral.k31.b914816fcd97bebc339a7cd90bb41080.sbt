@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889055.1/GCF_000889055.1_ViralMultiSegProj48591_genomic.fna.gz",
+        "filename": "GCF_000889055.1_ViralMultiSegProj48591_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014138.1 Abutilon Brazil virus DNA A segment, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

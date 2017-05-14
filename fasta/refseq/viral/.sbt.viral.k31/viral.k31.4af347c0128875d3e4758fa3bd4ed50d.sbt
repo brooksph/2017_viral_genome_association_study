@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754185.1/GCF_001754185.1_ViralMultiSegProj344589_genomic.fna.gz",
+        "filename": "GCF_001754185.1_ViralMultiSegProj344589_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031298.1 Wuhan Fly Virus 1 strain SYY1-9 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

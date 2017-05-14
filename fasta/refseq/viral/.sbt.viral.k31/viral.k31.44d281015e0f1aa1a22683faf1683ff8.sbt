@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886595.1/GCF_000886595.1_ViralProj39607_genomic.fna.gz",
+        "filename": "GCF_000886595.1_ViralProj39607_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013018.1 Circovirus-like genome SAR-B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

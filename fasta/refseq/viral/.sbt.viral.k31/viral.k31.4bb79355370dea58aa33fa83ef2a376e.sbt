@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001685265.1/GCF_001685265.1_ViralProj328134_genomic.fna.gz",
+        "filename": "GCF_001685265.1_ViralProj328134_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030452.1 Pelargonium leaf curl virus isolate T46 clone p1580-12, complete genome",
         "signatures": [
             {
                 "ksize": 31,

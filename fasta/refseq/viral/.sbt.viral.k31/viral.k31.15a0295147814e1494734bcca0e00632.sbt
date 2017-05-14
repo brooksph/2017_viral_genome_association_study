@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842905.1/GCF_000842905.1_ViralProj14239_genomic.fna.gz",
+        "filename": "GCF_000842905.1_ViralProj14239_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004569.1 Tomato yellow leaf curl Malaga virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

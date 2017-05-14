@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854265.1/GCF_000854265.1_ViralProj15048_genomic.fna.gz",
+        "filename": "GCF_000854265.1_ViralProj15048_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006269.1 Sapovirus Hu/Dresden/pJG-Sap01/DE, complete genome",
         "signatures": [
             {
                 "ksize": 31,

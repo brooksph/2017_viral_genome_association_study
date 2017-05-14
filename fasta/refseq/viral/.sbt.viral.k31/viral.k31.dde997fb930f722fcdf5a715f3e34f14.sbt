@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889715.1/GCF_000889715.1_ViralMultiSegProj62263_genomic.fna.gz",
+        "filename": "GCF_000889715.1_ViralMultiSegProj62263_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014978.1 Penaeus vannamei nodavirus RNA-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

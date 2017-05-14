@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839485.1/GCF_000839485.1_ViralProj14055_genomic.fna.gz",
+        "filename": "GCF_000839485.1_ViralProj14055_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001718.1 Porcine parvovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

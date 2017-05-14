@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883455.1/GCF_000883455.1_ViralProj33137_genomic.fna.gz",
+        "filename": "GCF_000883455.1_ViralProj33137_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011644.1 Equid herpesvirus 9, complete genome",
         "signatures": [
             {
                 "ksize": 31,

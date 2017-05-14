@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001448395.1/GCF_001448395.1_ViralProj303938_genomic.fna.gz",
+        "filename": "GCF_001448395.1_ViralProj303938_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028462.1 Blueberry fruit drop associated virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

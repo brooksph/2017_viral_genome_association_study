@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503155.1/GCF_001503155.1_ViralProj307859_genomic.fna.gz",
+        "filename": "GCF_001503155.1_ViralProj307859_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028811.1 BtMr-AlphaCoV/SAX2011, complete genome",
         "signatures": [
             {
                 "ksize": 31,

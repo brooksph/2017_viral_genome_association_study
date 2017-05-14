@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001045385.1/GCF_001045385.1_ViralProj288497_genomic.fna.gz",
+        "filename": "GCF_001045385.1_ViralProj288497_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027429.1 Bearded dragon parvovirus strain 2014, complete genome",
         "signatures": [
             {
                 "ksize": 31,

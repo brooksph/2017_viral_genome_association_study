@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001661715.1/GCF_001661715.1_ViralProj325255_genomic.fna.gz",
+        "filename": "GCF_001661715.1_ViralProj325255_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030295.1 Golden shiner totivirus isolate GSTV/US/MN/2014, partial genome",
         "signatures": [
             {
                 "ksize": 31,

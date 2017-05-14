@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001310195.1/GCF_001310195.1_ViralProj298208_genomic.fna.gz",
+        "filename": "GCF_001310195.1_ViralProj298208_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027999.1 Paraiso Escondido virus isolate Ecuador2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

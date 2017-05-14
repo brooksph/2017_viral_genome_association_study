@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001968735.1/GCF_001968735.1_ViralMultiSegProj361678_genomic.fna.gz",
+        "filename": "GCF_001968735.1_ViralMultiSegProj361678_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033277.1 Isaria javanica chrysovirus 1 isolate IjCV-1 RNA-dependent RNA polymerase (RdRp) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

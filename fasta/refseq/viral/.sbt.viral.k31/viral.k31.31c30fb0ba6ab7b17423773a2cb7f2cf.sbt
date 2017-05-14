@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905975.1/GCF_000905975.1_ViralProj194143_genomic.fna.gz",
+        "filename": "GCF_000905975.1_ViralProj194143_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020807.1 Lagos bat virus isolate 0406SEN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

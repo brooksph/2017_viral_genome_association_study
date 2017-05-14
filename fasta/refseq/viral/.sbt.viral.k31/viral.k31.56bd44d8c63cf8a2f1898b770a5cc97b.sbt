@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852525.1/GCF_000852525.1_ViralProj14874_genomic.fna.gz",
+        "filename": "GCF_000852525.1_ViralProj14874_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004541.1 Walrus calicivirus non-structural polyprotein, capsid, and putative nucleic-acid binding protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

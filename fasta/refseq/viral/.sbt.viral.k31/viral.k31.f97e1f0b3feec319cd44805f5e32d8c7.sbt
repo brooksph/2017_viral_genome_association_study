@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924935.1/GCF_000924935.1_ViralProj266715_genomic.fna.gz",
+        "filename": "GCF_000924935.1_ViralProj266715_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025454.1 Ralstonia phage RS603 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

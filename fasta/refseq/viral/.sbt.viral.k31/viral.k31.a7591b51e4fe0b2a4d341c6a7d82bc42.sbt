@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928715.1/GCF_000928715.1_ViralProj268425_genomic.fna.gz",
+        "filename": "GCF_000928715.1_ViralProj268425_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025707.1 Bacillariodnavirus LDMD-2013, complete genome",
         "signatures": [
             {
                 "ksize": 31,

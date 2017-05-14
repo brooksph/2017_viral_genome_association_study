@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854085.1/GCF_000854085.1_ViralProj15006_genomic.fna.gz",
+        "filename": "GCF_000854085.1_ViralProj15006_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004161.1 Reston ebolavirus isolate Reston virus/M.fascicularis-tc/USA/1989/Philippines89-Pennsylvania, complete genome",
         "signatures": [
             {
                 "ksize": 31,

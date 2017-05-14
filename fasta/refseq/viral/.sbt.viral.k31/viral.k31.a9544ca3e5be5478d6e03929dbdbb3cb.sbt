@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000989015.1/GCF_000989015.1_ViralProj282770_genomic.fna.gz",
+        "filename": "GCF_000989015.1_ViralProj282770_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026942.1 Sheep polyomavirus 1 isolate VH4-S14 from USA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

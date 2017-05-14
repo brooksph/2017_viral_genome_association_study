@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856585.1/GCF_000856585.1_ViralMultiSegProj15037_genomic.fna.gz",
+        "filename": "GCF_000856585.1_ViralMultiSegProj15037_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006574.1 Mopeia virus AN20410 segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

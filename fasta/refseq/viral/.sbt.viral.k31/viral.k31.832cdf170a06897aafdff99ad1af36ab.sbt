@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922755.1/GCF_000922755.1_ViralProj248630_genomic.fna.gz",
+        "filename": "GCF_000922755.1_ViralProj248630_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024141.1 Mycobacterium phage Kampy, complete genome",
         "signatures": [
             {
                 "ksize": 31,

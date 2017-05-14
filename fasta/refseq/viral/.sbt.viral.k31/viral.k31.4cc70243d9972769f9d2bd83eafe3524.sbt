@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001934205.1/GCF_001934205.1_ViralProj359818_genomic.fna.gz",
+        "filename": "GCF_001934205.1_ViralProj359818_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032555.1 Beihai rhabdo-like virus 1 strain BHTSS15727 hypothetical protein 1, hypothetical protein 2, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

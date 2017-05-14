@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857345.1/GCF_000857345.1_ViralProj15203_genomic.fna.gz",
+        "filename": "GCF_000857345.1_ViralProj15203_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004626.1 Ageratum yellow vein virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

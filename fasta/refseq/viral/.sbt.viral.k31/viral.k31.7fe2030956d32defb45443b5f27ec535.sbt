@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921755.1/GCF_000921755.1_ViralProj261353_genomic.fna.gz",
+        "filename": "GCF_000921755.1_ViralProj261353_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024890.1 Seal anellovirus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

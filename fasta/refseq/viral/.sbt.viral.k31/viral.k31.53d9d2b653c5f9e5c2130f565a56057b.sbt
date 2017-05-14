@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888735.1/GCF_000888735.1_ViralProj60053_genomic.fna.gz",
+        "filename": "GCF_000888735.1_ViralProj60053_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014649.1 Acanthamoeba polyphaga mimivirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

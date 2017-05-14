@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001887845.1/GCF_001887845.1_ViralProjBSR13_genomic.fna.gz",
+        "filename": "GCF_001887845.1_ViralProjBSR13_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031988.1 Gannoruwa bat lyssavirus isolate RV3266, complete genome",
         "signatures": [
             {
                 "ksize": 31,

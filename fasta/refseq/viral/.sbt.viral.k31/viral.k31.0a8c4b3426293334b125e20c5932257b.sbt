@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927875.1/GCF_000927875.1_ViralProj268557_genomic.fna.gz",
+        "filename": "GCF_000927875.1_ViralProj268557_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025737.1 Faecal-associated gemycircularvirus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880075.1/GCF_000880075.1_ViralProj30057_genomic.fna.gz",
+        "filename": "GCF_000880075.1_ViralProj30057_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010812.1 Ageratum yellow vein Hualian virus-[Taiwan:Hsinchu:tom:2003] DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857505.1/GCF_000857505.1_ViralProj15239_genomic.fna.gz",
+        "filename": "GCF_000857505.1_ViralProj15239_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003381.1 Banana streak OL virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

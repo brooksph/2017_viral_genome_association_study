@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887335.1/GCF_000887335.1_ViralProj48185_genomic.fna.gz",
+        "filename": "GCF_000887335.1_ViralProj48185_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014093.1 Torque teno midi virus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

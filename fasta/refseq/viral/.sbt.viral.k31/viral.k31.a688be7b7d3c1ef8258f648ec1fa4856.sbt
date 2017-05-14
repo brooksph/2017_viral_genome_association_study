@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008415.1/GCF_002008415.1_ViralProj376915_genomic.fna.gz",
+        "filename": "GCF_002008415.1_ViralProj376915_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033823.1 Bat iflavirus clone Bat/CAM/IfaV-P17/2013 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

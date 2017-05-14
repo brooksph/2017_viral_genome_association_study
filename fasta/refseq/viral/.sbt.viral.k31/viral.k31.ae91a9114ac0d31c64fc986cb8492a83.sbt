@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884935.1/GCF_000884935.1_ViralProj38463_genomic.fna.gz",
+        "filename": "GCF_000884935.1_ViralProj38463_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012789.1 Tomato leaf curl Pakistan virus associated DNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

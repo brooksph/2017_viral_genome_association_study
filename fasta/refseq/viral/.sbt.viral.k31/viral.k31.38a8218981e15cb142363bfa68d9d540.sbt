@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001743815.1/GCF_001743815.1_ViralProj344142_genomic.fna.gz",
+        "filename": "GCF_001743815.1_ViralProj344142_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031003.1 Propionibacterium phage Moyashi, complete genome",
         "signatures": [
             {
                 "ksize": 31,

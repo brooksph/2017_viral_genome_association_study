@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001921395.1/GCF_001921395.1_ViralProj358545_genomic.fna.gz",
+        "filename": "GCF_001921395.1_ViralProj358545_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032128.1 Wuhan spider virus 2 strain spider133995 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

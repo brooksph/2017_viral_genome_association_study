@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870325.1/GCF_000870325.1_ViralProj18503_genomic.fna.gz",
+        "filename": "GCF_000870325.1_ViralProj18503_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008695.1 Archaeal BJ1 virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

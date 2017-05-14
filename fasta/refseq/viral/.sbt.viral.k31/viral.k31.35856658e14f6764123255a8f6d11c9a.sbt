@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000943645.1/GCF_000943645.1_ViralProj276005_genomic.fna.gz",
+        "filename": "GCF_000943645.1_ViralProj276005_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024781.1 Marburg marburgvirus isolate Ravn virus/H.sapiens-tc/KEN/1987/Kitum Cave-810040, complete genome",
         "signatures": [
             {
                 "ksize": 31,

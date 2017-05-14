@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470615.1/GCF_001470615.1_ViralProj306281_genomic.fna.gz",
+        "filename": "GCF_001470615.1_ViralProj306281_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028654.1 Mycobacterium phage Sparkdehlily, complete genome",
         "signatures": [
             {
                 "ksize": 31,

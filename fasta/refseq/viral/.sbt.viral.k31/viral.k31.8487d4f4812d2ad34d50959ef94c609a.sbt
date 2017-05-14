@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883315.1/GCF_000883315.1_ViralProj32691_genomic.fna.gz",
+        "filename": "GCF_000883315.1_ViralProj32691_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011543.1 Poinsettia cryptic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

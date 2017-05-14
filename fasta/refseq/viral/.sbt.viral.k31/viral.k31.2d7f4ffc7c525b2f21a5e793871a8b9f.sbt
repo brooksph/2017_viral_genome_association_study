@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907935.1/GCF_000907935.1_ViralProj212718_genomic.fna.gz",
+        "filename": "GCF_000907935.1_ViralProj212718_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021779.1 Salmonella phage FSL SP-030, complete genome",
         "signatures": [
             {
                 "ksize": 31,

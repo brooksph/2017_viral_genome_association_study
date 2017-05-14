@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902015.1/GCF_000902015.1_ViralProj181994_genomic.fna.gz",
+        "filename": "GCF_000902015.1_ViralProj181994_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019547.1 Ageratum enation alphasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504915.1/GCF_001504915.1_ViralProj307888_genomic.fna.gz",
+        "filename": "GCF_001504915.1_ViralProj307888_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028930.1 Paenibacillus phage Tripp, complete genome",
         "signatures": [
             {
                 "ksize": 31,

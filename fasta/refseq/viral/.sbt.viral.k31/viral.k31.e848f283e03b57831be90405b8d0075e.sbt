@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866245.1/GCF_000866245.1_ViralMultiSegProj16582_genomic.fna.gz",
+        "filename": "GCF_000866245.1_ViralMultiSegProj16582_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007904.1 Mobala virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

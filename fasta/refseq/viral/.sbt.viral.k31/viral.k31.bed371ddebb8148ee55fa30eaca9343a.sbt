@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001904925.1/GCF_001904925.1_ViralProj356613_genomic.fna.gz",
+        "filename": "GCF_001904925.1_ViralProj356613_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032087.1 Euscelidius variegatus virus 1 isolate to-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

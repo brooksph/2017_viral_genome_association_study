@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909475.1/GCF_000909475.1_ViralProj210798_genomic.fna.gz",
+        "filename": "GCF_000909475.1_ViralProj210798_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021708.1 Cuban alphasatellite 1 complete sequence, isolate 1_1",
         "signatures": [
             {
                 "ksize": 31,

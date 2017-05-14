@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881115.1/GCF_000881115.1_ViralMultiSegProj34755_genomic.fna.gz",
+        "filename": "GCF_000881115.1_ViralMultiSegProj34755_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012134.1 Gayfeather mild mottle virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

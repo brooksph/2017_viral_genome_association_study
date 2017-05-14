@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961935.1/GCF_001961935.1_ViralProj362025_genomic.fna.gz",
+        "filename": "GCF_001961935.1_ViralProj362025_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033002.1 Changjiang tombus-like virus 18 strain CJLX21588 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461665.1/GCF_001461665.1_ViralProj304920_genomic.fna.gz",
+        "filename": "GCF_001461665.1_ViralProj304920_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028477.1 Ustilaginoidea virens RNA virus 5 strain F10-338 coat protein (CP) and RNA-dependent RNA polymerase (RdRp) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870265.1/GCF_000870265.1_ViralProj18275_genomic.fna.gz",
+        "filename": "GCF_000870265.1_ViralProj18275_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008585.1 Raspberry leaf mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

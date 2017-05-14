@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856165.1/GCF_000856165.1_ViralProj14946_genomic.fna.gz",
+        "filename": "GCF_000856165.1_ViralProj14946_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004451.1 Simian sapelovirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

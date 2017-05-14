@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926035.1/GCF_001926035.1_ViralMultiSegProj359261_genomic.fna.gz",
+        "filename": "GCF_001926035.1_ViralMultiSegProj359261_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032523.1 Beihai mantis shrimp virus 6 strain BHXG24422 RNA-dependent RNA polymerase, hypothetical protein, and B2-like protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

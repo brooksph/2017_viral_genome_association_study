@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965975.1/GCF_001965975.1_ViralProj362046_genomic.fna.gz",
+        "filename": "GCF_001965975.1_ViralProj362046_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033204.1 Hubei endorna-like virus 1 strain QCM148882 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

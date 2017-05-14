@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004235.1/GCF_002004235.1_ViralProj375031_genomic.fna.gz",
+        "filename": "GCF_002004235.1_ViralProj375031_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033722.1 Wuhan insect virus 33 strain WHCCII11871 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

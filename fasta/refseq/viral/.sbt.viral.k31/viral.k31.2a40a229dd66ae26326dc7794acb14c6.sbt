@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916975.1/GCF_000916975.1_ViralProj239271_genomic.fna.gz",
+        "filename": "GCF_000916975.1_ViralProj239271_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023503.1 Streptococcus phage 20617 complete prophage genome",
         "signatures": [
             {
                 "ksize": 31,

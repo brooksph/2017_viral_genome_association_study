@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908355.1/GCF_000908355.1_ViralProj202887_genomic.fna.gz",
+        "filename": "GCF_000908355.1_ViralProj202887_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021206.1 Bat circovirus isolate XOR7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

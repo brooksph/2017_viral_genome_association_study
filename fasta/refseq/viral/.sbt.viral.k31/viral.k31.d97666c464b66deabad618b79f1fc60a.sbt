@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927695.1/GCF_000927695.1_ViralProj268098_genomic.fna.gz",
+        "filename": "GCF_000927695.1_ViralProj268098_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025681.1 Sweet potato leaf curl Sao Paulo virus isolate SPLCSPV-[BR:AlvM:09], complete genome",
         "signatures": [
             {
                 "ksize": 31,

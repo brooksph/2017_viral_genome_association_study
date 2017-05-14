@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913435.1/GCF_000913435.1_ViralProj217878_genomic.fna.gz",
+        "filename": "GCF_000913435.1_ViralProj217878_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022232.1 Sweet potato leaf curl Shanghai virus isolate China:Jilin1:2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

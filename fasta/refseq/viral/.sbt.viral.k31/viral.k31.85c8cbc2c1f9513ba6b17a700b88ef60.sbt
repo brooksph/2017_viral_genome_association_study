@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884175.1/GCF_000884175.1_ViralProj39691_genomic.fna.gz",
+        "filename": "GCF_000884175.1_ViralProj39691_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013035.1 Human papillomavirus 116, complete genome",
         "signatures": [
             {
                 "ksize": 31,

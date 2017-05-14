@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846865.1/GCF_000846865.1_ViralProj14536_genomic.fna.gz",
+        "filename": "GCF_000846865.1_ViralProj14536_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005321.1 Papaya leaf curl China virus - [G8], complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855065.1/GCF_000855065.1_ViralProj15074_genomic.fna.gz",
+        "filename": "GCF_000855065.1_ViralProj15074_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003688.1 Cucurbit aphid-borne yellows virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

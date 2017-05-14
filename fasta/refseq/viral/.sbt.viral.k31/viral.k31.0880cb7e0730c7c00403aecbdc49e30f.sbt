@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918975.1/GCF_000918975.1_ViralProj243068_genomic.fna.gz",
+        "filename": "GCF_000918975.1_ViralProj243068_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023863.2 Vibrio phage CHOED, complete genome",
         "signatures": [
             {
                 "ksize": 31,

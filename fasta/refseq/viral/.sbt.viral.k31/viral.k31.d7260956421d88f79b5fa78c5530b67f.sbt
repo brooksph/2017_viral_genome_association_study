@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855945.1/GCF_000855945.1_ViralProj15080_genomic.fna.gz",
+        "filename": "GCF_000855945.1_ViralProj15080_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003689.1 Cherry virus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905335.1/GCF_000905335.1_ViralProj193982_genomic.fna.gz",
+        "filename": "GCF_000905335.1_ViralProj193982_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020498.1 TTV-like mini virus isolate TTMV_LY1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

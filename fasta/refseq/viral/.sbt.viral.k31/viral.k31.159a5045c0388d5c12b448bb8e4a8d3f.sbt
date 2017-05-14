@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874085.1/GCF_000874085.1_ViralProj20057_genomic.fna.gz",
+        "filename": "GCF_000874085.1_ViralProj20057_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009643.1 Actinomyces phage Av-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001698355.1/GCF_001698355.1_ViralProj336038_genomic.fna.gz",
+        "filename": "GCF_001698355.1_ViralProj336038_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030697.1 Picornavirales Bu-3 gene for polyprotein, complete cds",
         "signatures": [
             {
                 "ksize": 31,

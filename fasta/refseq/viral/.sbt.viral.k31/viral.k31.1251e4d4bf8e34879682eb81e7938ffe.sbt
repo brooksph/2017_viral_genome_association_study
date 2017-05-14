@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864405.1/GCF_000864405.1_ViralProj16301_genomic.fna.gz",
+        "filename": "GCF_000864405.1_ViralProj16301_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007711.1 Malvastrum leaf curl betasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

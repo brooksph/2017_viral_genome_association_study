@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858725.1/GCF_000858725.1_ViralMultiSegProj15130_genomic.fna.gz",
+        "filename": "GCF_000858725.1_ViralMultiSegProj15130_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003861.1 Sri Lankan cassava mosaic virus-[Colombo] DNA-A, complete genome, isolate SLCMV-Col",
         "signatures": [
             {
                 "ksize": 31,

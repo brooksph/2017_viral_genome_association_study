@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913915.1/GCF_000913915.1_ViralProj229825_genomic.fna.gz",
+        "filename": "GCF_000913915.1_ViralProj229825_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022897.1 Penaeus monodon circovirus VN11, complete genome",
         "signatures": [
             {
                 "ksize": 31,

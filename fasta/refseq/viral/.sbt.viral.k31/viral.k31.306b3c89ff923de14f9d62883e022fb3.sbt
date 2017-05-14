@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913675.1/GCF_000913675.1_ViralMultiSegProj225931_genomic.fna.gz",
+        "filename": "GCF_000913675.1_ViralMultiSegProj225931_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022630.1 Razdan virus strain LEIV-Arm2741 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

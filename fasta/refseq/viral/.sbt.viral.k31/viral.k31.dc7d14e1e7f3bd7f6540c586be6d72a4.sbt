@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849945.1/GCF_000849945.1_ViralProj14653_genomic.fna.gz",
+        "filename": "GCF_000849945.1_ViralProj14653_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000940.1 Porcine enteric sapovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

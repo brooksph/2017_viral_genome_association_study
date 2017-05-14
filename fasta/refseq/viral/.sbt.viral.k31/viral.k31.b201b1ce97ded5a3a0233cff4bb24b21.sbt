@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927115.1/GCF_000927115.1_ViralProj264924_genomic.fna.gz",
+        "filename": "GCF_000927115.1_ViralProj264924_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025355.1 Tailam virus strain TL8K, complete genome",
         "signatures": [
             {
                 "ksize": 31,

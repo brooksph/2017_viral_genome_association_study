@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844665.1/GCF_000844665.1_ViralMultiSegProj14427_genomic.fna.gz",
+        "filename": "GCF_000844665.1_ViralMultiSegProj14427_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003559.1 Faba bean necrotic yellows virus DNA-C, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

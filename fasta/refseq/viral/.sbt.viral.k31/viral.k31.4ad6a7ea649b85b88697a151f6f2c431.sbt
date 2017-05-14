@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893955.1/GCF_000893955.1_ViralMultiSegProj74579_genomic.fna.gz",
+        "filename": "GCF_000893955.1_ViralMultiSegProj74579_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016084.1 Blueberry necrotic ring blotch virus segment RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

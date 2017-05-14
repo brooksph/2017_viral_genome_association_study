@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901015.1/GCF_000901015.1_ViralProj183139_genomic.fna.gz",
+        "filename": "GCF_000901015.1_ViralProj183139_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019710.1 Enterobacteria phage HK140, complete genome",
         "signatures": [
             {
                 "ksize": 31,

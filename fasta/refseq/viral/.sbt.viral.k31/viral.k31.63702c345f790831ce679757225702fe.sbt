@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654185.1/GCF_001654185.1_ViralProj323864_genomic.fna.gz",
+        "filename": "GCF_001654185.1_ViralProj323864_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030234.1 Antarctic picorna-like virus 3 nonstructural protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903875.1/GCF_000903875.1_ViralProj184169_genomic.fna.gz",
+        "filename": "GCF_000903875.1_ViralProj184169_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019927.1 Cronobacter phage ENT47670, complete genome",
         "signatures": [
             {
                 "ksize": 31,

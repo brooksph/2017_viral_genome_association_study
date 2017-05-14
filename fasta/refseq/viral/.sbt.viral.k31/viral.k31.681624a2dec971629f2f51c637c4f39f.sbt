@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974435.1/GCF_001974435.1_ViralProj368944_genomic.fna.gz",
+        "filename": "GCF_001974435.1_ViralProj368944_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033458.1 Wuhan house centipede virus 3 strain WHYY18014 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912575.1/GCF_000912575.1_ViralProj215674_genomic.fna.gz",
+        "filename": "GCF_000912575.1_ViralProj215674_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022086.1 Mycobacterium phage LittleCherry, complete genome",
         "signatures": [
             {
                 "ksize": 31,

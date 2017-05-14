@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866425.1/GCF_000866425.1_ViralProj15495_genomic.fna.gz",
+        "filename": "GCF_000866425.1_ViralProj15495_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005288.1 Lily mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001698335.1/GCF_001698335.1_ViralProj336043_genomic.fna.gz",
+        "filename": "GCF_001698335.1_ViralProj336043_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030696.1 Gordonia phage Smoothie, complete genome",
         "signatures": [
             {
                 "ksize": 31,

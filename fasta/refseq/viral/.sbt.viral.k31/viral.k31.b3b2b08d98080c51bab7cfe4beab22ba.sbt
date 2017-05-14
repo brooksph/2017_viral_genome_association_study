@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002005035.1/GCF_002005035.1_ViralProj375060_genomic.fna.gz",
+        "filename": "GCF_002005035.1_ViralProj375060_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033695.1 Enterovirus AN12 genomic RNA, complete genome, strain: AN12",
         "signatures": [
             {
                 "ksize": 31,

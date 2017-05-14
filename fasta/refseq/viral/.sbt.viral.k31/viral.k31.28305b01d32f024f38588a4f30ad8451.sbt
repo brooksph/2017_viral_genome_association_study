@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924315.1/GCF_000924315.1_ViralMultiSegProj262089_genomic.fna.gz",
+        "filename": "GCF_000924315.1_ViralMultiSegProj262089_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013225.1 Mammalian orthoreovirus 3 segment L1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

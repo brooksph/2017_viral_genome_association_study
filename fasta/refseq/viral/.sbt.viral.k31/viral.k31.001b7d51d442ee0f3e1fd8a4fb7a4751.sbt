@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838245.1/GCF_000838245.1_ViralProj14153_genomic.fna.gz",
+        "filename": "GCF_000838245.1_ViralProj14153_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003382.1 Citrus yellow mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

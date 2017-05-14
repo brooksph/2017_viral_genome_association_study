@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001028945.1/GCF_001028945.1_ViralProj286971_genomic.fna.gz",
+        "filename": "GCF_001028945.1_ViralProj286971_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027215.1 Tomato yellow leaf curl Mali virus complete genome, isolate Tom-141",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470355.1/GCF_001470355.1_ViralProj306288_genomic.fna.gz",
+        "filename": "GCF_001470355.1_ViralProj306288_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028692.1 Arthrobacter phage Decurro, complete genome",
         "signatures": [
             {
                 "ksize": 31,

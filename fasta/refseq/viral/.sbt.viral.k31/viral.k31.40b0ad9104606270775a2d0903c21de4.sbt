@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840345.1/GCF_000840345.1_ViralProj14225_genomic.fna.gz",
+        "filename": "GCF_000840345.1_ViralProj14225_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004302.1 Bacteriophage r1t integrase, repressor protein (rro), dUTPase, holin and lysin genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

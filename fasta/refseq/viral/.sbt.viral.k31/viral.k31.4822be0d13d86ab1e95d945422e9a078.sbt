@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001567075.1/GCF_001567075.1_ViralProj312642_genomic.fna.gz",
+        "filename": "GCF_001567075.1_ViralProj312642_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029303.1 Blackberry Virus F isolate BBV-3X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

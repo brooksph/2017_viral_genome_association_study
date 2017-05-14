@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907355.1/GCF_000907355.1_ViralProj202889_genomic.fna.gz",
+        "filename": "GCF_000907355.1_ViralProj202889_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021202.1 Ageratum Yellow vein China virus - OX1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

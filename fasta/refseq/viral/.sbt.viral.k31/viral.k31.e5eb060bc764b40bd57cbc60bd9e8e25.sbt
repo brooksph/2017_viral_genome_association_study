@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916515.1/GCF_000916515.1_ViralProj240066_genomic.fna.gz",
+        "filename": "GCF_000916515.1_ViralProj240066_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023631.1 Bovine astrovirus B18/HK, complete genome",
         "signatures": [
             {
                 "ksize": 31,

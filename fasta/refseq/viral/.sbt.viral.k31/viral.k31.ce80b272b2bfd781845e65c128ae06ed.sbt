@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860385.1/GCF_000860385.1_ViralMultiSegProj15283_genomic.fna.gz",
+        "filename": "GCF_000860385.1_ViralMultiSegProj15283_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003549.1 Cowpea mosaic virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

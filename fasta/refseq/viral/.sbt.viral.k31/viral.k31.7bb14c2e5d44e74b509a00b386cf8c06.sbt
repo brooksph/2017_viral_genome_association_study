@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870705.1/GCF_000870705.1_ViralProj19601_genomic.fna.gz",
+        "filename": "GCF_000870705.1_ViralProj19601_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009449.1 Honeysuckle yellow vein beta-[Japan:Fukui:2001], complete genome",
         "signatures": [
             {
                 "ksize": 31,

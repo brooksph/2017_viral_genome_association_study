@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001907745.1/GCF_001907745.1_ViralProj357630_genomic.fna.gz",
+        "filename": "GCF_001907745.1_ViralProj357630_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032118.1 Vernonia crinkle virus isolate UG7, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

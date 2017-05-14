@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926195.1/GCF_000926195.1_ViralProj261355_genomic.fna.gz",
+        "filename": "GCF_000926195.1_ViralProj261355_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024893.1 Apodemus sylvaticus papillomavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

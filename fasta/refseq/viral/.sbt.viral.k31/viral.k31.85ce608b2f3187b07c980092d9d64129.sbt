@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461105.1/GCF_001461105.1_ViralProj304902_genomic.fna.gz",
+        "filename": "GCF_001461105.1_ViralProj304902_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028488.1 Red clover powdery mildew-associated totivirus 7 genomic RNA, complete genome, isolate: RPaTV7_75-7",
         "signatures": [
             {
                 "ksize": 31,

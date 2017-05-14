@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896255.1/GCF_000896255.1_ViralProj167573_genomic.fna.gz",
+        "filename": "GCF_000896255.1_ViralProj167573_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017968.1 Staphylococcus phage TEM123, complete genome",
         "signatures": [
             {
                 "ksize": 31,

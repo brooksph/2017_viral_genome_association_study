@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858525.1/GCF_000858525.1_ViralMultiSegProj15250_genomic.fna.gz",
+        "filename": "GCF_000858525.1_ViralMultiSegProj15250_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003006.1 Cypovirus 14 RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

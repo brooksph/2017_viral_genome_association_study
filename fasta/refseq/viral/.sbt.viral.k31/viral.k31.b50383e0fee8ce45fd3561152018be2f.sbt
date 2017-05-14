@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847125.1/GCF_000847125.1_ViralProj14581_genomic.fna.gz",
+        "filename": "GCF_000847125.1_ViralProj14581_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004285.1 Aedes albopictus densovirus 2 DNA",
         "signatures": [
             {
                 "ksize": 31,

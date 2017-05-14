@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001443865.1/GCF_001443865.1_ViralProj302019_genomic.fna.gz",
+        "filename": "GCF_001443865.1_ViralProj302019_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028376.1 Beihai barnacle viurs 1 strain BHGZ polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

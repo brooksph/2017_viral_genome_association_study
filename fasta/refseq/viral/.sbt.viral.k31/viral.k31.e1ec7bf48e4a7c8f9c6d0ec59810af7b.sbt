@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918375.1/GCF_000918375.1_ViralProj240047_genomic.fna.gz",
+        "filename": "GCF_000918375.1_ViralProj240047_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023587.1 Synechococcus phage S-MbCM7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744875.1/GCF_001744875.1_ViralProj344225_genomic.fna.gz",
+        "filename": "GCF_001744875.1_ViralProj344225_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031048.1 Enterobacter phage Arya, complete genome",
         "signatures": [
             {
                 "ksize": 31,

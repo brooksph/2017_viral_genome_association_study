@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839305.1/GCF_000839305.1_ViralMultiSegProj14013_genomic.fna.gz",
+        "filename": "GCF_000839305.1_ViralMultiSegProj14013_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002048.1 Potato yellow mosaic Panama virus segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923175.1/GCF_000923175.1_ViralProj253818_genomic.fna.gz",
+        "filename": "GCF_000923175.1_ViralProj253818_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024455.1 Yerba mate endornavirus strain INTA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001695425.1/GCF_001695425.1_ViralMultiSegProj331042_genomic.fna.gz",
+        "filename": "GCF_001695425.1_ViralMultiSegProj331042_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030660.1 Pigeonpea sterility mosaic virus 2 segment RNA1, complete genome, isolate PLant",
         "signatures": [
             {
                 "ksize": 31,

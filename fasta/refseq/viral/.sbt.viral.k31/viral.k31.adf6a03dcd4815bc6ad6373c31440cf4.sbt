@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001008475.1/GCF_001008475.1_ViralProj284012_genomic.fna.gz",
+        "filename": "GCF_001008475.1_ViralProj284012_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027026.1 Sapovirus Hu/Nagoya/NGY-1/2012/JPN genomic RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

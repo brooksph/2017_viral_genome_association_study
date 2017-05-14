@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899795.1/GCF_000899795.1_ViralProj170172_genomic.fna.gz",
+        "filename": "GCF_000899795.1_ViralProj170172_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018105.1 Gooseberry vein banding virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

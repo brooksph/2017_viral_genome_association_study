@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839105.1/GCF_000839105.1_ViralProj14156_genomic.fna.gz",
+        "filename": "GCF_000839105.1_ViralProj14156_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003391.1 Camelpox virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

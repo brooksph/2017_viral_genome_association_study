@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904635.1/GCF_000904635.1_ViralProj196417_genomic.fna.gz",
+        "filename": "GCF_000904635.1_ViralProj196417_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020903.1 Xanthophyllomyces dendrorhous virus L1A capsid protein (CP) and RNA-dependent RNA polymerase (RdRp) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

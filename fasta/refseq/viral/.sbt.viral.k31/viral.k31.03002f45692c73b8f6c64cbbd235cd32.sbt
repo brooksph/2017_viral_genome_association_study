@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896675.1/GCF_000896675.1_ViralProj81151_genomic.fna.gz",
+        "filename": "GCF_000896675.1_ViralProj81151_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016649.1 Hollyhock yellow vein mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

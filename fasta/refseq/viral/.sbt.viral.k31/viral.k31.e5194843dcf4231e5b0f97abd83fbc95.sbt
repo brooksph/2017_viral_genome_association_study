@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004595.1/GCF_002004595.1_ViralProj375041_genomic.fna.gz",
+        "filename": "GCF_002004595.1_ViralProj375041_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033699.1 Jugra virus strain P-9-314 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

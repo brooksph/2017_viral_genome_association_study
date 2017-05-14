@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840745.2/GCF_000840745.2_ViralProj14310_genomic.fna.gz",
+        "filename": "GCF_000840745.2_ViralProj14310_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004914.3 Stx2 converting phage II DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755445.1/GCF_001755445.1_ViralProj344490_genomic.fna.gz",
+        "filename": "GCF_001755445.1_ViralProj344490_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031225.1 Wuhan Insect virus 4 strain YCYC03 nucleocapsid (N), phosphoprotein (P), 4b protein (4b), putative matrix protein (ORF4), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

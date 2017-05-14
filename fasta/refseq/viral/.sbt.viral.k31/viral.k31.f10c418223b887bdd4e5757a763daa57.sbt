@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896235.1/GCF_000896235.1_ViralProj167112_genomic.fna.gz",
+        "filename": "GCF_000896235.1_ViralProj167112_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017937.1 Nariva virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

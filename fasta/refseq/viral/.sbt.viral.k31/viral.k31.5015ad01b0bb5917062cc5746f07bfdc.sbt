@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870425.1/GCF_000870425.1_ViralProj18729_genomic.fna.gz",
+        "filename": "GCF_000870425.1_ViralProj18729_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008824.1 Narcissus degeneration virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

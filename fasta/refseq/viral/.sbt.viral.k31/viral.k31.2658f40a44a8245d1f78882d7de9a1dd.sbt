@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921015.1/GCF_000921015.1_ViralProj252717_genomic.fna.gz",
+        "filename": "GCF_000921015.1_ViralProj252717_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024303.1 Bovine herpesvirus 6 isolate Pennsylvania 47, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505975.1/GCF_001505975.1_ViralProj307969_genomic.fna.gz",
+        "filename": "GCF_001505975.1_ViralProj307969_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028953.1 Mycobacterium phage MiaZeal, complete genome",
         "signatures": [
             {
                 "ksize": 31,

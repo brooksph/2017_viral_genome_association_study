@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848245.1/GCF_000848245.1_ViralProj14650_genomic.fna.gz",
+        "filename": "GCF_000848245.1_ViralProj14650_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001946.1 Sour cherry green ring mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

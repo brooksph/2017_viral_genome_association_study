@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921335.1/GCF_000921335.1_ViralProj255707_genomic.fna.gz",
+        "filename": "GCF_000921335.1_ViralProj255707_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024476.1 Blueberry mosaic associated virus RNA 2, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

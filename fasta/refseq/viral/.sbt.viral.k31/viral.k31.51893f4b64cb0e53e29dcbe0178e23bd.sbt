@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904175.1/GCF_000904175.1_ViralProj189218_genomic.fna.gz",
+        "filename": "GCF_000904175.1_ViralProj189218_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020256.1 Sida mottle Alagoas virus isolate BR:Vsa2:10 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

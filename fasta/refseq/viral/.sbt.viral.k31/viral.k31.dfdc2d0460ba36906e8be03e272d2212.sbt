@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754565.1/GCF_001754565.1_ViralProj344323_genomic.fna.gz",
+        "filename": "GCF_001754565.1_ViralProj344323_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031215.1 Shayang Fly Virus 2 strain SYY1-8 nucleocapsid (N), ORF2 (ORF2), X protein (X), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

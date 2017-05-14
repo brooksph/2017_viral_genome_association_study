@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838525.1/GCF_000838525.1_ViralProj14032_genomic.fna.gz",
+        "filename": "GCF_000838525.1_ViralProj14032_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001270.2 Spiroplasma phage SVTS2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

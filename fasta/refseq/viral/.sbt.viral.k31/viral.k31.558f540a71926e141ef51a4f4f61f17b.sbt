@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001743595.1/GCF_001743595.1_ViralProj344093_genomic.fna.gz",
+        "filename": "GCF_001743595.1_ViralProj344093_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031099.1 Gordonia phage Hedwig, complete genome",
         "signatures": [
             {
                 "ksize": 31,

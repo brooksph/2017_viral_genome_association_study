@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001958995.1/GCF_001958995.1_ViralProj361760_genomic.fna.gz",
+        "filename": "GCF_001958995.1_ViralProj361760_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032827.1 Wenzhou bivalvia virus 1 strain beimix75829 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

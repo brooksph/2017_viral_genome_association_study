@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550565.1/GCF_001550565.1_ViralProj310910_genomic.fna.gz",
+        "filename": "GCF_001550565.1_ViralProj310910_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029082.1 Arrabida virus strain PoSFPhlebV/126/2008 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

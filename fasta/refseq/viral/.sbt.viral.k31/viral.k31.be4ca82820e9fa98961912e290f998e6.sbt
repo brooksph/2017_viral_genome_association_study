@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927215.1/GCF_000927215.1_ViralProj265890_genomic.fna.gz",
+        "filename": "GCF_000927215.1_ViralProj265890_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025391.1 Almpiwar virus isolate MRM4059, complete genome",
         "signatures": [
             {
                 "ksize": 31,

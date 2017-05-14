@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461205.1/GCF_001461205.1_ViralProj304914_genomic.fna.gz",
+        "filename": "GCF_001461205.1_ViralProj304914_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028473.1 Grapevine associated narnavirus-1 RdRp gene for RNA dependent RNA polymerase, strain Ctg157, isolate HAZ1-4",
         "signatures": [
             {
                 "ksize": 31,

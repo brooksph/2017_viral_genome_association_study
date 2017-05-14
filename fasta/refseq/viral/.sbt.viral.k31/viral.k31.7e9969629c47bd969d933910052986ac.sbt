@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907095.1/GCF_000907095.1_ViralProj195536_genomic.fna.gz",
+        "filename": "GCF_000907095.1_ViralProj195536_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020883.1 Bacillus phage PM1 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

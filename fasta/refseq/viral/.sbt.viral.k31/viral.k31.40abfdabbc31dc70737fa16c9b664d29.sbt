@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000931115.1/GCF_000931115.1_ViralProj274159_genomic.fna.gz",
+        "filename": "GCF_000931115.1_ViralProj274159_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026317.1 Black howler monkey smacovirus isolate SF1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

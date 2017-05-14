@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901335.1/GCF_000901335.1_ViralProj184813_genomic.fna.gz",
+        "filename": "GCF_000901335.1_ViralProj184813_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019945.1 Thysanoplusia orichalcea NPV isolate p2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

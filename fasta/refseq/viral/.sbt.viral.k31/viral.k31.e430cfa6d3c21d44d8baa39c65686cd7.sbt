@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745395.1/GCF_001745395.1_ViralMultiSegProj344197_genomic.fna.gz",
+        "filename": "GCF_001745395.1_ViralMultiSegProj344197_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031133.1 Polygonum ringspot virus isolate Plg6 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

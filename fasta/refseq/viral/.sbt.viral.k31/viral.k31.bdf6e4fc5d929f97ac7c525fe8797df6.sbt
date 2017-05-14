@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505895.1/GCF_001505895.1_ViralProj307953_genomic.fna.gz",
+        "filename": "GCF_001505895.1_ViralProj307953_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028907.1 Mycobacterium phage Kikipoo, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755405.1/GCF_001755405.1_ViralProj344320_genomic.fna.gz",
+        "filename": "GCF_001755405.1_ViralProj344320_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031217.1 Shuangao Bedbug Virus 2 strain SACC-1 ORF1 (ORF1), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

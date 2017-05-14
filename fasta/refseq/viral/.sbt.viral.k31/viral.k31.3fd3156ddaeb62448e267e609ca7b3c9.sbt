@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926435.1/GCF_001926435.1_ViralProj359275_genomic.fna.gz",
+        "filename": "GCF_001926435.1_ViralProj359275_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032407.1 Beihai echinoderm virus 1 strain BHJP42036 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

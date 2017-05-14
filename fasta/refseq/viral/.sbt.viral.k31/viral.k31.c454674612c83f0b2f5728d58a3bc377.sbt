@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924995.1/GCF_000924995.1_ViralProj266774_genomic.fna.gz",
+        "filename": "GCF_000924995.1_ViralProj266774_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025431.1 Mesorhizobium phagevB_MloP_Lo5R7ANS, complete genome",
         "signatures": [
             {
                 "ksize": 31,

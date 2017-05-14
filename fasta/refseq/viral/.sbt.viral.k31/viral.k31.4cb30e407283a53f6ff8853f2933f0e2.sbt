@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879535.1/GCF_000879535.1_ViralProj30177_genomic.fna.gz",
+        "filename": "GCF_000879535.1_ViralProj30177_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010832.1 Lettuce virus X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

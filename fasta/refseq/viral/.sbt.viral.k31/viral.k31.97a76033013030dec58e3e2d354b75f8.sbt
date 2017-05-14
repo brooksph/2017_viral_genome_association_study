@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847305.1/GCF_000847305.1_ViralMultiSegProj14621_genomic.fna.gz",
+        "filename": "GCF_000847305.1_ViralMultiSegProj14621_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003479.1 Banana bunchy top virus DNA R, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

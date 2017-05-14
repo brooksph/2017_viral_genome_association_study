@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001725895.1/GCF_001725895.1_ViralProj342507_genomic.fna.gz",
+        "filename": "GCF_001725895.1_ViralProj342507_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030884.1 Sulfolobus islandicus rudivirus 3 isolate SIRV3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

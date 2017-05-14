@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000943725.1/GCF_000943725.1_ViralProj275895_genomic.fna.gz",
+        "filename": "GCF_000943725.1_ViralProj275895_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026508.1 Cucurbit aphid borne yellows virus associated RNA RNA-dependent RNA polymerase and putative 25K replicase component genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

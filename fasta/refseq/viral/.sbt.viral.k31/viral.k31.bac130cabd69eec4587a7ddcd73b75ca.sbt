@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501155.1/GCF_001501155.1_ViralProj307731_genomic.fna.gz",
+        "filename": "GCF_001501155.1_ViralProj307731_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028896.1 Escherichia phage pro147, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001885465.1/GCF_001885465.1_ViralProj353921_genomic.fna.gz",
+        "filename": "GCF_001885465.1_ViralProj353921_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031950.1 Guereza hepacivirus, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

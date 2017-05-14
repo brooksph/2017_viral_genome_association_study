@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856265.1/GCF_000856265.1_ViralProj14966_genomic.fna.gz",
+        "filename": "GCF_000856265.1_ViralProj14966_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002030.1 Potato spindle tuber viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

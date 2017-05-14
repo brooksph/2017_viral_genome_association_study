@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923975.1/GCF_000923975.1_ViralProj257662_genomic.fna.gz",
+        "filename": "GCF_000923975.1_ViralProj257662_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024684.1 Lizard adenovirus 2 isolate 23-06, complete genome",
         "signatures": [
             {
                 "ksize": 31,

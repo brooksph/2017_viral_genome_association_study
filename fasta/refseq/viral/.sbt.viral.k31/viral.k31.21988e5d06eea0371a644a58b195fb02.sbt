@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001433565.1/GCF_001433565.1_ViralMultiSegProj301069_genomic.fna.gz",
+        "filename": "GCF_001433565.1_ViralMultiSegProj301069_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028252.1 Tasmanian aquabirnavirus isolate TABV 98-00208 segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

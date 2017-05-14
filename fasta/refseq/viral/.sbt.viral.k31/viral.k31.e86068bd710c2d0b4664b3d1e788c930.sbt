@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001184965.1/GCF_001184965.1_ViralProj289929_genomic.fna.gz",
+        "filename": "GCF_001184965.1_ViralProj289929_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027527.1 Pea streak virus isolate VRS-541, complete genome",
         "signatures": [
             {
                 "ksize": 31,

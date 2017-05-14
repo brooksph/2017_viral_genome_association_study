@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901955.1/GCF_000901955.1_ViralProj181250_genomic.fna.gz",
+        "filename": "GCF_000901955.1_ViralProj181250_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019531.1 Avian paramyxovirus 4 strain APMV-4/duck/Delaware/549227/2010, complete genome",
         "signatures": [
             {
                 "ksize": 31,

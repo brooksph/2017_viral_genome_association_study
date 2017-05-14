@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864465.1/GCF_000864465.1_ViralProj16335_genomic.fna.gz",
+        "filename": "GCF_000864465.1_ViralProj16335_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007730.2 Vernonia yellow vein virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

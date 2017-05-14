@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503315.1/GCF_001503315.1_ViralProj307891_genomic.fna.gz",
+        "filename": "GCF_001503315.1_ViralProj307891_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028932.1 Mycobacterium phage Serenity, complete genome",
         "signatures": [
             {
                 "ksize": 31,

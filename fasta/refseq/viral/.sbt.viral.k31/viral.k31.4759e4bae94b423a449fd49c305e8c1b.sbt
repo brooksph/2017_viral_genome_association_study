@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899675.1/GCF_000899675.1_ViralMultiSegProj167734_genomic.fna.gz",
+        "filename": "GCF_000899675.1_ViralMultiSegProj167734_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017989.1 Persimmon cryptic virus segment 1, isolate SSPI, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903695.1/GCF_000903695.1_ViralProj183709_genomic.fna.gz",
+        "filename": "GCF_000903695.1_ViralProj183709_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019844.1 Vervet monkey polyomavirus 1 DNA, complete genome, isolate: VMS96",
         "signatures": [
             {
                 "ksize": 31,

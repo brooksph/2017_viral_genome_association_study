@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887635.1/GCF_000887635.1_ViralMultiSegProj52641_genomic.fna.gz",
+        "filename": "GCF_000887635.1_ViralMultiSegProj52641_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014522.1 Great Island virus segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923135.1/GCF_000923135.1_ViralProj253477_genomic.fna.gz",
+        "filename": "GCF_000923135.1_ViralProj253477_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024446.1 Penguinpox virus isolate PSan92, complete genome",
         "signatures": [
             {
                 "ksize": 31,

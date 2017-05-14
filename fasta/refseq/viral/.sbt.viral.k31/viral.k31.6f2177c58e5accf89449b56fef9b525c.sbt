@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001921295.1/GCF_001921295.1_ViralMultiSegProj358542_genomic.fna.gz",
+        "filename": "GCF_001921295.1_ViralMultiSegProj358542_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032154.1 Beihai sphaeromadae virus 3 strain BHTSS17005 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

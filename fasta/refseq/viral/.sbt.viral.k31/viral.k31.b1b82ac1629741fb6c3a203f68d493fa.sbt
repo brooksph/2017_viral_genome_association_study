@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925215.2/GCF_000925215.2_ViralProj263030_genomic.fna.gz",
+        "filename": "GCF_000925215.2_ViralProj263030_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025220.1 Sweet potato leaf curl virus associated satellite isolate 1764E13, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

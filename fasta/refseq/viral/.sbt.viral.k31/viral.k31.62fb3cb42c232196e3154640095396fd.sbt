@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001046725.1/GCF_001046725.1_ViralProj33677_genomic.fna.gz",
+        "filename": "GCF_001046725.1_ViralProj33677_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011919.1 Bhendi yellow vein Delhi virus [2004:New Delhi] DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

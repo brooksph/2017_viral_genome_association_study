@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850085.1/GCF_000850085.1_ViralProj14682_genomic.fna.gz",
+        "filename": "GCF_000850085.1_ViralProj14682_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001834.1 Drosophila C virus strain EB, complete genome",
         "signatures": [
             {
                 "ksize": 31,

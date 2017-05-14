@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001706945.1/GCF_001706945.1_ViralProj339071_genomic.fna.gz",
+        "filename": "GCF_001706945.1_ViralProj339071_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030748.1 Senna leaf curl virus isolate Mohali, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004015.1/GCF_002004015.1_ViralProj375050_genomic.fna.gz",
+        "filename": "GCF_002004015.1_ViralProj375050_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033741.1 Amphibola crenata associated bacilladnavirus 2 isolate GaBacV2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

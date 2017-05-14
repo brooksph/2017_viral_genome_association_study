@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880575.1/GCF_000880575.1_ViralProj32005_genomic.fna.gz",
+        "filename": "GCF_000880575.1_ViralProj32005_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011291.1 Mycobacterium phage Brujita, complete genome",
         "signatures": [
             {
                 "ksize": 31,

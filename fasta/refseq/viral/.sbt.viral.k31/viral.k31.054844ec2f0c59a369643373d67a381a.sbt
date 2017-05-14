@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924775.1/GCF_000924775.1_ViralProj265903_genomic.fna.gz",
+        "filename": "GCF_000924775.1_ViralProj265903_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025397.1 Coastal Plains virus strain DPP53, complete genome",
         "signatures": [
             {
                 "ksize": 31,

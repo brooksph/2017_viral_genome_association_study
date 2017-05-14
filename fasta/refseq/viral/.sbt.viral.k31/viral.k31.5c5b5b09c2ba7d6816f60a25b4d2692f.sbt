@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839705.1/GCF_000839705.1_ViralMultiSegProj14102_genomic.fna.gz",
+        "filename": "GCF_000839705.1_ViralMultiSegProj14102_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002557.1 Trichoplusia ni cytoplasmic polyhedrosis virus 15 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

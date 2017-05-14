@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882195.1/GCF_000882195.1_ViralProj32015_genomic.fna.gz",
+        "filename": "GCF_000882195.1_ViralProj32015_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011292.1 Mycobacterium phage Konstantine, complete genome",
         "signatures": [
             {
                 "ksize": 31,

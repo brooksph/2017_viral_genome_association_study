@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925875.1/GCF_000925875.1_ViralProj266779_genomic.fna.gz",
+        "filename": "GCF_000925875.1_ViralProj266779_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025466.1 Shewanella sp. phage 3/49, complete genome",
         "signatures": [
             {
                 "ksize": 31,

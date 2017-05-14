@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920255.1/GCF_000920255.1_ViralProj240759_genomic.fna.gz",
+        "filename": "GCF_000920255.1_ViralProj240759_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023703.1 Mycobacterium phage Dori, complete genome",
         "signatures": [
             {
                 "ksize": 31,

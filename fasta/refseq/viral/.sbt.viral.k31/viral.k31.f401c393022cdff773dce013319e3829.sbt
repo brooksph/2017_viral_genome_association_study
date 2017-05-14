@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925635.1/GCF_001925635.1_ViralMultiSegProj359268_genomic.fna.gz",
+        "filename": "GCF_001925635.1_ViralMultiSegProj359268_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032521.1 Beihai horseshoe crab virus 1 strain HOU157708 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001921595.1/GCF_001921595.1_ViralProj358543_genomic.fna.gz",
+        "filename": "GCF_001921595.1_ViralProj358543_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032126.1 Livupivirus A strain newt/II-5-Pilis/2014/HUN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

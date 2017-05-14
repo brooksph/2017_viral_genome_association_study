@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863425.1/GCF_000863425.1_ViralProj15400_genomic.fna.gz",
+        "filename": "GCF_000863425.1_ViralProj15400_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003987.1 Porcine sapelovirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

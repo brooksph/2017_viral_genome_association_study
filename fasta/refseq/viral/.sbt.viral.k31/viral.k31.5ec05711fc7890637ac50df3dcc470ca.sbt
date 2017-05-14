@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887415.1/GCF_000887415.1_ViralProj48601_genomic.fna.gz",
+        "filename": "GCF_000887415.1_ViralProj48601_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014143.1 Bettongia penicillata papillomavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

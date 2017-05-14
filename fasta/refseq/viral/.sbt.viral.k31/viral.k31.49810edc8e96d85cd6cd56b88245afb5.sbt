@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911755.1/GCF_000911755.1_ViralProj214364_genomic.fna.gz",
+        "filename": "GCF_000911755.1_ViralProj214364_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021930.1 Rangifer tarandus papillomavirus 2 isolate RtPV2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

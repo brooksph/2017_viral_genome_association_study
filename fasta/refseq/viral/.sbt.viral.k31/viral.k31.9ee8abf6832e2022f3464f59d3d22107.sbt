@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921535.1/GCF_000921535.1_ViralMultiSegProj258308_genomic.fna.gz",
+        "filename": "GCF_000921535.1_ViralMultiSegProj258308_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024704.1 Cladosporium cladosporioides virus 1 putative RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

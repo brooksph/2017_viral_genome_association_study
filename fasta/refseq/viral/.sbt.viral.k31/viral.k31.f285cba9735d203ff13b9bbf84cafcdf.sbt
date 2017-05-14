@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961415.1/GCF_001961415.1_ViralProj361921_genomic.fna.gz",
+        "filename": "GCF_001961415.1_ViralProj361921_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033274.1 Tomato leaf curl alphasatellite complete sequence, isolate SA150, clone KL-21",
         "signatures": [
             {
                 "ksize": 31,

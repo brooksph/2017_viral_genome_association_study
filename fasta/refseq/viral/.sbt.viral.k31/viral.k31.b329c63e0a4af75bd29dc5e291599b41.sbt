@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000954395.1/GCF_000954395.1_ViralProj277201_genomic.fna.gz",
+        "filename": "GCF_000954395.1_ViralProj277201_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026616.2 Alfalfa latent virus isolate ATCC PV-264 RNA-dependent RNA polymerase, TGB1, TGB2, TGB3, and coat protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

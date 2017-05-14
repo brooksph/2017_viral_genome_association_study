@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001885425.1/GCF_001885425.1_ViralProj353920_genomic.fna.gz",
+        "filename": "GCF_001885425.1_ViralProj353920_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031948.1 Bat adenovirus isolate 250-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

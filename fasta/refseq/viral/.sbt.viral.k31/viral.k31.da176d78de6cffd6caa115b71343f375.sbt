@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843625.1/GCF_000843625.1_ViralProj14383_genomic.fna.gz",
+        "filename": "GCF_000843625.1_ViralProj14383_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005905.1 Neodiprion sertifer NPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

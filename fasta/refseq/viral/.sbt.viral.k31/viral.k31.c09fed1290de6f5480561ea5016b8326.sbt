@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001589395.1/GCF_001589395.1_ViralProj314616_genomic.fna.gz",
+        "filename": "GCF_001589395.1_ViralProj314616_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029608.1 Lake Sarah-associated circular molecule 5 isolate LSaCM-5-LSWO-2013, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

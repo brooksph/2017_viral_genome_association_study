@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880135.2/GCF_000880135.2_ViralProj30167_genomic.fna.gz",
+        "filename": "GCF_000880135.2_ViralProj30167_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010951.1 Wissadula golden mosaic St Thomas Virus DNA B, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

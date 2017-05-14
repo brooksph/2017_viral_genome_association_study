@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852185.1/GCF_000852185.1_ViralProj14800_genomic.fna.gz",
+        "filename": "GCF_000852185.1_ViralProj14800_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003781.1 Infectious flacherie virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551305.1/GCF_001551305.1_ViralProj310917_genomic.fna.gz",
+        "filename": "GCF_001551305.1_ViralProj310917_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029076.1 Iris severe mosaic virus isolate BJ, complete genome",
         "signatures": [
             {
                 "ksize": 31,

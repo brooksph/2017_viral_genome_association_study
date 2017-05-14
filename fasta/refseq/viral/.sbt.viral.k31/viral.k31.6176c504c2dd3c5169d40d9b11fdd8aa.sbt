@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854305.1/GCF_000854305.1_ViralProj15057_genomic.fna.gz",
+        "filename": "GCF_000854305.1_ViralProj15057_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006265.1 Carrot red leaf virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

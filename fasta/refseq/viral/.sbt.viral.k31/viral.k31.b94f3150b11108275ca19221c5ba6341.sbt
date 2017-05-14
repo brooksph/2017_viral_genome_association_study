@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845905.1/GCF_000845905.1_ViralProj14512_genomic.fna.gz",
+        "filename": "GCF_000845905.1_ViralProj14512_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003554.1 Figwort mosaic virus (FMV) genome",
         "signatures": [
             {
                 "ksize": 31,

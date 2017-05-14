@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001429915.1/GCF_001429915.1_ViralMultiSegProj300232_genomic.fna.gz",
+        "filename": "GCF_001429915.1_ViralMultiSegProj300232_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028133.1 Le Blanc nodavirus strain JU1498 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909315.1/GCF_000909315.1_ViralProj208541_genomic.fna.gz",
+        "filename": "GCF_000909315.1_ViralProj208541_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021482.1 Sebokele virus 1 ORF1 gene for polyprotein, genomic RNA, strain 1",
         "signatures": [
             {
                 "ksize": 31,

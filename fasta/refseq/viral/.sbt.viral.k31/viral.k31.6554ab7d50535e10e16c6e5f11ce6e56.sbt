@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001292995.1/GCF_001292995.1_ViralProj295679_genomic.fna.gz",
+        "filename": "GCF_001292995.1_ViralProj295679_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027867.1 Mollivirus sibericum isolate P1084-T, complete genome",
         "signatures": [
             {
                 "ksize": 31,

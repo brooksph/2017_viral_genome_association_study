@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755045.1/GCF_001755045.1_ViralProj344588_genomic.fna.gz",
+        "filename": "GCF_001755045.1_ViralProj344588_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031278.1 Wuhan Fly Virus 2 strain SYY1-3 nucleocapsid (N), ORF2 (ORF2), X protein (X), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

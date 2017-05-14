@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844485.1/GCF_000844485.1_ViralProj14391_genomic.fna.gz",
+        "filename": "GCF_000844485.1_ViralProj14391_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003085.1 Myxococcus phage Mx8, complete genome",
         "signatures": [
             {
                 "ksize": 31,

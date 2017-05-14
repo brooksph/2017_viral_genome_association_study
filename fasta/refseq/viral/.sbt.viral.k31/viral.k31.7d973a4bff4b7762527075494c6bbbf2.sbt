@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892895.1/GCF_000892895.1_ViralProj70009_genomic.fna.gz",
+        "filename": "GCF_000892895.1_ViralProj70009_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015785.1 Microvirus CA82, complete genome",
         "signatures": [
             {
                 "ksize": 31,

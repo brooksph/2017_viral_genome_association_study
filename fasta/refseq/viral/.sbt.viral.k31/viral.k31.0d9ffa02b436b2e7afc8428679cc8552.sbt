@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883595.1/GCF_000883595.1_ViralProj34541_genomic.fna.gz",
+        "filename": "GCF_000883595.1_ViralProj34541_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012094.1 Sea Turtle Tornovirus 1 pop-variant STTV1-GA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

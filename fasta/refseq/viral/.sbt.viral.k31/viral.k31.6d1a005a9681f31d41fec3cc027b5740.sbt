@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841105.1/GCF_000841105.1_ViralProj14217_genomic.fna.gz",
+        "filename": "GCF_000841105.1_ViralProj14217_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004167.1 Bacteriophage phi-105 DNA, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

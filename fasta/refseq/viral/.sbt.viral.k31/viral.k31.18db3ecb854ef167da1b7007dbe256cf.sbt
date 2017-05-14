@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001923775.1/GCF_001923775.1_ViralProj358948_genomic.fna.gz",
+        "filename": "GCF_001923775.1_ViralProj358948_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032233.1 Hubei sobemo-like virus 49 strain QTM12655 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

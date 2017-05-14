@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898315.1/GCF_000898315.1_ViralProj169428_genomic.fna.gz",
+        "filename": "GCF_000898315.1_ViralProj169428_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018088.1 Colwellia phage 9A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001717335.1/GCF_001717335.1_ViralProj340439_genomic.fna.gz",
+        "filename": "GCF_001717335.1_ViralProj340439_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030840.1 Coccinia mottle virus isolate Su12-25, complete genome",
         "signatures": [
             {
                 "ksize": 31,

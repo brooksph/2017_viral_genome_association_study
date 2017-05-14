@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922315.1/GCF_000922315.1_ViralProj257702_genomic.fna.gz",
+        "filename": "GCF_000922315.1_ViralProj257702_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024686.1 Prunus virus T isolate Aze239, complete genome",
         "signatures": [
             {
                 "ksize": 31,

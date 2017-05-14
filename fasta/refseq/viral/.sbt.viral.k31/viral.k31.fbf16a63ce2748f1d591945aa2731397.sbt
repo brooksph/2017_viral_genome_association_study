@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001618995.1/GCF_001618995.1_ViralProj318038_genomic.fna.gz",
+        "filename": "GCF_001618995.1_ViralProj318038_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029854.1 Yak enterovirus strain SWUN-AB001, complete genome",
         "signatures": [
             {
                 "ksize": 31,

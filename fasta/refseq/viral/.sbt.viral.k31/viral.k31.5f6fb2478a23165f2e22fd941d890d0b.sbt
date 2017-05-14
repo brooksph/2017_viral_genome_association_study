@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000943685.1/GCF_000943685.1_ViralProj275808_genomic.fna.gz",
+        "filename": "GCF_000943685.1_ViralProj275808_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026510.1 Sclerotinia sclerotiorum mitovirus 1 HC025, complete genome",
         "signatures": [
             {
                 "ksize": 31,

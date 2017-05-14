@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001714495.1/GCF_001714495.1_ViralProj339886_genomic.fna.gz",
+        "filename": "GCF_001714495.1_ViralProj339886_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030794.1 Callistephus mottle virus isolate DJ, complete genome",
         "signatures": [
             {
                 "ksize": 31,

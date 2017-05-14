@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843905.1/GCF_000843905.1_ViralProj14441_genomic.fna.gz",
+        "filename": "GCF_000843905.1_ViralProj14441_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005048.1 Chilli leaf curl disease associated sequence virion, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846565.1/GCF_000846565.1_ViralProj14463_genomic.fna.gz",
+        "filename": "GCF_000846565.1_ViralProj14463_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006263.1 Avian adeno-associated virus strain DA-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

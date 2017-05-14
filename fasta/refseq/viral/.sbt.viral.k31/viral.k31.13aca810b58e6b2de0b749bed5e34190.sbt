@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880895.1/GCF_000880895.1_ViralProj32823_genomic.fna.gz",
+        "filename": "GCF_000880895.1_ViralProj32823_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011592.1 Bougainvillea spectabilis chlorotic vein-banding virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

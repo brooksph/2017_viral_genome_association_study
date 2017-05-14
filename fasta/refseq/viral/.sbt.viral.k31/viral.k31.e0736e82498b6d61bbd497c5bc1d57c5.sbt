@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754365.1/GCF_001754365.1_ViralProj344625_genomic.fna.gz",
+        "filename": "GCF_001754365.1_ViralProj344625_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031247.1 Gordonia phage BetterKatz, complete genome",
         "signatures": [
             {
                 "ksize": 31,

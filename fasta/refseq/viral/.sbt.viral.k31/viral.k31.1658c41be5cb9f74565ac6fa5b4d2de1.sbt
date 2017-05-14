@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001465485.1/GCF_001465485.1_ViralProj305432_genomic.fna.gz",
+        "filename": "GCF_001465485.1_ViralProj305432_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028649.1 Actinidia virus X strain RV-3124 RNA-dependent RNA polymerase, triple gene block protein 1, triple gene block protein 2, triple gene block protein 3, coat protein, and putative 10 kDa protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

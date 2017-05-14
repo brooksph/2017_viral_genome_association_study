@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001966875.1/GCF_001966875.1_ViralProj362111_genomic.fna.gz",
+        "filename": "GCF_001966875.1_ViralProj362111_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033216.1 Hubei permutotetra-like virus 8 strain WHSWHC54546 RdRp, putative capsid protein, and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

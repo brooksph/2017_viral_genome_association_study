@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840485.1/GCF_000840485.1_ViralMultiSegProj14253_genomic.fna.gz",
+        "filename": "GCF_000840485.1_ViralMultiSegProj14253_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004635.2 Sida golden yellow vein virus-[Jamaica:Liguanea2:2008] DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

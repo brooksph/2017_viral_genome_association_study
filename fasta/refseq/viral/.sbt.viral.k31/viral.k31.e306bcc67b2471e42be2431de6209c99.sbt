@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895775.1/GCF_000895775.1_ViralProj80925_genomic.fna.gz",
+        "filename": "GCF_000895775.1_ViralProj80925_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016569.1 Nocardia phage NBR1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915015.1/GCF_000915015.1_ViralProj230252_genomic.fna.gz",
+        "filename": "GCF_000915015.1_ViralProj230252_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022961.1 Garlic virus D isolate GarVD-SW10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

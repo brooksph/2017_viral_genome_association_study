@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754965.1/GCF_001754965.1_ViralProj345461_genomic.fna.gz",
+        "filename": "GCF_001754965.1_ViralProj345461_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031327.1 Anopheles flavivirus variant 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

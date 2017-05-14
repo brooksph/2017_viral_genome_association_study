@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001717195.1/GCF_001717195.1_ViralProj340167_genomic.fna.gz",
+        "filename": "GCF_001717195.1_ViralProj340167_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030838.1 Sparus aurata polyomavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

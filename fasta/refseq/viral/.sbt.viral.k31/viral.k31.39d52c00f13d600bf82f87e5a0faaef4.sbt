@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926595.1/GCF_000926595.1_ViralProj265893_genomic.fna.gz",
+        "filename": "GCF_000926595.1_ViralProj265893_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025405.1 Niakha virus isolate DakArD 88909, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856285.1/GCF_000856285.1_ViralProj14970_genomic.fna.gz",
+        "filename": "GCF_000856285.1_ViralProj14970_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003611.1 Hop latent viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891335.1/GCF_000891335.1_ViralProj72393_genomic.fna.gz",
+        "filename": "GCF_000891335.1_ViralProj72393_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015941.1 Bat picornavirus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

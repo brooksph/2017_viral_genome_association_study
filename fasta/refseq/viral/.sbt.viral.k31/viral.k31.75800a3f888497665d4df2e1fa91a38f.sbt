@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856565.1/GCF_000856565.1_ViralProj15032_genomic.fna.gz",
+        "filename": "GCF_000856565.1_ViralProj15032_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001653.2 Hepatitis delta virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

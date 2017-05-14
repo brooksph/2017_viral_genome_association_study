@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914015.1/GCF_000914015.1_ViralProj230585_genomic.fna.gz",
+        "filename": "GCF_000914015.1_ViralProj230585_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022975.1 Mycobacterium phage HanShotFirst, complete genome",
         "signatures": [
             {
                 "ksize": 31,

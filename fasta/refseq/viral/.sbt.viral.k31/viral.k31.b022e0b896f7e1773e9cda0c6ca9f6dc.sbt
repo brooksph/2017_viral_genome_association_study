@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900855.1/GCF_000900855.1_ViralProj181236_genomic.fna.gz",
+        "filename": "GCF_000900855.1_ViralProj181236_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019530.1 Salmonella phage PhiSH19, complete genome",
         "signatures": [
             {
                 "ksize": 31,

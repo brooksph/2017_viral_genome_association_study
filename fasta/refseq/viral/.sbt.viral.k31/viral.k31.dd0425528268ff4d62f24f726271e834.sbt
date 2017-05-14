@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001959455.1/GCF_001959455.1_ViralProj361854_genomic.fna.gz",
+        "filename": "GCF_001959455.1_ViralProj361854_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032828.1 Sanxia water strider virus 13 strain SXSSP2578 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

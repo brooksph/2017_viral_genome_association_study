@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461645.1/GCF_001461645.1_ViralProj304916_genomic.fna.gz",
+        "filename": "GCF_001461645.1_ViralProj304916_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028482.1 Imjin River virus 1 strain A12.2496/ROK/2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

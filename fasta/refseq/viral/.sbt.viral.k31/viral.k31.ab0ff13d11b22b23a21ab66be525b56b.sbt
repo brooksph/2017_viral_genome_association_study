@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274365.1/GCF_001274365.1_ViralProj293727_genomic.fna.gz",
+        "filename": "GCF_001274365.1_ViralProj293727_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027780.1 Petrochirus diogenes giant hermit crab associated circular virus isolate I0004A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

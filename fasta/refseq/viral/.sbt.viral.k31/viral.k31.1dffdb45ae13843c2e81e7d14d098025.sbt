@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002029555.1/GCF_002029555.1_ViralProj379131_genomic.fna.gz",
+        "filename": "GCF_002029555.1_ViralProj379131_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034209.1 Phomopsis longicolla circular virus 1 strain TWH P74, complete genome",
         "signatures": [
             {
                 "ksize": 31,

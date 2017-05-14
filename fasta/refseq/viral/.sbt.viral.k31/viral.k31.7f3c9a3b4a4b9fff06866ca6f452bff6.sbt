@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001444105.1/GCF_001444105.1_ViralProj302026_genomic.fna.gz",
+        "filename": "GCF_001444105.1_ViralProj302026_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028381.1 Aphis glycines virus 2 isolate AGV 1-IA replicase, putative readthrough protein, and coat protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

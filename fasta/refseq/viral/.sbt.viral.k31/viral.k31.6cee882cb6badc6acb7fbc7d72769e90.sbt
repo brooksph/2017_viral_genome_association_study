@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889895.1/GCF_000889895.1_ViralProj48387_genomic.fna.gz",
+        "filename": "GCF_000889895.1_ViralProj48387_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014064.1 Freesia mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

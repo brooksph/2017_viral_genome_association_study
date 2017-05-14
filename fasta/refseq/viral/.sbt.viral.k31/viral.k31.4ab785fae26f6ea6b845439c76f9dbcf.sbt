@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911655.1/GCF_000911655.1_ViralProj213019_genomic.fna.gz",
+        "filename": "GCF_000911655.1_ViralProj213019_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021858.1 Pandoravirus dulcis, complete genome",
         "signatures": [
             {
                 "ksize": 31,

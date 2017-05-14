@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001934605.1/GCF_001934605.1_ViralProj359808_genomic.fna.gz",
+        "filename": "GCF_001934605.1_ViralProj359808_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032641.1 Beihai sesarmid crab virus 2 strain SCJXSX39002 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

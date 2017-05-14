@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910275.1/GCF_000910275.1_ViralProj209357_genomic.fna.gz",
+        "filename": "GCF_000910275.1_ViralProj209357_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021567.1 Nilaparvata lugens honeydew virus-3 genomic RNA, complete genome, isolate: Kagoshima",
         "signatures": [
             {
                 "ksize": 31,

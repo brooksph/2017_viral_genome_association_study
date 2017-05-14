@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903355.1/GCF_000903355.1_ViralProj181227_genomic.fna.gz",
+        "filename": "GCF_000903355.1_ViralProj181227_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019491.1 Cyprinid herpesvirus 1 strain NG-J1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

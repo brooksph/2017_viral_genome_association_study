@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909655.1/GCF_000909655.1_ViralProj212962_genomic.fna.gz",
+        "filename": "GCF_000909655.1_ViralProj212962_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021795.1 Cellulophaga phage phi17:1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

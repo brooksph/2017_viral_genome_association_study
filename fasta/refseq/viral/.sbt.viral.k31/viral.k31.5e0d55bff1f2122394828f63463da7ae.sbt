@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001444065.1/GCF_001444065.1_ViralProj302018_genomic.fna.gz",
+        "filename": "GCF_001444065.1_ViralProj302018_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028371.1 Bole tick virus 4 strain BLP-1 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

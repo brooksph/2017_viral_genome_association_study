@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008855.1/GCF_002008855.1_ViralMultiSegProj376932_genomic.fna.gz",
+        "filename": "GCF_002008855.1_ViralMultiSegProj376932_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033834.1 Melon severe mosaic tospovirus isolate VE440-A segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

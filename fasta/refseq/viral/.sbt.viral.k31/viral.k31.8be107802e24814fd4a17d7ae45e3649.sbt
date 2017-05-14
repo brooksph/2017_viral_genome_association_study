@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503195.2/GCF_001503195.2_ViralProj307867_genomic.fna.gz",
+        "filename": "GCF_001503195.2_ViralProj307867_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029038.1 Currant latent virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

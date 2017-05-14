@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905295.1/GCF_000905295.1_ViralProj192874_genomic.fna.gz",
+        "filename": "GCF_000905295.1_ViralProj192874_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020477.1 Bacillus phage Eoghan, complete genome",
         "signatures": [
             {
                 "ksize": 31,

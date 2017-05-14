@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891535.1/GCF_000891535.1_ViralMultiSegProj62475_genomic.fna.gz",
+        "filename": "GCF_000891535.1_ViralMultiSegProj62475_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015043.1 Sida mosaic Bolivia virus 2 DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

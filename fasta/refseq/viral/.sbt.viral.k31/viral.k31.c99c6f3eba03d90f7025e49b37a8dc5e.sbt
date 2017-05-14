@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862485.1/GCF_000862485.1_ViralProj15381_genomic.fna.gz",
+        "filename": "GCF_000862485.1_ViralProj15381_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002786.1 Maize rayado fino virus isolate Costa Rican, complete genome",
         "signatures": [
             {
                 "ksize": 31,

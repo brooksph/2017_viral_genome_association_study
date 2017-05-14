@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914895.1/GCF_000914895.1_ViralProj240322_genomic.fna.gz",
+        "filename": "GCF_000914895.1_ViralProj240322_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023678.1 Phaseolus vulgaris endornavirus 1 gene for polyprotein, complete cds",
         "signatures": [
             {
                 "ksize": 31,

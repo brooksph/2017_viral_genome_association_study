@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001678415.1/GCF_001678415.1_ViralProj326682_genomic.fna.gz",
+        "filename": "GCF_001678415.1_ViralProj326682_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030392.1 Sclerotinia nivalis victorivirus 1 isolate SsSn-1.v, complete genome",
         "signatures": [
             {
                 "ksize": 31,

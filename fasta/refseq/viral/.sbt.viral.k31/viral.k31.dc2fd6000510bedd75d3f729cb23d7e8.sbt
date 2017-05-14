@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913155.1/GCF_000913155.1_ViralProj230579_genomic.fna.gz",
+        "filename": "GCF_000913155.1_ViralProj230579_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022978.1 Carnation yellow fleck virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874805.1/GCF_000874805.1_ViralProj31093_genomic.fna.gz",
+        "filename": "GCF_000874805.1_ViralProj31093_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011183.1 Feldmannia species virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

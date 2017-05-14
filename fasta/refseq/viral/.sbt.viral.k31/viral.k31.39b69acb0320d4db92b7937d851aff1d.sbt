@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848885.1/GCF_000848885.1_ViralProj14604_genomic.fna.gz",
+        "filename": "GCF_000848885.1_ViralProj14604_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005294.1 Streptococcus prophage EJ-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

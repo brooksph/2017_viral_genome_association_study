@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851905.1/GCF_000851905.1_ViralProj14910_genomic.fna.gz",
+        "filename": "GCF_000851905.1_ViralProj14910_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004045.1 Beet western yellows ST9 associated virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

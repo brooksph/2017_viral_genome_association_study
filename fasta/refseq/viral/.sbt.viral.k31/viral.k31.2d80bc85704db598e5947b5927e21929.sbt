@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900475.1/GCF_000900475.1_ViralProj179413_genomic.fna.gz",
+        "filename": "GCF_000900475.1_ViralProj179413_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019403.1 Enterobacteria phage vB_EcoP_ACG-C91, complete genome",
         "signatures": [
             {
                 "ksize": 31,

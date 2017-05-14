@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001184845.1/GCF_001184845.1_ViralProj289889_genomic.fna.gz",
+        "filename": "GCF_001184845.1_ViralProj289889_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027528.1 Human papillomavirus type 201 isolate HPV201, complete genome",
         "signatures": [
             {
                 "ksize": 31,

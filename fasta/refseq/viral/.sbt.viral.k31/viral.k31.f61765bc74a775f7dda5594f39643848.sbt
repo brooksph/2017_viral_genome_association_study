@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853205.1/GCF_000853205.1_ViralProj14844_genomic.fna.gz",
+        "filename": "GCF_000853205.1_ViralProj14844_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004054.1 Ophiostoma novo-ulmi mitovirus 6-Ld, complete genome",
         "signatures": [
             {
                 "ksize": 31,

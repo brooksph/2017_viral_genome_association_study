@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871925.1/GCF_000871925.1_ViralProj20665_genomic.fna.gz",
+        "filename": "GCF_000871925.1_ViralProj20665_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009764.1 Coleus vein necrosis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

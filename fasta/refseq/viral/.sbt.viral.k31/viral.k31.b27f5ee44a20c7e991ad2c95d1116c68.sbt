@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961115.1/GCF_001961115.1_ViralMultiSegProj361885_genomic.fna.gz",
+        "filename": "GCF_001961115.1_ViralMultiSegProj361885_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033284.1 Sanxia Qinvirus-like virus 1 strain SXXX11646 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847265.1/GCF_000847265.1_ViralProj14612_genomic.fna.gz",
+        "filename": "GCF_000847265.1_ViralProj14612_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "AC_000191.1 Bovine adenovirus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

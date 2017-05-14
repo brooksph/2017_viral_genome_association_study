@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911195.1/GCF_000911195.1_ViralMultiSegProj226021_genomic.fna.gz",
+        "filename": "GCF_000911195.1_ViralMultiSegProj226021_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022639.1 Changuinola virus isolate CGLV/BE AN 28873 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

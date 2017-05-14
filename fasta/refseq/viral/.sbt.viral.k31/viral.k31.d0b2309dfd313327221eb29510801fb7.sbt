@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896875.1/GCF_000896875.1_ViralProj109273_genomic.fna.gz",
+        "filename": "GCF_000896875.1_ViralProj109273_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016991.1 White-eye coronavirus HKU16, complete genome",
         "signatures": [
             {
                 "ksize": 31,

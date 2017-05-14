@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904335.1/GCF_000904335.1_ViralProj194138_genomic.fna.gz",
+        "filename": "GCF_000904335.1_ViralProj194138_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020803.1 Perch rhabdovirus isolate PRV nucleocapsid (N), phosphoprotein (P), matrix protein (M), glycoprotein (G), and RNA dependant RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

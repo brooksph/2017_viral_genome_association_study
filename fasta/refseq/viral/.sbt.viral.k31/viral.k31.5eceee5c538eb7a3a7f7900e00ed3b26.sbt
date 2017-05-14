@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001629865.1/GCF_001629865.1_ViralProj319114_genomic.fna.gz",
+        "filename": "GCF_001629865.1_ViralProj319114_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029905.1 Enterovirus SEV-gx, complete genome",
         "signatures": [
             {
                 "ksize": 31,

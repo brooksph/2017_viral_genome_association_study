@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001443945.1/GCF_001443945.1_ViralMultiSegProj302060_genomic.fna.gz",
+        "filename": "GCF_001443945.1_ViralMultiSegProj302060_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028382.1 Wuhan aphid virus 2 strain WHYC-2 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

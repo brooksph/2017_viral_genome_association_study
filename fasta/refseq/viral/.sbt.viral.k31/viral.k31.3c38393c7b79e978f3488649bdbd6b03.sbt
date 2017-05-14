@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744295.1/GCF_001744295.1_ViralProj344098_genomic.fna.gz",
+        "filename": "GCF_001744295.1_ViralProj344098_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031072.1 Gordonia phage CaptainKirk2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

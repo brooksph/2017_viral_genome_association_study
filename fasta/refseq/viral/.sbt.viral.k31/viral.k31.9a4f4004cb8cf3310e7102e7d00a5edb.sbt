@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872625.1/GCF_000872625.1_ViralMultiSegProj28697_genomic.fna.gz",
+        "filename": "GCF_000872625.1_ViralMultiSegProj28697_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010319.1 Abaca bunchy top virus DNA-R, complete genome",
         "signatures": [
             {
                 "ksize": 31,

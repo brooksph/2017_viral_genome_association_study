@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868265.2/GCF_000868265.2_ViralProj17147_genomic.fna.gz",
+        "filename": "GCF_000868265.2_ViralProj17147_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008202.2 Mycobacterium phage Halo, complete genome",
         "signatures": [
             {
                 "ksize": 31,

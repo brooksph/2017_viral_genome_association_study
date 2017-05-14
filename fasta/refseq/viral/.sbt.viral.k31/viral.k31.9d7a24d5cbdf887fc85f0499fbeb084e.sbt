@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879955.1/GCF_000879955.1_ViralMultiSegProj29841_genomic.fna.gz",
+        "filename": "GCF_000879955.1_ViralMultiSegProj29841_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010707.1 Thottapalayam virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

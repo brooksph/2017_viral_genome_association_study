@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924035.1/GCF_000924035.1_ViralProj258162_genomic.fna.gz",
+        "filename": "GCF_000924035.1_ViralProj258162_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024699.1 Penicillium roqueforti ssRNA mycovirus 1 strain PRG42-7 RNA-dependent RNA polymerase and ORF2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

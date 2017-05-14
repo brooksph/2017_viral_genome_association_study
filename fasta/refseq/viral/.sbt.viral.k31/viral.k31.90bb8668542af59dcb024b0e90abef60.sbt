@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838225.1/GCF_000838225.1_ViralProj14149_genomic.fna.gz",
+        "filename": "GCF_000838225.1_ViralProj14149_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003357.1 Soybean crinkle leaf virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

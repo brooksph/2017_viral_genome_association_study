@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001433545.1/GCF_001433545.1_ViralProj301068_genomic.fna.gz",
+        "filename": "GCF_001433545.1_ViralProj301068_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028246.1 Adelaide River virus isolate DPP61, complete genome",
         "signatures": [
             {
                 "ksize": 31,

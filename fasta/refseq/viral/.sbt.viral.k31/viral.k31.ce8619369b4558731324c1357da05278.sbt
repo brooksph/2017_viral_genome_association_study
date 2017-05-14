@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925115.1/GCF_000925115.1_ViralProj267138_genomic.fna.gz",
+        "filename": "GCF_000925115.1_ViralProj267138_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025469.1 Carrot betaflexivirus 1 isolate CBV-1_S20 ORF1, ORF2, and ORF3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

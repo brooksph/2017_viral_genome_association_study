@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903935.1/GCF_000903935.1_ViralProj185273_genomic.fna.gz",
+        "filename": "GCF_000903935.1_ViralProj185273_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020073.2 Moroccan pepper virus isolate MPV-PM75, complete genome",
         "signatures": [
             {
                 "ksize": 31,

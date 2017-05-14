@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915595.1/GCF_000915595.1_ViralProj239742_genomic.fna.gz",
+        "filename": "GCF_000915595.1_ViralProj239742_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023598.1 Sclerotinia sclerotiorum mitovirus 6 isolate IL1 Pol gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

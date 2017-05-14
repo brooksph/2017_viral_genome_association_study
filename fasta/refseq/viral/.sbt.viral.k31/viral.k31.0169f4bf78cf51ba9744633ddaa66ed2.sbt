@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001966215.1/GCF_001966215.1_ViralProj362098_genomic.fna.gz",
+        "filename": "GCF_001966215.1_ViralProj362098_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032907.1 Hubei lepidoptera virus 2 strain LCM101902 putative nucleoprotein, hypothetical protein 2, putative membrane protein, putative glycoprotein 1, putative glycoprotein 2, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

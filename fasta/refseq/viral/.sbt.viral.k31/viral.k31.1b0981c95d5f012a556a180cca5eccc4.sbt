@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874005.1/GCF_000874005.1_ViralProj19827_genomic.fna.gz",
+        "filename": "GCF_000874005.1_ViralProj19827_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009559.1 Erectites yellow mosaic virus satellite DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

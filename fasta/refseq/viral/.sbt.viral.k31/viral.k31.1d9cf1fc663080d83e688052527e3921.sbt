@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906035.1/GCF_000906035.1_ViralProj195482_genomic.fna.gz",
+        "filename": "GCF_000906035.1_ViralProj195482_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020864.1 Micromonas pusilla virus 12T genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

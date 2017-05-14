@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854125.1/GCF_000854125.1_ViralProj15015_genomic.fna.gz",
+        "filename": "GCF_000854125.1_ViralProj15015_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005138.1 Lily symptomless virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

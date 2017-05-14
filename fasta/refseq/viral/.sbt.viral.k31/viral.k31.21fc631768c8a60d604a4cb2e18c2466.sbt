@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914075.1/GCF_000914075.1_ViralProj230597_genomic.fna.gz",
+        "filename": "GCF_000914075.1_ViralProj230597_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022976.1 Mycobacterium phage Nala, complete genome",
         "signatures": [
             {
                 "ksize": 31,

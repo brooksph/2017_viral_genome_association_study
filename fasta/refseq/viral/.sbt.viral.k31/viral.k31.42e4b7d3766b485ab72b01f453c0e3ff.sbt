@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898435.1/GCF_000898435.1_ViralProj171980_genomic.fna.gz",
+        "filename": "GCF_000898435.1_ViralProj171980_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018280.1 Celeribacter phage P12053L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

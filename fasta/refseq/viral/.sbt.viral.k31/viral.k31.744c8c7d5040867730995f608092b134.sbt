@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925635.1/GCF_000925635.1_ViralProj265908_genomic.fna.gz",
+        "filename": "GCF_000925635.1_ViralProj265908_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025399.1 Oak-Vale virus strain CSIRO 1342, complete genome",
         "signatures": [
             {
                 "ksize": 31,

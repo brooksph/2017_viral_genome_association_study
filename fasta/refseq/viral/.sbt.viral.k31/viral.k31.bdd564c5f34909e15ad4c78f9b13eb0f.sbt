@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893495.1/GCF_000893495.1_ViralProj65817_genomic.fna.gz",
+        "filename": "GCF_000893495.1_ViralProj65817_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015397.1 Cleome golden mosaic virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

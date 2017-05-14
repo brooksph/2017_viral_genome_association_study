@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001308595.1/GCF_001308595.1_ViralProj295853_genomic.fna.gz",
+        "filename": "GCF_001308595.1_ViralProj295853_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027920.1 Hot pepper endornavirus isolate CS, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900395.1/GCF_000900395.1_ViralProj178460_genomic.fna.gz",
+        "filename": "GCF_000900395.1_ViralProj178460_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019025.1 Rubus canadensis virus 1 isolate BM-01, complete genome",
         "signatures": [
             {
                 "ksize": 31,

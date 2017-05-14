@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927155.1/GCF_000927155.1_ViralProj264934_genomic.fna.gz",
+        "filename": "GCF_000927155.1_ViralProj264934_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025365.1 Shimoni bat virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

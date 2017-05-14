@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001958115.1/GCF_001958115.1_ViralProj361733_genomic.fna.gz",
+        "filename": "GCF_001958115.1_ViralProj361733_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032847.1 Wenzhou picorna-like virus 18 strain shrimp14534 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

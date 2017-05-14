@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864105.1/GCF_000864105.1_ViralMultiSegProj15617_genomic.fna.gz",
+        "filename": "GCF_000864105.1_ViralMultiSegProj15617_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007357.1 Influenza A virus (A/Goose/Guangdong/1/96(H5N1)) polymerase (PB2) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

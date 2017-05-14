@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852765.1/GCF_000852765.1_ViralMultiSegProj14753_genomic.fna.gz",
+        "filename": "GCF_000852765.1_ViralMultiSegProj14753_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003530.1 Carnation ringspot virus fusion protein polymerase (p88K), p27K, p57K, capsid protein (p37K) and p11K genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

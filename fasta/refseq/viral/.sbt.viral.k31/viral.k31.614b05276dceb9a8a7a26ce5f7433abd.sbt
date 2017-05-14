@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924435.1/GCF_000924435.1_ViralProj263847_genomic.fna.gz",
+        "filename": "GCF_000924435.1_ViralProj263847_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025251.1 Bokeloh bat lyssavirus isolate 21961, complete genome",
         "signatures": [
             {
                 "ksize": 31,

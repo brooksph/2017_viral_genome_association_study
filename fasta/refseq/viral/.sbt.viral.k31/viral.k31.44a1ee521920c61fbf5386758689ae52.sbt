@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964815.1/GCF_001964815.1_ViralProj362121_genomic.fna.gz",
+        "filename": "GCF_001964815.1_ViralProj362121_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032849.1 Hubei orthoptera virus 5 strain ZCM94262 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

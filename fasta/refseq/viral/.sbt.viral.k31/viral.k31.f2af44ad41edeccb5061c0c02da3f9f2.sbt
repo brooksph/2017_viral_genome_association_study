@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925415.1/GCF_001925415.1_ViralProj359239_genomic.fna.gz",
+        "filename": "GCF_001925415.1_ViralProj359239_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032442.1 Beihai barnacle virus 2 strain BHTH16123 RdRp and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

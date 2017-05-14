@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754945.1/GCF_001754945.1_ViralMultiSegProj345033_genomic.fna.gz",
+        "filename": "GCF_001754945.1_ViralMultiSegProj345033_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031320.1 Yichang Insect virus strain YCYC01 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

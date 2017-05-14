@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890795.1/GCF_000890795.1_ViralProj64609_genomic.fna.gz",
+        "filename": "GCF_000890795.1_ViralProj64609_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015271.1 Salmonella phage Vi06 complete sequence",
         "signatures": [
             {
                 "ksize": 31,

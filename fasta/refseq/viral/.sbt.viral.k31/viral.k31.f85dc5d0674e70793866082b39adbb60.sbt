@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918935.1/GCF_000918935.1_ViralProj242977_genomic.fna.gz",
+        "filename": "GCF_000918935.1_ViralProj242977_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023857.1 Chicken megrivirus strain chicken/CHK-IV-CHV/2013/HUN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

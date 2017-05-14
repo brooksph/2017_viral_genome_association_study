@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000931255.1/GCF_000931255.1_ViralProj274114_genomic.fna.gz",
+        "filename": "GCF_000931255.1_ViralProj274114_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026258.1 Sewage-associated circular DNA virus-16 isolate SaCV-16_NZ-BS3759-2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922715.1/GCF_000922715.1_ViralProj248532_genomic.fna.gz",
+        "filename": "GCF_000922715.1_ViralProj248532_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024144.1 Clostridium phage CDMH1 complete genome",
         "signatures": [
             {
                 "ksize": 31,

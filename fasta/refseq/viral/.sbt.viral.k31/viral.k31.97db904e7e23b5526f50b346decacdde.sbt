@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000931095.1/GCF_000931095.1_ViralProj274155_genomic.fna.gz",
+        "filename": "GCF_000931095.1_ViralProj274155_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026315.1 Lesavirus 1 isolate Mis101308/2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905015.1/GCF_000905015.1_ViralProj185318_genomic.fna.gz",
+        "filename": "GCF_000905015.1_ViralProj185318_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020081.2 Bacillus phage phiAGATE, complete genome",
         "signatures": [
             {
                 "ksize": 31,

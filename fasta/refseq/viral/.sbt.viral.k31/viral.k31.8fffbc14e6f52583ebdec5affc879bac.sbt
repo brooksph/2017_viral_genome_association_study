@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505575.1/GCF_001505575.1_ViralProj307889_genomic.fna.gz",
+        "filename": "GCF_001505575.1_ViralProj307889_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028826.1 Enterococcus phage IME-EFm5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

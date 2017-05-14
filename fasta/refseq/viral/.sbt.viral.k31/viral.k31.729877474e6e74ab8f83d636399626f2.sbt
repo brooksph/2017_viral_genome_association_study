@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902815.1/GCF_000902815.1_ViralProj183902_genomic.fna.gz",
+        "filename": "GCF_000902815.1_ViralProj183902_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019853.1 Ateles paniscus polyomavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

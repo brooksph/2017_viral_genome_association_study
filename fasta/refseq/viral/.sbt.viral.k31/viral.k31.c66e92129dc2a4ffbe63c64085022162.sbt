@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894535.1/GCF_000894535.1_ViralProj157807_genomic.fna.gz",
+        "filename": "GCF_000894535.1_ViralProj157807_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017099.1 Valsa ceratosperma hypovirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

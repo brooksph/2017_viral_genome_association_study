@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744135.1/GCF_001744135.1_ViralProj344212_genomic.fna.gz",
+        "filename": "GCF_001744135.1_ViralProj344212_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031052.1 Gordonia phage Twister6, complete genome",
         "signatures": [
             {
                 "ksize": 31,

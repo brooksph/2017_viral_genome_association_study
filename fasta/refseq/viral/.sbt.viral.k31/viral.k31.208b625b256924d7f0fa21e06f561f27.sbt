@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854765.1/GCF_000854765.1_ViralMultiSegProj15005_genomic.fna.gz",
+        "filename": "GCF_000854765.1_ViralMultiSegProj15005_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005217.1 Sin Nombre virus map viral genome L segment",
         "signatures": [
             {
                 "ksize": 31,

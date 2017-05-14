@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964095.1/GCF_001964095.1_ViralProj362003_genomic.fna.gz",
+        "filename": "GCF_001964095.1_ViralProj362003_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033154.1 Beihai zhaovirus-like virus 5 strain BHNXC41311 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955255.1/GCF_000955255.1_ViralProj277516_genomic.fna.gz",
+        "filename": "GCF_000955255.1_ViralProj277516_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026624.1 Sokoluk virus strain LEIV-400K, complete genome",
         "signatures": [
             {
                 "ksize": 31,

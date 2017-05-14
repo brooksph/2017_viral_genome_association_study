@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001695465.1/GCF_001695465.1_ViralProj331044_genomic.fna.gz",
+        "filename": "GCF_001695465.1_ViralProj331044_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030656.1 Pteropox virus strain Australia, complete genome",
         "signatures": [
             {
                 "ksize": 31,

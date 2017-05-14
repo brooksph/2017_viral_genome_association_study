@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922355.1/GCF_000922355.1_ViralProj258185_genomic.fna.gz",
+        "filename": "GCF_000922355.1_ViralProj258185_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024696.1 Elephant endotheliotropic herpesvirus 5 strain Vijay, complete genome",
         "signatures": [
             {
                 "ksize": 31,

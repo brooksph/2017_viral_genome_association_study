@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912435.1/GCF_000912435.1_ViralProj227475_genomic.fna.gz",
+        "filename": "GCF_000912435.1_ViralProj227475_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022801.1 Yellow tailflower mild mottle virus isolate Cervantes, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960475.1/GCF_001960475.1_ViralProj361755_genomic.fna.gz",
+        "filename": "GCF_001960475.1_ViralProj361755_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032890.1 Wenzhou channeled applesnail virus 3 strain BHBei77067 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

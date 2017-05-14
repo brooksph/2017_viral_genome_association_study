@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930135.2/GCF_000930135.2_ViralProj271900_genomic.fna.gz",
+        "filename": "GCF_000930135.2_ViralProj271900_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026020.2 Mulberry badnavirus 1 complete genome, isolate Lebanon34",
         "signatures": [
             {
                 "ksize": 31,

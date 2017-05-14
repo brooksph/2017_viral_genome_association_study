@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001970265.1/GCF_001970265.1_ViralMultiSegProj362907_genomic.fna.gz",
+        "filename": "GCF_001970265.1_ViralMultiSegProj362907_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033450.1 Wenzhou tapeworm virus 1 strain SGJSC14943 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

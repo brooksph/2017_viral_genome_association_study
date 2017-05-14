@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858705.1/GCF_000858705.1_ViralProj15126_genomic.fna.gz",
+        "filename": "GCF_000858705.1_ViralProj15126_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005883.1 Chalara elegans RNA Virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001921315.1/GCF_001921315.1_ViralMultiSegProj358546_genomic.fna.gz",
+        "filename": "GCF_001921315.1_ViralMultiSegProj358546_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032130.1 Wuhan large pig roundworm virus 1 strain WHZHC73278 segment Seg 1 RdRp gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

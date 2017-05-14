@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551525.1/GCF_001551525.1_ViralProj310892_genomic.fna.gz",
+        "filename": "GCF_001551525.1_ViralProj310892_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029105.1 Pavonia yellow mosaic virus isolate BR-Alb51-14 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853125.1/GCF_000853125.1_ViralMultiSegProj14827_genomic.fna.gz",
+        "filename": "GCF_000853125.1_ViralMultiSegProj14827_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003883.1 Fusarium poae virus 1 RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

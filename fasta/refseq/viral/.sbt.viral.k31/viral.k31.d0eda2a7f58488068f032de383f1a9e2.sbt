@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856445.1/GCF_000856445.1_ViralProj15004_genomic.fna.gz",
+        "filename": "GCF_000856445.1_ViralProj15004_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001803.1 Respiratory syncytial virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

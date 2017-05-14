@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430095.1/GCF_001430095.1_ViralProj299515_genomic.fna.gz",
+        "filename": "GCF_001430095.1_ViralProj299515_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028099.1 Felis catus gammaherpesvirus 1 isolate 31286, complete genome",
         "signatures": [
             {
                 "ksize": 31,

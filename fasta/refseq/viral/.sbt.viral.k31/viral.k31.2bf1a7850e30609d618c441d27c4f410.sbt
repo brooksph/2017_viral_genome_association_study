@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895315.1/GCF_000895315.1_ViralProj82753_genomic.fna.gz",
+        "filename": "GCF_000895315.1_ViralProj82753_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016770.1 Bacteroides phage B124-14, complete genome",
         "signatures": [
             {
                 "ksize": 31,

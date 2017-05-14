@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881015.1/GCF_000881015.1_ViralProj33487_genomic.fna.gz",
+        "filename": "GCF_000881015.1_ViralProj33487_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011804.1 Gossypium darwinii symptomless virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

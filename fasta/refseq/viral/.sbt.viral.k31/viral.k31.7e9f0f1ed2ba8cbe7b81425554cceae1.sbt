@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924395.1/GCF_000924395.1_ViralProj263033_genomic.fna.gz",
+        "filename": "GCF_000924395.1_ViralProj263033_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025215.1 Gyrovirus GyV7-SF, complete genome",
         "signatures": [
             {
                 "ksize": 31,

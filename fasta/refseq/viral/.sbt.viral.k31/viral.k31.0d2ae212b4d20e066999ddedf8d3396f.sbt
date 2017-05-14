@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550745.1/GCF_001550745.1_ViralProj310950_genomic.fna.gz",
+        "filename": "GCF_001550745.1_ViralProj310950_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029067.1 Vibrio phage eugene 12A10 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927135.1/GCF_000927135.1_ViralProj264930_genomic.fna.gz",
+        "filename": "GCF_000927135.1_ViralProj264930_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025364.1 Malpais Spring virus strain 85-488NM, complete genome",
         "signatures": [
             {
                 "ksize": 31,

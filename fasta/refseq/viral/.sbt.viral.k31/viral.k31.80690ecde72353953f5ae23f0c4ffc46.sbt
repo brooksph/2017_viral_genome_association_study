@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866935.1/GCF_001866935.1_ViralProj352520_genomic.fna.gz",
+        "filename": "GCF_001866935.1_ViralProj352520_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031753.1 Porcine circovirus 3 strain 29160, complete genome",
         "signatures": [
             {
                 "ksize": 31,

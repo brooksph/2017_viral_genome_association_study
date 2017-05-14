@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744815.1/GCF_001744815.1_ViralProj344213_genomic.fna.gz",
+        "filename": "GCF_001744815.1_ViralProj344213_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031001.1 Gordonia phage Terapin, complete genome",
         "signatures": [
             {
                 "ksize": 31,

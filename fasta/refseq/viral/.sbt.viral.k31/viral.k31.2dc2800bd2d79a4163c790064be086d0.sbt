@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001008535.1/GCF_001008535.1_ViralProj284015_genomic.fna.gz",
+        "filename": "GCF_001008535.1_ViralProj284015_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027016.1 Papio ursinus cytomegalovirus isolate OCOM4-52, complete genome",
         "signatures": [
             {
                 "ksize": 31,

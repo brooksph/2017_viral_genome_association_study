@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863245.1/GCF_000863245.1_ViralProj15360_genomic.fna.gz",
+        "filename": "GCF_000863245.1_ViralProj15360_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003990.1 Avian encephalomyelitis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

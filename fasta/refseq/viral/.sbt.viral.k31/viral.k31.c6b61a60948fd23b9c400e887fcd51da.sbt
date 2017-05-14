@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837285.1/GCF_000837285.1_ViralMultiSegProj14117_genomic.fna.gz",
+        "filename": "GCF_000837285.1_ViralMultiSegProj14117_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002797.1 Discula destructiva virus 1 segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

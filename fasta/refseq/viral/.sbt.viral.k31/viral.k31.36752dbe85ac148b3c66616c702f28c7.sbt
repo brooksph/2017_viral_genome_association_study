@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896395.1/GCF_000896395.1_ViralMultiSegProj74527_genomic.fna.gz",
+        "filename": "GCF_000896395.1_ViralMultiSegProj74527_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016082.1 Sida yellow mottle virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

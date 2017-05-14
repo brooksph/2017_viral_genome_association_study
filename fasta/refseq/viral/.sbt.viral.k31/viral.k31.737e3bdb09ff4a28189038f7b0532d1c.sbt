@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754545.1/GCF_001754545.1_ViralMultiSegProj344319_genomic.fna.gz",
+        "filename": "GCF_001754545.1_ViralMultiSegProj344319_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031221.1 Shuangao Insect Virus 1 strain QSA02 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004395.1/GCF_002004395.1_ViralProj375063_genomic.fna.gz",
+        "filename": "GCF_002004395.1_ViralProj375063_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033700.1 Xinzhou toro-like virus strain XZSJSC65757 1ab, putative glycoprotein, and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

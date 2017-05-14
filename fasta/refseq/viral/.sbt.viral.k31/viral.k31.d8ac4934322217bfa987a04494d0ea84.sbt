@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001695485.1/GCF_001695485.1_ViralProj330731_genomic.fna.gz",
+        "filename": "GCF_001695485.1_ViralProj330731_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030653.1 Atypical porcine pestivirus 1 isolate Bavaria S5/9 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

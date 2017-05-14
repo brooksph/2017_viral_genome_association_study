@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839805.1/GCF_000839805.1_ViralProj14122_genomic.fna.gz",
+        "filename": "GCF_000839805.1_ViralProj14122_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003027.1 Lumpy skin disease virus NI-2490, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965095.1/GCF_001965095.1_ViralProj362178_genomic.fna.gz",
+        "filename": "GCF_001965095.1_ViralProj362178_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033023.1 Hubei tombus-like virus 28 strain SSZZ1762 hypothetical protein and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

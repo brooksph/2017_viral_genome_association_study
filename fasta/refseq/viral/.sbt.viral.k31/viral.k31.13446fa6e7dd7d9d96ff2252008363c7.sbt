@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858125.1/GCF_000858125.1_ViralProj15166_genomic.fna.gz",
+        "filename": "GCF_000858125.1_ViralProj15166_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006935.1 Cotton leaf curl Gezira virus-associated DNA beta isolate CLC55-C, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

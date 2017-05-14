@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924055.1/GCF_000924055.1_ViralProj258281_genomic.fna.gz",
+        "filename": "GCF_000924055.1_ViralProj258281_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024703.1 Alternaria longipes dsRNA virus 1 strain HN28, complete genome",
         "signatures": [
             {
                 "ksize": 31,

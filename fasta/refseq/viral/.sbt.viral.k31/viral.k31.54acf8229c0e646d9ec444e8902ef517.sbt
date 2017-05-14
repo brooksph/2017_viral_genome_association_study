@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867445.1/GCF_000867445.1_ViralProj17173_genomic.fna.gz",
+        "filename": "GCF_000867445.1_ViralProj17173_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008204.1 Mycobacterium phage Qyrzula, complete genome",
         "signatures": [
             {
                 "ksize": 31,

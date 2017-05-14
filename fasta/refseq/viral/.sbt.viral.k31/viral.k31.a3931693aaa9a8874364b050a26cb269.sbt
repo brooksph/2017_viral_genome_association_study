@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001806195.1/GCF_001806195.1_ViralProj349153_genomic.fna.gz",
+        "filename": "GCF_001806195.1_ViralProj349153_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031465.1 Golden Marseillevirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910655.1/GCF_000910655.1_ViralProj214178_genomic.fna.gz",
+        "filename": "GCF_000910655.1_ViralProj214178_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021924.1 Choristoneura rosaceana alphabaculovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

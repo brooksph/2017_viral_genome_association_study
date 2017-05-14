@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840205.1/GCF_000840205.1_ViralProj14196_genomic.fna.gz",
+        "filename": "GCF_000840205.1_ViralProj14196_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004002.1 Sheeppox virus 17077-99, complete genome",
         "signatures": [
             {
                 "ksize": 31,

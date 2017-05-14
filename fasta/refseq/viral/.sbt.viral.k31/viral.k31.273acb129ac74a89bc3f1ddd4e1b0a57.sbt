@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745635.1/GCF_001745635.1_ViralProj344103_genomic.fna.gz",
+        "filename": "GCF_001745635.1_ViralProj344103_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031127.1 Erwinia phage vB_EamM_Huxley, complete genome",
         "signatures": [
             {
                 "ksize": 31,

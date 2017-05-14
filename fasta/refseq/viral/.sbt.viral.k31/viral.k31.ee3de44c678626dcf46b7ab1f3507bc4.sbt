@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001935885.1/GCF_001935885.1_ViralProj359925_genomic.fna.gz",
+        "filename": "GCF_001935885.1_ViralProj359925_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032594.1 Beihai shrimp virus 2 strain BHWZXX12501 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

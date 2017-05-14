@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887435.1/GCF_000887435.1_ViralProj49715_genomic.fna.gz",
+        "filename": "GCF_000887435.1_ViralProj49715_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014252.1 Panax virus Y, complete genome",
         "signatures": [
             {
                 "ksize": 31,

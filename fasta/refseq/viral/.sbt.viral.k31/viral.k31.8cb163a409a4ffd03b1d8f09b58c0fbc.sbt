@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550965.1/GCF_001550965.1_ViralMultiSegProj310915_genomic.fna.gz",
+        "filename": "GCF_001550965.1_ViralMultiSegProj310915_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029127.1 Adana virus strain 195 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

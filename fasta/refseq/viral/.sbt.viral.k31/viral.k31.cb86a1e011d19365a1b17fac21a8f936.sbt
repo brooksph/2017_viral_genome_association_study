@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001429975.1/GCF_001429975.1_ViralProj300244_genomic.fna.gz",
+        "filename": "GCF_001429975.1_ViralProj300244_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028132.1 Apple hammerhead viroid-like circular RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

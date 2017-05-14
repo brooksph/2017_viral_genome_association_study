@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002029635.1/GCF_002029635.1_ViralMultiSegProj379134_genomic.fna.gz",
+        "filename": "GCF_002029635.1_ViralMultiSegProj379134_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034212.1 Tucunduba virus strain BeAR643361 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

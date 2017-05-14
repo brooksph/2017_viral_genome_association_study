@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914435.1/GCF_000914435.1_ViralProj239430_genomic.fna.gz",
+        "filename": "GCF_000914435.1_ViralProj239430_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023498.1 Mycobacterium phage Validus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

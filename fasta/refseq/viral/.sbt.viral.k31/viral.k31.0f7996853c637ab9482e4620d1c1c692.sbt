@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862425.1/GCF_000862425.1_ViralProj15368_genomic.fna.gz",
+        "filename": "GCF_000862425.1_ViralProj15368_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003675.1 Rio Bravo virus, genome",
         "signatures": [
             {
                 "ksize": 31,

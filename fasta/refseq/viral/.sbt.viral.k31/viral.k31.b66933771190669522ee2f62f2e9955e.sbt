@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001907865.1/GCF_001907865.1_ViralProj357842_genomic.fna.gz",
+        "filename": "GCF_001907865.1_ViralProj357842_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032117.1 Bivalve hepelivirus G, partial genome",
         "signatures": [
             {
                 "ksize": 31,

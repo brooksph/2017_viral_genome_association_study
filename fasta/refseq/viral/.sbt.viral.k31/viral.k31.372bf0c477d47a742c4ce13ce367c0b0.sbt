@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922555.1/GCF_000922555.1_ViralMultiSegProj260754_genomic.fna.gz",
+        "filename": "GCF_000922555.1_ViralMultiSegProj260754_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024810.1 Coccinia mosaic Tamil Nadu virus isolate TN TDV Coc 1 segment DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

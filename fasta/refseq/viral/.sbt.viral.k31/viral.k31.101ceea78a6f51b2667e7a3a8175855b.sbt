@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502075.1/GCF_001502075.1_ViralProj307760_genomic.fna.gz",
+        "filename": "GCF_001502075.1_ViralProj307760_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028972.1 Gordonia phage Gmala1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

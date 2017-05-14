@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839565.1/GCF_000839565.1_ViralMultiSegProj14072_genomic.fna.gz",
+        "filename": "GCF_000839565.1_ViralMultiSegProj14072_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001507.1 Tomato golden mosaic virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

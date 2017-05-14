@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864645.1/GCF_000864645.1_ViralProj15449_genomic.fna.gz",
+        "filename": "GCF_000864645.1_ViralProj15449_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007149.1 Vibriophage VP4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

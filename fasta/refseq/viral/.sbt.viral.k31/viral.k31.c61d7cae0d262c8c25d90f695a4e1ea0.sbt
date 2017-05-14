@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001429935.1/GCF_001429935.1_ViralProj300236_genomic.fna.gz",
+        "filename": "GCF_001429935.1_ViralProj300236_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028129.1 Woolly monkey hepatitis B virus clone WMHBV-2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

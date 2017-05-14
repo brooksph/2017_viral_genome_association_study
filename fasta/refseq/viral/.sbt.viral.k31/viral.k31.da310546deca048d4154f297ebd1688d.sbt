@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001444005.1/GCF_001444005.1_ViralProj302024_genomic.fna.gz",
+        "filename": "GCF_001444005.1_ViralProj302024_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028363.1 Rodent hepatovirus isolate RMU101637Micarv2010 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

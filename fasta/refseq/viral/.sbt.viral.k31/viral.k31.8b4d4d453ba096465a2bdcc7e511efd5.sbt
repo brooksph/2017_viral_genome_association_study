@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843305.1/GCF_000843305.1_ViralProj14324_genomic.fna.gz",
+        "filename": "GCF_000843305.1_ViralProj14324_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004367.1 Callitrichine herpesvirus 3 strain CJ0149, complete genome",
         "signatures": [
             {
                 "ksize": 31,

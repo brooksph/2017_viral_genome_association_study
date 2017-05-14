@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754905.1/GCF_001754905.1_ViralMultiSegProj345025_genomic.fna.gz",
+        "filename": "GCF_001754905.1_ViralMultiSegProj345025_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031313.1 Wuhan horsefly Virus strain JJ2-1 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

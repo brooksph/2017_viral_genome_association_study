@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962615.1/GCF_001962615.1_ViralProj362012_genomic.fna.gz",
+        "filename": "GCF_001962615.1_ViralProj362012_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033181.1 Changjiang zhaovirus-like virus 1 strain CJLX30599 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

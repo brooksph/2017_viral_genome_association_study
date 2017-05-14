@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894555.1/GCF_000894555.1_ViralProj162491_genomic.fna.gz",
+        "filename": "GCF_000894555.1_ViralProj162491_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017828.1 Wheat dwarf India virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

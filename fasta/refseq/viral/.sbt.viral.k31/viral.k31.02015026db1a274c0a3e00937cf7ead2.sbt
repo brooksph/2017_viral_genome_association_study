@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839685.1/GCF_000839685.1_ViralProj14098_genomic.fna.gz",
+        "filename": "GCF_000839685.1_ViralProj14098_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001701.1 Goose parvovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

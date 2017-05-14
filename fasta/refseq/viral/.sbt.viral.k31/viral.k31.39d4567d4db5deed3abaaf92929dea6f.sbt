@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913315.1/GCF_000913315.1_ViralProj215120_genomic.fna.gz",
+        "filename": "GCF_000913315.1_ViralProj215120_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022054.1 Mycobacterium phage Muddy, complete genome",
         "signatures": [
             {
                 "ksize": 31,

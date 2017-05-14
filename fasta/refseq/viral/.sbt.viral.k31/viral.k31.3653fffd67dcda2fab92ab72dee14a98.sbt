@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001904865.1/GCF_001904865.1_ViralProj357469_genomic.fna.gz",
+        "filename": "GCF_001904865.1_ViralProj357469_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032097.1 Desmodus rotundus parvovirus strain DRA25 nonstructural protein 1 and capsid protein 1 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001777225.1/GCF_001777225.1_ViralProj348721_genomic.fna.gz",
+        "filename": "GCF_001777225.1_ViralProj348721_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031450.1 Parus major densovirus isolate PmDNV-JL, complete genome",
         "signatures": [
             {
                 "ksize": 31,

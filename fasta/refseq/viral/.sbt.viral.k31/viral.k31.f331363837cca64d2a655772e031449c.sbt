@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884515.1/GCF_000884515.1_ViralProj42701_genomic.fna.gz",
+        "filename": "GCF_000884515.1_ViralProj42701_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004359.1 Citrus viroid VI, complete genome",
         "signatures": [
             {
                 "ksize": 31,

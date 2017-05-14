@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001959315.1/GCF_001959315.1_ViralProj361824_genomic.fna.gz",
+        "filename": "GCF_001959315.1_ViralProj361824_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032946.1 Shahe picorna-like virus 3 strain SHWC13623 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

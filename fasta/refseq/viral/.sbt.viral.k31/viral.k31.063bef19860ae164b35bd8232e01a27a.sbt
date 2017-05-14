@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929615.1/GCF_000929615.1_ViralProj267736_genomic.fna.gz",
+        "filename": "GCF_000929615.1_ViralProj267736_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025672.1 Norway rat hepacivirus 1 isolate NrHV-1/NYC-C12 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

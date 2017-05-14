@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963455.1/GCF_001963455.1_ViralProj361994_genomic.fna.gz",
+        "filename": "GCF_001963455.1_ViralProj361994_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033118.1 Changjiang narna-like virus 1 strain CJLX30050 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

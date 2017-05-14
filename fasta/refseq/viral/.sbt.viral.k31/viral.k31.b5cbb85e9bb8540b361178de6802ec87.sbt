@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873065.1/GCF_000873065.1_ViralProj19133_genomic.fna.gz",
+        "filename": "GCF_000873065.1_ViralProj19133_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009224.1 Botryotinia fuckeliana totivirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

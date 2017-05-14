@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001629925.1/GCF_001629925.1_ViralProj319067_genomic.fna.gz",
+        "filename": "GCF_001629925.1_ViralProj319067_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029901.1 Zerdali virus strain 37 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

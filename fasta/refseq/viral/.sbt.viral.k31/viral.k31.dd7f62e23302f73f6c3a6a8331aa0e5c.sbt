@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001725875.1/GCF_001725875.1_ViralMultiSegProj342649_genomic.fna.gz",
+        "filename": "GCF_001725875.1_ViralMultiSegProj342649_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030889.1 Arabidopsis halleri partitivirus 1 genomic RNA, segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

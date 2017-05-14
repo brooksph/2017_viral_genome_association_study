@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858485.1/GCF_000858485.1_ViralProj15242_genomic.fna.gz",
+        "filename": "GCF_000858485.1_ViralProj15242_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001659.2 African swine fever virus strain BA71V, complete genome",
         "signatures": [
             {
                 "ksize": 31,

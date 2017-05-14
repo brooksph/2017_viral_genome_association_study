@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889935.1/GCF_000889935.1_ViralMultiSegProj48595_genomic.fna.gz",
+        "filename": "GCF_000889935.1_ViralMultiSegProj48595_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014141.1 Soybean chlorotic blotch virus DNA A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001921415.1/GCF_001921415.1_ViralMultiSegProj358549_genomic.fna.gz",
+        "filename": "GCF_001921415.1_ViralMultiSegProj358549_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032140.1 Shahe heteroptera virus 3 strain SHWC01c3680 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

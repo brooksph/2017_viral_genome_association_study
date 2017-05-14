@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754125.1/GCF_001754125.1_ViralProj344322_genomic.fna.gz",
+        "filename": "GCF_001754125.1_ViralProj344322_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031216.1 Shayang Fly Virus 3 strain SYY1-1 ORF1 (ORF1), ORF2 (ORF2), ORF3 (ORF3), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

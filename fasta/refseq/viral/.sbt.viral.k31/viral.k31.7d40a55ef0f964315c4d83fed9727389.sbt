@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899275.1/GCF_000899275.1_ViralProj175665_genomic.fna.gz",
+        "filename": "GCF_000899275.1_ViralProj175665_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018629.1 Ikoma lyssavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

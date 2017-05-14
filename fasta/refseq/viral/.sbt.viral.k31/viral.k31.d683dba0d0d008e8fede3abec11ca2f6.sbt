@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924735.1/GCF_000924735.1_ViralProj265895_genomic.fna.gz",
+        "filename": "GCF_000924735.1_ViralProj265895_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025404.1 Achimota virus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

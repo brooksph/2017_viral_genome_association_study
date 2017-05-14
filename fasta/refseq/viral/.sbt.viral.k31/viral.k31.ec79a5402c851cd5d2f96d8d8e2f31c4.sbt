@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646575.1/GCF_001646575.1_ViralProj321704_genomic.fna.gz",
+        "filename": "GCF_001646575.1_ViralProj321704_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030135.1 Llama faeces associated circular DNA virus-1 isolate 29_llama, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

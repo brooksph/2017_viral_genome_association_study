@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922675.1/GCF_000922675.1_ViralProj248102_genomic.fna.gz",
+        "filename": "GCF_000922675.1_ViralProj248102_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024118.1 New Jersey polyomavirus-2013 isolate NJ-PyV-2013, complete genome",
         "signatures": [
             {
                 "ksize": 31,

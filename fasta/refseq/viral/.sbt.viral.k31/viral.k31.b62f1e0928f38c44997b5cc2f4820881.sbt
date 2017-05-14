@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908515.1/GCF_000908515.1_ViralProj206467_genomic.fna.gz",
+        "filename": "GCF_000908515.1_ViralProj206467_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021345.1 Chili leaf curl Bhatinda betasatellite isolate AnAv, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

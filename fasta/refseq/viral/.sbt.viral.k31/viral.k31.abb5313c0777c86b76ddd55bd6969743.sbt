@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001678295.1/GCF_001678295.1_ViralProj327360_genomic.fna.gz",
+        "filename": "GCF_001678295.1_ViralProj327360_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030402.1 Ungulate bocaparvovirus 6 strain Ungulate bocaparvovirus 6 strain USII/03, complete genome",
         "signatures": [
             {
                 "ksize": 31,

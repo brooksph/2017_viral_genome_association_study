@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904415.1/GCF_000904415.1_ViralProj195481_genomic.fna.gz",
+        "filename": "GCF_000904415.1_ViralProj195481_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020863.1 Vibrio phage PWH3a-P1 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

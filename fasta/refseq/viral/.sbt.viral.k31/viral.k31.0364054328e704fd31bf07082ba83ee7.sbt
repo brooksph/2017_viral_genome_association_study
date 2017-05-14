@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888395.1/GCF_000888395.1_ViralProj49613_genomic.fna.gz",
+        "filename": "GCF_000888395.1_ViralProj49613_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014229.1 Streptomyces phage phiSASD1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

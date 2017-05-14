@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927095.1/GCF_000927095.1_ViralProj264920_genomic.fna.gz",
+        "filename": "GCF_000927095.1_ViralProj264920_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025379.1 Mamastrovirus 3 isolate PAstV-GX1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

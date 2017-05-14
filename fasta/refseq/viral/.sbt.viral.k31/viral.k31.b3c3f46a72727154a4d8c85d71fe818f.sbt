@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844785.1/GCF_000844785.1_ViralProj14452_genomic.fna.gz",
+        "filename": "GCF_000844785.1_ViralProj14452_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005497.1 Tomato leaf curl Java virus-[Ageratum] satellite DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

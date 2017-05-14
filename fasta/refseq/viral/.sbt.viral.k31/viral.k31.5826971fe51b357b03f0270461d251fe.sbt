@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885435.1/GCF_000885435.1_ViralProj42147_genomic.fna.gz",
+        "filename": "GCF_000885435.1_ViralProj42147_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013528.1 Fort Morgan virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

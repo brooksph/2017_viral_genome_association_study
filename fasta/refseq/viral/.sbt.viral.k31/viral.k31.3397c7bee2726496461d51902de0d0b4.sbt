@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001904905.1/GCF_001904905.1_ViralProj357485_genomic.fna.gz",
+        "filename": "GCF_001904905.1_ViralProj357485_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032106.1 Saccharomyces kudriavzevii virus L-A1 isolate 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

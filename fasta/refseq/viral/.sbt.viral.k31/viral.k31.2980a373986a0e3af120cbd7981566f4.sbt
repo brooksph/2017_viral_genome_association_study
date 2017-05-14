@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866905.1/GCF_000866905.1_ViralProj16245_genomic.fna.gz",
+        "filename": "GCF_000866905.1_ViralProj16245_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007655.1 Bitter gourd leaf curl disease-associated DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

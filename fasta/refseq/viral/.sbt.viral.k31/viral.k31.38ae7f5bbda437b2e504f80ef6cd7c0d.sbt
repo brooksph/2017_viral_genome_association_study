@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001401365.1/GCF_001401365.1_ViralProj299179_genomic.fna.gz",
+        "filename": "GCF_001401365.1_ViralProj299179_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028095.1 Torulaspora delbrueckii dsRNA Mbarr-1 killer virus strain EX1180 Kbarr-1 killer toxin gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

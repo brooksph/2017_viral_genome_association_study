@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920015.1/GCF_000920015.1_ViralProj248745_genomic.fna.gz",
+        "filename": "GCF_000920015.1_ViralProj248745_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024150.1 California sea lion adenovirus 1 strain Zc11-030, complete genome",
         "signatures": [
             {
                 "ksize": 31,

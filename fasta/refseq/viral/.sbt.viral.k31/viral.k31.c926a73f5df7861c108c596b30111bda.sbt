@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001190695.1/GCF_001190695.1_ViralProj291265_genomic.fna.gz",
+        "filename": "GCF_001190695.1_ViralProj291265_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027630.1 Propionibacterium phage Ouroboros, complete genome",
         "signatures": [
             {
                 "ksize": 31,

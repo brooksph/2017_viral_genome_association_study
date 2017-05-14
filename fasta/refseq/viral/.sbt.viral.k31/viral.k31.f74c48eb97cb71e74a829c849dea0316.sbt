@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890255.1/GCF_000890255.1_ViralProj60045_genomic.fna.gz",
+        "filename": "GCF_000890255.1_ViralProj60045_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014646.1 Cleome leaf crumple virus associated DNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

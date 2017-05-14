@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430515.1/GCF_001430515.1_ViralProj300229_genomic.fna.gz",
+        "filename": "GCF_001430515.1_ViralProj300229_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028126.1 Bovine papillomavirus type 12 isolate PR000001, complete genome",
         "signatures": [
             {
                 "ksize": 31,

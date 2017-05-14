@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854205.1/GCF_000854205.1_ViralProj15035_genomic.fna.gz",
+        "filename": "GCF_000854205.1_ViralProj15035_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004666.1 Barley yellow dwarf virus-GAV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

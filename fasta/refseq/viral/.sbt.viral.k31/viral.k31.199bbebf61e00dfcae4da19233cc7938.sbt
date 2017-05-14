@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001579415.1/GCF_001579415.1_ViralProj313445_genomic.fna.gz",
+        "filename": "GCF_001579415.1_ViralProj313445_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029310.1 Marine RNA virus PAL_E4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

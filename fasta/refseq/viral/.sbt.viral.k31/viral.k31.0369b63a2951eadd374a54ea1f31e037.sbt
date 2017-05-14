@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503575.1/GCF_001503575.1_ViralProj307943_genomic.fna.gz",
+        "filename": "GCF_001503575.1_ViralProj307943_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028773.1 Cronobacter phage S13, complete genome",
         "signatures": [
             {
                 "ksize": 31,

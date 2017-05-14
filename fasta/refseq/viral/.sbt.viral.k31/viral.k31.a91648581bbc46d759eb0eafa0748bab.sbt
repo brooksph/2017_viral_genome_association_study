@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925775.1/GCF_001925775.1_ViralMultiSegProj359296_genomic.fna.gz",
+        "filename": "GCF_001925775.1_ViralMultiSegProj359296_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032525.1 Beihai noda-like virus 11 strain BHJJX49550 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

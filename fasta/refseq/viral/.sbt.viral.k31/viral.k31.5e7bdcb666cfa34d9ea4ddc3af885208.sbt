@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929235.1/GCF_000929235.1_ViralProj273530_genomic.fna.gz",
+        "filename": "GCF_000929235.1_ViralProj273530_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026252.1 Human smacovirus 1 isolate France/12/2008/3454, complete genome",
         "signatures": [
             {
                 "ksize": 31,

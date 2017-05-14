@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908695.1/GCF_000908695.1_ViralProj208538_genomic.fna.gz",
+        "filename": "GCF_000908695.1_ViralProj208538_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021483.1 Human papillomavirus type 154 isolate PV77, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964055.1/GCF_001964055.1_ViralProj361995_genomic.fna.gz",
+        "filename": "GCF_001964055.1_ViralProj361995_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033039.1 Changjiang hepe-like virus 1 strain CJLX30636 replicase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

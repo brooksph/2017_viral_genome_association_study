@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755165.1/GCF_001755165.1_ViralProj344612_genomic.fna.gz",
+        "filename": "GCF_001755165.1_ViralProj344612_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031263.1 Mycobacterium phage EvilGenius, complete genome",
         "signatures": [
             {
                 "ksize": 31,

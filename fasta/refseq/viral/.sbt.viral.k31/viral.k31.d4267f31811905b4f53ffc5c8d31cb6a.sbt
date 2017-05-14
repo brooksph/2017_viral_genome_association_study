@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899595.1/GCF_000899595.1_ViralProj179411_genomic.fna.gz",
+        "filename": "GCF_000899595.1_ViralProj179411_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019402.1 Cronobacter phage vB_CsaP_GAP52, complete genome",
         "signatures": [
             {
                 "ksize": 31,

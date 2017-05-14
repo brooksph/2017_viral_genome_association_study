@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851225.1/GCF_000851225.1_ViralProj14762_genomic.fna.gz",
+        "filename": "GCF_000851225.1_ViralProj14762_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003603.1 Groundnut rosette virus complete genome, strain MC1",
         "signatures": [
             {
                 "ksize": 31,

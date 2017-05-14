@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745435.1/GCF_001745435.1_ViralMultiSegProj344207_genomic.fna.gz",
+        "filename": "GCF_001745435.1_ViralMultiSegProj344207_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031134.1 Cannabis cryptic virus isolate hemp09 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

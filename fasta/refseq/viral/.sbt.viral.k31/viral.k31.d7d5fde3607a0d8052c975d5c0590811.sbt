@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839925.1/GCF_000839925.1_ViralProj14147_genomic.fna.gz",
+        "filename": "GCF_000839925.1_ViralProj14147_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003345.1 Halorubrum phage HF2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

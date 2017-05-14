@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844205.1/GCF_000844205.1_ViralProj14501_genomic.fna.gz",
+        "filename": "GCF_000844205.1_ViralProj14501_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003798.1 Lucerne transient streak virus satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

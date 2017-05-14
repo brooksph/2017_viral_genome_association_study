@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002029615.1/GCF_002029615.1_ViralMultiSegProj379132_genomic.fna.gz",
+        "filename": "GCF_002029615.1_ViralMultiSegProj379132_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034214.1 Peach rosette mosaic virus isolate PRMV2 segment RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

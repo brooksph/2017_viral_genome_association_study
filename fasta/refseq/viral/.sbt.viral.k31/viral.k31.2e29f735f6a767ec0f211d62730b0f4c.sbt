@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867105.1/GCF_000867105.1_ViralProj16643_genomic.fna.gz",
+        "filename": "GCF_000867105.1_ViralProj16643_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007913.1 Konjac mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

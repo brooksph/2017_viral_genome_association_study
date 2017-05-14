@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926995.1/GCF_000926995.1_ViralProj264895_genomic.fna.gz",
+        "filename": "GCF_000926995.1_ViralProj264895_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025340.1 Long Island tick rhabdovirus strain LS1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

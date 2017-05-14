@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890595.1/GCF_000890595.1_ViralMultiSegProj62547_genomic.fna.gz",
+        "filename": "GCF_000890595.1_ViralMultiSegProj62547_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015069.1 Santeuil nodavirus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

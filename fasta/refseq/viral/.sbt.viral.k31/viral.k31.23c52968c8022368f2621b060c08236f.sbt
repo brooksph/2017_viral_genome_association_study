@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550805.1/GCF_001550805.1_ViralProj310788_genomic.fna.gz",
+        "filename": "GCF_001550805.1_ViralProj310788_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029056.1 Alternaria brassicicola fusarivirus 1 isolate 817-14, complete genome",
         "signatures": [
             {
                 "ksize": 31,

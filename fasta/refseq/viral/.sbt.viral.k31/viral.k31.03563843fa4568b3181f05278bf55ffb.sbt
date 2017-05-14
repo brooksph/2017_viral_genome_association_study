@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962015.1/GCF_001962015.1_ViralProj361890_genomic.fna.gz",
+        "filename": "GCF_001962015.1_ViralProj361890_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033113.1 Hubei yanvirus-like virus 1 strain WHCC105213 hypothetical protein 1, RNA-dependent RNA polymerase, and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

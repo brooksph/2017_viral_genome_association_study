@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865985.1/GCF_000865985.1_ViralProj16157_genomic.fna.gz",
+        "filename": "GCF_000865985.1_ViralProj16157_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007518.1 Heterocapsa circularisquama RNA virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

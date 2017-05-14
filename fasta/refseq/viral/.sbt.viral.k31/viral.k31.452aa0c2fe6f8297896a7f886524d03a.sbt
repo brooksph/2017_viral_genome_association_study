@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883855.1/GCF_000883855.1_ViralProj38093_genomic.fna.gz",
+        "filename": "GCF_000883855.1_ViralProj38093_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012699.1 Calicivirus pig/AB90/CAN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926575.1/GCF_000926575.1_ViralProj265878_genomic.fna.gz",
+        "filename": "GCF_000926575.1_ViralProj265878_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025385.1 Khujand lyssavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

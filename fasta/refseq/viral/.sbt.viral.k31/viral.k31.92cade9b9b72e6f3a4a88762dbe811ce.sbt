@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884415.1/GCF_000884415.1_ViralMultiSegProj41605_genomic.fna.gz",
+        "filename": "GCF_000884415.1_ViralMultiSegProj41605_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013458.1 Barfin flounder nervous necrosis virus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

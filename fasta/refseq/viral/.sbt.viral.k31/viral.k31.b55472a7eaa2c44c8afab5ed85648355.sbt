@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880635.1/GCF_000880635.1_ViralProj32101_genomic.fna.gz",
+        "filename": "GCF_000880635.1_ViralProj32101_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011317.1 Anopheles gambiae densonucleosis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

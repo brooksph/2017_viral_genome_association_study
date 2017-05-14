@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001970745.1/GCF_001970745.1_ViralProj362914_genomic.fna.gz",
+        "filename": "GCF_001970745.1_ViralProj362914_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033437.1 Wuhan arthropod virus 2 strain WHSF0 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

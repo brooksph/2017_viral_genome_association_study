@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895955.1/GCF_000895955.1_ViralProj84401_genomic.fna.gz",
+        "filename": "GCF_000895955.1_ViralProj84401_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016896.1 Astrovirus wild boar/WBAstV-1/2011/HUN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

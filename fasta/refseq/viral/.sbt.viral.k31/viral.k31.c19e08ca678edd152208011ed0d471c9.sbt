@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862265.1/GCF_000862265.1_ViralProj15334_genomic.fna.gz",
+        "filename": "GCF_000862265.1_ViralProj15334_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001661.1 Citrus tristeza virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899075.1/GCF_000899075.1_ViralProj172459_genomic.fna.gz",
+        "filename": "GCF_000899075.1_ViralProj172459_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018401.1 Gyrovirus 4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

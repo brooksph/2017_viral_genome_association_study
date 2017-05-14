@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882615.1/GCF_000882615.1_ViralMultiSegProj33489_genomic.fna.gz",
+        "filename": "GCF_000882615.1_ViralMultiSegProj33489_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011805.1 Gossypium punctatum mild leaf curl virus DNA A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

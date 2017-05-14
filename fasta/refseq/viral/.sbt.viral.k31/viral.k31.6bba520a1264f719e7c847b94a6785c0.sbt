@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908815.1/GCF_000908815.1_ViralProj209360_genomic.fna.gz",
+        "filename": "GCF_000908815.1_ViralProj209360_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021569.1 Stenotrophomonas phage phiSMA7 proviral complete genome",
         "signatures": [
             {
                 "ksize": 31,

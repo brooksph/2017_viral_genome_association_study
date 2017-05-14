@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919495.1/GCF_000919495.1_ViralMultiSegProj242281_genomic.fna.gz",
+        "filename": "GCF_000919495.1_ViralMultiSegProj242281_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023813.1 Bush viper reovirus segment L1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

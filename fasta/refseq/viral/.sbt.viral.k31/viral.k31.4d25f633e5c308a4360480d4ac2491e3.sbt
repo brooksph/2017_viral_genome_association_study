@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887935.1/GCF_000887935.1_ViralProj61853_genomic.fna.gz",
+        "filename": "GCF_000887935.1_ViralProj61853_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014898.1 Lupine mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974095.1/GCF_001974095.1_ViralMultiSegProj368941_genomic.fna.gz",
+        "filename": "GCF_001974095.1_ViralMultiSegProj368941_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033482.1 Wuhan house centipede virus 6 strain WHWG55397 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

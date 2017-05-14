@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001924155.1/GCF_001924155.1_ViralProj358939_genomic.fna.gz",
+        "filename": "GCF_001924155.1_ViralProj358939_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032255.1 Plodia interpunctella granulovirus isolate Cambridge, complete genome",
         "signatures": [
             {
                 "ksize": 31,

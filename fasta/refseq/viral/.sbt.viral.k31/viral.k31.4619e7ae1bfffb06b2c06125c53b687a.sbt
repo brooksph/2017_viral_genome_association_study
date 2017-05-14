@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920415.1/GCF_000920415.1_ViralProj242972_genomic.fna.gz",
+        "filename": "GCF_000920415.1_ViralProj242972_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023864.1 Axonopus compressus streak virus isolate ACSV_NG_g84_oba_2007, complete genome",
         "signatures": [
             {
                 "ksize": 31,

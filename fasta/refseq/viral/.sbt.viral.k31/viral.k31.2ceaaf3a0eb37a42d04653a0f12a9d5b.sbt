@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001968055.1/GCF_001968055.1_ViralProj361656_genomic.fna.gz",
+        "filename": "GCF_001968055.1_ViralProj361656_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032758.1 Hubei tick virus 2 strain tick109131 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

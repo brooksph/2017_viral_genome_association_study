@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915295.1/GCF_000915295.1_ViralProj233691_genomic.fna.gz",
+        "filename": "GCF_000915295.1_ViralProj233691_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023312.1 Tomato leaf curl Liwa virus isolate LW1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

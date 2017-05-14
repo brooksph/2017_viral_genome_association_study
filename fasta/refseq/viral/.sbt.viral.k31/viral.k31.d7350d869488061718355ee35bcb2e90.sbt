@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926635.1/GCF_001926635.1_ViralProj359327_genomic.fna.gz",
+        "filename": "GCF_001926635.1_ViralProj359327_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032491.1 Zhejiang mosquito virus 3 strain mosZJ35354 hypothetical protein and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

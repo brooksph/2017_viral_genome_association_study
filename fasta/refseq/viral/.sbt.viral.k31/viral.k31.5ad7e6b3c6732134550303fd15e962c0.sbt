@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430175.1/GCF_001430175.1_ViralProj300243_genomic.fna.gz",
+        "filename": "GCF_001430175.1_ViralProj300243_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028117.1 Bank vole polyomavirus isolate KS/14/281, complete genome",
         "signatures": [
             {
                 "ksize": 31,

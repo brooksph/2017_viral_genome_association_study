@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923395.1/GCF_000923395.1_ViralProj258099_genomic.fna.gz",
+        "filename": "GCF_000923395.1_ViralProj258099_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024700.1 Feline cyclovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

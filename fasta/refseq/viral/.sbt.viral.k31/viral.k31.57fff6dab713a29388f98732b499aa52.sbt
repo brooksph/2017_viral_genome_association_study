@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908415.1/GCF_000908415.1_ViralProj203667_genomic.fna.gz",
+        "filename": "GCF_000908415.1_ViralProj203667_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021246.1 Mythimna separata entomopoxvirus 'L', complete genome",
         "signatures": [
             {
                 "ksize": 31,

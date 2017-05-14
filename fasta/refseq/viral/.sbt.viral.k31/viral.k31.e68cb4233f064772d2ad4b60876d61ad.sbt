@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856865.1/GCF_000856865.1_ViralProj15098_genomic.fna.gz",
+        "filename": "GCF_000856865.1_ViralProj15098_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004035.1 Sorghum mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

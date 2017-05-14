@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903435.1/GCF_000903435.1_ViralProj181243_genomic.fna.gz",
+        "filename": "GCF_000903435.1_ViralProj181243_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019497.1 Dragonfly-associated mastrevirus isolate PR_NZ70_2009, complete genome",
         "signatures": [
             {
                 "ksize": 31,

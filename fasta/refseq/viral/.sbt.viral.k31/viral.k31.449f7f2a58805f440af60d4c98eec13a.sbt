@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851665.1/GCF_000851665.1_ViralMultiSegProj14853_genomic.fna.gz",
+        "filename": "GCF_000851665.1_ViralMultiSegProj14853_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004177.1 Drosophila x virus segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845125.2/GCF_000845125.2_ViralProj14526_genomic.fna.gz",
+        "filename": "GCF_000845125.2_ViralProj14526_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004655.1 East African cassava mosaic Zanzibar virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

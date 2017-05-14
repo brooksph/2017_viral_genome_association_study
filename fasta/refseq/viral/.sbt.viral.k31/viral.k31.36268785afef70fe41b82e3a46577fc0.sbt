@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921455.1/GCF_000921455.1_ViralProj257697_genomic.fna.gz",
+        "filename": "GCF_000921455.1_ViralProj257697_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024687.1 Rose leaf curl virus isolate AS24, complete genome",
         "signatures": [
             {
                 "ksize": 31,

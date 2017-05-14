@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851385.1/GCF_000851385.1_ViralMultiSegProj14795_genomic.fna.gz",
+        "filename": "GCF_000851385.1_ViralMultiSegProj14795_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003755.1 Rice stripe virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

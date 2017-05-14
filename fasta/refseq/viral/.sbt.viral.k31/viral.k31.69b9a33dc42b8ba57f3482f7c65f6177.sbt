@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862885.1/GCF_000862885.1_ViralProj15468_genomic.fna.gz",
+        "filename": "GCF_000862885.1_ViralProj15468_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007150.1 Procyon lotor papillomavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504895.1/GCF_001504895.1_ViralProj307884_genomic.fna.gz",
+        "filename": "GCF_001504895.1_ViralProj307884_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028878.1 Mycobacterium phage Archie, complete genome",
         "signatures": [
             {
                 "ksize": 31,

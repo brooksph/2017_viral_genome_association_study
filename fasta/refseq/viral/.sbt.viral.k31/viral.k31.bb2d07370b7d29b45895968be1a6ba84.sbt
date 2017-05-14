@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842505.1/GCF_000842505.1_ViralProj14338_genomic.fna.gz",
+        "filename": "GCF_000842505.1_ViralProj14338_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002668.1 Lactococcus prophage bIL309, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872045.1/GCF_000872045.1_ViralProj20959_genomic.fna.gz",
+        "filename": "GCF_000872045.1_ViralProj20959_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009334.1 Human herpesvirus 4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

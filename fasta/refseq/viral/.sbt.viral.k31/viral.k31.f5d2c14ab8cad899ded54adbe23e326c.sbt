@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870725.1/GCF_000870725.1_ViralMultiSegProj19653_genomic.fna.gz",
+        "filename": "GCF_000870725.1_ViralMultiSegProj19653_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009490.1 Tomato mild yellow leaf curl Aragua virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

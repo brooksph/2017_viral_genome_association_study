@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915955.1/GCF_000915955.1_ViralMultiSegProj233604_genomic.fna.gz",
+        "filename": "GCF_000915955.1_ViralMultiSegProj233604_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023309.1 Pea yellow stunt virus segment DNA-C, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

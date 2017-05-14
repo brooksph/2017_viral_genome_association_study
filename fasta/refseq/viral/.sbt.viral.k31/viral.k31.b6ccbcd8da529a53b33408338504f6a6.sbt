@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858385.2/GCF_000858385.2_ViralProj15218_genomic.fna.gz",
+        "filename": "GCF_000858385.2_ViralProj15218_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001798.2 Human herpesvirus 2 strain HG52, complete genome",
         "signatures": [
             {
                 "ksize": 31,

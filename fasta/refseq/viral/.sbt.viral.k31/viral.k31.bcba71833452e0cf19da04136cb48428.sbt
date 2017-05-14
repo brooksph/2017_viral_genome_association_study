@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909815.1/GCF_000909815.1_ViralProj214508_genomic.fna.gz",
+        "filename": "GCF_000909815.1_ViralProj214508_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022002.1 Grapevine red blotch-associated virus isolate CF214-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

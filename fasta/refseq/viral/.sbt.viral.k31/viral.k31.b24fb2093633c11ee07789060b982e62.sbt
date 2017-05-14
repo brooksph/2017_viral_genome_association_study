@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927475.1/GCF_000927475.1_ViralProj266769_genomic.fna.gz",
+        "filename": "GCF_000927475.1_ViralProj266769_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025450.1 Lelliottia phage phD2B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001567015.1/GCF_001567015.1_ViralProj312792_genomic.fna.gz",
+        "filename": "GCF_001567015.1_ViralProj312792_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029304.1 Cnaphalocrocis medinalis granulovirus strain Enping, complete genome",
         "signatures": [
             {
                 "ksize": 31,

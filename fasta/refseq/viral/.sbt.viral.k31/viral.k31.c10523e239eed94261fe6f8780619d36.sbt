@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892275.1/GCF_000892275.1_ViralProj62965_genomic.fna.gz",
+        "filename": "GCF_000892275.1_ViralProj62965_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011038.1 Yersinia phage Yepe2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

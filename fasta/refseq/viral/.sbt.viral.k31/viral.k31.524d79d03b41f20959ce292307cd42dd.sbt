@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855305.1/GCF_000855305.1_ViralProj14953_genomic.fna.gz",
+        "filename": "GCF_000855305.1_ViralProj14953_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005092.1 Ectropis obliqua picorna-like virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

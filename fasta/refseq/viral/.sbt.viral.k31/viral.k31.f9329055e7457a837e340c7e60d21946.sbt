@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000878935.1/GCF_000878935.1_ViralProj28073_genomic.fna.gz",
+        "filename": "GCF_000878935.1_ViralProj28073_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010155.1 Acidianus filamentous virus 3, partial viral genome",
         "signatures": [
             {
                 "ksize": 31,

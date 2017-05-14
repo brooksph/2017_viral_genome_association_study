@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551165.1/GCF_001551165.1_ViralProj310889_genomic.fna.gz",
+        "filename": "GCF_001551165.1_ViralProj310889_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029095.1 Erysiphe cichoracearum endornavirus isolate HBJZ1506, complete genome",
         "signatures": [
             {
                 "ksize": 31,

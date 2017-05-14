@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847645.1/GCF_000847645.1_ViralMultiSegProj14692_genomic.fna.gz",
+        "filename": "GCF_000847645.1_ViralMultiSegProj14692_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002323.1 Rice grassy stunt virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

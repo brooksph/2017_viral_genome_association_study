@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001959135.1/GCF_001959135.1_ViralProj361788_genomic.fna.gz",
+        "filename": "GCF_001959135.1_ViralProj361788_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033086.1 Wenling hepe-like virus 3 strain WLJQ102665 replicase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

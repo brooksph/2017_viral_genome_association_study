@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961335.1/GCF_001961335.1_ViralProj361903_genomic.fna.gz",
+        "filename": "GCF_001961335.1_ViralProj361903_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032811.1 Hubei unio douglasiae virus 2 strain WHBL72658 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

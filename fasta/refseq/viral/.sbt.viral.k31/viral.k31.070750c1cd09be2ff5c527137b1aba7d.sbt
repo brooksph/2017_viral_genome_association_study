@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926175.1/GCF_001926175.1_ViralMultiSegProj359289_genomic.fna.gz",
+        "filename": "GCF_001926175.1_ViralMultiSegProj359289_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032500.1 Beihai partiti-like virus 2 strain BHZY60797 segment Seg 1 RdRp gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

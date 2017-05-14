@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001924555.1/GCF_001924555.1_ViralProj358926_genomic.fna.gz",
+        "filename": "GCF_001924555.1_ViralProj358926_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032180.1 Hubei myriapoda virus 3 strain WGML139652 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

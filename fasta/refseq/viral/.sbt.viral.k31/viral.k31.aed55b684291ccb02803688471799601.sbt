@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860845.1/GCF_000860845.1_ViralProj15379_genomic.fna.gz",
+        "filename": "GCF_000860845.1_ViralProj15379_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004010.1 Potato virus V, complete genome",
         "signatures": [
             {
                 "ksize": 31,

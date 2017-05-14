@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755365.1/GCF_001755365.1_ViralProj345031_genomic.fna.gz",
+        "filename": "GCF_001755365.1_ViralProj345031_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031306.1 Synedrella leaf curl virus isolate YN3306, complete genome",
         "signatures": [
             {
                 "ksize": 31,

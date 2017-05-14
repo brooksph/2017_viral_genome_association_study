@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930515.1/GCF_000930515.1_ViralProj268862_genomic.fna.gz",
+        "filename": "GCF_000930515.1_ViralProj268862_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025791.1 Bat circovirus POA/2012/II, complete genome",
         "signatures": [
             {
                 "ksize": 31,

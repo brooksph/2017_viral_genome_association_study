@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001293015.1/GCF_001293015.1_ViralProj295578_genomic.fna.gz",
+        "filename": "GCF_001293015.1_ViralProj295578_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027819.1 Mercadeo virus isolate ER-M10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

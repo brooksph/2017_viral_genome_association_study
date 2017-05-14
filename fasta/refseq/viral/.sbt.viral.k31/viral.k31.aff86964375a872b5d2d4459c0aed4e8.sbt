@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910815.1/GCF_000910815.1_ViralProj215117_genomic.fna.gz",
+        "filename": "GCF_000910815.1_ViralProj215117_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022052.1 Mycobacterium phage Whirlwind, complete genome",
         "signatures": [
             {
                 "ksize": 31,

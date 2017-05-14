@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001433605.1/GCF_001433605.1_ViralMultiSegProj301071_genomic.fna.gz",
+        "filename": "GCF_001433605.1_ViralMultiSegProj301071_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028251.1 Rosellinia necatrix partitivirus 6 RdRp gene for RNA dependent RNA polymerase, complete cds, strain: W113",
         "signatures": [
             {
                 "ksize": 31,

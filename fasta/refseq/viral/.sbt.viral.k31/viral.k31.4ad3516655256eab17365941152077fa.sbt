@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875265.1/GCF_000875265.1_ViralProj30053_genomic.fna.gz",
+        "filename": "GCF_000875265.1_ViralProj30053_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010810.1 Human TMEV-like cardiovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

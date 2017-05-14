@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866975.1/GCF_001866975.1_ViralProj352513_genomic.fna.gz",
+        "filename": "GCF_001866975.1_ViralProj352513_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031756.1 Equus caballus papillomavirus 8 strain NCSU, complete genome",
         "signatures": [
             {
                 "ksize": 31,

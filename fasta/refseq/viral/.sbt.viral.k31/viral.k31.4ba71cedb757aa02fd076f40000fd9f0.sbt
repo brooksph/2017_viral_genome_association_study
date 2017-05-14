@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961315.1/GCF_001961315.1_ViralProj361899_genomic.fna.gz",
+        "filename": "GCF_001961315.1_ViralProj361899_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033269.1 Hubei virga-like virus 12 strain SCM49209 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

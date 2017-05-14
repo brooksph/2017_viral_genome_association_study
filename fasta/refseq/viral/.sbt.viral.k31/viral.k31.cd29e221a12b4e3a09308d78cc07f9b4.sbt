@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838205.2/GCF_000838205.2_ViralProj14145_genomic.fna.gz",
+        "filename": "GCF_000838205.2_ViralProj14145_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003157.5 Streptococcus pyogenes strain NIH1 putative methionine sulfoxide reductase gene, complete cds; and integrated temperate phage PhiNIH1.1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

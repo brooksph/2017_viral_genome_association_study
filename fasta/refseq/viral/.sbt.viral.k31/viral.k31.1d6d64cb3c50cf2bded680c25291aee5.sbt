@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924915.1/GCF_000924915.1_ViralProj266711_genomic.fna.gz",
+        "filename": "GCF_000924915.1_ViralProj266711_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025452.1 Dickeya phage RC-2014, complete genome",
         "signatures": [
             {
                 "ksize": 31,

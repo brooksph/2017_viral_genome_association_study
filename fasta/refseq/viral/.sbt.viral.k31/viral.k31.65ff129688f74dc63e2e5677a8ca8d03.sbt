@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001923275.1/GCF_001923275.1_ViralProj358941_genomic.fna.gz",
+        "filename": "GCF_001923275.1_ViralProj358941_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032212.1 Fusarium langsethiae hypovirus 1 isolate FlHV1/AH32, complete genome",
         "signatures": [
             {
                 "ksize": 31,

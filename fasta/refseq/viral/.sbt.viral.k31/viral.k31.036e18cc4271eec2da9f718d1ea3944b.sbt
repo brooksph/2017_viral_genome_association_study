@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505675.1/GCF_001505675.1_ViralProj307909_genomic.fna.gz",
+        "filename": "GCF_001505675.1_ViralProj307909_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028969.1 Brevibacillus phage Osiris, complete genome",
         "signatures": [
             {
                 "ksize": 31,

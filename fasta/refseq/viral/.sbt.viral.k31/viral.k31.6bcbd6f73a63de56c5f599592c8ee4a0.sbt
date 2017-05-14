@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001500415.1/GCF_001500415.1_ViralProj307714_genomic.fna.gz",
+        "filename": "GCF_001500415.1_ViralProj307714_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028832.1 Mycobacteriophage Omnicron, complete genome",
         "signatures": [
             {
                 "ksize": 31,

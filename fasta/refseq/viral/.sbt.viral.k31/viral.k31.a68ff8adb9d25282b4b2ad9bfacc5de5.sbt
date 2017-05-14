@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881815.1/GCF_000881815.1_ViralMultiSegProj32725_genomic.fna.gz",
+        "filename": "GCF_000881815.1_ViralMultiSegProj32725_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011558.1 Lettuce big-vein associated virus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

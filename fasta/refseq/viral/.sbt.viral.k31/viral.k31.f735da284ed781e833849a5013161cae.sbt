@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857485.1/GCF_000857485.1_ViralProj15231_genomic.fna.gz",
+        "filename": "GCF_000857485.1_ViralProj15231_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006631.1 Malvastrum yellow vein Yunnan virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

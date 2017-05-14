@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551345.1/GCF_001551345.1_ViralProj310925_genomic.fna.gz",
+        "filename": "GCF_001551345.1_ViralProj310925_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029119.1 Staphylococcus phage SPbeta-like, complete genome",
         "signatures": [
             {
                 "ksize": 31,

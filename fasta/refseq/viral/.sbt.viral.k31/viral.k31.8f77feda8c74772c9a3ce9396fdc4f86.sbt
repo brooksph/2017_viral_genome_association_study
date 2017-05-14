@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001308655.1/GCF_001308655.1_ViralMultiSegProj298048_genomic.fna.gz",
+        "filename": "GCF_001308655.1_ViralMultiSegProj298048_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027928.1 Privet ringsport virus isolate Win-01 segment RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001190275.1/GCF_001190275.1_ViralProj291264_genomic.fna.gz",
+        "filename": "GCF_001190275.1_ViralProj291264_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027623.1 Propionibacterium phage Pirate, complete genome",
         "signatures": [
             {
                 "ksize": 31,

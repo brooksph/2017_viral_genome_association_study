@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505835.1/GCF_001505835.1_ViralProj307941_genomic.fna.gz",
+        "filename": "GCF_001505835.1_ViralProj307941_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029018.1 Mycobacterium phage Anubis, complete genome",
         "signatures": [
             {
                 "ksize": 31,

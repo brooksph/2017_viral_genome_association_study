@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430415.1/GCF_001430415.1_ViralProj300249_genomic.fna.gz",
+        "filename": "GCF_001430415.1_ViralProj300249_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028128.1 Malachra yellow vein mosaic betasatellite isolate OK113, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955075.1/GCF_000955075.1_ViralProj276874_genomic.fna.gz",
+        "filename": "GCF_000955075.1_ViralProj276874_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026585.1 Mycobacteriophage Estave1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

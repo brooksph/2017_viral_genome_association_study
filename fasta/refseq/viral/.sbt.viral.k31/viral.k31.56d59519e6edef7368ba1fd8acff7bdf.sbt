@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000931335.1/GCF_000931335.1_ViralProj274777_genomic.fna.gz",
+        "filename": "GCF_000931335.1_ViralProj274777_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026430.1 Condylorrhiza vestigialis MNPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

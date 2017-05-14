@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918915.1/GCF_000918915.1_ViralProj242961_genomic.fna.gz",
+        "filename": "GCF_000918915.1_ViralProj242961_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023854.1 Dragonfly orbiculatusvirus isolate TO-DF13-2010, complete genome",
         "signatures": [
             {
                 "ksize": 31,

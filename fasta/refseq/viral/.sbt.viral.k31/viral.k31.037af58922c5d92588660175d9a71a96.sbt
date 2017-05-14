@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755645.1/GCF_001755645.1_ViralProj344623_genomic.fna.gz",
+        "filename": "GCF_001755645.1_ViralProj344623_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031265.1 Gordonia phage Guacamole, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858025.1/GCF_000858025.1_ViralProj15145_genomic.fna.gz",
+        "filename": "GCF_000858025.1_ViralProj15145_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006934.1 Reticuloendotheliosis virus strain HA9901 from China, complete genome",
         "signatures": [
             {
                 "ksize": 31,

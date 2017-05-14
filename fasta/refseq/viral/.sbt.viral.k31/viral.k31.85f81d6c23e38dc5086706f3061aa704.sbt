@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001737075.1/GCF_001737075.1_ViralProj343527_genomic.fna.gz",
+        "filename": "GCF_001737075.1_ViralProj343527_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030916.1 Tsukamurella phage TPA4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881875.1/GCF_000881875.1_ViralProj33005_genomic.fna.gz",
+        "filename": "GCF_000881875.1_ViralProj33005_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011616.1 Spodoptera litura nucleopolyhedrovirus II, complete genome",
         "signatures": [
             {
                 "ksize": 31,

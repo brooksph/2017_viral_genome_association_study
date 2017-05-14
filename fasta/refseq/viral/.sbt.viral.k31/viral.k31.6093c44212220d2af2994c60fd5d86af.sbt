@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002003875.1/GCF_002003875.1_ViralProj375022_genomic.fna.gz",
+        "filename": "GCF_002003875.1_ViralProj375022_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033708.1 Wuhan poty-like virus 1 strain WHWN51517 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

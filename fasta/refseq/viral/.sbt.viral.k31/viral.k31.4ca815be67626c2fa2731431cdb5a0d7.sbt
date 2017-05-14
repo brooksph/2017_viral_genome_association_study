@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856425.1/GCF_000856425.1_ViralProj15000_genomic.fna.gz",
+        "filename": "GCF_000856425.1_ViralProj15000_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001558.1 Tomato planta macho viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001308455.2/GCF_001308455.2_ViralProj297387_genomic.fna.gz",
+        "filename": "GCF_001308455.2_ViralProj297387_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027916.2 Testudinid herpesvirus 3 strain 1976, complete genome",
         "signatures": [
             {
                 "ksize": 31,

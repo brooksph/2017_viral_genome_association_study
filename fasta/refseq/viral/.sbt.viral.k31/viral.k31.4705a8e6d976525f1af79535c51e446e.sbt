@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910355.1/GCF_000910355.1_ViralProj210800_genomic.fna.gz",
+        "filename": "GCF_000910355.1_ViralProj210800_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021705.2 Thin paspalum asymptomatic virus strain 2005, complete genome",
         "signatures": [
             {
                 "ksize": 31,

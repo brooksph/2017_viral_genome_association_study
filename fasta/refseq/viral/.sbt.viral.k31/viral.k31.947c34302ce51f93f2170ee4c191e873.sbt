@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842825.1/GCF_000842825.1_ViralProj14223_genomic.fna.gz",
+        "filename": "GCF_000842825.1_ViralProj14223_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004289.1 Planococcus citri densovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

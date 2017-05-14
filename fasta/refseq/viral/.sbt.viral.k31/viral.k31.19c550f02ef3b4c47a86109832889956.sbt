@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646375.1/GCF_001646375.1_ViralProj321701_genomic.fna.gz",
+        "filename": "GCF_001646375.1_ViralProj321701_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030116.1 Unidentified adenovirus isolate CSPAdV_2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

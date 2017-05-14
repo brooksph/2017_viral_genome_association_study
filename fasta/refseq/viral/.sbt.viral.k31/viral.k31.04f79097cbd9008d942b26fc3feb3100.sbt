@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872265.1/GCF_000872265.1_ViralProj28147_genomic.fna.gz",
+        "filename": "GCF_000872265.1_ViralProj28147_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010178.1 Pineapple mealybug wilt-associated virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

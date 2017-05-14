@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461365.1/GCF_001461365.1_ViralMultiSegProj304921_genomic.fna.gz",
+        "filename": "GCF_001461365.1_ViralMultiSegProj304921_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028499.1 Penicillium aurantiogriseum partitivirus 1 RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

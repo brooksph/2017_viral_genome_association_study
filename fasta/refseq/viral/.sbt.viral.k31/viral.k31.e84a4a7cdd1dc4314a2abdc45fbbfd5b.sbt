@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001831345.1/GCF_001831345.1_ViralProj349749_genomic.fna.gz",
+        "filename": "GCF_001831345.1_ViralProj349749_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031503.1 Pigeon adenovirus 2 isolate YPDS-Y-V1.A19.11-2013, complete genome",
         "signatures": [
             {
                 "ksize": 31,

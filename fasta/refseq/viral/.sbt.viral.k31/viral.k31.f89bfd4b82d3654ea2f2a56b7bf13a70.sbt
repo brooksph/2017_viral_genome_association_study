@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888455.1/GCF_000888455.1_ViralProj51181_genomic.fna.gz",
+        "filename": "GCF_000888455.1_ViralProj51181_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014359.1 Spissistilus festinus virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960635.1/GCF_001960635.1_ViralProj361787_genomic.fna.gz",
+        "filename": "GCF_001960635.1_ViralProj361787_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033098.1 Wenling hepe-like virus 4 strain WLJQ102701 RdRp, hypothetical protein, putative structural protein, and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

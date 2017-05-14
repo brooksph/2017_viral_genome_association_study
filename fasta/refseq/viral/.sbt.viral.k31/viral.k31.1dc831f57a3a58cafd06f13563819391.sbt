@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001923095.1/GCF_001923095.1_ViralMultiSegProj357854_genomic.fna.gz",
+        "filename": "GCF_001923095.1_ViralMultiSegProj357854_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032150.1 Rhizoctonia solani dsRNA virus 3 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

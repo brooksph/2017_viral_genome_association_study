@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001927215.1/GCF_001927215.1_ViralProj359342_genomic.fna.gz",
+        "filename": "GCF_001927215.1_ViralProj359342_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032474.1 Sanxia tombus-like virus 7 strain SXSSP2567 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

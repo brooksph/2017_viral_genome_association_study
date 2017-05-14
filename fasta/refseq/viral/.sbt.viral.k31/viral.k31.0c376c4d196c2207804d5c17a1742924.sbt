@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879195.1/GCF_000879195.1_ViralProj28991_genomic.fna.gz",
+        "filename": "GCF_000879195.1_ViralProj28991_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010435.1 Kenaf leaf curl virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923315.1/GCF_000923315.1_ViralMultiSegProj256076_genomic.fna.gz",
+        "filename": "GCF_000923315.1_ViralMultiSegProj256076_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024503.1 Umatilla virus isolate USA1969/01 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

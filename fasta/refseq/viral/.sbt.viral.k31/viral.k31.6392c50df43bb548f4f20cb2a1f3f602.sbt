@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895695.1/GCF_000895695.1_ViralProj78929_genomic.fna.gz",
+        "filename": "GCF_000895695.1_ViralProj78929_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016442.1 Rattail cactus necrosis associated virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

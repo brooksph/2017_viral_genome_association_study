@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852965.1/GCF_000852965.1_ViralMultiSegProj14794_genomic.fna.gz",
+        "filename": "GCF_000852965.1_ViralMultiSegProj14794_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003749.1 Rice ragged stunt virus segment S1 P1 gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

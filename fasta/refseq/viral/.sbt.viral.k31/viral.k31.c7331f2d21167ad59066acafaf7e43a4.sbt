@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744615.1/GCF_001744615.1_ViralProj344170_genomic.fna.gz",
+        "filename": "GCF_001744615.1_ViralProj344170_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031034.1 Bacillus phage SalinJah, complete genome",
         "signatures": [
             {
                 "ksize": 31,

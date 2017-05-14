@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001970605.1/GCF_001970605.1_ViralProj362917_genomic.fna.gz",
+        "filename": "GCF_001970605.1_ViralProj362917_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033442.1 Wuchang cockroach Virus 4 strain ZL17511 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

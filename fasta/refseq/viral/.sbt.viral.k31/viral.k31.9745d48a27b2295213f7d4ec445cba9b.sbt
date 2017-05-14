@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867065.1/GCF_000867065.1_ViralProj16583_genomic.fna.gz",
+        "filename": "GCF_000867065.1_ViralProj16583_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007902.1 Sodalis phage phiSG1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

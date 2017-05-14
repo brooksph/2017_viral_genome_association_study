@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470175.1/GCF_001470175.1_ViralProj306302_genomic.fna.gz",
+        "filename": "GCF_001470175.1_ViralProj306302_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028682.1 Mycobacterium phage Badfish, complete genome",
         "signatures": [
             {
                 "ksize": 31,

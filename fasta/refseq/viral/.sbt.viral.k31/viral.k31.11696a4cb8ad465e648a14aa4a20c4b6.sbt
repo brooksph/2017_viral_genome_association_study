@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502535.1/GCF_001502535.1_ViralProj307729_genomic.fna.gz",
+        "filename": "GCF_001502535.1_ViralProj307729_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028792.1 Mycobacterium phage Kimberlium, complete genome",
         "signatures": [
             {
                 "ksize": 31,

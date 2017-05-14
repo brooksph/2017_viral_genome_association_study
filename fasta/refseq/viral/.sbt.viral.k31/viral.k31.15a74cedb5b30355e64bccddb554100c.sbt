@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894775.1/GCF_000894775.1_ViralProj72145_genomic.fna.gz",
+        "filename": "GCF_000894775.1_ViralProj72145_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015929.1 Vernonia yellow vein Fujian virus alphasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

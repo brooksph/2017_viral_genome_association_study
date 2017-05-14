@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847345.1/GCF_000847345.1_ViralMultiSegProj14631_genomic.fna.gz",
+        "filename": "GCF_000847345.1_ViralMultiSegProj14631_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014397.1 Rift Valley fever virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

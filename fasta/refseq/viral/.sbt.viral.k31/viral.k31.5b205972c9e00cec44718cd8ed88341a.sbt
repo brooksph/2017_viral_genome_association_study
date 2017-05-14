@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914495.1/GCF_000914495.1_ViralProj239728_genomic.fna.gz",
+        "filename": "GCF_000914495.1_ViralProj239728_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023568.1 Vibrio phage VH7D, complete genome",
         "signatures": [
             {
                 "ksize": 31,

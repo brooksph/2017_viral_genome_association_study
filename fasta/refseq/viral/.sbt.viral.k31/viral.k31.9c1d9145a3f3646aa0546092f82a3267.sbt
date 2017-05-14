@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001500575.1/GCF_001500575.1_ViralProj307746_genomic.fna.gz",
+        "filename": "GCF_001500575.1_ViralProj307746_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028934.1 Mycobacterium phage Vincenzo, complete genome",
         "signatures": [
             {
                 "ksize": 31,

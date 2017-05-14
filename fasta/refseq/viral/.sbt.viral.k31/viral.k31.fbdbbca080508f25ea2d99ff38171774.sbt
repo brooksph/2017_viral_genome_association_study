@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001935585.1/GCF_001935585.1_ViralProj359919_genomic.fna.gz",
+        "filename": "GCF_001935585.1_ViralProj359919_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032609.1 Beihai sipunculid worm virus 3 strain BHZC37455 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

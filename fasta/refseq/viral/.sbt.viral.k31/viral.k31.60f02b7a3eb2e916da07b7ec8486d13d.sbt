@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008675.1/GCF_002008675.1_ViralProj376935_genomic.fna.gz",
+        "filename": "GCF_002008675.1_ViralProj376935_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033826.1 Bat badicivirus 2 clone Bat/CAM/BadV-P22/2013 structural polyprotein and non-structural polyprotein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

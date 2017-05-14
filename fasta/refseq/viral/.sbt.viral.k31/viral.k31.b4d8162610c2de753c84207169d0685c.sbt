@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883975.1/GCF_000883975.1_ViralProj38495_genomic.fna.gz",
+        "filename": "GCF_000883975.1_ViralProj38495_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012799.1 Triticum mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

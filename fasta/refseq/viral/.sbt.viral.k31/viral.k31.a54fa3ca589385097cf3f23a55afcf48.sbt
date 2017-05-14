@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961715.1/GCF_001961715.1_ViralProj361981_genomic.fna.gz",
+        "filename": "GCF_001961715.1_ViralProj361981_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032747.1 Beihai tombus-like virus 12 strain BHTSS17936 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, hypothetical protein 4, and hypothetical protein 5 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

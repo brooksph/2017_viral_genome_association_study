@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736735.1/GCF_001736735.1_ViralProj343504_genomic.fna.gz",
+        "filename": "GCF_001736735.1_ViralProj343504_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030927.1 Gordonia phage Splinter, complete genome",
         "signatures": [
             {
                 "ksize": 31,

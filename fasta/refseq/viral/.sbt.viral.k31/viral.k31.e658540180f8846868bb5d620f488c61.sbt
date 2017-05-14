@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926315.1/GCF_000926315.1_ViralProj263849_genomic.fna.gz",
+        "filename": "GCF_000926315.1_ViralProj263849_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025253.1 Farmington virus strain CT 114, complete genome",
         "signatures": [
             {
                 "ksize": 31,

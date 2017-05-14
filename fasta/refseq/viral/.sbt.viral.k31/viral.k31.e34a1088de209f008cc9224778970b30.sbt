@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000959675.1/GCF_000959675.1_ViralProj278641_genomic.fna.gz",
+        "filename": "GCF_000959675.1_ViralProj278641_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026665.1 Eel River basin pequenovirus isolate c22476, complete genome",
         "signatures": [
             {
                 "ksize": 31,

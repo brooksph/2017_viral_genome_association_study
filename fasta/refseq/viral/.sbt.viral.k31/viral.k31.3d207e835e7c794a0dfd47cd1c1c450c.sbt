@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882415.1/GCF_000882415.1_ViralProj32695_genomic.fna.gz",
+        "filename": "GCF_000882415.1_ViralProj32695_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011545.2 Penaeus monodon hepandensovirus 4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843205.1/GCF_000843205.1_ViralProj14303_genomic.fna.gz",
+        "filename": "GCF_000843205.1_ViralProj14303_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004755.1 Sugarcane streak Reunion virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

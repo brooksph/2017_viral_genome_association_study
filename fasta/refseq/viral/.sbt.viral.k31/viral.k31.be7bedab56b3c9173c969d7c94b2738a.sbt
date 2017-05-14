@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000989135.1/GCF_000989135.1_ViralMultiSegProj282494_genomic.fna.gz",
+        "filename": "GCF_000989135.1_ViralMultiSegProj282494_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026952.1 Influenza D virus (D/bovine/France/2986/2012) viral cRNA for HEF (HEF gene)",
         "signatures": [
             {
                 "ksize": 31,

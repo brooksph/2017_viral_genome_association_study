@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910735.1/GCF_000910735.1_ViralProj214366_genomic.fna.gz",
+        "filename": "GCF_000910735.1_ViralProj214366_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021929.1 Malvastrum leaf curl Philippines betasatellite, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

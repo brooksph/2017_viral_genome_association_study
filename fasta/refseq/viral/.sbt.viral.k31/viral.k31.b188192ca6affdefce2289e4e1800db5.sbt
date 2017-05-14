@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916275.1/GCF_000916275.1_ViralProj240006_genomic.fna.gz",
+        "filename": "GCF_000916275.1_ViralProj240006_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023600.1 Mycobacterium phage Jolie1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

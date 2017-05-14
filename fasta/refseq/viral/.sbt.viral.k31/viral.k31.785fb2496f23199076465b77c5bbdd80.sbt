@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850925.1/GCF_000850925.1_ViralProj14839_genomic.fna.gz",
+        "filename": "GCF_000850925.1_ViralProj14839_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004049.1 Ophiostoma mitovirus 3a, complete genome",
         "signatures": [
             {
                 "ksize": 31,

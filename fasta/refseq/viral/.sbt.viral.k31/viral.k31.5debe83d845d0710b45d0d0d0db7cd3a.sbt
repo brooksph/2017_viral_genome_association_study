@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001968195.1/GCF_001968195.1_ViralProj361684_genomic.fna.gz",
+        "filename": "GCF_001968195.1_ViralProj361684_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033120.1 Wenzhou sobemo-like virus 2 strain mosZJ15137 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

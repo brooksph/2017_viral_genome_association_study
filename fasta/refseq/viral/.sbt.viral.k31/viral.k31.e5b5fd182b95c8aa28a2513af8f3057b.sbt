@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887055.1/GCF_000887055.1_ViralProj42939_genomic.fna.gz",
+        "filename": "GCF_000887055.1_ViralProj42939_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013694.1 Mycobacterium phage Peaches, complete genome",
         "signatures": [
             {
                 "ksize": 31,

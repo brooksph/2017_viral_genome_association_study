@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001184945.1/GCF_001184945.1_ViralProj290360_genomic.fna.gz",
+        "filename": "GCF_001184945.1_ViralProj290360_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027532.1 Pan troglodytes troglodytes polyomavirus 1 isolate F514.1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

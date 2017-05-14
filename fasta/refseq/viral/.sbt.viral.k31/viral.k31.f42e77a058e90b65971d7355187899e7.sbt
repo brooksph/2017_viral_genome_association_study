@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892335.1/GCF_000892335.1_ViralProj64491_genomic.fna.gz",
+        "filename": "GCF_000892335.1_ViralProj64491_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015227.2 Trailing lespedeza virus 1 isolate 06TGP01091, complete genome",
         "signatures": [
             {
                 "ksize": 31,

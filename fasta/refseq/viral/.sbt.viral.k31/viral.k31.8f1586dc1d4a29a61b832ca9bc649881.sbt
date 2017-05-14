@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503215.1/GCF_001503215.1_ViralProj307871_genomic.fna.gz",
+        "filename": "GCF_001503215.1_ViralProj307871_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029000.1 Stenotrophomonas phage IME13, complete genome",
         "signatures": [
             {
                 "ksize": 31,

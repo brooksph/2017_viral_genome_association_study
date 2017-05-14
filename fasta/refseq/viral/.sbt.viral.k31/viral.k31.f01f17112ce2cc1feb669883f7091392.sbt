@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921835.1/GCF_000921835.1_ViralProj252622_genomic.fna.gz",
+        "filename": "GCF_000921835.1_ViralProj252622_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024296.1 Canary bornavirus 3, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

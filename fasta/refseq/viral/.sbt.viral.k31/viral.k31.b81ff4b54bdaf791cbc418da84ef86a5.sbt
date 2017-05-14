@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854505.1/GCF_000854505.1_ViralProj14951_genomic.fna.gz",
+        "filename": "GCF_000854505.1_ViralProj14951_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004560.1 Oyster mushroom spherical virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

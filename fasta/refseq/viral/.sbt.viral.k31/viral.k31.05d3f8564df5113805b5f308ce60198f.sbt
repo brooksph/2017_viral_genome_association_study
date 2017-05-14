@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870225.1/GCF_000870225.1_ViralProj18127_genomic.fna.gz",
+        "filename": "GCF_000870225.1_ViralProj18127_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008562.1 Microcystis phage Ma-LMM01 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

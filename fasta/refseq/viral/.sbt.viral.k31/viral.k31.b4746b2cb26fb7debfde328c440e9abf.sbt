@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845705.1/GCF_000845705.1_ViralProj14466_genomic.fna.gz",
+        "filename": "GCF_000845705.1_ViralProj14466_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005179.1 Yaba monkey tumor virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

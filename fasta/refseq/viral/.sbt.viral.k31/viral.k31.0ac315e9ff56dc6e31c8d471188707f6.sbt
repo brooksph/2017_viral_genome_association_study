@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849225.1/GCF_000849225.1_ViralProj14681_genomic.fna.gz",
+        "filename": "GCF_000849225.1_ViralProj14681_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001801.1 Cucumber green mottle mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

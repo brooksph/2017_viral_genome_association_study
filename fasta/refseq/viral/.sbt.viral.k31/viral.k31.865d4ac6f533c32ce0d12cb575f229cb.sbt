@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654225.1/GCF_001654225.1_ViralProj323874_genomic.fna.gz",
+        "filename": "GCF_001654225.1_ViralProj323874_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030226.1 Parthenium leaf curl alphasatellite, clone Par-al2",
         "signatures": [
             {
                 "ksize": 31,

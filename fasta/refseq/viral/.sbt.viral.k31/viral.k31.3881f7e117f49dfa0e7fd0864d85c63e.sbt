@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854065.1/GCF_000854065.1_ViralProj15002_genomic.fna.gz",
+        "filename": "GCF_000854065.1_ViralProj15002_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001921.1 Canine distemper virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

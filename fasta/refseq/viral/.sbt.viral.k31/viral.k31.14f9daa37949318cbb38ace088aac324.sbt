@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928955.1/GCF_000928955.1_ViralProj269965_genomic.fna.gz",
+        "filename": "GCF_000928955.1_ViralProj269965_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025899.1 Dolphin polyomavirus 1 isolate DPyV-1/Trachea/2010, partial sequence",
         "signatures": [
             {
                 "ksize": 31,

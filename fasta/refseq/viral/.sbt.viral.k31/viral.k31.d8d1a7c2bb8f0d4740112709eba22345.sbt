@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924695.1/GCF_000924695.1_ViralProj265832_genomic.fna.gz",
+        "filename": "GCF_000924695.1_ViralProj265832_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025384.1 Culex tritaeniorhynchus rhabdovirus RNA, complete genome, strain: TY",
         "signatures": [
             {
                 "ksize": 31,

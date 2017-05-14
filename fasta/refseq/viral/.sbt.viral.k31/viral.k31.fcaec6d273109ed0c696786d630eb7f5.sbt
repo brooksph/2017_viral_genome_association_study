@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879355.1/GCF_000879355.1_ViralProj29877_genomic.fna.gz",
+        "filename": "GCF_000879355.1_ViralProj29877_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010737.1 Lamium leaf distortion associated virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

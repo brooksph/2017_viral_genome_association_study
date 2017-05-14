@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001444145.1/GCF_001444145.1_ViralProj302034_genomic.fna.gz",
+        "filename": "GCF_001444145.1_ViralProj302034_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028375.1 Shayang fly virus 4 strain SYCY polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

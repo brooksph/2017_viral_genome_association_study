@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001432095.1/GCF_001432095.1_ViralProj301029_genomic.fna.gz",
+        "filename": "GCF_001432095.1_ViralProj301029_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028231.1 Datura yellow vein virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

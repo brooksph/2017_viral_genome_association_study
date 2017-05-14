@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898715.1/GCF_000898715.1_ViralProj176615_genomic.fna.gz",
+        "filename": "GCF_000898715.1_ViralProj176615_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018714.1 Apple green crinkle associated virus complete genome, genomic RNA, isolate Aurora-1",
         "signatures": [
             {
                 "ksize": 31,

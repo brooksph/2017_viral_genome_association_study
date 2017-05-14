@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886775.1/GCF_000886775.1_ViralProj40313_genomic.fna.gz",
+        "filename": "GCF_000886775.1_ViralProj40313_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "AC_000004.1 Duck adenovirus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

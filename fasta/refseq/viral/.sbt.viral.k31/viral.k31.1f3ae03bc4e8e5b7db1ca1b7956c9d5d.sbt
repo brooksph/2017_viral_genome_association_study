@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928375.1/GCF_000928375.1_ViralProj273533_genomic.fna.gz",
+        "filename": "GCF_000928375.1_ViralProj273533_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026251.1 Sesavirus CSL10538 NS1 and VP1 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

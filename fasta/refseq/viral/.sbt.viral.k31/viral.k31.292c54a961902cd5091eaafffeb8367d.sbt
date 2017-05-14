@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872085.1/GCF_000872085.1_ViralProj20983_genomic.fna.gz",
+        "filename": "GCF_000872085.1_ViralProj20983_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009893.1 Tomato yellow dwarf disease associated satellite DNA beta-[Kochi] virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

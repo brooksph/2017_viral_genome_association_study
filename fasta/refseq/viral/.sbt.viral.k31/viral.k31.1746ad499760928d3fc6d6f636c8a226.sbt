@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898895.1/GCF_000898895.1_ViralProj169229_genomic.fna.gz",
+        "filename": "GCF_000898895.1_ViralProj169229_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018086.1 Enterococcus phage BC-611, complete genome",
         "signatures": [
             {
                 "ksize": 31,

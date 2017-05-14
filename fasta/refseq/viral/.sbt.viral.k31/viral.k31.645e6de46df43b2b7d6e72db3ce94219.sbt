@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745035.1/GCF_001745035.1_ViralProj344116_genomic.fna.gz",
+        "filename": "GCF_001745035.1_ViralProj344116_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031046.1 Staphylococcus phage BP39, complete genome",
         "signatures": [
             {
                 "ksize": 31,

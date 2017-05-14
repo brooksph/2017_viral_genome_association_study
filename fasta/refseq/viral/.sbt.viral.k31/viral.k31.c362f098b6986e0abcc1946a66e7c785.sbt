@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881715.1/GCF_000881715.1_ViralProj32673_genomic.fna.gz",
+        "filename": "GCF_000881715.1_ViralProj32673_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011534.1 Kluyvera phage Kvp1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001958535.1/GCF_001958535.1_ViralProj361817_genomic.fna.gz",
+        "filename": "GCF_001958535.1_ViralProj361817_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032785.1 Shahe sobemo-like virus 1 strain SHWCII5101 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

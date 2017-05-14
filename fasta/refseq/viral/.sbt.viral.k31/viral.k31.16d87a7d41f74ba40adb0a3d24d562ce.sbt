@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895055.1/GCF_000895055.1_ViralProj78801_genomic.fna.gz",
+        "filename": "GCF_000895055.1_ViralProj78801_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016437.1 South polar skua adenovirus-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

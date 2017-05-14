@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646035.1/GCF_001646035.1_ViralProj321432_genomic.fna.gz",
+        "filename": "GCF_001646035.1_ViralProj321432_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030115.1 Anopheles C virus non-structural polyprotein and structural polyprotein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

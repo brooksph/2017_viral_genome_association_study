@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929535.1/GCF_000929535.1_ViralProj266788_genomic.fna.gz",
+        "filename": "GCF_000929535.1_ViralProj266788_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025467.1 Enterococcus phage vB_Efae230P-4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

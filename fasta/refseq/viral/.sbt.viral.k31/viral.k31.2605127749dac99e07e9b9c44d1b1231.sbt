@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504235.1/GCF_001504235.1_ViralProj307914_genomic.fna.gz",
+        "filename": "GCF_001504235.1_ViralProj307914_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028890.1 Bacillus phage TsarBomba, complete genome",
         "signatures": [
             {
                 "ksize": 31,

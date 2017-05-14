@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001661855.1/GCF_001661855.1_ViralProj325257_genomic.fna.gz",
+        "filename": "GCF_001661855.1_ViralProj325257_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030291.1 GB virus D strain 68 polyprotein precursor, gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

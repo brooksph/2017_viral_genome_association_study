@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001743855.1/GCF_001743855.1_ViralProj344151_genomic.fna.gz",
+        "filename": "GCF_001743855.1_ViralProj344151_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031059.1 Rhodovulum phage vB_RhkS_P1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960295.1/GCF_001960295.1_ViralProj361840_genomic.fna.gz",
+        "filename": "GCF_001960295.1_ViralProj361840_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032822.1 Shahe isopoda virus 2 strain SHWC0209c12758 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

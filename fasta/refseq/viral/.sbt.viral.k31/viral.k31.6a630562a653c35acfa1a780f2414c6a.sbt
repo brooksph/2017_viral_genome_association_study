@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904955.1/GCF_000904955.1_ViralProj185191_genomic.fna.gz",
+        "filename": "GCF_000904955.1_ViralProj185191_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020065.1 Chaerephon polyomavirus 1 isolate KY397, complete genome",
         "signatures": [
             {
                 "ksize": 31,

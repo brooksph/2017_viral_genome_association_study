@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274065.1/GCF_001274065.1_ViralProj293716_genomic.fna.gz",
+        "filename": "GCF_001274065.1_ViralProj293716_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027785.1 Callinectes sapidus associated circular virus isolate I0056, complete genome",
         "signatures": [
             {
                 "ksize": 31,

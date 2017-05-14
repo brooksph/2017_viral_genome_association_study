@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001190415.1/GCF_001190415.1_ViralProj291263_genomic.fna.gz",
+        "filename": "GCF_001190415.1_ViralProj291263_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027626.1 Propionibacterium phage Procrass1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

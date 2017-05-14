@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550705.1/GCF_001550705.1_ViralProj310938_genomic.fna.gz",
+        "filename": "GCF_001550705.1_ViralProj310938_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029073.1 Geobacillus virus E3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

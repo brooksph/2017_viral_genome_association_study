@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001904845.1/GCF_001904845.1_ViralProj357484_genomic.fna.gz",
+        "filename": "GCF_001904845.1_ViralProj357484_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032105.1 Simian mastadenovirus WIV19, complete genome",
         "signatures": [
             {
                 "ksize": 31,

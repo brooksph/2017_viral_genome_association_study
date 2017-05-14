@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001970485.1/GCF_001970485.1_ViralProj362923_genomic.fna.gz",
+        "filename": "GCF_001970485.1_ViralProj362923_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033422.1 Wenzhou weivirus-like virus 1 strain beimix75799 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

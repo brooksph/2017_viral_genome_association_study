@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965175.1/GCF_001965175.1_ViralMultiSegProj362052_genomic.fna.gz",
+        "filename": "GCF_001965175.1_ViralMultiSegProj362052_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033304.1 Hubei diptera virus 14 strain QTM46268 segment 1 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

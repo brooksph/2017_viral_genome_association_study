@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874445.1/GCF_000874445.1_ViralProj30051_genomic.fna.gz",
+        "filename": "GCF_000874445.1_ViralProj30051_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010806.1 Rose spring dwarf-associated virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882915.1/GCF_000882915.1_ViralProj37969_genomic.fna.gz",
+        "filename": "GCF_000882915.1_ViralProj37969_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012671.1 Quang Binh virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965155.1/GCF_001965155.1_ViralProj362048_genomic.fna.gz",
+        "filename": "GCF_001965155.1_ViralProj362048_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032902.1 Hubei diptera virus 22 strain SCM45279 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851885.1/GCF_000851885.1_ViralProj14906_genomic.fna.gz",
+        "filename": "GCF_000851885.1_ViralProj14906_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004667.1 Grapevine leafroll-associated virus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

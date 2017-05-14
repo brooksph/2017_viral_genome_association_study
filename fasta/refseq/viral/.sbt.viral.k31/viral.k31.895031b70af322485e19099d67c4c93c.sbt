@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890415.1/GCF_000890415.1_ViralProj61437_genomic.fna.gz",
+        "filename": "GCF_000890415.1_ViralProj61437_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014822.1 Bromus catharticus striate mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

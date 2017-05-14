@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928315.1/GCF_000928315.1_ViralProj273466_genomic.fna.gz",
+        "filename": "GCF_000928315.1_ViralProj273466_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026244.1 Giant guitarfish polyomavirus 1 isolate UGA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

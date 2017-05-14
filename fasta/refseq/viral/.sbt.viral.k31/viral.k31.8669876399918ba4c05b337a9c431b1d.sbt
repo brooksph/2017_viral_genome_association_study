@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886715.1/GCF_000886715.1_ViralMultiSegProj39971_genomic.fna.gz",
+        "filename": "GCF_000886715.1_ViralMultiSegProj39971_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012754.1 Stretch Lagoon orbivirus segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

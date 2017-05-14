@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857265.1/GCF_000857265.1_ViralProj15187_genomic.fna.gz",
+        "filename": "GCF_000857265.1_ViralProj15187_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003930.1 Salmon pancreas disease virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

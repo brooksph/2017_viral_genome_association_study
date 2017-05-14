@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964075.1/GCF_001964075.1_ViralProj361999_genomic.fna.gz",
+        "filename": "GCF_001964075.1_ViralProj361999_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032868.1 Changjiang crawfish virus 3 strain CJLX30786 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

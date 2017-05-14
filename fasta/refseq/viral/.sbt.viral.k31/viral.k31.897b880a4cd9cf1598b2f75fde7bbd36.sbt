@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961215.1/GCF_001961215.1_ViralProj361879_genomic.fna.gz",
+        "filename": "GCF_001961215.1_ViralProj361879_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033188.1 Sanxia permutotetra-like virus 1 strain SXSSP2461 RdRp and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

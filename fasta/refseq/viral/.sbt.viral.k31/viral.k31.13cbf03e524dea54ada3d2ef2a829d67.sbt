@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918815.1/GCF_000918815.1_ViralProj240773_genomic.fna.gz",
+        "filename": "GCF_000918815.1_ViralProj240773_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023733.1 Mycobacterium phage MoMoMixon, complete genome",
         "signatures": [
             {
                 "ksize": 31,

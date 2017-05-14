@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855865.1/GCF_000855865.1_ViralProj15062_genomic.fna.gz",
+        "filename": "GCF_000855865.1_ViralProj15062_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005065.1 Little cherry virus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

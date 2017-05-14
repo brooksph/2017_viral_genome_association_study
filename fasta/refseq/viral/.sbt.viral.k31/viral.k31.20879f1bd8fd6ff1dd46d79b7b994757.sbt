@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002037715.1/GCF_002037715.1_ViralProj379591_genomic.fna.gz",
+        "filename": "GCF_002037715.1_ViralProj379591_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034219.1 Rousettus aegyptiacus polyomavirus 1 DNA, complete genome, strain: 12SuB01",
         "signatures": [
             {
                 "ksize": 31,

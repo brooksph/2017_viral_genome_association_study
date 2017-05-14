@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861545.1/GCF_000861545.1_ViralMultiSegProj15367_genomic.fna.gz",
+        "filename": "GCF_000861545.1_ViralMultiSegProj15367_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003787.1 Apple latent spherical virus segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896935.1/GCF_000896935.1_ViralProj157249_genomic.fna.gz",
+        "filename": "GCF_000896935.1_ViralProj157249_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017083.1 Rabbit coronavirus HKU14, complete genome",
         "signatures": [
             {
                 "ksize": 31,

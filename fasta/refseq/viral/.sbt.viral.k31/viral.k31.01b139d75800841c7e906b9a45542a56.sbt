@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859885.1/GCF_000859885.1_ViralProj15197_genomic.fna.gz",
+        "filename": "GCF_000859885.1_ViralProj15197_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001611.1 Variola virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

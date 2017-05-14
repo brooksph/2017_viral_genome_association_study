@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754225.1/GCF_001754225.1_ViralProj344597_genomic.fna.gz",
+        "filename": "GCF_001754225.1_ViralProj344597_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031272.1 Tacheng Tick Virus 7 strain TCRP-3 ORF1 (ORF1), ORF2 (ORF2), ORF3 (ORF3), ORF4 (ORF4), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

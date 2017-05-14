@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001717295.1/GCF_001717295.1_ViralProj340453_genomic.fna.gz",
+        "filename": "GCF_001717295.1_ViralProj340453_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030849.1 Nylanderia fulva virus 1 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

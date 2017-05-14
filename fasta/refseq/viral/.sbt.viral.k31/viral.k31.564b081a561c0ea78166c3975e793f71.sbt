@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887075.1/GCF_000887075.1_ViralProj42947_genomic.fna.gz",
+        "filename": "GCF_000887075.1_ViralProj42947_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013698.1 Clavibacter phage CMP1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

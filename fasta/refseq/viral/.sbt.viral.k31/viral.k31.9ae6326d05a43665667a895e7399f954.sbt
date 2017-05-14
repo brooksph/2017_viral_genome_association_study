@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002037735.1/GCF_002037735.1_ViralMultiSegProj379595_genomic.fna.gz",
+        "filename": "GCF_002037735.1_ViralMultiSegProj379595_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034222.1 Mogiana tick virus isolate MGTV/V4/11 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

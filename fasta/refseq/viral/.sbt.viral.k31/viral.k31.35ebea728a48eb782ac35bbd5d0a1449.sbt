@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841265.1/GCF_000841265.1_ViralProj14250_genomic.fna.gz",
+        "filename": "GCF_000841265.1_ViralProj14250_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004628.1 Chilli leaf curl virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

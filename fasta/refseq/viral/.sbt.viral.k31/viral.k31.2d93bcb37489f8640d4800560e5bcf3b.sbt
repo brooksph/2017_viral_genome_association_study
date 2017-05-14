@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917355.1/GCF_000917355.1_ViralProj240053_genomic.fna.gz",
+        "filename": "GCF_000917355.1_ViralProj240053_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023588.1 Stenotrophomonas phage Smp131, complete genome",
         "signatures": [
             {
                 "ksize": 31,

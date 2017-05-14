@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974155.1/GCF_001974155.1_ViralProj362947_genomic.fna.gz",
+        "filename": "GCF_001974155.1_ViralProj362947_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033455.1 Wuhan insect virus 13 strain CC64511 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

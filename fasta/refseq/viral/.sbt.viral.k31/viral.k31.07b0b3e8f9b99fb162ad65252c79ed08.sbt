@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837065.1/GCF_000837065.1_ViralProj14071_genomic.fna.gz",
+        "filename": "GCF_000837065.1_ViralProj14071_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001505.2 Murine pneumotropic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913135.1/GCF_000913135.1_ViralProj230094_genomic.fna.gz",
+        "filename": "GCF_000913135.1_ViralProj230094_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022920.1 Staphylococcus phage S25-3 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

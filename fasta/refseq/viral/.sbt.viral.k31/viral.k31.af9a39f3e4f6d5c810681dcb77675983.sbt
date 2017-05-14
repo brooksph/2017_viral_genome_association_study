@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914215.1/GCF_000914215.1_ViralProj231657_genomic.fna.gz",
+        "filename": "GCF_000914215.1_ViralProj231657_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023034.1 Tomato leaf curl Gandhinagar virus isolate pToGNAX15 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

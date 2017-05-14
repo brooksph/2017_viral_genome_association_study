@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001560965.1/GCF_001560965.1_ViralProj311074_genomic.fna.gz",
+        "filename": "GCF_001560965.1_ViralProj311074_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029133.1 Rat bocavirus strain HK1S, complete genome",
         "signatures": [
             {
                 "ksize": 31,

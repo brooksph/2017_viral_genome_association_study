@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745975.1/GCF_001745975.1_ViralProj344180_genomic.fna.gz",
+        "filename": "GCF_001745975.1_ViralProj344180_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031111.1 Mycobacterium phage Gompeii16, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866145.1/GCF_000866145.1_ViralProj16325_genomic.fna.gz",
+        "filename": "GCF_000866145.1_ViralProj16325_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007724.1 Malvastrum leaf curl virus - [G87], complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850145.1/GCF_000850145.1_ViralMultiSegProj14694_genomic.fna.gz",
+        "filename": "GCF_000850145.1_ViralMultiSegProj14694_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002359.1 Chinese wheat mosaic virus RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

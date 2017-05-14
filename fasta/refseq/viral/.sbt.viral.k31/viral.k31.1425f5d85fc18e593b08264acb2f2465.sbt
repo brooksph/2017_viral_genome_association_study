@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848085.2/GCF_000848085.2_ViralProj14616_genomic.fna.gz",
+        "filename": "GCF_000848085.2_ViralProj14616_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003225.3 White spot syndrome virus strain CN01, complete genome",
         "signatures": [
             {
                 "ksize": 31,

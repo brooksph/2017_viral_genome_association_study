@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002005705.1/GCF_002005705.1_ViralProj376173_genomic.fna.gz",
+        "filename": "GCF_002005705.1_ViralProj376173_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033777.1 Clematis chlorotic mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

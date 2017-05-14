@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847845.1/GCF_000847845.1_ViralProj14732_genomic.fna.gz",
+        "filename": "GCF_000847845.1_ViralProj14732_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003323.1 Primate T-lymphotropic virus 3 long terminal repeat, complete sequence; gag polyprotein (gag) gene, complete cds; protease and polymerase (pol) genes, partial cds; and rex protein (rex) and tax protein (tax) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

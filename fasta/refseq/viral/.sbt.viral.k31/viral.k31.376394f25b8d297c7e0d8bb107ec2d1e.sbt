@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882055.1/GCF_000882055.1_ViralProj34735_genomic.fna.gz",
+        "filename": "GCF_000882055.1_ViralProj34735_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012126.1 California sea lion anellovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923995.1/GCF_000923995.1_ViralProj257700_genomic.fna.gz",
+        "filename": "GCF_000923995.1_ViralProj257700_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024690.1 HCBI9.212 virus complete sequence",
         "signatures": [
             {
                 "ksize": 31,

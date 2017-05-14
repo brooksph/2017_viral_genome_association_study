@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001959155.1/GCF_001959155.1_ViralProj361792_genomic.fna.gz",
+        "filename": "GCF_001959155.1_ViralProj361792_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032839.1 Wenling crustacean virus 5 strain WLJQ103138 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001651105.1/GCF_001651105.1_ViralProj322486_genomic.fna.gz",
+        "filename": "GCF_001651105.1_ViralProj322486_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030203.1 Sclerotinia sclerotiorum umbra-like virus 1 isolate IL1 RNA-dependent RNA polymerase and replication-associated protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

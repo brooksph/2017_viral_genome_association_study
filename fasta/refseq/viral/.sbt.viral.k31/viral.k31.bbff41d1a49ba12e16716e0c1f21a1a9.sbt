@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850465.1/GCF_000850465.1_ViralProj14744_genomic.fna.gz",
+        "filename": "GCF_000850465.1_ViralProj14744_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003462.2 Apple stem pitting virus genes for RNA-dependent RNA polymerase, triple gene block ORFs and coat protein, complete cds",
         "signatures": [
             {
                 "ksize": 31,

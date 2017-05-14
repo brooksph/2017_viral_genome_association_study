@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914815.1/GCF_000914815.1_ViralMultiSegProj240065_genomic.fna.gz",
+        "filename": "GCF_000914815.1_ViralMultiSegProj240065_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023635.1 Arumowot virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

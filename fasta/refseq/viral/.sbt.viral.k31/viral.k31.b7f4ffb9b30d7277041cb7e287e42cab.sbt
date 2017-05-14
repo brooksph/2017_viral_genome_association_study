@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955115.1/GCF_000955115.1_ViralProj277199_genomic.fna.gz",
+        "filename": "GCF_000955115.1_ViralProj277199_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026615.1 Tamarillo leaf malformation virus isolate A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

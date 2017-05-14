@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897995.2/GCF_000897995.2_ViralProj178635_genomic.fna.gz",
+        "filename": "GCF_000897995.2_ViralProj178635_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019036.1 Blechum interveinal chlorosis virus DNA B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

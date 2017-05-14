@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856625.1/GCF_000856625.1_ViralProj15046_genomic.fna.gz",
+        "filename": "GCF_000856625.1_ViralProj15046_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006262.1 Watermelon mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

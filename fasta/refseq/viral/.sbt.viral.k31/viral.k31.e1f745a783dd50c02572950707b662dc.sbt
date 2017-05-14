@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755385.1/GCF_001755385.1_ViralProj345050_genomic.fna.gz",
+        "filename": "GCF_001755385.1_ViralProj345050_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031324.1 Primate norovirus strain SimianNoV-nj, complete genome",
         "signatures": [
             {
                 "ksize": 31,

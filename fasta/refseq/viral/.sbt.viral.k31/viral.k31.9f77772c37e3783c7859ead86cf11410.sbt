@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882535.1/GCF_000882535.1_ViralProj33129_genomic.fna.gz",
+        "filename": "GCF_000882535.1_ViralProj33129_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011639.1 Wongabel virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

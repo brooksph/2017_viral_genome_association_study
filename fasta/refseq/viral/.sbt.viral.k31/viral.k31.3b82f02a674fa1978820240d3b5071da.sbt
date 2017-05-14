@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004935.1/GCF_002004935.1_ViralProj375040_genomic.fna.gz",
+        "filename": "GCF_002004935.1_ViralProj375040_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033724.1 Kadam virus from Uganda polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

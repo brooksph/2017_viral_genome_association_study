@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904135.1/GCF_000904135.1_ViralProj188730_genomic.fna.gz",
+        "filename": "GCF_000904135.1_ViralProj188730_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020231.1 Caviid herpesvirus 2 strain 21222, complete genome",
         "signatures": [
             {
                 "ksize": 31,

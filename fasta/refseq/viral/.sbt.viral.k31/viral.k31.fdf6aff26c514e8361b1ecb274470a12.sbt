@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858185.1/GCF_000858185.1_ViralMultiSegProj15178_genomic.fna.gz",
+        "filename": "GCF_000858185.1_ViralMultiSegProj15178_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004211.1 Banna virus strain JKT-6423 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

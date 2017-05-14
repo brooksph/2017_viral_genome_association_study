@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974055.1/GCF_001974055.1_ViralProj368933_genomic.fna.gz",
+        "filename": "GCF_001974055.1_ViralProj368933_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033457.1 Wuhan insect virus 19 strain WHCCII13334 1ab, hypothetical protein, and putative structural polyprotein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

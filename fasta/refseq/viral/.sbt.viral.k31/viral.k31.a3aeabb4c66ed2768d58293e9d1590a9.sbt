@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001957695.1/GCF_001957695.1_ViralProj361675_genomic.fna.gz",
+        "filename": "GCF_001957695.1_ViralProj361675_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033275.1 Chicken associated smacovirus strain RS/BR/2015/4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

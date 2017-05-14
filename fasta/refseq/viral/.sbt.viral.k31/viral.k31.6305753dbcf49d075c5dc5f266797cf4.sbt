@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963075.1/GCF_001963075.1_ViralProj361916_genomic.fna.gz",
+        "filename": "GCF_001963075.1_ViralProj361916_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033276.1 Papaya leaf curl Faisalabad virus complete genome, isolate Pakistan:Faisalabad:2010",
         "signatures": [
             {
                 "ksize": 31,

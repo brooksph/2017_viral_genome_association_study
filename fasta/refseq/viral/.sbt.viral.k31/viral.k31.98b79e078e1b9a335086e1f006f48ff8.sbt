@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470995.1/GCF_001470995.1_ViralProj306347_genomic.fna.gz",
+        "filename": "GCF_001470995.1_ViralProj306347_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028702.1 Delftia phage IME-DE1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894995.1/GCF_000894995.1_ViralProj76741_genomic.fna.gz",
+        "filename": "GCF_000894995.1_ViralProj76741_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016164.1 Synechococcus phage S-CBS1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846145.1/GCF_000846145.1_ViralProj14570_genomic.fna.gz",
+        "filename": "GCF_000846145.1_ViralProj14570_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001330.1 Enterobacteria phage alpha3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

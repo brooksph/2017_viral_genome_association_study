@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924615.1/GCF_000924615.1_ViralProj264925_genomic.fna.gz",
+        "filename": "GCF_000924615.1_ViralProj264925_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025380.1 Gorilla gorilla gorilla polyomavirus 1 isolate 5766, complete genome",
         "signatures": [
             {
                 "ksize": 31,

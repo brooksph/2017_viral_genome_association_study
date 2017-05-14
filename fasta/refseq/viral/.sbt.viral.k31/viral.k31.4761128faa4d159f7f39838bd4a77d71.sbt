@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505535.1/GCF_001505535.1_ViralProj307881_genomic.fna.gz",
+        "filename": "GCF_001505535.1_ViralProj307881_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028789.1 Bacillus phage VMY22, complete genome",
         "signatures": [
             {
                 "ksize": 31,

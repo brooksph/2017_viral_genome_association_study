@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881835.1/GCF_000881835.1_ViralProj32817_genomic.fna.gz",
+        "filename": "GCF_000881835.1_ViralProj32817_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011590.1 Pepper chat fruit viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

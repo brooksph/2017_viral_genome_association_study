@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845265.1/GCF_000845265.1_ViralMultiSegProj14563_genomic.fna.gz",
+        "filename": "GCF_000845265.1_ViralMultiSegProj14563_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006358.1 Corchorus yellow vein virus - [Hoa Binh] DNA A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905775.1/GCF_000905775.1_ViralProj189215_genomic.fna.gz",
+        "filename": "GCF_000905775.1_ViralProj189215_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020253.1 Sida yellow net virus isolate BR:Vic2:10 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

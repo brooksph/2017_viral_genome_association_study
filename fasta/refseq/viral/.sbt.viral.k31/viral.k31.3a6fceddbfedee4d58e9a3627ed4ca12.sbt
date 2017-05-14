@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885935.1/GCF_000885935.1_ViralMultiSegProj40327_genomic.fna.gz",
+        "filename": "GCF_000885935.1_ViralMultiSegProj40327_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013218.1 Turnip ringspot virus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

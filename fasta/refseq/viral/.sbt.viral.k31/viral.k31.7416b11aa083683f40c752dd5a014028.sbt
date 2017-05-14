@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002005095.1/GCF_002005095.1_ViralMultiSegProj375073_genomic.fna.gz",
+        "filename": "GCF_002005095.1_ViralMultiSegProj375073_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033752.1 Xingshan nematode virus 5 strain XSNXC27943 segment 1 hypothetical protein 1 and RdRp genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

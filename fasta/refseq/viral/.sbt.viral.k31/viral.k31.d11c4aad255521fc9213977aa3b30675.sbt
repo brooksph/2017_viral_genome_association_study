@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001858075.1/GCF_001858075.1_ViralProj351252_genomic.fna.gz",
+        "filename": "GCF_001858075.1_ViralProj351252_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031695.1 Rhinolophus sinicus bat bocaparvovirus strain str15, complete genome",
         "signatures": [
             {
                 "ksize": 31,

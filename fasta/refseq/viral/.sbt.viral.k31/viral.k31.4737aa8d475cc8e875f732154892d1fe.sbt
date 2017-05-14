@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964515.1/GCF_001964515.1_ViralProj362061_genomic.fna.gz",
+        "filename": "GCF_001964515.1_ViralProj362061_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032922.1 Hubei coleoptera virus 3 strain QCM109726 putative glycoprotein, hypothetical protein, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

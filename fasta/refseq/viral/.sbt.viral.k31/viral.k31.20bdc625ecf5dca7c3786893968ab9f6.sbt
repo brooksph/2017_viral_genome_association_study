@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874605.1/GCF_000874605.1_ViralProj30519_genomic.fna.gz",
+        "filename": "GCF_000874605.1_ViralProj30519_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011021.1 Mycobacterium phage Lockley, complete genome",
         "signatures": [
             {
                 "ksize": 31,

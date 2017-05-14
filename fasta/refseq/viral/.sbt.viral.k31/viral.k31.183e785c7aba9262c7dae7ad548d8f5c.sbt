@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866855.1/GCF_001866855.1_ViralProj352512_genomic.fna.gz",
+        "filename": "GCF_001866855.1_ViralProj352512_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031752.1 Botrytis cinerea endornavirus 1 strain HBtom-372, complete genome",
         "signatures": [
             {
                 "ksize": 31,

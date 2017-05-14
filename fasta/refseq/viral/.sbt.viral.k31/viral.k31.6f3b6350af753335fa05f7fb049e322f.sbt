@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501535.1/GCF_001501535.1_ViralProj307807_genomic.fna.gz",
+        "filename": "GCF_001501535.1_ViralProj307807_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029017.1 Pseudomonas phage KPP21 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

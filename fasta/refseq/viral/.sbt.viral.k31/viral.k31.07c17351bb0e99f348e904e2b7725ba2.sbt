@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001966655.1/GCF_001966655.1_ViralProj362067_genomic.fna.gz",
+        "filename": "GCF_001966655.1_ViralProj362067_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032800.1 Hubei arthropod virus 1 strain arthropodmix4509 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

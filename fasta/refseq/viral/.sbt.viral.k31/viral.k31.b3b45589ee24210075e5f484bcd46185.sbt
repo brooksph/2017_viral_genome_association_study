@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907555.1/GCF_000907555.1_ViralProj206478_genomic.fna.gz",
+        "filename": "GCF_000907555.1_ViralProj206478_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021348.1 Mycobacterium phage ArcherS7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

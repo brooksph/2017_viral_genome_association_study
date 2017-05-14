@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001689835.1/GCF_001689835.1_ViralProj329635_genomic.fna.gz",
+        "filename": "GCF_001689835.1_ViralProj329635_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030651.1 Nylanderia fulva virus 1 isolate Florida initial polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

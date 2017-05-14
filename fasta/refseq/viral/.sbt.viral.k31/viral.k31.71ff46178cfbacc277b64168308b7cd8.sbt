@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857765.1/GCF_000857765.1_ViralProj15083_genomic.fna.gz",
+        "filename": "GCF_000857765.1_ViralProj15083_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003602.1 Grapevine virus B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

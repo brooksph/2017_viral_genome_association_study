@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551065.1/GCF_001551065.1_ViralProj310935_genomic.fna.gz",
+        "filename": "GCF_001551065.1_ViralProj310935_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029060.1 Gordonia phage GordDuk1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

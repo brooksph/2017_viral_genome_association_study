@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919275.1/GCF_000919275.1_ViralProj240733_genomic.fna.gz",
+        "filename": "GCF_000919275.1_ViralProj240733_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023689.1 Mycobacterium phage Lilac, complete genome",
         "signatures": [
             {
                 "ksize": 31,

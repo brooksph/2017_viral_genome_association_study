@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926375.1/GCF_001926375.1_ViralProj359341_genomic.fna.gz",
+        "filename": "GCF_001926375.1_ViralProj359341_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032471.1 Sanxia water strider virus 15 strain SXSSP1894 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

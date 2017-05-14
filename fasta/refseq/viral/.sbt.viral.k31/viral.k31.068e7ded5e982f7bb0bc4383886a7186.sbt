@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838445.1/GCF_000838445.1_ViralProj14014_genomic.fna.gz",
+        "filename": "GCF_000838445.1_ViralProj14014_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001338.1 Sulfolobus virus 1 complete genome (provirus)",
         "signatures": [
             {
                 "ksize": 31,

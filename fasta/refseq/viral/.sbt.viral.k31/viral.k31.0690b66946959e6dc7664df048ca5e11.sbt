@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461325.1/GCF_001461325.1_ViralProj304913_genomic.fna.gz",
+        "filename": "GCF_001461325.1_ViralProj304913_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028475.1 Sclerotinia sclerotiorum mitovirus 3 RdRp gene for RNA dependent RNA polymerase, isolate HAZ3-6",
         "signatures": [
             {
                 "ksize": 31,

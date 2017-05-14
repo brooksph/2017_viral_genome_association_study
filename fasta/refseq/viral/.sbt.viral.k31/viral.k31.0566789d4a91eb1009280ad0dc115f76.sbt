@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843885.1/GCF_000843885.1_ViralProj14437_genomic.fna.gz",
+        "filename": "GCF_000843885.1_ViralProj14437_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002361.1 Columbid circovirus (CoCV), complete genome",
         "signatures": [
             {
                 "ksize": 31,

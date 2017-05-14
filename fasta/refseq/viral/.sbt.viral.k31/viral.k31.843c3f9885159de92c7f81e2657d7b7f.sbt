@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853145.1/GCF_000853145.1_ViralProj14832_genomic.fna.gz",
+        "filename": "GCF_000853145.1_ViralProj14832_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003924.1 Cricket paralysis virus nonstructural polyprotein and structural polyprotein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

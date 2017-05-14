@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646595.1/GCF_001646595.1_ViralProj321708_genomic.fna.gz",
+        "filename": "GCF_001646595.1_ViralProj321708_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030132.1 Deer faeces associated circular DNA virus 1 isolate 26_Fec35810_deer, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

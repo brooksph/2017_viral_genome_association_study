@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899195.1/GCF_000899195.1_ViralProj174510_genomic.fna.gz",
+        "filename": "GCF_000899195.1_ViralProj174510_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018530.1 Paspalum striate mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

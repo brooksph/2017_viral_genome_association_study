@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881035.1/GCF_000881035.1_ViralProj33533_genomic.fna.gz",
+        "filename": "GCF_000881035.1_ViralProj33533_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011829.1 Porcine kobuvirus swine/S-1-HUN/2007/Hungary, complete genome",
         "signatures": [
             {
                 "ksize": 31,

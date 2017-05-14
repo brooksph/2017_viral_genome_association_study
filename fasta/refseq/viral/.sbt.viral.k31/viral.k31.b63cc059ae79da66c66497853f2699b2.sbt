@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871065.2/GCF_000871065.2_ViralProj20663_genomic.fna.gz",
+        "filename": "GCF_000871065.2_ViralProj20663_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009763.3 Staphylococcus phage tp310-3, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

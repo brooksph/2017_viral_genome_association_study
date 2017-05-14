@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894615.1/GCF_000894615.1_ViralProj165745_genomic.fna.gz",
+        "filename": "GCF_000894615.1_ViralProj165745_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017917.1 Maize streak Reunion virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502035.1/GCF_001502035.1_ViralProj307752_genomic.fna.gz",
+        "filename": "GCF_001502035.1_ViralProj307752_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028767.1 Paenibacillus phage Vegas, complete genome",
         "signatures": [
             {
                 "ksize": 31,

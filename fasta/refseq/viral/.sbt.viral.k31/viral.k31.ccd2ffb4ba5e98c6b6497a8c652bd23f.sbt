@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842985.1/GCF_000842985.1_ViralMultiSegProj14256_genomic.fna.gz",
+        "filename": "GCF_000842985.1_ViralMultiSegProj14256_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004638.1 Potato yellow mosaic Trinidad virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

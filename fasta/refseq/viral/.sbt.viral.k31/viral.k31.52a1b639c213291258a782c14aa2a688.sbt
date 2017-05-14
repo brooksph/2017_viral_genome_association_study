@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846905.1/GCF_000846905.1_ViralProj14544_genomic.fna.gz",
+        "filename": "GCF_000846905.1_ViralProj14544_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006549.1 Singapore grouper iridovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

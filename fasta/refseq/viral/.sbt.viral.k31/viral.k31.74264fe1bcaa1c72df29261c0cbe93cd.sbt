@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926295.1/GCF_000926295.1_ViralProj263599_genomic.fna.gz",
+        "filename": "GCF_000926295.1_ViralProj263599_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025246.1 Silurus glanis circovirus isolate H5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897515.1/GCF_000897515.1_ViralProj173050_genomic.fna.gz",
+        "filename": "GCF_000897515.1_ViralProj173050_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018449.1 Papaya lethal yellowing virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

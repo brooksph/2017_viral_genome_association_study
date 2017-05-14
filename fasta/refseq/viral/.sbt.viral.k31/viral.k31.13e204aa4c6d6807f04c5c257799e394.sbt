@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839225.1/GCF_000839225.1_ViralMultiSegProj14182_genomic.fna.gz",
+        "filename": "GCF_000839225.1_ViralMultiSegProj14182_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008058.1 Tomato golden mottle virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

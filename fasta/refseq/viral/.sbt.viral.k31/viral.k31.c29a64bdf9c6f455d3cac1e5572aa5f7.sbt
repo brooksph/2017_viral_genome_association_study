@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898355.1/GCF_000898355.1_ViralMultiSegProj170929_genomic.fna.gz",
+        "filename": "GCF_000898355.1_ViralMultiSegProj170929_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018173.1 Cucurbit chlorotic yellows virus RNA 1 segment, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

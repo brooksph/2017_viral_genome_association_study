@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646555.1/GCF_001646555.1_ViralProj321700_genomic.fna.gz",
+        "filename": "GCF_001646555.1_ViralProj321700_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030151.1 Cervus papillomavirus 2 isolate BernieDPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

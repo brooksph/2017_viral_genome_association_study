@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843965.1/GCF_000843965.1_ViralProj14453_genomic.fna.gz",
+        "filename": "GCF_000843965.1_ViralProj14453_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001944.1 Beak and feather disease virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

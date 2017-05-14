@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908295.1/GCF_000908295.1_ViralProj198480_genomic.fna.gz",
+        "filename": "GCF_000908295.1_ViralProj198480_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021074.1 Acheta domesticus volvovirus isolate AdVVV-Japan, complete genome",
         "signatures": [
             {
                 "ksize": 31,

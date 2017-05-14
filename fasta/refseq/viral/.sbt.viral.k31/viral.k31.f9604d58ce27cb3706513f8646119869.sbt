@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002003835.1/GCF_002003835.1_ViralProj375014_genomic.fna.gz",
+        "filename": "GCF_002003835.1_ViralProj375014_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033732.1 Wuhan spirurian nematodes virus 1 strain WHSWHC143244 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

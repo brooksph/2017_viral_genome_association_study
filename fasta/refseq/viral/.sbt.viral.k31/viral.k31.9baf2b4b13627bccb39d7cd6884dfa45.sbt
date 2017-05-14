@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849305.1/GCF_000849305.1_ViralProj14697_genomic.fna.gz",
+        "filename": "GCF_000849305.1_ViralProj14697_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001989.1 Bovine respiratory syncytial virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

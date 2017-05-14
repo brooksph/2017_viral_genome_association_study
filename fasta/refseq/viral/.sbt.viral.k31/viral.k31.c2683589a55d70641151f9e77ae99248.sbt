@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857065.1/GCF_000857065.1_ViralProj15146_genomic.fna.gz",
+        "filename": "GCF_000857065.1_ViralProj15146_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001777.1 Tobacco necrosis virus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

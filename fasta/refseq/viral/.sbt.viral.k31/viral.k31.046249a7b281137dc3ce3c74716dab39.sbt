@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841385.1/GCF_000841385.1_ViralProj14275_genomic.fna.gz",
+        "filename": "GCF_000841385.1_ViralProj14275_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004682.1 Mycobacterium phage Bxz2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

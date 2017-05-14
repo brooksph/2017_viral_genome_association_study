@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502675.1/GCF_001502675.1_ViralProj307757_genomic.fna.gz",
+        "filename": "GCF_001502675.1_ViralProj307757_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028818.1 Streptomyces phage TP1604, complete genome",
         "signatures": [
             {
                 "ksize": 31,

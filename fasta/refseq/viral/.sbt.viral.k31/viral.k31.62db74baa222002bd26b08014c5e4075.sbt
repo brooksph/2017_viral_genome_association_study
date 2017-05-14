@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913835.1/GCF_000913835.1_ViralProj227124_genomic.fna.gz",
+        "filename": "GCF_000913835.1_ViralProj227124_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022767.1 Bacillus phage Staley, complete genome",
         "signatures": [
             {
                 "ksize": 31,

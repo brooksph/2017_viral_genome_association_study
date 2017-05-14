@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849425.1/GCF_000849425.1_ViralProj14721_genomic.fna.gz",
+        "filename": "GCF_000849425.1_ViralProj14721_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001502.1 Moloney murine sarcoma virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

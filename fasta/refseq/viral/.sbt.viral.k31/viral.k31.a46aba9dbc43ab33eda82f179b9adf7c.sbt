@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918135.1/GCF_000918135.1_ViralProj244475_genomic.fna.gz",
+        "filename": "GCF_000918135.1_ViralProj244475_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023987.1 Mosavirus A2 strain SZAL6-MoV/2011/HUN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

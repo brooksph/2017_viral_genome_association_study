@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470415.1/GCF_001470415.1_ViralProj306300_genomic.fna.gz",
+        "filename": "GCF_001470415.1_ViralProj306300_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028690.1 Mycobacterium phage Eremos, complete genome",
         "signatures": [
             {
                 "ksize": 31,

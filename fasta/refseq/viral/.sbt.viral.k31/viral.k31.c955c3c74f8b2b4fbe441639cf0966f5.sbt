@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853865.1/GCF_000853865.1_ViralProj14960_genomic.fna.gz",
+        "filename": "GCF_000853865.1_ViralProj14960_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005831.2 Human Coronavirus NL63, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868245.1/GCF_000868245.1_ViralMultiSegProj17127_genomic.fna.gz",
+        "filename": "GCF_000868245.1_ViralMultiSegProj17127_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008191.1 Raphanus sativus cryptic virus 1 dsRNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

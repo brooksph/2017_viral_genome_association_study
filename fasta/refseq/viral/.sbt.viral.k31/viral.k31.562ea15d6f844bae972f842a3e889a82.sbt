@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914535.1/GCF_000914535.1_ViralProj239736_genomic.fna.gz",
+        "filename": "GCF_000914535.1_ViralProj239736_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023613.1 Invertebrate iridovirus 25 complete genome",
         "signatures": [
             {
                 "ksize": 31,

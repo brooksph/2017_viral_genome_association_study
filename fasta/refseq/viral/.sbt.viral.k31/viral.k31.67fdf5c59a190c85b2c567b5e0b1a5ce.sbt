@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008595.1/GCF_002008595.1_ViralMultiSegProj376921_genomic.fna.gz",
+        "filename": "GCF_002008595.1_ViralMultiSegProj376921_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033841.1 Urucuri virus strain BeAn100049 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

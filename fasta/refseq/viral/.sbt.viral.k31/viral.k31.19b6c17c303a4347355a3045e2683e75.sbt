@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884295.1/GCF_000884295.1_ViralProj40315_genomic.fna.gz",
+        "filename": "GCF_000884295.1_ViralProj40315_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "AC_000005.1 Human mastadenovirus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654345.1/GCF_001654345.1_ViralProj322679_genomic.fna.gz",
+        "filename": "GCF_001654345.1_ViralProj322679_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030236.1 Impatiens flower break potyvirus isolate Asan, complete genome",
         "signatures": [
             {
                 "ksize": 31,

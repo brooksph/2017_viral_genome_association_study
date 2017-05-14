@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929015.1/GCF_000929015.1_ViralProj271034_genomic.fna.gz",
+        "filename": "GCF_000929015.1_ViralProj271034_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025959.1 Dromedary stool-associated circular ssDNA virus isolate DcSCV_c954, complete genome",
         "signatures": [
             {
                 "ksize": 31,

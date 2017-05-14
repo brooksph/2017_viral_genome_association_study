@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919255.1/GCF_000919255.1_ViralProj240729_genomic.fna.gz",
+        "filename": "GCF_000919255.1_ViralProj240729_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023707.1 Mycobacterium phage Turbido, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001610725.1/GCF_001610725.1_ViralProj311759_genomic.fna.gz",
+        "filename": "GCF_001610725.1_ViralProj311759_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029055.1 Spondweni virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

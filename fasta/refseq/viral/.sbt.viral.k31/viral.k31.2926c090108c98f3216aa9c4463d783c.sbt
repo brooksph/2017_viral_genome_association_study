@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929155.1/GCF_000929155.1_ViralProj272472_genomic.fna.gz",
+        "filename": "GCF_000929155.1_ViralProj272472_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026165.1 Sewage-associated gemycircularvirus-9 isolate BS3970, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

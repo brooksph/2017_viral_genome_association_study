@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001429995.1/GCF_001429995.1_ViralProj300248_genomic.fna.gz",
+        "filename": "GCF_001429995.1_ViralProj300248_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028116.1 Ageratum conyzoides symptomless alphasatellite isolate WOK80, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

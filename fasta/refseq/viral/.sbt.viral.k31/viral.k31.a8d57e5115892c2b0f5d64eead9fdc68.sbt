@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844925.1/GCF_000844925.1_ViralProj14480_genomic.fna.gz",
+        "filename": "GCF_000844925.1_ViralProj14480_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000902.1 Enterobacteria phage VT2-Sakai, complete genome",
         "signatures": [
             {
                 "ksize": 31,

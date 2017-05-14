@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004135.1/GCF_002004135.1_ViralProj375011_genomic.fna.gz",
+        "filename": "GCF_002004135.1_ViralProj375011_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033706.1 Solanum nodiflorum mottle virus culture-collection ATCC:PV-491, complete genome",
         "signatures": [
             {
                 "ksize": 31,

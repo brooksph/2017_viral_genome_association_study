@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896315.1/GCF_000896315.1_ViralProj167661_genomic.fna.gz",
+        "filename": "GCF_000896315.1_ViralProj167661_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017981.1 Xanthomonas phage vB_XveM_DIBBI, complete genome",
         "signatures": [
             {
                 "ksize": 31,

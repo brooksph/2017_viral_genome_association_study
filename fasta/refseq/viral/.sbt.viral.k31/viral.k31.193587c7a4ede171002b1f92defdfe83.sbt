@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891435.1/GCF_000891435.1_ViralProj61857_genomic.fna.gz",
+        "filename": "GCF_000891435.1_ViralProj61857_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014900.1 Salmonella phage ST160, complete genome",
         "signatures": [
             {
                 "ksize": 31,

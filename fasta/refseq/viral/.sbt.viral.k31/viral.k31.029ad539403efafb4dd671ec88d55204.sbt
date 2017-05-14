@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919015.1/GCF_000919015.1_ViralProj243277_genomic.fna.gz",
+        "filename": "GCF_000919015.1_ViralProj243277_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023869.1 Dragonfly cyclovirus 2 isolate FL1-NZ38-2010, complete genome",
         "signatures": [
             {
                 "ksize": 31,

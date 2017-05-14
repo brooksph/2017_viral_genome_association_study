@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001717415.1/GCF_001717415.1_ViralProj340442_genomic.fna.gz",
+        "filename": "GCF_001717415.1_ViralProj340442_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030842.1 Ranavirus maximus isolate SMA15001, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744155.1/GCF_001744155.1_ViralProj344216_genomic.fna.gz",
+        "filename": "GCF_001744155.1_ViralProj344216_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031105.1 Rosavirus B strain RNCW0602091R polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856745.1/GCF_000856745.1_ViralProj15073_genomic.fna.gz",
+        "filename": "GCF_000856745.1_ViralProj15073_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003849.1 Plantago asiatica mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

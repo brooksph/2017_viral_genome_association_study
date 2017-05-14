@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001777305.1/GCF_001777305.1_ViralMultiSegProj348722_genomic.fna.gz",
+        "filename": "GCF_001777305.1_ViralMultiSegProj348722_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031458.1 Malvastrum bright yellow mosaic virus isolate Ma8S clone Ma8S-5A segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

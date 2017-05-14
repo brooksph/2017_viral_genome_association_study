@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001645935.1/GCF_001645935.1_ViralProj321691_genomic.fna.gz",
+        "filename": "GCF_001645935.1_ViralProj321691_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030145.1 Faeces associated gemycircularvirus 19 isolate 49_Fec80061_pig, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

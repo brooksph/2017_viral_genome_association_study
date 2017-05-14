@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955375.1/GCF_000955375.1_ViralProj276865_genomic.fna.gz",
+        "filename": "GCF_000955375.1_ViralProj276865_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026612.1 Uncultured phage WW-nAnB strain 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

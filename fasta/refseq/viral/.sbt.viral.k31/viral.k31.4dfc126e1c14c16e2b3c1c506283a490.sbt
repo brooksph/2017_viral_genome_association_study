@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860165.1/GCF_000860165.1_ViralProj15258_genomic.fna.gz",
+        "filename": "GCF_000860165.1_ViralProj15258_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004356.1 Tobacco leaf curl Yunnan virus - [Y136], complete genome",
         "signatures": [
             {
                 "ksize": 31,

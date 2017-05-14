@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844325.1/GCF_000844325.1_ViralProj14538_genomic.fna.gz",
+        "filename": "GCF_000844325.1_ViralProj14538_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005874.1 Zinnia leaf curl virus-associated DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

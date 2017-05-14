@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904755.1/GCF_000904755.1_ViralMultiSegProj198686_genomic.fna.gz",
+        "filename": "GCF_000904755.1_ViralMultiSegProj198686_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021096.1 Red clover cryptic virus 2 isolate IPP_Nemaro segment RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

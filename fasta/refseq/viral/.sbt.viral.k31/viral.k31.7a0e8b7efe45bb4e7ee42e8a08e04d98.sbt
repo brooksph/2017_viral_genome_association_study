@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004375.1/GCF_002004375.1_ViralMultiSegProj375059_genomic.fna.gz",
+        "filename": "GCF_002004375.1_ViralMultiSegProj375059_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033770.1 Spinach cryptic virus 1 isolate SRR1766311 RNA-dependent RNA polymerase (RdRp) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

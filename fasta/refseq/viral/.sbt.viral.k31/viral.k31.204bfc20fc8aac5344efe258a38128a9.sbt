@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505615.1/GCF_001505615.1_ViralProj307897_genomic.fna.gz",
+        "filename": "GCF_001505615.1_ViralProj307897_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028961.1 Mycobacterium phage PopTart, complete genome",
         "signatures": [
             {
                 "ksize": 31,

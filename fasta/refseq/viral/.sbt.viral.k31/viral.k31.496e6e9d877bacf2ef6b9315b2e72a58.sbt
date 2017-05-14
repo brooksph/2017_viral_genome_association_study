@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867985.1/GCF_000867985.1_ViralProj18839_genomic.fna.gz",
+        "filename": "GCF_000867985.1_ViralProj18839_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009014.1 Erwinia amylovora phage Era103, complete genome",
         "signatures": [
             {
                 "ksize": 31,

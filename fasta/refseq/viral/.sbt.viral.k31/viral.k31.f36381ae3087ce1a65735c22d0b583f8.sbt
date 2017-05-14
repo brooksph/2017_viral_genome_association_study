@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461125.1/GCF_001461125.1_ViralProj304317_genomic.fna.gz",
+        "filename": "GCF_001461125.1_ViralProj304317_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028479.1 Rabbit picornavirus strain Rabbit01/2013/HUN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

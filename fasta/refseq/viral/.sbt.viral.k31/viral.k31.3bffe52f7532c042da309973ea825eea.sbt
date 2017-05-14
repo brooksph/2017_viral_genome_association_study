@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896355.1/GCF_000896355.1_ViralProj73825_genomic.fna.gz",
+        "filename": "GCF_000896355.1_ViralProj73825_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016044.1 Chilli ringspot virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

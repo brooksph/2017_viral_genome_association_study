@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853585.1/GCF_000853585.1_ViralMultiSegProj14900_genomic.fna.gz",
+        "filename": "GCF_000853585.1_ViralMultiSegProj14900_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005166.1 Golden shiner reovirus segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

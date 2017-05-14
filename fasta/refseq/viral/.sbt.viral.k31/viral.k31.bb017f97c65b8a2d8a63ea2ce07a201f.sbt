@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866765.1/GCF_000866765.1_ViralProj16142_genomic.fna.gz",
+        "filename": "GCF_000866765.1_ViralProj16142_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007523.1 Coniothyrium minitans RNA virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

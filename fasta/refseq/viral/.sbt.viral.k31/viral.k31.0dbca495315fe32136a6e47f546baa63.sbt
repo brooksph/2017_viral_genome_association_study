@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001184825.1/GCF_001184825.1_ViralMultiSegProj290353_genomic.fna.gz",
+        "filename": "GCF_001184825.1_ViralMultiSegProj290353_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027563.1 Fusarium oxysporum f. sp. dianthi mycovirus 1 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

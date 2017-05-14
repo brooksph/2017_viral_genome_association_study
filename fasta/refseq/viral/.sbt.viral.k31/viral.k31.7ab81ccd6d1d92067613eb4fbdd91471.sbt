@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744435.1/GCF_001744435.1_ViralProj344126_genomic.fna.gz",
+        "filename": "GCF_001744435.1_ViralProj344126_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031006.1 Bacillus phage DIGNKC, complete genome",
         "signatures": [
             {
                 "ksize": 31,

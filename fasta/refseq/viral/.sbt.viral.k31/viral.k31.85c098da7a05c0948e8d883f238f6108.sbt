@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002005625.1/GCF_002005625.1_ViralProj376036_genomic.fna.gz",
+        "filename": "GCF_002005625.1_ViralProj376036_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033776.1 Bat sapovirus isolate Bat-SaV/Limbe65/CAM/2014 polyprotein and putative minor structural protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

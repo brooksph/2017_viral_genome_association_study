@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906515.1/GCF_000906515.1_ViralProj186429_genomic.fna.gz",
+        "filename": "GCF_000906515.1_ViralProj186429_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020105.1 Brugmansia mosaic virus strain SK, complete genome",
         "signatures": [
             {
                 "ksize": 31,

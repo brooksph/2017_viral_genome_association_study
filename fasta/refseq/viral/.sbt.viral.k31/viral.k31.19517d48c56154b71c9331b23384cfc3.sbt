@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930415.1/GCF_000930415.1_ViralProj268505_genomic.fna.gz",
+        "filename": "GCF_000930415.1_ViralProj268505_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025725.1 Jatropha leaf crumple virus isolate SKJ1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504175.1/GCF_001504175.1_ViralProj307902_genomic.fna.gz",
+        "filename": "GCF_001504175.1_ViralProj307902_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028810.1 Mycobacterium phage Rufus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

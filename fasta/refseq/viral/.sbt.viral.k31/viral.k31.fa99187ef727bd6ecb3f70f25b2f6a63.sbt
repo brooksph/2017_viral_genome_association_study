@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893675.1/GCF_000893675.1_ViralProj67417_genomic.fna.gz",
+        "filename": "GCF_000893675.1_ViralProj67417_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015585.1 Pantoea phage LIMEzero, complete genome",
         "signatures": [
             {
                 "ksize": 31,

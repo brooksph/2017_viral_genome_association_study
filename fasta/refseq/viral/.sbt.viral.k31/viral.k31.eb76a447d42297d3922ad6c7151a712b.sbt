@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873925.1/GCF_000873925.1_ViralProj19777_genomic.fna.gz",
+        "filename": "GCF_000873925.1_ViralProj19777_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009550.1 Lindernia anagallis yellow vein virus DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

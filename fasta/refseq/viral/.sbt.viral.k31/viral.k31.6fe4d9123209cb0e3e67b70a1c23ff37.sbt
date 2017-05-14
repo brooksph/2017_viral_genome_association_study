@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892155.1/GCF_000892155.1_ViralProj67963_genomic.fna.gz",
+        "filename": "GCF_000892155.1_ViralProj67963_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015639.1 Piscine myocarditis virus AL V-708, complete genome",
         "signatures": [
             {
                 "ksize": 31,

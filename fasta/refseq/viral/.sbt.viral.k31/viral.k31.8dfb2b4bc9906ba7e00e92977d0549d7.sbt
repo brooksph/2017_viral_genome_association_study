@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843945.1/GCF_000843945.1_ViralProj14449_genomic.fna.gz",
+        "filename": "GCF_000843945.1_ViralProj14449_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004904.1 Tomato begomovirus satellite DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

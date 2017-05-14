@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926955.1/GCF_000926955.1_ViralProj263850_genomic.fna.gz",
+        "filename": "GCF_000926955.1_ViralProj263850_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025252.1 Yam virus X isolate T551, complete genome",
         "signatures": [
             {
                 "ksize": 31,

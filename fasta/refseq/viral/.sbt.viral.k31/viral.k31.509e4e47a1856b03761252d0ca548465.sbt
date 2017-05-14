@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001684505.1/GCF_001684505.1_ViralProj328672_genomic.fna.gz",
+        "filename": "GCF_001684505.1_ViralProj328672_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030462.1 Canna yellow mottle virus isolate 0028, complete genome",
         "signatures": [
             {
                 "ksize": 31,

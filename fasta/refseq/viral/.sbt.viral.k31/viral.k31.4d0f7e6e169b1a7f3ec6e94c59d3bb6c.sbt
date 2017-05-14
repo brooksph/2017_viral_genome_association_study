@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873225.1/GCF_000873225.1_ViralProj19763_genomic.fna.gz",
+        "filename": "GCF_000873225.1_ViralProj19763_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009531.1 Cyanophage Syn5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

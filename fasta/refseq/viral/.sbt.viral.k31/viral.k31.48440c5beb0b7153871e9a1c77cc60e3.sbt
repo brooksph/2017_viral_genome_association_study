@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001500755.1/GCF_001500755.1_ViralProj307782_genomic.fna.gz",
+        "filename": "GCF_001500755.1_ViralProj307782_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028964.1 Gallivirus Pf-CHK1/GV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

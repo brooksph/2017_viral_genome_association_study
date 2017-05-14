@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922135.1/GCF_000922135.1_ViralProj254348_genomic.fna.gz",
+        "filename": "GCF_000922135.1_ViralProj254348_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003558.1 Faba bean necrotic yellows C11 alphasatellite C1-Eg gene",
         "signatures": [
             {
                 "ksize": 31,

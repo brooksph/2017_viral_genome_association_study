@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926855.1/GCF_000926855.1_ViralProj266768_genomic.fna.gz",
+        "filename": "GCF_000926855.1_ViralProj266768_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025447.1 Escherichia phage 121Q, complete genome",
         "signatures": [
             {
                 "ksize": 31,

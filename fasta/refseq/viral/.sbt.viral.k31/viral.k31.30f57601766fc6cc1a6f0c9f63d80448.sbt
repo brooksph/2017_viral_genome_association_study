@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913575.1/GCF_000913575.1_ViralProj219124_genomic.fna.gz",
+        "filename": "GCF_000913575.1_ViralProj219124_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022323.1 Escherichia phage 2 JES-2013, complete genome",
         "signatures": [
             {
                 "ksize": 31,

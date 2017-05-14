@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965235.1/GCF_001965235.1_ViralProj362064_genomic.fna.gz",
+        "filename": "GCF_001965235.1_ViralProj362064_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033015.1 Hubei chuvirus-like virus 3 strain QTM26698 RNA-dependent RNA polymerase, putative glycoprotein, and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

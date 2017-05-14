@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002029655.1/GCF_002029655.1_ViralProj379138_genomic.fna.gz",
+        "filename": "GCF_002029655.1_ViralProj379138_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034208.1 Sunflower ring blotch virus isolate Chaco, complete genome",
         "signatures": [
             {
                 "ksize": 31,

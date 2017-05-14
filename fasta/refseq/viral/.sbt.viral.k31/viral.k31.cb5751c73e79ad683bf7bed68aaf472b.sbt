@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962955.1/GCF_001962955.1_ViralProj361892_genomic.fna.gz",
+        "filename": "GCF_001962955.1_ViralProj361892_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033247.1 Hubei virga-like virus 7 strain QTM27262 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

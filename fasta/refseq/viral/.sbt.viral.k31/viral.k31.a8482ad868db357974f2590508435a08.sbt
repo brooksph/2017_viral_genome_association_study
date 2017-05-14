@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894595.1/GCF_000894595.1_ViralProj165737_genomic.fna.gz",
+        "filename": "GCF_000894595.1_ViralProj165737_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017916.1 Pig stool associated circular ssDNA virus GER2011, complete genome",
         "signatures": [
             {
                 "ksize": 31,

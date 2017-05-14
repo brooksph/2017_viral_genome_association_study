@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846265.1/GCF_000846265.1_ViralProj14402_genomic.fna.gz",
+        "filename": "GCF_000846265.1_ViralProj14402_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002229.3 Gallid herpesvirus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

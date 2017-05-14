@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888555.1/GCF_000888555.1_ViralProj51735_genomic.fna.gz",
+        "filename": "GCF_000888555.1_ViralProj51735_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014468.1 Bat adeno-associated virus YNM, complete genome",
         "signatures": [
             {
                 "ksize": 31,

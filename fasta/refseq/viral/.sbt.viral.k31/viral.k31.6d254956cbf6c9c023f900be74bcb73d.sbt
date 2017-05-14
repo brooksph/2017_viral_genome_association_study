@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896615.1/GCF_000896615.1_ViralProj80921_genomic.fna.gz",
+        "filename": "GCF_000896615.1_ViralProj80921_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016567.1 Vibrio phage SIO-2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

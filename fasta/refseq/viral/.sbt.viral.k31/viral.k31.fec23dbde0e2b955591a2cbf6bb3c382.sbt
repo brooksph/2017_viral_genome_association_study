@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002024675.1/GCF_002024675.1_ViralProj378401_genomic.fna.gz",
+        "filename": "GCF_002024675.1_ViralProj378401_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034152.1 Big Cypress virus strain BCNP2-24 A hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

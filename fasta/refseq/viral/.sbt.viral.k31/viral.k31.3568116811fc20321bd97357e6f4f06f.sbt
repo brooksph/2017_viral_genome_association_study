@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873425.1/GCF_000873425.1_ViralProj20059_genomic.fna.gz",
+        "filename": "GCF_000873425.1_ViralProj20059_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009642.1 Bell pepper mottle tobamovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

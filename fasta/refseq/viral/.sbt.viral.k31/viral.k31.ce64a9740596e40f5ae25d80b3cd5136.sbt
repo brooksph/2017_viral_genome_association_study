@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845545.1/GCF_000845545.1_ViralProj14434_genomic.fna.gz",
+        "filename": "GCF_000845545.1_ViralProj14434_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002526.1 Bovine ephemeral fever virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

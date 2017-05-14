@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001041555.1/GCF_001041555.1_ViralProj287998_genomic.fna.gz",
+        "filename": "GCF_001041555.1_ViralProj287998_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027355.1 Bacillus phage BCP8-2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

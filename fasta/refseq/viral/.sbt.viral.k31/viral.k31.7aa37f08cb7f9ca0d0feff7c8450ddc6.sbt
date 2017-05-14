@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001717235.1/GCF_001717235.1_ViralProj340454_genomic.fna.gz",
+        "filename": "GCF_001717235.1_ViralProj340454_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030845.1 Egaro virus RNA-dependent RNA polymerase and coat protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

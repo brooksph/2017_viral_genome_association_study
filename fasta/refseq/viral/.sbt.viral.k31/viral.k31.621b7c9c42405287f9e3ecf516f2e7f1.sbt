@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974455.1/GCF_001974455.1_ViralMultiSegProj368948_genomic.fna.gz",
+        "filename": "GCF_001974455.1_ViralMultiSegProj368948_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033487.1 Wuhan heteroptera virus 2 strain arthropodmix10101 segment 1 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

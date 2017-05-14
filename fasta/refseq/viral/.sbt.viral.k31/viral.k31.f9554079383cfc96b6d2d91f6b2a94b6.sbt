@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008455.1/GCF_002008455.1_ViralMultiSegProj376923_genomic.fna.gz",
+        "filename": "GCF_002008455.1_ViralMultiSegProj376923_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033844.1 Ambe virus strain BeAr407981 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

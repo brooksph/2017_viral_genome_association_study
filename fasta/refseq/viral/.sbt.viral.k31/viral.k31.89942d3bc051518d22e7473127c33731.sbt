@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884695.1/GCF_000884695.1_ViralProj46671_genomic.fna.gz",
+        "filename": "GCF_000884695.1_ViralProj46671_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013953.1 Lymantria xylina MNPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

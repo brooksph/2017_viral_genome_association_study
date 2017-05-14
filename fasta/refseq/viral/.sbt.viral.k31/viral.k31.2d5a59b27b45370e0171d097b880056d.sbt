@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840025.1/GCF_000840025.1_ViralProj14169_genomic.fna.gz",
+        "filename": "GCF_000840025.1_ViralProj14169_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003533.1 Cereal yellow dwarf virus-RPV satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

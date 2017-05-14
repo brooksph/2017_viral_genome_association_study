@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926975.1/GCF_000926975.1_ViralProj263990_genomic.fna.gz",
+        "filename": "GCF_000926975.1_ViralProj263990_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025259.1 Sea otter polyomavirus 1 isolate 6831-13, complete genome",
         "signatures": [
             {
                 "ksize": 31,

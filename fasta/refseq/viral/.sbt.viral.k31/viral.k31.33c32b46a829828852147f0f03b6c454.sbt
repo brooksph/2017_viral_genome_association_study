@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904115.1/GCF_000904115.1_ViralProj188546_genomic.fna.gz",
+        "filename": "GCF_000904115.1_ViralProj188546_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020205.1 Xanthomonas citri phage CP2 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

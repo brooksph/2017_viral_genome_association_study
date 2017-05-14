@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929215.1/GCF_000929215.1_ViralProj273472_genomic.fna.gz",
+        "filename": "GCF_000929215.1_ViralProj273472_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026240.1 Pelargonium ringspot virus isolate DSMZ-PV-0304, complete genome",
         "signatures": [
             {
                 "ksize": 31,

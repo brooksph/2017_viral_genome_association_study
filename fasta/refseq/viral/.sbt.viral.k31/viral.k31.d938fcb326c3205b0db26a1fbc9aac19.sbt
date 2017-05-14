@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926535.1/GCF_001926535.1_ViralProj359295_genomic.fna.gz",
+        "filename": "GCF_001926535.1_ViralProj359295_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032469.1 Beihai octopus viurs 1 strain BHZY180716 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

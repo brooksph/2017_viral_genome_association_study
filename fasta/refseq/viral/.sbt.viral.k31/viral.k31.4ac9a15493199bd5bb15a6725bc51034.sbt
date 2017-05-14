@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430495.1/GCF_001430495.1_ViralProj300793_genomic.fna.gz",
+        "filename": "GCF_001430495.1_ViralProj300793_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028137.1 Macrosiphum euphorbiae virus 1 isolate K01 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

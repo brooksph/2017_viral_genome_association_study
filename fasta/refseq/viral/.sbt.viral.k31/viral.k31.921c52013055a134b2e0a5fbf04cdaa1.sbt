@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551725.1/GCF_001551725.1_ViralProj310936_genomic.fna.gz",
+        "filename": "GCF_001551725.1_ViralProj310936_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029084.1 Bacteriophage Rani, complete genome",
         "signatures": [
             {
                 "ksize": 31,

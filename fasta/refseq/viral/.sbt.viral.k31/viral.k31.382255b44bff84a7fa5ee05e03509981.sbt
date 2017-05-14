@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859605.1/GCF_000859605.1_ViralProj15140_genomic.fna.gz",
+        "filename": "GCF_000859605.1_ViralProj15140_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003610.1 Kyuri green mottle mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

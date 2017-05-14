@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882935.1/GCF_000882935.1_ViralProj38081_genomic.fna.gz",
+        "filename": "GCF_000882935.1_ViralProj38081_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012697.1 Roseophage DSS3P2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

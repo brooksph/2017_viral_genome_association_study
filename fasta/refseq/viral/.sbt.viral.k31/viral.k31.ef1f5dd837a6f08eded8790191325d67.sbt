@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885475.1/GCF_000885475.1_ViralProj42595_genomic.fna.gz",
+        "filename": "GCF_000885475.1_ViralProj42595_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013599.1 Xylella phage Xfas53, complete genome",
         "signatures": [
             {
                 "ksize": 31,

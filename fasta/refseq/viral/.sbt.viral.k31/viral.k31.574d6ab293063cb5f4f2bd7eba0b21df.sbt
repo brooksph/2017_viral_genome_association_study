@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853805.1/GCF_000853805.1_ViralProj14948_genomic.fna.gz",
+        "filename": "GCF_000853805.1_ViralProj14948_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004421.1 Bovine kobuvirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

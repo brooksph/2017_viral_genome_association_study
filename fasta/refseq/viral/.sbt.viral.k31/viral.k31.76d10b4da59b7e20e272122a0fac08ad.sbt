@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905275.1/GCF_000905275.1_ViralProj192869_genomic.fna.gz",
+        "filename": "GCF_000905275.1_ViralProj192869_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020485.1 Simian adenovirus 20 strain ATCC VR-541, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846445.1/GCF_000846445.1_ViralProj14439_genomic.fna.gz",
+        "filename": "GCF_000846445.1_ViralProj14439_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005046.1 Ageratum leaf curl disease associated sequence virion, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856505.1/GCF_000856505.1_ViralProj15017_genomic.fna.gz",
+        "filename": "GCF_000856505.1_ViralProj15017_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000855.1 Viral hemorrhagic septicemia virus Fil3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

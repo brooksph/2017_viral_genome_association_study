@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846205.1/GCF_000846205.1_ViralProj14390_genomic.fna.gz",
+        "filename": "GCF_000846205.1_ViralProj14390_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001973.1 Lymantria dispar MNPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

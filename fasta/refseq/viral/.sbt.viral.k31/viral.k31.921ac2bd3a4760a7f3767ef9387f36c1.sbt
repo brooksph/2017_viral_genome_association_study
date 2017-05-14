@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848365.1/GCF_000848365.1_ViralProj14674_genomic.fna.gz",
+        "filename": "GCF_000848365.1_ViralProj14674_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001600.1 Cardamine chlorotic fleck virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

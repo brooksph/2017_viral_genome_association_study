@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002005745.1/GCF_002005745.1_ViralMultiSegProj376171_genomic.fna.gz",
+        "filename": "GCF_002005745.1_ViralMultiSegProj376171_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033782.1 Orbivirus SX-2017a VP1 gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

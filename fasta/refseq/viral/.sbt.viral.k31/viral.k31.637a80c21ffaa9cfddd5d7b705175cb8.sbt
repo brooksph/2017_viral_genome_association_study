@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755705.1/GCF_001755705.1_ViralProj344635_genomic.fna.gz",
+        "filename": "GCF_001755705.1_ViralProj344635_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031254.1 Arthrobacter phage Kitkat, complete genome",
         "signatures": [
             {
                 "ksize": 31,

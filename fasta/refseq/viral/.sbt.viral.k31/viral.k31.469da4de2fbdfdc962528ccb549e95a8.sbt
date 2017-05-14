@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461385.1/GCF_001461385.1_ViralProj304521_genomic.fna.gz",
+        "filename": "GCF_001461385.1_ViralProj304521_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028465.1 Maize rough dwarf fijivirus minor structural protein (P5-1) and nonstructural protein (P5-2) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842705.1/GCF_000842705.1_ViralProj14198_genomic.fna.gz",
+        "filename": "GCF_000842705.1_ViralProj14198_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004037.2 Ovine adenovirus 7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

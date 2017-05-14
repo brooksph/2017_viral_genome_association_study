@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894455.1/GCF_000894455.1_ViralProj115527_genomic.fna.gz",
+        "filename": "GCF_000894455.1_ViralProj115527_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016997.1 Donggang virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001685285.1/GCF_001685285.1_ViralProj328668_genomic.fna.gz",
+        "filename": "GCF_001685285.1_ViralProj328668_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030458.1 Chimpanzee faeces associated microphage 3 isolate CPNG_29300, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001564385.1/GCF_001564385.1_ViralProj312195_genomic.fna.gz",
+        "filename": "GCF_001564385.1_ViralProj312195_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029255.1 Myotis gammaherpesvirus 8 strain My-HV8/Myotis velifer incautus/USA/FCGHV/2011, partial genome",
         "signatures": [
             {
                 "ksize": 31,

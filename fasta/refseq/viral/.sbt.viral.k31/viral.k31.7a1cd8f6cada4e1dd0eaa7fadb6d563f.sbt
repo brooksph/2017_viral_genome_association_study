@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963915.1/GCF_001963915.1_ViralProj361967_genomic.fna.gz",
+        "filename": "GCF_001963915.1_ViralProj361967_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032746.1 Beihai uca arcuata virus 1 strain BFZCX5633 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

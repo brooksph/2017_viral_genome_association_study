@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001021315.1/GCF_001021315.1_ViralProj286010_genomic.fna.gz",
+        "filename": "GCF_001021315.1_ViralProj286010_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027196.1 CHIV14 isolate 1 putative capsid protein (cap) and putative replication protein (rep) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

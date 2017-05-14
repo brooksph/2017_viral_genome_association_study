@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001030085.1/GCF_001030085.1_ViralMultiSegProj286970_genomic.fna.gz",
+        "filename": "GCF_001030085.1_ViralMultiSegProj286970_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027221.1 Sclerotinia sclerotiorum megabirnavirus 1 isolate SX466 segment L1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

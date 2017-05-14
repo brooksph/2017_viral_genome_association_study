@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838825.1/GCF_000838825.1_ViralProj14099_genomic.fna.gz",
+        "filename": "GCF_000838825.1_ViralProj14099_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002531.1 Alcelaphine herpesvirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

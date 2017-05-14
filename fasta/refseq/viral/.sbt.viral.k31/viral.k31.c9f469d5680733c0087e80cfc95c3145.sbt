@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881255.1/GCF_000881255.1_ViralProj37281_genomic.fna.gz",
+        "filename": "GCF_000881255.1_ViralProj37281_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012561.1 Highlands J virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

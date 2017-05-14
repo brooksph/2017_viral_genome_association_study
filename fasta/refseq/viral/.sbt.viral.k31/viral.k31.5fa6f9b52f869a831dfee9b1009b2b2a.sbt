@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869525.1/GCF_000869525.1_ViralProj18021_genomic.fna.gz",
+        "filename": "GCF_000869525.1_ViralProj18021_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008522.1 Finch circovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

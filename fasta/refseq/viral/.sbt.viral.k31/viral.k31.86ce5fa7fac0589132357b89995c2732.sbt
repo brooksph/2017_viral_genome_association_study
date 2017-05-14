@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915735.1/GCF_000915735.1_ViralProj240031_genomic.fna.gz",
+        "filename": "GCF_000915735.1_ViralProj240031_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023580.1 Mycobacterium phage Saal, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004635.1/GCF_002004635.1_ViralProj375049_genomic.fna.gz",
+        "filename": "GCF_002004635.1_ViralProj375049_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033744.1 Avon-Heathcote estuary associated bacilladnavirus isolate AHEaBavV1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

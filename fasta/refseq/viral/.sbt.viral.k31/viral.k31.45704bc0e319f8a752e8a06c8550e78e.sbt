@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882735.1/GCF_000882735.1_ViralProj34843_genomic.fna.gz",
+        "filename": "GCF_000882735.1_ViralProj34843_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012211.2 Allium virus X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

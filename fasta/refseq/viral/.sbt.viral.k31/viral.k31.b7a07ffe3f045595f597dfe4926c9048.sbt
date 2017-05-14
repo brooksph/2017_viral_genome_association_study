@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755625.1/GCF_001755625.1_ViralProj344619_genomic.fna.gz",
+        "filename": "GCF_001755625.1_ViralProj344619_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031237.1 Gordonia phage Obliviate, complete genome",
         "signatures": [
             {
                 "ksize": 31,

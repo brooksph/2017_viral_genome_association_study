@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891395.1/GCF_000891395.1_ViralProj61557_genomic.fna.gz",
+        "filename": "GCF_000891395.1_ViralProj61557_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014846.1 Bhendi yellow vein India betasatellite [India:Aurangabad:OY164:2006], complete genome",
         "signatures": [
             {
                 "ksize": 31,

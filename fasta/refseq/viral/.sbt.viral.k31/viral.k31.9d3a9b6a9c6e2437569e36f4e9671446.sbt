@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916875.1/GCF_000916875.1_ViralProj237474_genomic.fna.gz",
+        "filename": "GCF_000916875.1_ViralProj237474_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023431.1 Dragonfly larvae associated circular virus-5 isolate DflaCV-5_NZ-PG2-LG, complete genome",
         "signatures": [
             {
                 "ksize": 31,

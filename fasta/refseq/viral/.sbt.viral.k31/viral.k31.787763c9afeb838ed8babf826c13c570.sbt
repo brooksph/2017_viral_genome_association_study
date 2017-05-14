@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875505.1/GCF_000875505.1_ViralProj30699_genomic.fna.gz",
+        "filename": "GCF_000875505.1_ViralProj30699_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011055.1 Mycobacterium phage Porky, complete genome",
         "signatures": [
             {
                 "ksize": 31,

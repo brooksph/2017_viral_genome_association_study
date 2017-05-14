@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001343765.1/GCF_001343765.1_ViralMultiSegProj293212_genomic.fna.gz",
+        "filename": "GCF_001343765.1_ViralMultiSegProj293212_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027718.1 Chrysanthemum stem necrosis virus isolate PD4412741 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502775.1/GCF_001502775.1_ViralProj307777_genomic.fna.gz",
+        "filename": "GCF_001502775.1_ViralProj307777_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028989.1 Pepper yellow leaf curl Thailand virus isolate KON-KG5 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

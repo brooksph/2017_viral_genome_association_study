@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848005.1/GCF_000848005.1_ViralMultiSegProj14598_genomic.fna.gz",
+        "filename": "GCF_000848005.1_ViralMultiSegProj14598_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010647.1 Macroptilium yellow mosaic virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

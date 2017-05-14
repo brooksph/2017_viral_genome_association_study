@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838485.1/GCF_000838485.1_ViralProj14023_genomic.fna.gz",
+        "filename": "GCF_000838485.1_ViralProj14023_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001623.1 Autographa californica nucleopolyhedrovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

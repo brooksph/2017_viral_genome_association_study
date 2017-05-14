@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004955.1/GCF_002004955.1_ViralProj375044_genomic.fna.gz",
+        "filename": "GCF_002004955.1_ViralProj375044_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033693.1 Bouboui virus strain DAK AR B490 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

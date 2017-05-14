@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928555.1/GCF_000928555.1_ViralMultiSegProj274585_genomic.fna.gz",
+        "filename": "GCF_000928555.1_ViralMultiSegProj274585_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026422.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 1 polymerase PB2 (PB2) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

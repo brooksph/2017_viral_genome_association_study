@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882295.1/GCF_000882295.1_ViralProj32321_genomic.fna.gz",
+        "filename": "GCF_000882295.1_ViralProj32321_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001629.1 Lactococcus phage bIL67, complete genome",
         "signatures": [
             {
                 "ksize": 31,

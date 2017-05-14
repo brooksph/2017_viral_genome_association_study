@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870565.1/GCF_000870565.1_ViralProj19153_genomic.fna.gz",
+        "filename": "GCF_000870565.1_ViralProj19153_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009231.1 Clostridium phage phiC2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

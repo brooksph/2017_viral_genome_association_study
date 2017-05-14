@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001717435.1/GCF_001717435.1_ViralProj340455_genomic.fna.gz",
+        "filename": "GCF_001717435.1_ViralProj340455_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030846.1 Duwamo virus RNA-dependent RNA polymerase, capsid protein, and ORF3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857525.1/GCF_000857525.1_ViralProj15243_genomic.fna.gz",
+        "filename": "GCF_000857525.1_ViralProj15243_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001463.1 Caprine arthritis-encephalitis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

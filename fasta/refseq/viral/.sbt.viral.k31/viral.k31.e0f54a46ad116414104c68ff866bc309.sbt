@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899535.1/GCF_000899535.1_ViralProj178563_genomic.fna.gz",
+        "filename": "GCF_000899535.1_ViralProj178563_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019028.1 Astrovirus MLB3 isolate MLB3/human/Vellore/26564/2004, complete genome",
         "signatures": [
             {
                 "ksize": 31,

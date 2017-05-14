@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927635.1/GCF_000927635.1_ViralProj267262_genomic.fna.gz",
+        "filename": "GCF_000927635.1_ViralProj267262_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025475.1 Chickpea yellow dwarf virus isolate CpYDV-PK_PK103_2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

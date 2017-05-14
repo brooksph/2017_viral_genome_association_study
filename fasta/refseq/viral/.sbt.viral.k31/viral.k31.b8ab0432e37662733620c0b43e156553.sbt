@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501855.1/GCF_001501855.1_ViralProj307716_genomic.fna.gz",
+        "filename": "GCF_001501855.1_ViralProj307716_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028944.1 Bacillus phage Eyuki, complete genome",
         "signatures": [
             {
                 "ksize": 31,

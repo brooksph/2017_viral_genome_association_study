@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901135.1/GCF_000901135.1_ViralProj183163_genomic.fna.gz",
+        "filename": "GCF_000901135.1_ViralProj183163_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019712.1 Mink calicivirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

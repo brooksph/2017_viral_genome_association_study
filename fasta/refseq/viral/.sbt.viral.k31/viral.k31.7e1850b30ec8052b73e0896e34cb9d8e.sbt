@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884135.1/GCF_000884135.1_ViralProj39617_genomic.fna.gz",
+        "filename": "GCF_000884135.1_ViralProj39617_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013023.1 Circovirus-like genome RW-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

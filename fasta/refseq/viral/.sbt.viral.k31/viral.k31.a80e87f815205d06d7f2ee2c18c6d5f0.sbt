@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930155.1/GCF_000930155.1_ViralProj272395_genomic.fna.gz",
+        "filename": "GCF_000930155.1_ViralProj272395_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026141.2 Adelie penguin polyomavirus isolate AdPyV_Crozier_2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

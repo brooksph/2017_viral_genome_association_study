@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870925.1/GCF_000870925.1_ViralProj19865_genomic.fna.gz",
+        "filename": "GCF_000870925.1_ViralProj19865_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009570.1 Tomato leaf curl Philippine virus satellite DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

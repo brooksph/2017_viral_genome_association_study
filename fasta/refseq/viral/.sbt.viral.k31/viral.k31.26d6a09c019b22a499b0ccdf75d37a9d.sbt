@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913195.1/GCF_000913195.1_ViralProj230587_genomic.fna.gz",
+        "filename": "GCF_000913195.1_ViralProj230587_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022987.1 Xylella phage Prado, complete genome",
         "signatures": [
             {
                 "ksize": 31,

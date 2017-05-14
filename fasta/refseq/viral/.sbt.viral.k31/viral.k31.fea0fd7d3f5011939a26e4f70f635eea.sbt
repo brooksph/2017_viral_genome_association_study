@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501655.1/GCF_001501655.1_ViralProj307831_genomic.fna.gz",
+        "filename": "GCF_001501655.1_ViralProj307831_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028776.1 Enterobacteria phage CAjan, complete genome",
         "signatures": [
             {
                 "ksize": 31,

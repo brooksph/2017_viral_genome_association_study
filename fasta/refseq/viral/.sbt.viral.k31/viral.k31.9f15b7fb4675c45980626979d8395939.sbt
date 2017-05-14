@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503995.1/GCF_001503995.1_ViralProj307866_genomic.fna.gz",
+        "filename": "GCF_001503995.1_ViralProj307866_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028988.1 Ralstonia phage RSJ2 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

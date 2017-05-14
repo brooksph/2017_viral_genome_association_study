@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745815.1/GCF_001745815.1_ViralProj344144_genomic.fna.gz",
+        "filename": "GCF_001745815.1_ViralProj344144_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031084.1 Propionibacterium phage BruceLethal, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654245.1/GCF_001654245.1_ViralProj322841_genomic.fna.gz",
+        "filename": "GCF_001654245.1_ViralProj322841_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030229.1 Tropical soda apple mosaic virus isolate Okeechobee, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893555.1/GCF_000893555.1_ViralProj66395_genomic.fna.gz",
+        "filename": "GCF_000893555.1_ViralProj66395_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015464.1 Campylobacter phage NCTC12673, complete genome",
         "signatures": [
             {
                 "ksize": 31,

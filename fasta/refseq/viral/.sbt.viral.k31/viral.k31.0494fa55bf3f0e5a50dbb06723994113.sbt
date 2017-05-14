@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838385.1/GCF_000838385.1_ViralMultiSegProj14183_genomic.fna.gz",
+        "filename": "GCF_000838385.1_ViralMultiSegProj14183_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003830.1 Chino del tomate virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

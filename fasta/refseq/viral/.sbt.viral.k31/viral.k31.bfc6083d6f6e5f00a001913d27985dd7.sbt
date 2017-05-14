@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848565.1/GCF_000848565.1_ViralProj14715_genomic.fna.gz",
+        "filename": "GCF_000848565.1_ViralProj14715_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003056.1 Soybean dwarf virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

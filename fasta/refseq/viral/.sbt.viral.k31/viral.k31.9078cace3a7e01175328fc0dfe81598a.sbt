@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919515.1/GCF_000919515.1_ViralProj242943_genomic.fna.gz",
+        "filename": "GCF_000919515.1_ViralProj242943_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023844.1 Cassava associated cicular DNA virus isolate G14, complete genome",
         "signatures": [
             {
                 "ksize": 31,

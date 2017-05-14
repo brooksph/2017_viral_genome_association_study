@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910855.1/GCF_000910855.1_ViralProj215125_genomic.fna.gz",
+        "filename": "GCF_000910855.1_ViralProj215125_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022066.1 Mycobacterium phage Redno2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

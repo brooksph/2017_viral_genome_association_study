@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887515.2/GCF_000887515.2_ViralProj51415_genomic.fna.gz",
+        "filename": "GCF_000887515.2_ViralProj51415_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014381.1 Melon chlorotic mosaic virus DNA-B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

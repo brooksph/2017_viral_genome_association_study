@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852905.1/GCF_000852905.1_ViralProj14782_genomic.fna.gz",
+        "filename": "GCF_000852905.1_ViralProj14782_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003681.1 Coleus blumei viroid 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

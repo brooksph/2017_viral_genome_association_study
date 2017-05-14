@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925495.1/GCF_000925495.1_ViralProj264936_genomic.fna.gz",
+        "filename": "GCF_000925495.1_ViralProj264936_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025374.1 Avian paramyxovirus 8 isolate APMV-8/Goose/Delaware/1053/76, complete genome",
         "signatures": [
             {
                 "ksize": 31,

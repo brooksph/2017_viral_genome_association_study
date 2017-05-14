@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918075.1/GCF_000918075.1_ViralProj243528_genomic.fna.gz",
+        "filename": "GCF_000918075.1_ViralProj243528_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023887.1 Turkey stool associated circular ssDNA virus strain TuSCV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863485.1/GCF_000863485.1_ViralProj15413_genomic.fna.gz",
+        "filename": "GCF_000863485.1_ViralProj15413_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007017.2 Pelargonium line pattern virus isolate PV-0193, complete genome",
         "signatures": [
             {
                 "ksize": 31,

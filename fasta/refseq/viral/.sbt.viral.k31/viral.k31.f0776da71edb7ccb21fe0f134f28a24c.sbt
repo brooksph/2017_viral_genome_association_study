@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001695445.1/GCF_001695445.1_ViralProj331040_genomic.fna.gz",
+        "filename": "GCF_001695445.1_ViralProj331040_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030655.1 Rhizoctonia solani flexivirus 1 isolate DC17/RsFV-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

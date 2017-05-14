@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504835.1/GCF_001504835.1_ViralProj307872_genomic.fna.gz",
+        "filename": "GCF_001504835.1_ViralProj307872_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001730.1 Bacteriophage phiK complete genome",
         "signatures": [
             {
                 "ksize": 31,

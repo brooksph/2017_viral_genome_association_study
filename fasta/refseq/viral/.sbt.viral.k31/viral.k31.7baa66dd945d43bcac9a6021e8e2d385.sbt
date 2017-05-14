@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861445.1/GCF_000861445.1_ViralProj15345_genomic.fna.gz",
+        "filename": "GCF_000861445.1_ViralProj15345_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003626.1 Maize chlorotic dwarf virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

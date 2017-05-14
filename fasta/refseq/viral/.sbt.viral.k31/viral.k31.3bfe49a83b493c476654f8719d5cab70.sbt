@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002003955.1/GCF_002003955.1_ViralMultiSegProj375038_genomic.fna.gz",
+        "filename": "GCF_002003955.1_ViralMultiSegProj375038_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033774.1 Pepper chlorotic spot virus isolate 14YV733 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920295.1/GCF_000920295.1_ViralProj240770_genomic.fna.gz",
+        "filename": "GCF_000920295.1_ViralProj240770_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023742.1 Mycobacterium phage Akoma, complete genome",
         "signatures": [
             {
                 "ksize": 31,

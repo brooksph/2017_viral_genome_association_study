@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911875.1/GCF_000911875.1_ViralProj215123_genomic.fna.gz",
+        "filename": "GCF_000911875.1_ViralProj215123_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022060.1 Mycobacteriophage Velveteen, complete genome",
         "signatures": [
             {
                 "ksize": 31,

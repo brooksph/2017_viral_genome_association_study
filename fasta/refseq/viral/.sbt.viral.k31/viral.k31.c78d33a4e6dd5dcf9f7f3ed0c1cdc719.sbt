@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001292955.1/GCF_001292955.1_ViralProj295579_genomic.fna.gz",
+        "filename": "GCF_001292955.1_ViralProj295579_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027818.1 Phopivirus strain NewEngland_USA/2011, complete genome",
         "signatures": [
             {
                 "ksize": 31,

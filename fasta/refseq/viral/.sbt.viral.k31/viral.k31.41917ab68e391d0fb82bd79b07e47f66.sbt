@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001678375.1/GCF_001678375.1_ViralProj327359_genomic.fna.gz",
+        "filename": "GCF_001678375.1_ViralProj327359_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030400.1 Nakiwogo virus strain Uganda08 polyprotein gene, partial cds",
         "signatures": [
             {
                 "ksize": 31,

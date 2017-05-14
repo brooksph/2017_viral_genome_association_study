@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866955.1/GCF_001866955.1_ViralProj352516_genomic.fna.gz",
+        "filename": "GCF_001866955.1_ViralProj352516_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031749.1 King virus strain UWV2 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

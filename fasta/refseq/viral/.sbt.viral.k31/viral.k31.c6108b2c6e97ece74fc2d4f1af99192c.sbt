@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008735.1/GCF_002008735.1_ViralMultiSegProj376922_genomic.fna.gz",
+        "filename": "GCF_002008735.1_ViralMultiSegProj376922_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033848.1 Tapara virus strain BeAr413570 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

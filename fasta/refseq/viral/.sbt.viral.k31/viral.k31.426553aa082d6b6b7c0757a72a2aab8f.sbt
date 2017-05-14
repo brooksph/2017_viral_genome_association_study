@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859585.1/GCF_000859585.1_ViralProj15135_genomic.fna.gz",
+        "filename": "GCF_000859585.1_ViralProj15135_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006883.2 Prochlorococcus phage P-SSM2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

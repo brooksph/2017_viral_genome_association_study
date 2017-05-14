@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926655.1/GCF_001926655.1_ViralProj359331_genomic.fna.gz",
+        "filename": "GCF_001926655.1_ViralProj359331_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032462.1 Wenzhou toti-like virus 1 strain WZRBX43319 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

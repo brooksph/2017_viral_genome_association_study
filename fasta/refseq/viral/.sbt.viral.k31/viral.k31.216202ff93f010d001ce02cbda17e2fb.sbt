@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851825.1/GCF_000851825.1_ViralProj14894_genomic.fna.gz",
+        "filename": "GCF_000851825.1_ViralProj14894_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004995.1 Pea stem necrosis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

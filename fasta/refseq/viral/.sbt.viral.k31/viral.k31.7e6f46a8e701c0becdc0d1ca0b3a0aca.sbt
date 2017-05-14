@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843565.1/GCF_000843565.1_ViralMultiSegProj14369_genomic.fna.gz",
+        "filename": "GCF_000843565.1_ViralMultiSegProj14369_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005845.1 Squash leaf curl Philippines virus segment A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930535.1/GCF_000930535.1_ViralProj269173_genomic.fna.gz",
+        "filename": "GCF_000930535.1_ViralProj269173_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025800.1 Bovine polyomavirus-3 isolate 3S5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

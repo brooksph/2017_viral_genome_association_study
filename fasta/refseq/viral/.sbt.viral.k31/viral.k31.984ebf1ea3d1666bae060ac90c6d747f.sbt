@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862865.1/GCF_000862865.1_ViralProj15463_genomic.fna.gz",
+        "filename": "GCF_000862865.1_ViralProj15463_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003679.1 Border disease virus X818, complete genome",
         "signatures": [
             {
                 "ksize": 31,

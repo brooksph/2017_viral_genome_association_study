@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839425.1/GCF_000839425.1_ViralProj14040_genomic.fna.gz",
+        "filename": "GCF_000839425.1_ViralProj14040_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001987.1 Ateline herpesvirus 3 complete genome",
         "signatures": [
             {
                 "ksize": 31,

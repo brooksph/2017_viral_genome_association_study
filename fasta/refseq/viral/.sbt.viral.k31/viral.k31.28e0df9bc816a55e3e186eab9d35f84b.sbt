@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001689875.1/GCF_001689875.1_ViralProj329637_genomic.fna.gz",
+        "filename": "GCF_001689875.1_ViralProj329637_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030649.1 Carrot mottle virus satellite RNA, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

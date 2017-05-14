@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654205.1/GCF_001654205.1_ViralProj323868_genomic.fna.gz",
+        "filename": "GCF_001654205.1_ViralProj323868_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030240.1 Catopsilia pomona nucleopolyhedrovirus isolate 416, complete genome",
         "signatures": [
             {
                 "ksize": 31,

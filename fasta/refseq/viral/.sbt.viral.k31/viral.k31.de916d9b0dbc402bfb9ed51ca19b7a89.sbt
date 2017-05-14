@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898575.1/GCF_000898575.1_ViralProj173862_genomic.fna.gz",
+        "filename": "GCF_000898575.1_ViralProj173862_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018506.1 Bluegill picornavirus isolate 04-032, complete genome",
         "signatures": [
             {
                 "ksize": 31,

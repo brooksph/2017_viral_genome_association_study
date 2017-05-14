@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962395.1/GCF_001962395.1_ViralProj361968_genomic.fna.gz",
+        "filename": "GCF_001962395.1_ViralProj361968_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032841.1 Beihai toti-like virus 4 strain HOU154008 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

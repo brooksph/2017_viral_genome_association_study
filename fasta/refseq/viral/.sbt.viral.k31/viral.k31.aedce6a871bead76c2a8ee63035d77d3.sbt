@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847225.1/GCF_000847225.1_ViralMultiSegProj14603_genomic.fna.gz",
+        "filename": "GCF_000847225.1_ViralMultiSegProj14603_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001928.2 Abutilon mosaic virus subgenome DNA A",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001586925.1/GCF_001586925.1_ViralProj314396_genomic.fna.gz",
+        "filename": "GCF_001586925.1_ViralProj314396_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029578.1 Blueberry shoestring virus genomic RNA, polyprotein, strain: BSSV",
         "signatures": [
             {
                 "ksize": 31,

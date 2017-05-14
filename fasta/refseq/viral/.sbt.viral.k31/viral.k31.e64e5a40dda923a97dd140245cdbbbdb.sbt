@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921255.1/GCF_000921255.1_ViralProj253575_genomic.fna.gz",
+        "filename": "GCF_000921255.1_ViralProj253575_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024449.1 Cherry twisted leaf associated virus isolate CTLV_8431, complete genome",
         "signatures": [
             {
                 "ksize": 31,

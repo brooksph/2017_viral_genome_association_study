@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927255.1/GCF_000927255.1_ViralProj265898_genomic.fna.gz",
+        "filename": "GCF_000927255.1_ViralProj265898_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025386.1 Salem virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

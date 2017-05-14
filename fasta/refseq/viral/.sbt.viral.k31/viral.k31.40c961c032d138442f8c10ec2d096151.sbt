@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865205.1/GCF_000865205.1_ViralMultiSegProj16143_genomic.fna.gz",
+        "filename": "GCF_000865205.1_ViralMultiSegProj16143_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007535.1 Mycoreovirus 3 segment S1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

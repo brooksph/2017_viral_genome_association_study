@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899295.1/GCF_000899295.1_ViralProj176433_genomic.fna.gz",
+        "filename": "GCF_000899295.1_ViralProj176433_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018671.1 Sauropus leaf curl disease associated DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

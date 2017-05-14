@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551125.1/GCF_001551125.1_ViralProj310951_genomic.fna.gz",
+        "filename": "GCF_001551125.1_ViralProj310951_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029106.1 Achromobacter phage phiAxp-2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

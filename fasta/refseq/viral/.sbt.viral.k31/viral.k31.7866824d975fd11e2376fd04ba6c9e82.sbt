@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866205.1/GCF_001866205.1_ViralProj351807_genomic.fna.gz",
+        "filename": "GCF_001866205.1_ViralProj351807_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031693.1 Burke virus strain RC1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

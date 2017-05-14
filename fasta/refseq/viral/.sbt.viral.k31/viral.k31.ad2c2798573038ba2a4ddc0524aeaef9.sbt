@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889135.1/GCF_000889135.1_ViralProj51179_genomic.fna.gz",
+        "filename": "GCF_000889135.1_ViralProj51179_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014358.1 Bocavirus gorilla/GBoV1/2009, complete genome",
         "signatures": [
             {
                 "ksize": 31,

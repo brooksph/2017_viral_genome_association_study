@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551745.1/GCF_001551745.1_ViralProj310940_genomic.fna.gz",
+        "filename": "GCF_001551745.1_ViralProj310940_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029059.1 Mycobacterium phage Edtherson, complete genome",
         "signatures": [
             {
                 "ksize": 31,

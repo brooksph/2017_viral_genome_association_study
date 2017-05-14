@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895975.1/GCF_000895975.1_ViralProj88115_genomic.fna.gz",
+        "filename": "GCF_000895975.1_ViralProj88115_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016959.1 Ndumu virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

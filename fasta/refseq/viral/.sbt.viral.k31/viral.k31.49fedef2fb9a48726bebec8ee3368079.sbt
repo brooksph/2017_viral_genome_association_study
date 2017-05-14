@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886475.1/GCF_000886475.1_ViralProj38501_genomic.fna.gz",
+        "filename": "GCF_000886475.1_ViralProj38501_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012802.1 Human cosavirus D1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

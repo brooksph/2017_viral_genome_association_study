@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927455.1/GCF_000927455.1_ViralProj266722_genomic.fna.gz",
+        "filename": "GCF_000927455.1_ViralProj266722_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025435.1 Strawberry polerovirus 1 isolate AB5301, complete genome",
         "signatures": [
             {
                 "ksize": 31,

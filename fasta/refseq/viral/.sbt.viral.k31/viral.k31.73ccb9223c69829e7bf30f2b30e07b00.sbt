@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874765.1/GCF_000874765.1_ViralProj30875_genomic.fna.gz",
+        "filename": "GCF_000874765.1_ViralProj30875_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011109.1 Tursiops truncatus papillomavirus type 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

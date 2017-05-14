@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911795.1/GCF_000911795.1_ViralProj215107_genomic.fna.gz",
+        "filename": "GCF_000911795.1_ViralProj215107_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022053.1 Myobacteriophage Papyrus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

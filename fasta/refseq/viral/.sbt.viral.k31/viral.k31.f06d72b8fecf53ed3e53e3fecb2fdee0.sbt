@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868525.1/GCF_000868525.1_ViralProj17809_genomic.fna.gz",
+        "filename": "GCF_000868525.1_ViralProj17809_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008393.1 Pepper severe mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

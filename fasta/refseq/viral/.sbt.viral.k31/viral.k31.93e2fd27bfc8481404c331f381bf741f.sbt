@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925715.1/GCF_000925715.1_ViralProj266645_genomic.fna.gz",
+        "filename": "GCF_000925715.1_ViralProj266645_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025418.1 Klebsiella phage NTUH-K2044-K1-1 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

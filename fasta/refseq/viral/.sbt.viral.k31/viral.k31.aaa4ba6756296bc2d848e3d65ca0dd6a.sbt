@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002024695.1/GCF_002024695.1_ViralProj378393_genomic.fna.gz",
+        "filename": "GCF_002024695.1_ViralProj378393_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034156.1 Cordoba virus strain GMC30 hypothetical protein 1 gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

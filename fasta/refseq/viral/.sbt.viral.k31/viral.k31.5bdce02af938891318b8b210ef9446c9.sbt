@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001678355.1/GCF_001678355.1_ViralProj327355_genomic.fna.gz",
+        "filename": "GCF_001678355.1_ViralProj327355_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030396.1 Cronartium ribicola mitovirus 3 isolate CrMV3-BC-u3 RNA-dependent RNA polymerase (RdRp) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845225.2/GCF_000845225.2_ViralProj14555_genomic.fna.gz",
+        "filename": "GCF_000845225.2_ViralProj14555_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001983.1 Mungbean yellow mosaic virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

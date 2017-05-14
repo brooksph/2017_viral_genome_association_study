@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004115.1/GCF_002004115.1_ViralProj375071_genomic.fna.gz",
+        "filename": "GCF_002004115.1_ViralProj375071_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033703.1 Xinzhou dimarhabdovirus virus 1 strain XZSJSC65538 hypothetical protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

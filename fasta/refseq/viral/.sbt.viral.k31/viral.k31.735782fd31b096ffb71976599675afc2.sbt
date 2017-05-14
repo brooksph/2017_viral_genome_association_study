@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001549565.1/GCF_001549565.1_ViralProj310652_genomic.fna.gz",
+        "filename": "GCF_001549565.1_ViralProj310652_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029052.1 Goose dicistrovirus isolate UW1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001973835.1/GCF_001973835.1_ViralProj362627_genomic.fna.gz",
+        "filename": "GCF_001973835.1_ViralProj362627_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033416.1 Wuhan coneheads virus 2 strain ZCM13613 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

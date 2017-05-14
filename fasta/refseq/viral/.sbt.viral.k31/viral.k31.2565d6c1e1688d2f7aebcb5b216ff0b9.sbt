@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875365.2/GCF_000875365.2_ViralProj30181_genomic.fna.gz",
+        "filename": "GCF_000875365.2_ViralProj30181_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010840.1 Tomato leaf curl Palampur virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

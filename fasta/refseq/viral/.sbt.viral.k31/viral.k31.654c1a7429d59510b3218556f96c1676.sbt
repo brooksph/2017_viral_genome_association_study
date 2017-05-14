@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000988995.1/GCF_000988995.1_ViralProj273489_genomic.fna.gz",
+        "filename": "GCF_000988995.1_ViralProj273489_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026248.1 Yam latent virus isolate SG1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857325.2/GCF_000857325.2_ViralProj15199_genomic.fna.gz",
+        "filename": "GCF_000857325.2_ViralProj15199_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001608.3 Marburg marburgvirus isolate Marburg virus/H.sapiens-tc/KEN/1980/Mt. Elgon-Musoke, complete genome",
         "signatures": [
             {
                 "ksize": 31,

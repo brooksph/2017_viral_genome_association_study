@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930715.1/GCF_000930715.1_ViralProj271180_genomic.fna.gz",
+        "filename": "GCF_000930715.1_ViralProj271180_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025966.1 Rodent Torque teno virus 2 isolate RN_2_Se15, complete genome",
         "signatures": [
             {
                 "ksize": 31,

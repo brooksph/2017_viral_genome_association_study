@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841925.1/GCF_000841925.1_ViralProj14215_genomic.fna.gz",
+        "filename": "GCF_000841925.1_ViralProj14215_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004156.2 Helicoverpa zea nudivirus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

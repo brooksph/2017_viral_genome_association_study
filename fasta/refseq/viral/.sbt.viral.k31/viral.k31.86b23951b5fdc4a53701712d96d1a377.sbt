@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001722785.1/GCF_001722785.1_ViralProj342443_genomic.fna.gz",
+        "filename": "GCF_001722785.1_ViralProj342443_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030862.1 Fusarium poae mitovirus 2 genomic RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

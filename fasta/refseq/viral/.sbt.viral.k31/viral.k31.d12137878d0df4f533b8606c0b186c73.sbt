@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906875.1/GCF_000906875.1_ViralProj195476_genomic.fna.gz",
+        "filename": "GCF_000906875.1_ViralProj195476_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020853.1 Loktanella phage pCB2051-A genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

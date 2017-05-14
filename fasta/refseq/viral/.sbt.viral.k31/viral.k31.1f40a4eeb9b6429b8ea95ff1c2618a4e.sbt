@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960575.1/GCF_001960575.1_ViralProj361775_genomic.fna.gz",
+        "filename": "GCF_001960575.1_ViralProj361775_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032834.1 Wenling picorna-like virus 5 strain WLJQ102796 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

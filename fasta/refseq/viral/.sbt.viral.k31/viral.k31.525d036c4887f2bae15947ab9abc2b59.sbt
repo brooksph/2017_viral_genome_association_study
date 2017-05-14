@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965295.1/GCF_001965295.1_ViralMultiSegProj362076_genomic.fna.gz",
+        "filename": "GCF_001965295.1_ViralMultiSegProj362076_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033307.1 Hubei noda-like virus 9 strain WHLC5367 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

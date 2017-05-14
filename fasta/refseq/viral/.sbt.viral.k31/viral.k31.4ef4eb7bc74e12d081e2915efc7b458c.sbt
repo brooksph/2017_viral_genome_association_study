@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001959395.1/GCF_001959395.1_ViralProj361842_genomic.fna.gz",
+        "filename": "GCF_001959395.1_ViralProj361842_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032809.1 Shahe heteroptera virus 4 strain SHWC01c2975 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

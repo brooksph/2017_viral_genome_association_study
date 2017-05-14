@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881075.1/GCF_000881075.1_ViralProj33885_genomic.fna.gz",
+        "filename": "GCF_000881075.1_ViralProj33885_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012041.1 Bhendi yellow vein Bhubhaneswar virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

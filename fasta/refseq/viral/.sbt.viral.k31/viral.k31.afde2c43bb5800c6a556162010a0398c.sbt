@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001881955.1/GCF_001881955.1_ViralProj353680_genomic.fna.gz",
+        "filename": "GCF_001881955.1_ViralProj353680_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031922.1 Synechococcus phage S-CAM9 isolate 1109NB16, complete genome",
         "signatures": [
             {
                 "ksize": 31,

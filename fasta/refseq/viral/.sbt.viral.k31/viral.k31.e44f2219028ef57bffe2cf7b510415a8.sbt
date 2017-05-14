@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885195.1/GCF_000885195.1_ViralProj39933_genomic.fna.gz",
+        "filename": "GCF_000885195.1_ViralProj39933_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013103.1 Chilli leaf curl Multan alphasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

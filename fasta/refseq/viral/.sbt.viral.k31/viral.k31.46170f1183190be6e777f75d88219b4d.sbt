@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504215.1/GCF_001504215.1_ViralProj307910_genomic.fna.gz",
+        "filename": "GCF_001504215.1_ViralProj307910_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028805.1 Brevibacillus phage Jenst, complete genome",
         "signatures": [
             {
                 "ksize": 31,

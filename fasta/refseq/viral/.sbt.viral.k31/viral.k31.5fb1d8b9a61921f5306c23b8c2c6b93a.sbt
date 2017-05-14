@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909495.1/GCF_000909495.1_ViralProj210930_genomic.fna.gz",
+        "filename": "GCF_000909495.1_ViralProj210930_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021720.1 Persimmon viroid 2 genomic RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

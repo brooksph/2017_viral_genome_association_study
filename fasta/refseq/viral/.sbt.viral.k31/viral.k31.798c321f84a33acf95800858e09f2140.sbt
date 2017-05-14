@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865385.1/GCF_000865385.1_ViralProj16323_genomic.fna.gz",
+        "filename": "GCF_000865385.1_ViralProj16323_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007729.1 Maize necrotic streak virus isolate Arizona, complete genome",
         "signatures": [
             {
                 "ksize": 31,

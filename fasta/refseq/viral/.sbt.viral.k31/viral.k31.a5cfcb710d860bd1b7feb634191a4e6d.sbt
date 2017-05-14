@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001876915.1/GCF_001876915.1_ViralMultiSegProj353086_genomic.fna.gz",
+        "filename": "GCF_001876915.1_ViralMultiSegProj353086_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031764.1 Passionfruit leaf distortion virus isolate Colombia-Valle-2014 segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

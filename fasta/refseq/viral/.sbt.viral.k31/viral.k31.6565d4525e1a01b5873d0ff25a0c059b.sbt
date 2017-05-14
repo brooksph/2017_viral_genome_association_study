@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872465.1/GCF_000872465.1_ViralMultiSegProj28319_genomic.fna.gz",
+        "filename": "GCF_000872465.1_ViralMultiSegProj28319_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010250.1 Oliveros virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

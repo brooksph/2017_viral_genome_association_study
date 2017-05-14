@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862705.1/GCF_000862705.1_ViralProj15429_genomic.fna.gz",
+        "filename": "GCF_000862705.1_ViralProj15429_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003899.1 Eastern equine encephalitis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

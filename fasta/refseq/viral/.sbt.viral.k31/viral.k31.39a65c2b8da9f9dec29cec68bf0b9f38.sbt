@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001275455.1/GCF_001275455.1_ViralProj57809_genomic.fna.gz",
+        "filename": "GCF_001275455.1_ViralProj57809_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002180.1 Chlamydia phage phiCPAR39, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

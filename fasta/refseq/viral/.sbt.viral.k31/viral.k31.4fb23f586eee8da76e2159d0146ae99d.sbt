@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894115.1/GCF_000894115.1_ViralProj78947_genomic.fna.gz",
+        "filename": "GCF_000894115.1_ViralProj78947_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016448.1 Saimiriine herpesvirus 4 strain SqSHV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502595.1/GCF_001502595.1_ViralProj307741_genomic.fna.gz",
+        "filename": "GCF_001502595.1_ViralProj307741_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028791.1 Mycobacterium phage MOOREtheMARYer, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000954735.1/GCF_000954735.1_ViralProj276880_genomic.fna.gz",
+        "filename": "GCF_000954735.1_ViralProj276880_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026595.1 Mycobacterium phage Hades, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965015.1/GCF_001965015.1_ViralProj362162_genomic.fna.gz",
+        "filename": "GCF_001965015.1_ViralProj362162_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032768.1 Hubei tombus-like virus 9 strain WHBL63242 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

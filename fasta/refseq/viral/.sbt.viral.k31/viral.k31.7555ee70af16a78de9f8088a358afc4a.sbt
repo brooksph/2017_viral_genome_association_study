@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847965.1/GCF_000847965.1_ViralProj14590_genomic.fna.gz",
+        "filename": "GCF_000847965.1_ViralProj14590_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001266.1 Rabbit fibroma virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

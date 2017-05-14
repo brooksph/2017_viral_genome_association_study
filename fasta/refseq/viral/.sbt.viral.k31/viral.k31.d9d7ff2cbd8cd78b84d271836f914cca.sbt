@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849725.1/GCF_000849725.1_ViralProj14605_genomic.fna.gz",
+        "filename": "GCF_000849725.1_ViralProj14605_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003493.2 Bean yellow dwarf virus putative genes V1, V2, C1, C1:C2",
         "signatures": [
             {
                 "ksize": 31,

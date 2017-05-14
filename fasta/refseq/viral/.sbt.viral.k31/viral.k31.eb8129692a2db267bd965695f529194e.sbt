@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001777325.1/GCF_001777325.1_ViralMultiSegProj348724_genomic.fna.gz",
+        "filename": "GCF_001777325.1_ViralMultiSegProj348724_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031456.1 Sida angular mosaic virus isolate ALS30_4C segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001630105.1/GCF_001630105.1_ViralMultiSegProj319116_genomic.fna.gz",
+        "filename": "GCF_001630105.1_ViralMultiSegProj319116_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029917.1 Mahlapitsi virus isolate 2511 segment L1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897015.1/GCF_000897015.1_ViralProj162489_genomic.fna.gz",
+        "filename": "GCF_000897015.1_ViralProj162489_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017825.1 Chimpanzee adenovirus Y25, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875145.1/GCF_000875145.1_ViralMultiSegProj29839_genomic.fna.gz",
+        "filename": "GCF_000875145.1_ViralMultiSegProj29839_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010711.1 Chronic bee paralysis virus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

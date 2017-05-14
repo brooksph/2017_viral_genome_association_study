@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868545.2/GCF_000868545.2_ViralProj17995_genomic.fna.gz",
+        "filename": "GCF_000868545.2_ViralProj17995_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008520.2 Anticarsia gemmatalis nucleopolyhedrovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

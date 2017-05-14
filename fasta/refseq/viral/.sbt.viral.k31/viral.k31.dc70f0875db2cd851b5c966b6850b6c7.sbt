@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889455.1/GCF_000889455.1_ViralMultiSegProj60383_genomic.fna.gz",
+        "filename": "GCF_000889455.1_ViralMultiSegProj60383_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014714.1 Southern rice black-streaked dwarf virus segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000969215.1/GCF_000969215.1_ViralProj280304_genomic.fna.gz",
+        "filename": "GCF_000969215.1_ViralProj280304_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026770.1 Bat polyomavirus 6b DNA, complete genome, isolate: 6b",
         "signatures": [
             {
                 "ksize": 31,

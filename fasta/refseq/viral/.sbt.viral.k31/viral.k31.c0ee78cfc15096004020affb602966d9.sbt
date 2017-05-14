@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001645975.1/GCF_001645975.1_ViralProj321699_genomic.fna.gz",
+        "filename": "GCF_001645975.1_ViralProj321699_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030148.1 Marbled eel polyomavirus isolate AMV-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881775.1/GCF_000881775.1_ViralProj32697_genomic.fna.gz",
+        "filename": "GCF_000881775.1_ViralProj32697_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011546.1 Simian T-cell lymphotropic virus 6 strain Cmo8699AB, complete genome",
         "signatures": [
             {
                 "ksize": 31,

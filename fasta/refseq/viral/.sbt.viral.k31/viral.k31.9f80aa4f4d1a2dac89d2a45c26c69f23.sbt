@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865845.1/GCF_000865845.1_ViralProj15686_genomic.fna.gz",
+        "filename": "GCF_000865845.1_ViralProj15686_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007409.1 Acidianus two-tailed virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

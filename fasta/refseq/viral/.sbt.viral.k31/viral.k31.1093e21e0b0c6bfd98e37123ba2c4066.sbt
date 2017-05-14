@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844465.1/GCF_000844465.1_ViralProj14386_genomic.fna.gz",
+        "filename": "GCF_000844465.1_ViralProj14386_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005954.1 Okra leaf curl alphasatellite rep gene for replication associated protein, clone NOB-3",
         "signatures": [
             {
                 "ksize": 31,

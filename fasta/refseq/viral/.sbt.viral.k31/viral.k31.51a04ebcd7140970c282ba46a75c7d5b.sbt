@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880675.1/GCF_000880675.1_ViralProj32213_genomic.fna.gz",
+        "filename": "GCF_000880675.1_ViralProj32213_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011357.1 Stx2-converting phage 1717, complete prophage genome",
         "signatures": [
             {
                 "ksize": 31,

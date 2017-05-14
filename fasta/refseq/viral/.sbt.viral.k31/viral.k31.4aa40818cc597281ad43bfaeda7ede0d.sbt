@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848865.1/GCF_000848865.1_ViralProj14600_genomic.fna.gz",
+        "filename": "GCF_000848865.1_ViralProj14600_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003494.1 Infectious spleen and kidney necrosis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

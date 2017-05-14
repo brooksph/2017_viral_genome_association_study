@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001957715.1/GCF_001957715.1_ViralProj361679_genomic.fna.gz",
+        "filename": "GCF_001957715.1_ViralProj361679_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032729.1 Nesidiocoris tenuis virus isolate SDQD, complete genome",
         "signatures": [
             {
                 "ksize": 31,

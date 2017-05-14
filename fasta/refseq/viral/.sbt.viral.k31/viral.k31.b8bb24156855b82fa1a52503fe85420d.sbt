@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913055.2/GCF_000913055.2_ViralProj227467_genomic.fna.gz",
+        "filename": "GCF_000913055.2_ViralProj227467_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022799.1 Potato black ringspot virus isolate PRI-Ec segment RNA 2, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

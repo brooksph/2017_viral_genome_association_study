@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860705.1/GCF_000860705.1_ViralProj15348_genomic.fna.gz",
+        "filename": "GCF_000860705.1_ViralProj15348_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001768.1 Tobacco vein mottling virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

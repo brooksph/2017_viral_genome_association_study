@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001927175.1/GCF_001927175.1_ViralProj359334_genomic.fna.gz",
+        "filename": "GCF_001927175.1_ViralProj359334_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032487.1 Wenzhou narna-like virus 4 strain WZSLuoI82501 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

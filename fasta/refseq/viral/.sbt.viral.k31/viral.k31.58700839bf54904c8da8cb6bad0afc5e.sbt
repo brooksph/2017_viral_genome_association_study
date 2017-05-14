@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929035.1/GCF_000929035.1_ViralProj271153_genomic.fna.gz",
+        "filename": "GCF_000929035.1_ViralProj271153_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025962.1 Psittacine adenovirus 3 isolate HKU/Parrot19, complete genome",
         "signatures": [
             {
                 "ksize": 31,

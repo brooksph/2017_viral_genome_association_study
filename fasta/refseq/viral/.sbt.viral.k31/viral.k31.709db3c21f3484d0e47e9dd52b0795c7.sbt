@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001500375.1/GCF_001500375.1_ViralProj307688_genomic.fna.gz",
+        "filename": "GCF_001500375.1_ViralProj307688_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028749.1 Brevibacillus phage Sundance, complete genome",
         "signatures": [
             {
                 "ksize": 31,

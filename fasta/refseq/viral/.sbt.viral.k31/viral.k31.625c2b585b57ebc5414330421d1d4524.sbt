@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922635.1/GCF_000922635.1_ViralMultiSegProj246534_genomic.fna.gz",
+        "filename": "GCF_000922635.1_ViralMultiSegProj246534_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024076.1 Cat Que Virus strain VN04-2108 polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501975.1/GCF_001501975.1_ViralProj307740_genomic.fna.gz",
+        "filename": "GCF_001501975.1_ViralProj307740_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028846.1 Mycobacterium phage ShedlockHolmes, complete genome",
         "signatures": [
             {
                 "ksize": 31,

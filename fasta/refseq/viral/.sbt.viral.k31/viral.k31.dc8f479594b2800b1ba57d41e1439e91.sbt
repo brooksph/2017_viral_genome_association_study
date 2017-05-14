@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920495.1/GCF_000920495.1_ViralProj243274_genomic.fna.gz",
+        "filename": "GCF_000920495.1_ViralProj243274_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023866.1 Dragonfly cyclovirus 5 isolate PR-6E-2010, complete genome",
         "signatures": [
             {
                 "ksize": 31,

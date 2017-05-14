@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865745.1/GCF_000865745.1_ViralMultiSegProj15555_genomic.fna.gz",
+        "filename": "GCF_000865745.1_ViralMultiSegProj15555_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007241.1 Vicia cryptic virus RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

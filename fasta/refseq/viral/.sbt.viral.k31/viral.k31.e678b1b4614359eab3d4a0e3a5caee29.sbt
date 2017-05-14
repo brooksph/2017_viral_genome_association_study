@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929135.1/GCF_000929135.1_ViralProj272444_genomic.fna.gz",
+        "filename": "GCF_000929135.1_ViralProj272444_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026139.1 Botrytis cinerea RNA virus 1 strain BerBc-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

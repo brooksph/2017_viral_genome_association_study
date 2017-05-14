@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911035.1/GCF_000911035.1_ViralProj219113_genomic.fna.gz",
+        "filename": "GCF_000911035.1_ViralProj219113_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022330.1 Mycobacterium phage Quink, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004675.1/GCF_002004675.1_ViralProj375057_genomic.fna.gz",
+        "filename": "GCF_002004675.1_ViralProj375057_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033738.1 Cacao mild mosaic virus isolate SCA6, complete genome",
         "signatures": [
             {
                 "ksize": 31,

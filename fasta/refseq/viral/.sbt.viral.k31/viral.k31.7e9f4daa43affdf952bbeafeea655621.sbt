@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867965.1/GCF_000867965.1_ViralMultiSegProj18779_genomic.fna.gz",
+        "filename": "GCF_000867965.1_ViralMultiSegProj18779_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008947.1 Hyposoter fugitivus ichnovirus segment A1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

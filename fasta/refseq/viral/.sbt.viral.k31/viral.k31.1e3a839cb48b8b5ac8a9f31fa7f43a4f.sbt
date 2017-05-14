@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865505.1/GCF_000865505.1_ViralMultiSegProj15472_genomic.fna.gz",
+        "filename": "GCF_000865505.1_ViralMultiSegProj15472_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003844.1 Tobacco streak virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

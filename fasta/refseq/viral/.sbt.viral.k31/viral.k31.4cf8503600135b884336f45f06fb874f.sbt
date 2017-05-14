@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860925.1/GCF_000860925.1_ViralMultiSegProj15397_genomic.fna.gz",
+        "filename": "GCF_000860925.1_ViralMultiSegProj15397_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003791.1 Cycas necrotic stunt virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

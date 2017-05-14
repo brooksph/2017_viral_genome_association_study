@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908395.1/GCF_000908395.1_ViralMultiSegProj203651_genomic.fna.gz",
+        "filename": "GCF_000908395.1_ViralMultiSegProj203651_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021242.1 Lone Star virus isolate TMA 1381 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

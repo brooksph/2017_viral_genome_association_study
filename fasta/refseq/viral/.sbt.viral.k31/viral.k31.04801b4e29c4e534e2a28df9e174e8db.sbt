@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908975.1/GCF_000908975.1_ViralProj212951_genomic.fna.gz",
+        "filename": "GCF_000908975.1_ViralProj212951_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021786.1 Habenaria mosaic virus genomic RNA, complete genome, isolate: Ha-1",
         "signatures": [
             {
                 "ksize": 31,

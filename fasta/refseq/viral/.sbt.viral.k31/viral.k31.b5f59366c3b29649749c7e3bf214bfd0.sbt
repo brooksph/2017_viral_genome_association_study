@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843745.1/GCF_000843745.1_ViralProj14408_genomic.fna.gz",
+        "filename": "GCF_000843745.1_ViralProj14408_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004690.1 Adoxophyes honmai NPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

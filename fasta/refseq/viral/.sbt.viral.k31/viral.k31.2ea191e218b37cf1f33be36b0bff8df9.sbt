@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550485.1/GCF_001550485.1_ViralProj310894_genomic.fna.gz",
+        "filename": "GCF_001550485.1_ViralProj310894_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029070.1 Cronobacter phage Dev-CD-23823 complete sequence",
         "signatures": [
             {
                 "ksize": 31,

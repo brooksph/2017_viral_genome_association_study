@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923755.1/GCF_000923755.1_ViralProj253464_genomic.fna.gz",
+        "filename": "GCF_000923755.1_ViralProj253464_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024445.1 Tent-making bat hepatitis B virus isolate TBHBV/Pan372/Uro_bil/PAN/2010, complete genome",
         "signatures": [
             {
                 "ksize": 31,

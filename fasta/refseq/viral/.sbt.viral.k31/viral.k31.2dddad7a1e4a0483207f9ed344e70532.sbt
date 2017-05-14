@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864345.1/GCF_000864345.1_ViralProj16237_genomic.fna.gz",
+        "filename": "GCF_000864345.1_ViralProj16237_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007648.1 Vicia faba endornavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

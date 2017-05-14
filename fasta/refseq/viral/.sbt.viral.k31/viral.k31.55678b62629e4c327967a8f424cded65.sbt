@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898515.1/GCF_000898515.1_ViralProj173212_genomic.fna.gz",
+        "filename": "GCF_000898515.1_ViralProj173212_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018454.1 Cronobacter phage phiES15, complete genome",
         "signatures": [
             {
                 "ksize": 31,

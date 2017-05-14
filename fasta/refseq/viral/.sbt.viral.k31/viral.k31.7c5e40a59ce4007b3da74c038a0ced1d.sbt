@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000972615.1/GCF_000972615.1_ViralProj280337_genomic.fna.gz",
+        "filename": "GCF_000972615.1_ViralProj280337_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026797.1 Bovine hepacivirus isolate GHC25 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

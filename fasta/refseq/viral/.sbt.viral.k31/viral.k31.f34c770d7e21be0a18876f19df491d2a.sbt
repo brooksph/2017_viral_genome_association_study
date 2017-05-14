@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889155.1/GCF_000889155.1_ViralProj51245_genomic.fna.gz",
+        "filename": "GCF_000889155.1_ViralProj51245_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014373.1 Bundibugyo ebolavirus isolate Bundibugyo virus/H.sapiens-tc/UGA/2007/Butalya-811250, complete genome",
         "signatures": [
             {
                 "ksize": 31,

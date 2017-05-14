@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899155.1/GCF_000899155.1_ViralMultiSegProj173356_genomic.fna.gz",
+        "filename": "GCF_000899155.1_ViralMultiSegProj173356_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018461.1 Sathuperi virus RdRp gene for RNA-dependent RNA polymerase, segment L, genomic RNA",
         "signatures": [
             {
                 "ksize": 31,

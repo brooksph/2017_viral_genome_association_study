@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855645.1/GCF_000855645.1_ViralMultiSegProj15027_genomic.fna.gz",
+        "filename": "GCF_000855645.1_ViralMultiSegProj15027_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005238.1 Seoul virus strain Seoul 80-39 clone 1",
         "signatures": [
             {
                 "ksize": 31,

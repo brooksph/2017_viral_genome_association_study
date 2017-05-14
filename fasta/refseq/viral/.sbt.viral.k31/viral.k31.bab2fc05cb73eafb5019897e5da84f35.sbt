@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930275.1/GCF_000930275.1_ViralProj273473_genomic.fna.gz",
+        "filename": "GCF_000930275.1_ViralProj273473_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026239.1 Elderberry latent virus isolate ELV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

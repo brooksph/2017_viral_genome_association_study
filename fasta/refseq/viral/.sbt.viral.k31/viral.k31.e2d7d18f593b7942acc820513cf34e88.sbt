@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001966815.1/GCF_001966815.1_ViralProj362099_genomic.fna.gz",
+        "filename": "GCF_001966815.1_ViralProj362099_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032736.1 Hubei leech virus 4 strain SZmix20870 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

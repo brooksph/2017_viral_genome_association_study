@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001041955.1/GCF_001041955.1_ViralProj288007_genomic.fna.gz",
+        "filename": "GCF_001041955.1_ViralProj288007_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027386.1 Propionibacterium phage PHL152M00, complete genome",
         "signatures": [
             {
                 "ksize": 31,

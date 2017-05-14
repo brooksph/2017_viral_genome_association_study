@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849465.1/GCF_000849465.1_ViralProj14729_genomic.fna.gz",
+        "filename": "GCF_000849465.1_ViralProj14729_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002468.1 Cherry necrotic rusty mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

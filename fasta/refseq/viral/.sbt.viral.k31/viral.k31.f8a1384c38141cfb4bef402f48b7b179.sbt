@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887995.1/GCF_000887995.1_ViralProj61953_genomic.fna.gz",
+        "filename": "GCF_000887995.1_ViralProj61953_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014930.1 Cyclovirus NGchicken15/NGA/2009, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894755.1/GCF_000894755.1_ViralProj70159_genomic.fna.gz",
+        "filename": "GCF_000894755.1_ViralProj70159_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015843.2 Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

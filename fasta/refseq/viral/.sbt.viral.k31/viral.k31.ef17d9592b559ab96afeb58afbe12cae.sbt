@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001431915.1/GCF_001431915.1_ViralProj301023_genomic.fna.gz",
+        "filename": "GCF_001431915.1_ViralProj301023_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028236.1 Kumasi rhabdbovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

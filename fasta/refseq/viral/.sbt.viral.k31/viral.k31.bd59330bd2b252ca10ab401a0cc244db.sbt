@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887875.1/GCF_000887875.1_ViralProj61121_genomic.fna.gz",
+        "filename": "GCF_000887875.1_ViralProj61121_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014793.1 Mud crab dicistrovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

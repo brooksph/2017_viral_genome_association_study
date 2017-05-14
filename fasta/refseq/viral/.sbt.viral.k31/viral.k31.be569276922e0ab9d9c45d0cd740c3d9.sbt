@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858665.1/GCF_000858665.1_ViralProj15118_genomic.fna.gz",
+        "filename": "GCF_000858665.1_ViralProj15118_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005039.1 Yokose virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

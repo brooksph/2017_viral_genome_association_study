@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898035.1/GCF_000898035.1_ViralProj162495_genomic.fna.gz",
+        "filename": "GCF_000898035.1_ViralProj162495_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017824.1 Tomato necrotic stunt virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

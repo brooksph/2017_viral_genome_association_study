@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501035.1/GCF_001501035.1_ViralProj307707_genomic.fna.gz",
+        "filename": "GCF_001501035.1_ViralProj307707_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028852.1 Mycobacterium phage Equemioh13, complete genome",
         "signatures": [
             {
                 "ksize": 31,

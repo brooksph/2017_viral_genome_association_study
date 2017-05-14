@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839785.1/GCF_000839785.1_ViralProj14118_genomic.fna.gz",
+        "filename": "GCF_000839785.1_ViralProj14118_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002816.1 Cydia pomonella granulovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

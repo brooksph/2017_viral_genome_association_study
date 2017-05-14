@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852545.1/GCF_000852545.1_ViralProj14881_genomic.fna.gz",
+        "filename": "GCF_000852545.1_ViralProj14881_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004725.1 Cucumber Bulgarian latent virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

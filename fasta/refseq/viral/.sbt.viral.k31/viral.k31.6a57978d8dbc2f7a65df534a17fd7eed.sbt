@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755065.1/GCF_001755065.1_ViralMultiSegProj344592_genomic.fna.gz",
+        "filename": "GCF_001755065.1_ViralMultiSegProj344592_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031287.1 Whenzhou Shrimp Virus 1 strain BJDX-5 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

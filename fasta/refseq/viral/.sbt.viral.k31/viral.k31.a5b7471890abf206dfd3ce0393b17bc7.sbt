@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908855.1/GCF_000908855.1_ViralProj210799_genomic.fna.gz",
+        "filename": "GCF_000908855.1_ViralProj210799_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021704.1 Koala retrovirus isolate Br2-1CETTG, complete genome",
         "signatures": [
             {
                 "ksize": 31,

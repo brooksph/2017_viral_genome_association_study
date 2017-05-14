@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461505.1/GCF_001461505.1_ViralProj304919_genomic.fna.gz",
+        "filename": "GCF_001461505.1_ViralProj304919_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028484.1 Tongilchon virus 1 strain A12.2676/ROK/2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001399265.1/GCF_001399265.1_ViralProj298990_genomic.fna.gz",
+        "filename": "GCF_001399265.1_ViralProj298990_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028092.1 Ostreococcus mediterraneus virus 1 isolate OmV1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

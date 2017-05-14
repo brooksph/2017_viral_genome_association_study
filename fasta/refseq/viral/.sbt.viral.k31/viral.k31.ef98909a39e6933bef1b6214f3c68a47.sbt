@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850525.1/GCF_000850525.1_ViralProj14756_genomic.fna.gz",
+        "filename": "GCF_000850525.1_ViralProj14756_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003538.1 Columnea latent viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

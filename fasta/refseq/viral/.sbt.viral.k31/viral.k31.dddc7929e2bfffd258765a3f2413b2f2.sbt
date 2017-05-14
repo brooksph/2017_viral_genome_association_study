@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854525.1/GCF_000854525.1_ViralProj14955_genomic.fna.gz",
+        "filename": "GCF_000854525.1_ViralProj14955_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006059.1 Zygocactus virus X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

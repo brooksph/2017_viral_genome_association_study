@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879935.1/GCF_000879935.1_ViralProj29631_genomic.fna.gz",
+        "filename": "GCF_000879935.1_ViralProj29631_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010671.1 Musca domestica salivary gland hypertrophy virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

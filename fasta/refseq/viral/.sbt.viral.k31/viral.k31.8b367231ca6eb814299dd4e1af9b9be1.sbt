@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879055.1/GCF_000879055.1_ViralProj28647_genomic.fna.gz",
+        "filename": "GCF_000879055.1_ViralProj28647_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010297.1 Cardiospermum yellow leaf curl virus satellite DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

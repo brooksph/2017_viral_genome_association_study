@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859285.1/GCF_000859285.1_ViralMultiSegProj15248_genomic.fna.gz",
+        "filename": "GCF_000859285.1_ViralMultiSegProj15248_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007026.1 Human picobirnavirus RNA segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

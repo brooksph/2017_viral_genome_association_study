@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461565.1/GCF_001461565.1_ViralProj304900_genomic.fna.gz",
+        "filename": "GCF_001461565.1_ViralProj304900_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028467.1 Penicillium aurantiogriseum fusarivirus 1 174 kDa protein and 53 kDa protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

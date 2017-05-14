@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912415.1/GCF_000912415.1_ViralProj227355_genomic.fna.gz",
+        "filename": "GCF_000912415.1_ViralProj227355_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022789.1 Gyrovirus Tu789, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001958295.1/GCF_001958295.1_ViralProj361769_genomic.fna.gz",
+        "filename": "GCF_001958295.1_ViralProj361769_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033230.1 Wenling sobemo-like virus 2 strain WLJQ95081 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

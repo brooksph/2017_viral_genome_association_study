@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866385.1/GCF_000866385.1_ViralProj15487_genomic.fna.gz",
+        "filename": "GCF_000866385.1_ViralProj15487_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003748.1 Equus caballus papillomavirus type 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

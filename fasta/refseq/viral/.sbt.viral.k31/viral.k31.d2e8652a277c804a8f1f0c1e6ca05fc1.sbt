@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866835.1/GCF_001866835.1_ViralProj352391_genomic.fna.gz",
+        "filename": "GCF_001866835.1_ViralProj352391_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031747.1 White clover mottle virus genomic RNA, complete genome, strain: CD",
         "signatures": [
             {
                 "ksize": 31,

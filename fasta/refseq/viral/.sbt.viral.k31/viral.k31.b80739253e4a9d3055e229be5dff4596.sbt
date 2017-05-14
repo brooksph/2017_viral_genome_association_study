@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897535.1/GCF_000897535.1_ViralMultiSegProj173351_genomic.fna.gz",
+        "filename": "GCF_000897535.1_ViralMultiSegProj173351_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018457.1 Soybean chlorotic spot virus DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859625.1/GCF_000859625.1_ViralProj15144_genomic.fna.gz",
+        "filename": "GCF_000859625.1_ViralProj15144_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001542.1 Rabies virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

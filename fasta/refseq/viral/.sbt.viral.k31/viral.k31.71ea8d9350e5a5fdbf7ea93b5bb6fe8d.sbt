@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904215.1/GCF_000904215.1_ViralProj192608_genomic.fna.gz",
+        "filename": "GCF_000904215.1_ViralProj192608_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020475.1 Corchorus yellow vein mosaic betasatellite clone CBA7, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

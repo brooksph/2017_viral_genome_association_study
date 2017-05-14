@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842005.1/GCF_000842005.1_ViralProj14232_genomic.fna.gz",
+        "filename": "GCF_000842005.1_ViralProj14232_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003414.1 Ageratum yellow vein Singapore alphasatellite-[Singapore;1998], complete genome",
         "signatures": [
             {
                 "ksize": 31,

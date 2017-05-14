@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843705.1/GCF_000843705.1_ViralProj14400_genomic.fna.gz",
+        "filename": "GCF_000843705.1_ViralProj14400_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004641.1 Tobacco leaf curl Kochi virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

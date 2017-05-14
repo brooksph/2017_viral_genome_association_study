@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870165.1/GCF_000870165.1_ViralProj17997_genomic.fna.gz",
+        "filename": "GCF_000870165.1_ViralProj17997_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008515.1 Bacteriophage RB32, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875625.1/GCF_000875625.1_ViralMultiSegProj31095_genomic.fna.gz",
+        "filename": "GCF_000875625.1_ViralMultiSegProj31095_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011181.1 Okra mottle virus - [Brazil:okra] DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

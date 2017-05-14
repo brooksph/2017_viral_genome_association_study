@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869605.1/GCF_000869605.1_ViralProj18303_genomic.fna.gz",
+        "filename": "GCF_000869605.1_ViralProj18303_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008604.2 Culex flavivirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

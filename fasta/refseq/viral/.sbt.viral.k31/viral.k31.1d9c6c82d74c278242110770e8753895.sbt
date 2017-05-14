@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910755.1/GCF_000910755.1_ViralMultiSegProj214691_genomic.fna.gz",
+        "filename": "GCF_000910755.1_ViralMultiSegProj214691_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022004.1 Broad bean true mosaic virus isolate EV-11 segment RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873745.1/GCF_000873745.1_ViralProj27895_genomic.fna.gz",
+        "filename": "GCF_000873745.1_ViralProj27895_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009994.1 Tobacco vein banding mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842105.1/GCF_000842105.1_ViralProj14252_genomic.fna.gz",
+        "filename": "GCF_000842105.1_ViralProj14252_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004634.1 Malvastrum yellow vein virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

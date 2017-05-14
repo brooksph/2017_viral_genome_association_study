@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921295.1/GCF_000921295.1_ViralProj254347_genomic.fna.gz",
+        "filename": "GCF_000921295.1_ViralProj254347_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003565.1 Faba bean necrotic yellows C7 alphasatellite C7-Eg gene, isolate Egyptian EV1-93",
         "signatures": [
             {
                 "ksize": 31,

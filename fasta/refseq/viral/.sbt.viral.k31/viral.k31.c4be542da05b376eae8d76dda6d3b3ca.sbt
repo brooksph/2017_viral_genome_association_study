@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001343805.1/GCF_001343805.1_ViralMultiSegProj176605_genomic.fna.gz",
+        "filename": "GCF_001343805.1_ViralMultiSegProj176605_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018711.1 Lunk virus NKS-1 segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

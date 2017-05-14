@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917115.1/GCF_000917115.1_ViralProj239908_genomic.fna.gz",
+        "filename": "GCF_000917115.1_ViralProj239908_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023628.1 Narcissus late season yellows virus isolate Marijiniup8, complete genome",
         "signatures": [
             {
                 "ksize": 31,

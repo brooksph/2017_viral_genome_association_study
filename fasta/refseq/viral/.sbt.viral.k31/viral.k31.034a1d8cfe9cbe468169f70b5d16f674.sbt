@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000931315.1/GCF_000931315.1_ViralProj274158_genomic.fna.gz",
+        "filename": "GCF_000931315.1_ViralProj274158_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026318.1 Chimpanzee smacovirus isolate SF2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

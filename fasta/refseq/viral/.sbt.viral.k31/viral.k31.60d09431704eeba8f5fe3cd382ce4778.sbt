@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837125.1/GCF_000837125.1_ViralProj14084_genomic.fna.gz",
+        "filename": "GCF_000837125.1_ViralProj14084_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001875.2 Orgyia pseudotsugata MNPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

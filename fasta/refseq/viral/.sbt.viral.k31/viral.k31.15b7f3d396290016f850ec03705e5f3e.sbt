@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865645.1/GCF_000865645.1_ViralProj15502_genomic.fna.gz",
+        "filename": "GCF_000865645.1_ViralProj15502_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001504.1 Melon necrotic spot virus, genome",
         "signatures": [
             {
                 "ksize": 31,

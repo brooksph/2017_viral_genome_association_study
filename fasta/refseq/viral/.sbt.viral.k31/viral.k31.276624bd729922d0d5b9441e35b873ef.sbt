@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889635.1/GCF_000889635.1_ViralProj61903_genomic.fna.gz",
+        "filename": "GCF_000889635.1_ViralProj61903_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014904.1 Tuber aestivum endornavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

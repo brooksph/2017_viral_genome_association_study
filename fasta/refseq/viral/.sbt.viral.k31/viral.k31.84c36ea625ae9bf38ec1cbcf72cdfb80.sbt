@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001021215.1/GCF_001021215.1_ViralProj286008_genomic.fna.gz",
+        "filename": "GCF_001021215.1_ViralProj286008_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027199.1 Bovine nidovirus TCH5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

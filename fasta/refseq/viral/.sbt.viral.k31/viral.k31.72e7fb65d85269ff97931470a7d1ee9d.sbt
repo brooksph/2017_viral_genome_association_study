@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859565.1/GCF_000859565.1_ViralMultiSegProj15131_genomic.fna.gz",
+        "filename": "GCF_000859565.1_ViralMultiSegProj15131_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006271.1 Cherry rasp leaf virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

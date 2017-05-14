@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879635.1/GCF_000879635.1_ViralProj30609_genomic.fna.gz",
+        "filename": "GCF_000879635.1_ViralProj30609_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011044.1 Mycobacterium phage Nigel, complete genome",
         "signatures": [
             {
                 "ksize": 31,

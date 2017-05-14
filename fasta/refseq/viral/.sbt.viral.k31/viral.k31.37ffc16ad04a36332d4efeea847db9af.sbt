@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889415.1/GCF_000889415.1_ViralProj60049_genomic.fna.gz",
+        "filename": "GCF_000889415.1_ViralProj60049_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014648.1 Pineapple bacilliform comosus virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

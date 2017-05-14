@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930675.1/GCF_000930675.1_ViralProj270094_genomic.fna.gz",
+        "filename": "GCF_000930675.1_ViralProj270094_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025890.1 Tortoise picornavirus strain 14-04, complete genome",
         "signatures": [
             {
                 "ksize": 31,

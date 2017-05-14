@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754485.1/GCF_001754485.1_ViralMultiSegProj345028_genomic.fna.gz",
+        "filename": "GCF_001754485.1_ViralMultiSegProj345028_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031312.1 Wuhan Mosquito Virus 2 strain QN2-7 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

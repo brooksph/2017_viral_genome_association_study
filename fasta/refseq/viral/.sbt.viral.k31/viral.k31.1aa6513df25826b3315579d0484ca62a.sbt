@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849525.1/GCF_000849525.1_ViralMultiSegProj14741_genomic.fna.gz",
+        "filename": "GCF_000849525.1_ViralMultiSegProj14741_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003448.1 Striped Jack nervous necrosis virus RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

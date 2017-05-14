@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001020035.1/GCF_001020035.1_ViralProj285590_genomic.fna.gz",
+        "filename": "GCF_001020035.1_ViralProj285590_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027133.1 Kenaf leaf curl betasatellite, isolate [Pakistan:20-4:06] Faisalabad1",
         "signatures": [
             {
                 "ksize": 31,

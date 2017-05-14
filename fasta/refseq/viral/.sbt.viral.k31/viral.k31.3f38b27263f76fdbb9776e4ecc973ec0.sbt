@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960175.1/GCF_001960175.1_ViralMultiSegProj361814_genomic.fna.gz",
+        "filename": "GCF_001960175.1_ViralMultiSegProj361814_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033289.1 Shahe yuevirus-like virus 1 strain SHWC0209c11789 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

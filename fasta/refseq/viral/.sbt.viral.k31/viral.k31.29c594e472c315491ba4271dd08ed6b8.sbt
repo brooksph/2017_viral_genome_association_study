@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907715.1/GCF_000907715.1_ViralProj209065_genomic.fna.gz",
+        "filename": "GCF_000907715.1_ViralProj209065_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021530.1 Synechococcus phage S-CAM8 strain S-CAM8 06008BI06, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841005.1/GCF_000841005.1_ViralProj14364_genomic.fna.gz",
+        "filename": "GCF_000841005.1_ViralProj14364_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005832.1 Ambystoma tigrinum virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

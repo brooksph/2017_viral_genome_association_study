@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880815.1/GCF_000880815.1_ViralProj32693_genomic.fna.gz",
+        "filename": "GCF_000880815.1_ViralProj32693_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011544.1 Hosta virus X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

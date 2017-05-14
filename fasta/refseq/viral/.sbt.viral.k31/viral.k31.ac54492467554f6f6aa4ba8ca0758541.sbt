@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004195.1/GCF_002004195.1_ViralMultiSegProj375023_genomic.fna.gz",
+        "filename": "GCF_002004195.1_ViralMultiSegProj375023_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033751.1 Wuhan pillworm virus 3 strain WHSFII20254 segment 1 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

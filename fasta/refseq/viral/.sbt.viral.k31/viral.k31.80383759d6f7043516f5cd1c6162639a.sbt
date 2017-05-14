@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001743715.1/GCF_001743715.1_ViralProj344117_genomic.fna.gz",
+        "filename": "GCF_001743715.1_ViralProj344117_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031023.1 Streptococcus virus 9874, complete genome",
         "signatures": [
             {
                 "ksize": 31,

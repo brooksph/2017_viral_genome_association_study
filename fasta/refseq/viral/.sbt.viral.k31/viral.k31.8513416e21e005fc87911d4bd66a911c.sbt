@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911235.1/GCF_000911235.1_ViralProj226728_genomic.fna.gz",
+        "filename": "GCF_000911235.1_ViralProj226728_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022745.1 Tall oatgrass mosaic virus isolate Benesov, complete genome",
         "signatures": [
             {
                 "ksize": 31,

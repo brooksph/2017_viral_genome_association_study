@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854985.1/GCF_000854985.1_ViralProj15056_genomic.fna.gz",
+        "filename": "GCF_000854985.1_ViralProj15056_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005343.1 Poplar mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

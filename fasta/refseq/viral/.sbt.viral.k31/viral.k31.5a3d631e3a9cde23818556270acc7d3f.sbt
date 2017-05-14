@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858685.1/GCF_000858685.1_ViralMultiSegProj15122_genomic.fna.gz",
+        "filename": "GCF_000858685.1_ViralMultiSegProj15122_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006566.1 Fragaria chiloensis latent virus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

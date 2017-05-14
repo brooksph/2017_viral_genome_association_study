@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848505.1/GCF_000848505.1_ViralProj14703_genomic.fna.gz",
+        "filename": "GCF_000848505.1_ViralProj14703_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002549.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, complete genome",
         "signatures": [
             {
                 "ksize": 31,

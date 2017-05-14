@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274125.1/GCF_001274125.1_ViralProj293728_genomic.fna.gz",
+        "filename": "GCF_001274125.1_ViralProj293728_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027798.1 Paramuricea placomus associated circular virus isolate I0351, complete genome",
         "signatures": [
             {
                 "ksize": 31,

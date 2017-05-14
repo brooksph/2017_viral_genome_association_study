@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867785.1/GCF_000867785.1_ViralProj18259_genomic.fna.gz",
+        "filename": "GCF_000867785.1_ViralProj18259_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008582.1 Old World harvest mouse papillomavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

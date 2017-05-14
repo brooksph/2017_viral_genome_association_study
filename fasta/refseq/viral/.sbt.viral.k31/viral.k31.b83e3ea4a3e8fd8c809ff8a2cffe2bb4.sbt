@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927555.1/GCF_000927555.1_ViralProj266785_genomic.fna.gz",
+        "filename": "GCF_000927555.1_ViralProj266785_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025465.1 Enterococcus phage EfaCPT1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

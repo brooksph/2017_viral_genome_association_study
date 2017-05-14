@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001882335.1/GCF_001882335.1_ViralProj353698_genomic.fna.gz",
+        "filename": "GCF_001882335.1_ViralProj353698_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031910.1 Streptococcus phage phiARI0031, complete genome",
         "signatures": [
             {
                 "ksize": 31,

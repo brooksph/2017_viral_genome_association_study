@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837545.1/GCF_000837545.1_ViralProj14172_genomic.fna.gz",
+        "filename": "GCF_000837545.1_ViralProj14172_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003609.1 Honeysuckle yellow vein mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

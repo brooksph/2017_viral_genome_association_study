@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001448415.1/GCF_001448415.1_ViralProj303939_genomic.fna.gz",
+        "filename": "GCF_001448415.1_ViralProj303939_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028460.1 Soybean leaf-associated gemycircularvirus 1 strain SlaGemV1-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

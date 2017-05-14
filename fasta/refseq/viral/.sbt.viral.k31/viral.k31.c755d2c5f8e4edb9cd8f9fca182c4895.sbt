@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274345.1/GCF_001274345.1_ViralProj293723_genomic.fna.gz",
+        "filename": "GCF_001274345.1_ViralProj293723_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027779.1 Human papillomavirus isolate SE379, complete genome",
         "signatures": [
             {
                 "ksize": 31,

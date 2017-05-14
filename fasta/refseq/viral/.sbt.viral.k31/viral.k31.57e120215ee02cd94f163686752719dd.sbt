@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897875.1/GCF_000897875.1_ViralProj177544_genomic.fna.gz",
+        "filename": "GCF_000897875.1_ViralProj177544_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018833.1 Iranian johnsongrass mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

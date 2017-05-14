@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960315.1/GCF_001960315.1_ViralProj361844_genomic.fna.gz",
+        "filename": "GCF_001960315.1_ViralProj361844_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032798.1 Shahe endorna-like virus 1 strain SHWC0209c12790 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873125.1/GCF_000873125.1_ViralProj19481_genomic.fna.gz",
+        "filename": "GCF_000873125.1_ViralProj19481_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009382.1 Ralstonia phage phiRSA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

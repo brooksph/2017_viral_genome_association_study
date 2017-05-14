@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885855.1/GCF_000885855.1_ViralMultiSegProj39975_genomic.fna.gz",
+        "filename": "GCF_000885855.1_ViralMultiSegProj39975_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013109.1 Primula malacoides virus China/Mar2007 RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

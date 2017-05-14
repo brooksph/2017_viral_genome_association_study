@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851425.1/GCF_000851425.1_ViralProj14803_genomic.fna.gz",
+        "filename": "GCF_000851425.1_ViralProj14803_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003784.1 Black queen cell virus nonstructural polyprotein (orf1) and structural polyprotein (orf2) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

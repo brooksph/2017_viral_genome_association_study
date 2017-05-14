@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906375.1/GCF_000906375.1_ViralMultiSegProj198687_genomic.fna.gz",
+        "filename": "GCF_000906375.1_ViralMultiSegProj198687_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021098.1 Hop trefoil cryptic virus 2 isolate IPP_GelbSK segment RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

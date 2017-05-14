@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889555.1/GCF_000889555.1_ViralMultiSegProj61135_genomic.fna.gz",
+        "filename": "GCF_000889555.1_ViralMultiSegProj61135_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014794.1 Sida golden mosaic Buckup virus-[Jamaica:St. Elizabeth:2004] DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

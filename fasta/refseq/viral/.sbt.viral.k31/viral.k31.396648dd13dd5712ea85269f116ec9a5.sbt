@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925555.1/GCF_001925555.1_ViralProj359267_genomic.fna.gz",
+        "filename": "GCF_001925555.1_ViralProj359267_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032476.1 Beihai hypo-like virus 1 strain BHZC36965 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

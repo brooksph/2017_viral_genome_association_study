@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920655.1/GCF_000920655.1_ViralProj244478_genomic.fna.gz",
+        "filename": "GCF_000920655.1_ViralProj244478_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023984.1 Human cosavirus isolate Cosavirus_Amsterdam_1994, complete genome",
         "signatures": [
             {
                 "ksize": 31,

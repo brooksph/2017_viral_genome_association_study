@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904275.1/GCF_000904275.1_ViralProj192872_genomic.fna.gz",
+        "filename": "GCF_000904275.1_ViralProj192872_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020478.1 Bacillus phage Andromeda, complete genome",
         "signatures": [
             {
                 "ksize": 31,

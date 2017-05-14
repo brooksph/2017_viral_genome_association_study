@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001678255.2/GCF_001678255.2_ViralProj326525_genomic.fna.gz",
+        "filename": "GCF_001678255.2_ViralProj326525_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030394.2 Short-finned eel ranavirus isolate ANGA14001, complete genome",
         "signatures": [
             {
                 "ksize": 31,

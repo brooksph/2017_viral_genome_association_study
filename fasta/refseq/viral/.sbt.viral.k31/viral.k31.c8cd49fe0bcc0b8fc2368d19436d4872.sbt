@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852145.1/GCF_000852145.1_ViralProj14792_genomic.fna.gz",
+        "filename": "GCF_000852145.1_ViralProj14792_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003745.1 Saccharomyces cerevisiae virus L-A (L1), complete genome",
         "signatures": [
             {
                 "ksize": 31,

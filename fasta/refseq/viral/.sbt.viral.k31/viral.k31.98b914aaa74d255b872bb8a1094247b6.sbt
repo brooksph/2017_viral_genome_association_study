@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864245.1/GCF_000864245.1_ViralMultiSegProj16144_genomic.fna.gz",
+        "filename": "GCF_000864245.1_ViralMultiSegProj16144_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007548.1 Adult diarrheal rotavirus strain J19, complete genome",
         "signatures": [
             {
                 "ksize": 31,

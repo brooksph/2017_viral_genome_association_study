@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001678455.2/GCF_001678455.2_ViralMultiSegProj327361_genomic.fna.gz",
+        "filename": "GCF_001678455.2_ViralMultiSegProj327361_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030405.1 Etheostoma fonticola aquareovirus isolate San Marcos 2003 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

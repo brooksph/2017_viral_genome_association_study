@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897135.1/GCF_000897135.1_ViralProj167575_genomic.fna.gz",
+        "filename": "GCF_000897135.1_ViralProj167575_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017983.1 Salisaeta icosahedral phage 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

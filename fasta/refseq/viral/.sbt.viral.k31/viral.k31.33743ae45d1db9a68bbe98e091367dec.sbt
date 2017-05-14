@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909975.1/GCF_000909975.1_ViralProj206038_genomic.fna.gz",
+        "filename": "GCF_000909975.1_ViralProj206038_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021299.1 Mycobacterium phage PegLeg, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861625.1/GCF_000861625.1_ViralMultiSegProj15384_genomic.fna.gz",
+        "filename": "GCF_000861625.1_ViralMultiSegProj15384_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003799.1 Squash mosaic virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

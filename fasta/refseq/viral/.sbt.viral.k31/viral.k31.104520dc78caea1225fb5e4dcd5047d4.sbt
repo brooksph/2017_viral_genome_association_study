@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893515.1/GCF_000893515.1_ViralMultiSegProj66187_genomic.fna.gz",
+        "filename": "GCF_000893515.1_ViralMultiSegProj66187_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015414.1 Cherry leaf roll virus RNA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869505.1/GCF_000869505.1_ViralProj18011_genomic.fna.gz",
+        "filename": "GCF_000869505.1_ViralProj18011_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008519.1 Mastomys coucha papillomavirus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

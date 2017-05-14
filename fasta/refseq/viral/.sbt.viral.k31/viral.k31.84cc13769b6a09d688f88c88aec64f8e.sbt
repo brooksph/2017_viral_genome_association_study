@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927075.1/GCF_000927075.1_ViralProj264916_genomic.fna.gz",
+        "filename": "GCF_000927075.1_ViralProj264916_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025363.1 Avian paramyxovirus 12 isolate Wigeon/Italy/3920_1/2005, complete genome",
         "signatures": [
             {
                 "ksize": 31,

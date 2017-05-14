@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744795.1/GCF_001744795.1_ViralProj344209_genomic.fna.gz",
+        "filename": "GCF_001744795.1_ViralProj344209_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031035.1 Mycobacterium phage Gengar, complete genome",
         "signatures": [
             {
                 "ksize": 31,

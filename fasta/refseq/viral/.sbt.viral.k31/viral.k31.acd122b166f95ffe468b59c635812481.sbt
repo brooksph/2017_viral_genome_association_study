@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842585.1/GCF_000842585.1_ViralProj14355_genomic.fna.gz",
+        "filename": "GCF_000842585.1_ViralProj14355_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005361.1 Sulfolobus virus Kamchatka 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

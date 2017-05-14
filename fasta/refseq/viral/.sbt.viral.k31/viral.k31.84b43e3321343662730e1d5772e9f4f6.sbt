@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845485.1/GCF_000845485.1_ViralProj14421_genomic.fna.gz",
+        "filename": "GCF_000845485.1_ViralProj14421_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004765.1 Felis domesticus papillomavirus type 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

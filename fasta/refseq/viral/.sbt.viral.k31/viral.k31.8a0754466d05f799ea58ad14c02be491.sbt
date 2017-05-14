@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875425.1/GCF_000875425.1_ViralProj30521_genomic.fna.gz",
+        "filename": "GCF_000875425.1_ViralProj30521_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011023.1 Mycobacterium phage Pukovnik, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754105.1/GCF_001754105.1_ViralProj310876_genomic.fna.gz",
+        "filename": "GCF_001754105.1_ViralProj310876_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029054.1 Banzi virus strain SAH 336 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

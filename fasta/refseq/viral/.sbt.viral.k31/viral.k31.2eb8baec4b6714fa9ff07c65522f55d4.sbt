@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859725.1/GCF_000859725.1_ViralProj15164_genomic.fna.gz",
+        "filename": "GCF_000859725.1_ViralProj15164_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006945.1 Bacillus phage GIL16c, complete genome",
         "signatures": [
             {
                 "ksize": 31,

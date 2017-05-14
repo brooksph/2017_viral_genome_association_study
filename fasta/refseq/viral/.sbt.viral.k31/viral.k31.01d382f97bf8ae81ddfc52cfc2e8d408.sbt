@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894935.1/GCF_000894935.1_ViralMultiSegProj76343_genomic.fna.gz",
+        "filename": "GCF_000894935.1_ViralMultiSegProj76343_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016141.1 Hibiscus green spot virus isolate WAI 1-1 segment RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

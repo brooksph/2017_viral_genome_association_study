@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853185.1/GCF_000853185.1_ViralProj14840_genomic.fna.gz",
+        "filename": "GCF_000853185.1_ViralProj14840_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004050.1 Saccharomyces 23S RNA narnavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

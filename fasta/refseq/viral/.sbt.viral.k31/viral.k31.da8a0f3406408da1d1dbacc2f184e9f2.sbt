@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888375.1/GCF_000888375.1_ViralProj48593_genomic.fna.gz",
+        "filename": "GCF_000888375.1_ViralProj48593_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014140.1 Soybean mild mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

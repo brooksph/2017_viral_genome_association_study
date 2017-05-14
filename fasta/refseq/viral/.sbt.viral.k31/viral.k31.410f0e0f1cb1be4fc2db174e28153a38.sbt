@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001027375.1/GCF_001027375.1_ViralProj286247_genomic.fna.gz",
+        "filename": "GCF_001027375.1_ViralProj286247_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027208.1 Sclerotinia sclerotiorum fusarivirus 1 strain JMTJ14, complete genome",
         "signatures": [
             {
                 "ksize": 31,

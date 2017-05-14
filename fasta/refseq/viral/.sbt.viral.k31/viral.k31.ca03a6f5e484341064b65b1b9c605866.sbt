@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001630025.1/GCF_001630025.1_ViralProj319115_genomic.fna.gz",
+        "filename": "GCF_001630025.1_ViralProj319115_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029906.1 Barley virus G isolate Gimje, complete genome",
         "signatures": [
             {
                 "ksize": 31,

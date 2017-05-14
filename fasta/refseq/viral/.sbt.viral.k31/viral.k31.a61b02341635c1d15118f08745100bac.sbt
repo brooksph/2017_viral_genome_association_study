@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002003935.1/GCF_002003935.1_ViralMultiSegProj375034_genomic.fna.gz",
+        "filename": "GCF_002003935.1_ViralMultiSegProj375034_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033761.1 Hubei myriapoda virus 5 strain GCM10499 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

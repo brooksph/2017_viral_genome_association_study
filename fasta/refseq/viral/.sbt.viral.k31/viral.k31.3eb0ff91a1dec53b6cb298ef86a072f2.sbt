@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754325.1/GCF_001754325.1_ViralProj344617_genomic.fna.gz",
+        "filename": "GCF_001754325.1_ViralProj344617_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031251.1 Gordonia phage SoilAssassin, complete genome",
         "signatures": [
             {
                 "ksize": 31,

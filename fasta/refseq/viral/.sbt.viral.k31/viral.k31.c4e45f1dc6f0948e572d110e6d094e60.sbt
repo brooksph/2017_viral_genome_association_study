@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847925.1/GCF_000847925.1_ViralProj14580_genomic.fna.gz",
+        "filename": "GCF_000847925.1_ViralProj14580_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001365.1 Spiroplasma phage 1-R8A2B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

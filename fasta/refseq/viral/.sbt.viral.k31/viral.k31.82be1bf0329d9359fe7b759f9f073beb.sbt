@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893075.1/GCF_000893075.1_ViralProj62213_genomic.fna.gz",
+        "filename": "GCF_000893075.1_ViralProj62213_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014968.1 Sweet potato leaf curl Uganda virus-[Uganda:Kampala:2008], complete genome",
         "signatures": [
             {
                 "ksize": 31,

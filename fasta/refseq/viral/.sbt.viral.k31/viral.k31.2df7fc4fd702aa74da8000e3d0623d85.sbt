@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871705.1/GCF_000871705.1_ViralProj19799_genomic.fna.gz",
+        "filename": "GCF_000871705.1_ViralProj19799_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009553.1 Tobacco leaf curl Thailand virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

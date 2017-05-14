@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912995.1/GCF_000912995.1_ViralProj227122_genomic.fna.gz",
+        "filename": "GCF_000912995.1_ViralProj227122_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022766.1 Bacillus phage Glittering, complete genome",
         "signatures": [
             {
                 "ksize": 31,

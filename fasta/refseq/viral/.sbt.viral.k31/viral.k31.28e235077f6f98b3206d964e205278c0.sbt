@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849685.1/GCF_000849685.1_ViralProj14597_genomic.fna.gz",
+        "filename": "GCF_000849685.1_ViralProj14597_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002794.1 Tupaiid herpesvirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

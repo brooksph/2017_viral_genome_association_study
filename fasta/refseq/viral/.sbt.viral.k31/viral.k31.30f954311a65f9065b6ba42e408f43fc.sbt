@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000954695.1/GCF_000954695.1_ViralProj276872_genomic.fna.gz",
+        "filename": "GCF_000954695.1_ViralProj276872_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026606.1 Arthrobacter phage vB_ArtM-ArV1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

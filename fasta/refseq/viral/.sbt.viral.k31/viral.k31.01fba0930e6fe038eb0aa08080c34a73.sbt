@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906775.1/GCF_000906775.1_ViralProj192875_genomic.fna.gz",
+        "filename": "GCF_000906775.1_ViralProj192875_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020480.1 Bacillus phage Finn, complete genome",
         "signatures": [
             {
                 "ksize": 31,

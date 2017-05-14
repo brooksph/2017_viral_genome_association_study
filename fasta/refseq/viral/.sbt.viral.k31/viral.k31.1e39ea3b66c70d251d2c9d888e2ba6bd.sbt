@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891555.1/GCF_000891555.1_ViralProj62493_genomic.fna.gz",
+        "filename": "GCF_000891555.1_ViralProj62493_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015050.1 Pepper vein yellows virus genomic RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

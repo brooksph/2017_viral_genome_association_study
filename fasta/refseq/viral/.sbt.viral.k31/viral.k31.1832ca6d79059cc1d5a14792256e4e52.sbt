@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916855.1/GCF_000916855.1_ViralProj237470_genomic.fna.gz",
+        "filename": "GCF_000916855.1_ViralProj237470_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023426.1 Anomala cuprea entomopoxvirus DNA, complete genome, strain: CV6M",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879175.1/GCF_000879175.1_ViralProj28979_genomic.fna.gz",
+        "filename": "GCF_000879175.1_ViralProj28979_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010416.1 Asparagus virus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001885485.1/GCF_001885485.1_ViralProj354165_genomic.fna.gz",
+        "filename": "GCF_001885485.1_ViralProj354165_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031955.1 Lleida bat lyssavirus isolate RV3208, complete genome",
         "signatures": [
             {
                 "ksize": 31,

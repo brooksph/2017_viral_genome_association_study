@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857365.1/GCF_000857365.1_ViralProj15207_genomic.fna.gz",
+        "filename": "GCF_000857365.1_ViralProj15207_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001725.1 Strawberry vein banding virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

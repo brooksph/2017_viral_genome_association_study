@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843765.1/GCF_000843765.1_ViralProj14412_genomic.fna.gz",
+        "filename": "GCF_000843765.1_ViralProj14412_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004091.1 Stachytarpheta leaf curl virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

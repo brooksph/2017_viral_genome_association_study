@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917595.1/GCF_000917595.1_ViralProj240728_genomic.fna.gz",
+        "filename": "GCF_000917595.1_ViralProj240728_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023696.1 Mycobacterium phage Dandelion, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926195.1/GCF_001926195.1_ViralProj359293_genomic.fna.gz",
+        "filename": "GCF_001926195.1_ViralProj359293_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032478.1 Beihai paphia shell virus 1 strain BHZY60696 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

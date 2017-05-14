@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001443885.1/GCF_001443885.1_ViralProj302023_genomic.fna.gz",
+        "filename": "GCF_001443885.1_ViralProj302023_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028364.1 Shrew hepatovirus isolate KS121232Sorara2012 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

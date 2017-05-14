@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001292915.1/GCF_001292915.1_ViralProj295580_genomic.fna.gz",
+        "filename": "GCF_001292915.1_ViralProj295580_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027820.1 Poaceae-associated gemycircularvirus 1 isolate PaGmV-1_TO_STO14-29204_2014, complete genome",
         "signatures": [
             {
                 "ksize": 31,

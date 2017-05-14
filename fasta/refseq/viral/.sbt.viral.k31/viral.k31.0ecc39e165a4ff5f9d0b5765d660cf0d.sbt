@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927615.2/GCF_000927615.2_ViralMultiSegProj267137_genomic.fna.gz",
+        "filename": "GCF_000927615.2_ViralMultiSegProj267137_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025479.2 Carrot torradovirus 1 isolate CTV-1_RNA1_H6 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

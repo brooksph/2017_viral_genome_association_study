@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843805.1/GCF_000843805.1_ViralProj14420_genomic.fna.gz",
+        "filename": "GCF_000843805.1_ViralProj14420_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004735.1 Rhodothermus phage RM378, complete genome",
         "signatures": [
             {
                 "ksize": 31,

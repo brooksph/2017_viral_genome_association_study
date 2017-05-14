@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857805.1/GCF_000857805.1_ViralProj15092_genomic.fna.gz",
+        "filename": "GCF_000857805.1_ViralProj15092_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003985.1 Porcine teschovirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

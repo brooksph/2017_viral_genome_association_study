@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843425.1/GCF_000843425.1_ViralProj14350_genomic.fna.gz",
+        "filename": "GCF_000843425.1_ViralProj14350_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005354.1 Lactobacillus prophage Lj928, complete genome",
         "signatures": [
             {
                 "ksize": 31,

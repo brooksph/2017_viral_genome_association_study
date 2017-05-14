@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914975.1/GCF_000914975.1_ViralProj229828_genomic.fna.gz",
+        "filename": "GCF_000914975.1_ViralProj229828_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022894.1 Donkey orchid symptomless virus isolate Mariginiup11, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502515.1/GCF_001502515.1_ViralProj307725_genomic.fna.gz",
+        "filename": "GCF_001502515.1_ViralProj307725_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028802.1 Mycobacterium phage UnionJack, complete genome",
         "signatures": [
             {
                 "ksize": 31,

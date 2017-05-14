@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001580355.1/GCF_001580355.1_ViralMultiSegProj314257_genomic.fna.gz",
+        "filename": "GCF_001580355.1_ViralMultiSegProj314257_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029575.1 Pigeonpea sterility mosaic virus, segment RNA1, RdRp gene for RNA dependent RNA polymerase, genomic RNA",
         "signatures": [
             {
                 "ksize": 31,

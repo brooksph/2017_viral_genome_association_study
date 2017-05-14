@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869345.1/GCF_000869345.1_ViralMultiSegProj17551_genomic.fna.gz",
+        "filename": "GCF_000869345.1_ViralMultiSegProj17551_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008304.1 Euphorbia mosaic virus - A [Mexico:Yucatan:2004] clone pEuMV-YP-A segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

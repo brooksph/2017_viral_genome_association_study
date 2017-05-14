@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910675.1/GCF_000910675.1_ViralProj214365_genomic.fna.gz",
+        "filename": "GCF_000910675.1_ViralProj214365_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021928.1 Human parainfluenza virus 4a viral cRNA, complete genome, strain: M-25",
         "signatures": [
             {
                 "ksize": 31,

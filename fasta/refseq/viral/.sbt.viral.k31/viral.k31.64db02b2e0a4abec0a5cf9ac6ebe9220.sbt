@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926255.2/GCF_000926255.2_ViralProj263031_genomic.fna.gz",
+        "filename": "GCF_000926255.2_ViralProj263031_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025218.2 Leptopilina boulardi Toti-like virus strain NSref putative coat protein and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001792765.1/GCF_001792765.1_ViralProj348743_genomic.fna.gz",
+        "filename": "GCF_001792765.1_ViralProj348743_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031464.1 Ceratobasidium endornavirus G isolate Murdoch-7 polyprotein and ORF2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

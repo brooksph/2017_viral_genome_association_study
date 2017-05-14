@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893835.1/GCF_000893835.1_ViralProj72383_genomic.fna.gz",
+        "filename": "GCF_000893835.1_ViralProj72383_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015936.1 Mouse kobuvirus M-5/USA/2010, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899215.1/GCF_000899215.1_ViralProj174776_genomic.fna.gz",
+        "filename": "GCF_000899215.1_ViralProj174776_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018578.1 Sporobolus striate mosaic virus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001271035.1/GCF_001271035.1_ViralProj293047_genomic.fna.gz",
+        "filename": "GCF_001271035.1_ViralProj293047_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027709.1 Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome",
         "signatures": [
             {
                 "ksize": 31,

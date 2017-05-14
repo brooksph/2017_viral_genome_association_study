@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888695.1/GCF_000888695.1_ViralProj59507_genomic.fna.gz",
+        "filename": "GCF_000888695.1_ViralProj59507_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014631.1 Spinach severe curly top virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

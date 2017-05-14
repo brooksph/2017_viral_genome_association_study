@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860425.1/GCF_000860425.1_ViralMultiSegProj15291_genomic.fna.gz",
+        "filename": "GCF_000860425.1_ViralMultiSegProj15291_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003741.1 Red clover mottle virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

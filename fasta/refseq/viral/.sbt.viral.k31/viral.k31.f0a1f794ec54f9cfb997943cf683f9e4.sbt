@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926175.1/GCF_000926175.1_ViralMultiSegProj261351_genomic.fna.gz",
+        "filename": "GCF_000926175.1_ViralMultiSegProj261351_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024894.1 Bitter gourd yellow vein virus isolate BD12C8 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

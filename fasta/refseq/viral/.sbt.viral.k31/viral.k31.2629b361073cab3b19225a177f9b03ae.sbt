@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883095.1/GCF_000883095.1_ViralProj32011_genomic.fna.gz",
+        "filename": "GCF_000883095.1_ViralProj32011_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011285.1 Mycobacterium phage Troll4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

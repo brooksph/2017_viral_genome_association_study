@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871405.1/GCF_000871405.1_ViralProj28145_genomic.fna.gz",
+        "filename": "GCF_000871405.1_ViralProj28145_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010179.2 Lactobacillus johnsonii prophage Lj771, complete genome",
         "signatures": [
             {
                 "ksize": 31,

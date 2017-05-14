@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745995.1/GCF_001745995.1_ViralProj344184_genomic.fna.gz",
+        "filename": "GCF_001745995.1_ViralProj344184_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031011.1 Shigella phage SHFML-26, complete genome",
         "signatures": [
             {
                 "ksize": 31,

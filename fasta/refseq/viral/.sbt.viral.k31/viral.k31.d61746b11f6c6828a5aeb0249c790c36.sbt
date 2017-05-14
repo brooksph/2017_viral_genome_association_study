@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858845.1/GCF_000858845.1_ViralProj15155_genomic.fna.gz",
+        "filename": "GCF_000858845.1_ViralProj15155_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003848.1 Strawberry latent ringspot virus satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

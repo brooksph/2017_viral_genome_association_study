@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000982285.1/GCF_000982285.1_ViralProj282403_genomic.fna.gz",
+        "filename": "GCF_000982285.1_ViralProj282403_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026922.1 Lambdina fiscellaria nucleopolyhedrovirus isolate GR15, complete genome",
         "signatures": [
             {
                 "ksize": 31,

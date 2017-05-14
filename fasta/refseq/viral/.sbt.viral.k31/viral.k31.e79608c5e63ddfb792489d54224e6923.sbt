@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880175.2/GCF_000880175.2_ViralProj30183_genomic.fna.gz",
+        "filename": "GCF_000880175.2_ViralProj30183_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010837.1 Blainvillea yellow spot virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

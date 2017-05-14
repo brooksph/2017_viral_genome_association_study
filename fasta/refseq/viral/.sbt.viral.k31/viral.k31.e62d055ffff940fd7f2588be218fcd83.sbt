@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894735.1/GCF_000894735.1_ViralProj70003_genomic.fna.gz",
+        "filename": "GCF_000894735.1_ViralProj70003_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015782.1 Grapevine Pinot gris virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

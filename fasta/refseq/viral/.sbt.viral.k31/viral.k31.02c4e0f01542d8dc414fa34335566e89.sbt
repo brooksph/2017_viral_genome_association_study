@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004895.1/GCF_002004895.1_ViralMultiSegProj375032_genomic.fna.gz",
+        "filename": "GCF_002004895.1_ViralMultiSegProj375032_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033764.1 Wuhan cricket virus 2 strain WHXS3745 segment Seg 1 RdRp gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

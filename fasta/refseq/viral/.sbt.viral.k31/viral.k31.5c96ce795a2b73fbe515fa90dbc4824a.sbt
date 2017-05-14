@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858885.1/GCF_000858885.1_ViralProj15163_genomic.fna.gz",
+        "filename": "GCF_000858885.1_ViralProj15163_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006942.1 Taro vein chlorosis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

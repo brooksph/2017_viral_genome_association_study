@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914155.1/GCF_000914155.1_ViralProj230847_genomic.fna.gz",
+        "filename": "GCF_000914155.1_ViralProj230847_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023008.1 Butcherbird polyomavirus isolate AWH19840, complete genome",
         "signatures": [
             {
                 "ksize": 31,

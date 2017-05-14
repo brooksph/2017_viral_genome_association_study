@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905415.1/GCF_000905415.1_ViralProj195479_genomic.fna.gz",
+        "filename": "GCF_000905415.1_ViralProj195479_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020839.1 Rhodobacter phage RC1 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

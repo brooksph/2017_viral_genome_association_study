@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873205.1/GCF_000873205.1_ViralProj19755_genomic.fna.gz",
+        "filename": "GCF_000873205.1_ViralProj19755_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009533.1 Maize white line mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

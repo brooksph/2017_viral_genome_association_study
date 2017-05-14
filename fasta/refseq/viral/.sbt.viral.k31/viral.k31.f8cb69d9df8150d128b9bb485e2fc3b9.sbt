@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887115.1/GCF_000887115.1_ViralProj45909_genomic.fna.gz",
+        "filename": "GCF_000887115.1_ViralProj45909_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013796.1 California sea lion polyomavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

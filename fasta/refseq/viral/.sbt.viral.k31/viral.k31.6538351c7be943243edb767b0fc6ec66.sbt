@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895595.1/GCF_000895595.1_ViralProj76731_genomic.fna.gz",
+        "filename": "GCF_000895595.1_ViralProj76731_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016159.1 Keunjorong mosaic virus isolate Cheongwon, complete genome",
         "signatures": [
             {
                 "ksize": 31,

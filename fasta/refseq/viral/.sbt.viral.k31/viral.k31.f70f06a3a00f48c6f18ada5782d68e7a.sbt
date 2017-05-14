@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917435.1/GCF_000917435.1_ViralProj240321_genomic.fna.gz",
+        "filename": "GCF_000917435.1_ViralProj240321_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023673.1 Porcine bocavirus isolate swBoV CH437, complete genome",
         "signatures": [
             {
                 "ksize": 31,

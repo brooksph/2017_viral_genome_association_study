@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911815.1/GCF_000911815.1_ViralProj215111_genomic.fna.gz",
+        "filename": "GCF_000911815.1_ViralProj215111_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022061.1 Mycobacterium phage KayaCho, complete genome",
         "signatures": [
             {
                 "ksize": 31,

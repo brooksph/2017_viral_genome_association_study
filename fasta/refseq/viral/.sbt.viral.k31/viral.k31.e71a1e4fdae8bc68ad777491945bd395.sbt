@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891355.1/GCF_000891355.1_ViralProj73083_genomic.fna.gz",
+        "filename": "GCF_000891355.1_ViralProj73083_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016003.1 Tamus red mosaic virus isolate IT, complete genome",
         "signatures": [
             {
                 "ksize": 31,

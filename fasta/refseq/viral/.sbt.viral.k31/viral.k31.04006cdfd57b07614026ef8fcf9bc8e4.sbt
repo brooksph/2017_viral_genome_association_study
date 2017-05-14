@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745695.1/GCF_001745695.1_ViralProj344115_genomic.fna.gz",
+        "filename": "GCF_001745695.1_ViralProj344115_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031038.1 Skunkpox virus strain WA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

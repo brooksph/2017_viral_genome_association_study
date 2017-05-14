@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884675.1/GCF_000884675.1_ViralProj45935_genomic.fna.gz",
+        "filename": "GCF_000884675.1_ViralProj45935_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013803.1 Cotton leaf curl Burewala alphasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

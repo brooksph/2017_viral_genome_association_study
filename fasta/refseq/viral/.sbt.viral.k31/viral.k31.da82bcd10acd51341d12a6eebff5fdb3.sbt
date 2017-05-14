@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745775.1/GCF_001745775.1_ViralProj344131_genomic.fna.gz",
+        "filename": "GCF_001745775.1_ViralProj344131_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031117.1 Acinetobacter phage LZ35, complete genome",
         "signatures": [
             {
                 "ksize": 31,

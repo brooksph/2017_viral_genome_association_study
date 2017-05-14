@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001292975.1/GCF_001292975.1_ViralProj295577_genomic.fna.gz",
+        "filename": "GCF_001292975.1_ViralProj295577_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027821.1 Gemycircularvirus gemy-ch-rat1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

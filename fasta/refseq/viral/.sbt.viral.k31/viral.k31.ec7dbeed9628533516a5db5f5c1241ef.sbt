@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001958515.1/GCF_001958515.1_ViralProj361813_genomic.fna.gz",
+        "filename": "GCF_001958515.1_ViralProj361813_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033182.1 Shayang ascaridia galli virus 2 strain SYJFC48550 putative nucleoprotein, hypothetical protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

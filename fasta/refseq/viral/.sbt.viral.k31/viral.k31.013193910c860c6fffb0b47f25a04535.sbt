@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860745.1/GCF_000860745.1_ViralProj15356_genomic.fna.gz",
+        "filename": "GCF_000860745.1_ViralProj15356_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004060.2 Southern bean mosaic virus isolate Sao Paulo, complete genome",
         "signatures": [
             {
                 "ksize": 31,

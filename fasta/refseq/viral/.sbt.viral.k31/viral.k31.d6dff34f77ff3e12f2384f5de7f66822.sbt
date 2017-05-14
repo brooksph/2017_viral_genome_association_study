@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001443845.1/GCF_001443845.1_ViralProj301458_genomic.fna.gz",
+        "filename": "GCF_001443845.1_ViralProj301458_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028362.1 Caprine parainfluenza virus 3 strain JS2013, complete genome",
         "signatures": [
             {
                 "ksize": 31,

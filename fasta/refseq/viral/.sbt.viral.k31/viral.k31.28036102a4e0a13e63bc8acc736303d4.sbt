@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890475.1/GCF_000890475.1_ViralProj61859_genomic.fna.gz",
+        "filename": "GCF_000890475.1_ViralProj61859_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014901.1 Mycobacterium phage Wee, complete genome",
         "signatures": [
             {
                 "ksize": 31,

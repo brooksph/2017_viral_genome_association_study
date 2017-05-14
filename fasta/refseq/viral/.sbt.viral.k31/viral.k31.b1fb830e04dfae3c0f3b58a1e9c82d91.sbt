@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745655.1/GCF_001745655.1_ViralProj344107_genomic.fna.gz",
+        "filename": "GCF_001745655.1_ViralProj344107_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031032.1 Bacillus phage Stitch, complete genome",
         "signatures": [
             {
                 "ksize": 31,

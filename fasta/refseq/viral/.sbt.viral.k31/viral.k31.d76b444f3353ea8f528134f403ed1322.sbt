@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001968675.1/GCF_001968675.1_ViralProj361666_genomic.fna.gz",
+        "filename": "GCF_001968675.1_ViralProj361666_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033027.1 Hubei rhabdo-like virus 7 strain QTM26925 hypothetical protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

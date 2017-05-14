@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001966335.1/GCF_001966335.1_ViralMultiSegProj362122_genomic.fna.gz",
+        "filename": "GCF_001966335.1_ViralMultiSegProj362122_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033311.1 Hubei orthoptera virus 4 strain ZCM21011 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

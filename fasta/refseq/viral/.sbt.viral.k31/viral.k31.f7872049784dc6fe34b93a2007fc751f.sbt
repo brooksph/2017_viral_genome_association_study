@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861645.1/GCF_000861645.1_ViralProj15390_genomic.fna.gz",
+        "filename": "GCF_000861645.1_ViralProj15390_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003224.1 Zucchini yellow mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

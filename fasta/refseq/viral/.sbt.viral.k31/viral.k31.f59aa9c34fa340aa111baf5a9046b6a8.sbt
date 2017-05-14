@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000954675.1/GCF_000954675.1_ViralProj276868_genomic.fna.gz",
+        "filename": "GCF_000954675.1_ViralProj276868_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026598.1 Mycobacterium phage Milly, complete genome",
         "signatures": [
             {
                 "ksize": 31,

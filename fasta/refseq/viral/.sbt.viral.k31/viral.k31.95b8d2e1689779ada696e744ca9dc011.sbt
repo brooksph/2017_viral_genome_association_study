@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866915.1/GCF_001866915.1_ViralProj352515_genomic.fna.gz",
+        "filename": "GCF_001866915.1_ViralProj352515_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031750.1 Riptortus pedestris virus-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

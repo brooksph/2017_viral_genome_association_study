@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964375.1/GCF_001964375.1_ViralProj362033_genomic.fna.gz",
+        "filename": "GCF_001964375.1_ViralProj362033_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033029.1 Changjiang sobemo-like virus 2 strain CJLX29674 replicase, hypothetical protein 2, and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

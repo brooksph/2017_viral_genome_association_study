@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001308435.1/GCF_001308435.1_ViralProj298073_genomic.fna.gz",
+        "filename": "GCF_001308435.1_ViralProj298073_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027982.1 Lactobacillus phage phiPYB5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

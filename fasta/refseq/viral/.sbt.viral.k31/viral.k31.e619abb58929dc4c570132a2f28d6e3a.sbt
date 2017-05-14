@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851705.1/GCF_000851705.1_ViralMultiSegProj14864_genomic.fna.gz",
+        "filename": "GCF_000851705.1_ViralMultiSegProj14864_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004297.1 Lassa virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

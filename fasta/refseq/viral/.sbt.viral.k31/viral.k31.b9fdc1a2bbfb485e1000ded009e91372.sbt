@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910695.1/GCF_000910695.1_ViralMultiSegProj214690_genomic.fna.gz",
+        "filename": "GCF_000910695.1_ViralMultiSegProj214690_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022005.1 Bean chlorotic mosaic virus isolate Venezuela:Rubio 932:2007 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839585.1/GCF_000839585.1_ViralProj14076_genomic.fna.gz",
+        "filename": "GCF_000839585.1_ViralProj14076_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001647.1 Panicum streak virus - Karino, complete genome",
         "signatures": [
             {
                 "ksize": 31,

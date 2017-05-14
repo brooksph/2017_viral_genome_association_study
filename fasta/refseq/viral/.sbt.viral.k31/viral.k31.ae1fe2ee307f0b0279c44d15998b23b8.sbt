@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881415.1/GCF_000881415.1_ViralProj30935_genomic.fna.gz",
+        "filename": "GCF_000881415.1_ViralProj30935_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011135.1 Tomato leaf curl Kerala virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

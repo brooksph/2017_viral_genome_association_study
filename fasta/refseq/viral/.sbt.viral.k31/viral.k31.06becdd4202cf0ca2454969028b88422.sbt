@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875005.1/GCF_000875005.1_ViralProj28987_genomic.fna.gz",
+        "filename": "GCF_000875005.1_ViralProj28987_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010439.1 Tomato leaf curl Cebu virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

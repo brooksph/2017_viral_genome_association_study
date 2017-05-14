@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866085.1/GCF_000866085.1_ViralMultiSegProj16243_genomic.fna.gz",
+        "filename": "GCF_000866085.1_ViralMultiSegProj16243_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007666.1 Aedes pseudoscutellaris reovirus segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

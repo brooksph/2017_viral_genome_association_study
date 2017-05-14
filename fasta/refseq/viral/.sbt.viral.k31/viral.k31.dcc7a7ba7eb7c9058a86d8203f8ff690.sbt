@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897435.1/GCF_000897435.1_ViralProj171978_genomic.fna.gz",
+        "filename": "GCF_000897435.1_ViralProj171978_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018276.1 Croceibacter phage P2559S, complete genome",
         "signatures": [
             {
                 "ksize": 31,

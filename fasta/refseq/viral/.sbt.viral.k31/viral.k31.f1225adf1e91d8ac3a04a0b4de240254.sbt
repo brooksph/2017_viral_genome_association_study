@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870445.1/GCF_000870445.1_ViralProj18829_genomic.fna.gz",
+        "filename": "GCF_000870445.1_ViralProj18829_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009010.1 Dioscorea bacilliform virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

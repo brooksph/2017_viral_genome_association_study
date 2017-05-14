@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550905.1/GCF_001550905.1_ViralProj310903_genomic.fna.gz",
+        "filename": "GCF_001550905.1_ViralProj310903_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029066.1 Pseudomonas phage PS-1 DNA, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

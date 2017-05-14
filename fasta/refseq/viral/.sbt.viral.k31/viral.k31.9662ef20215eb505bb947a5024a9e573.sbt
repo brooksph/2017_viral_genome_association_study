@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909795.1/GCF_000909795.1_ViralProj214353_genomic.fna.gz",
+        "filename": "GCF_000909795.1_ViralProj214353_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021923.1 Hemileuca sp. nucleopolyhedrovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

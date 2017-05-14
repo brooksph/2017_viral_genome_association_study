@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881455.1/GCF_000881455.1_ViralProj31125_genomic.fna.gz",
+        "filename": "GCF_000881455.1_ViralProj31125_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011187.1 Rubus chlorotic mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

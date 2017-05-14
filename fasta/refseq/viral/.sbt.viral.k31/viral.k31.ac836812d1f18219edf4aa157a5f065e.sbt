@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865325.1/GCF_000865325.1_ViralProj16240_genomic.fna.gz",
+        "filename": "GCF_000865325.1_ViralProj16240_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007652.1 Avian metapneumovirus",
         "signatures": [
             {
                 "ksize": 31,

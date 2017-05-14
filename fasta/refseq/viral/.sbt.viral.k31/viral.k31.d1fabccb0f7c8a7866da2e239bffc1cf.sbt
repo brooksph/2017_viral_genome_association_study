@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892695.2/GCF_000892695.2_ViralProj66549_genomic.fna.gz",
+        "filename": "GCF_000892695.2_ViralProj66549_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015490.1 Merremia mosaic Puerto Rico virus DNA A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

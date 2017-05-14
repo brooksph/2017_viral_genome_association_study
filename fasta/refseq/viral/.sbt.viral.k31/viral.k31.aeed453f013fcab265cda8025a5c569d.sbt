@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917855.1/GCF_000917855.1_ViralProj242942_genomic.fna.gz",
+        "filename": "GCF_000917855.1_ViralProj242942_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023843.1 Nepavirus isolate NepaV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

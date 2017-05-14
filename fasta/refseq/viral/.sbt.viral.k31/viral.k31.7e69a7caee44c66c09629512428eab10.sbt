@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001777185.1/GCF_001777185.1_ViralProj348726_genomic.fna.gz",
+        "filename": "GCF_001777185.1_ViralProj348726_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031452.1 Macroptilium bright mosaic virus isolate ALM33_5B segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

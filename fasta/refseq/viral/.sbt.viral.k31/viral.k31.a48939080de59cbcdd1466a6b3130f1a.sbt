@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837465.1/GCF_000837465.1_ViralProj14154_genomic.fna.gz",
+        "filename": "GCF_000837465.1_ViralProj14154_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003387.1 Mycobacterium phage TM4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884395.1/GCF_000884395.1_ViralProj41413_genomic.fna.gz",
+        "filename": "GCF_000884395.1_ViralProj41413_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013443.1 HMO Astrovirus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

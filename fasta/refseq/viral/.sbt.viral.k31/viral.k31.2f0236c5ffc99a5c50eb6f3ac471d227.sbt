@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001957335.1/GCF_001957335.1_ViralProj360992_genomic.fna.gz",
+        "filename": "GCF_001957335.1_ViralProj360992_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032728.1 Adelphocoris suturalis virus isolate HBWH, complete genome",
         "signatures": [
             {
                 "ksize": 31,

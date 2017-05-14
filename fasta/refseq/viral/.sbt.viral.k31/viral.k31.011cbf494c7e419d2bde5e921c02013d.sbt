@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874065.1/GCF_000874065.1_ViralMultiSegProj19973_genomic.fna.gz",
+        "filename": "GCF_000874065.1_ViralMultiSegProj19973_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009607.1 Tomato severe rugose virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918895.1/GCF_000918895.1_ViralProj242953_genomic.fna.gz",
+        "filename": "GCF_000918895.1_ViralProj242953_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023849.1 Pouzolzia golden mosaic virus isolate TY01 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890615.1/GCF_000890615.1_ViralProj62749_genomic.fna.gz",
+        "filename": "GCF_000890615.1_ViralProj62749_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015123.1 Japanese eel endothelial cells-infecting virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

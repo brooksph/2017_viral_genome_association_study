@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891955.1/GCF_000891955.1_ViralMultiSegProj66185_genomic.fna.gz",
+        "filename": "GCF_000891955.1_ViralMultiSegProj66185_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015412.1 Sandfly Sicilian Turkey virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911535.1/GCF_000911535.1_ViralProj230586_genomic.fna.gz",
+        "filename": "GCF_000911535.1_ViralProj230586_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022983.1 Mycobacterium phage Bernardo, complete genome",
         "signatures": [
             {
                 "ksize": 31,

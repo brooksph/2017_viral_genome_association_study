@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864065.1/GCF_000864065.1_ViralProj15562_genomic.fna.gz",
+        "filename": "GCF_000864065.1_ViralProj15562_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007213.1 Sida yellow vein virus satellite DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274045.1/GCF_001274045.1_ViralProj293712_genomic.fna.gz",
+        "filename": "GCF_001274045.1_ViralProj293712_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027793.1 Gammarus sp. amphipod associated circular virus isolate I0153, complete genome",
         "signatures": [
             {
                 "ksize": 31,

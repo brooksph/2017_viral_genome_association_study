@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001723045.1/GCF_001723045.1_ViralMultiSegProj342456_genomic.fna.gz",
+        "filename": "GCF_001723045.1_ViralMultiSegProj342456_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030878.1 Fusarium poae partitivirus 2 genomic RNA, segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

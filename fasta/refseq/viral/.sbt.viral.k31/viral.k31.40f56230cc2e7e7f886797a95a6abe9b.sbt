@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872305.1/GCF_000872305.1_ViralProj27893_genomic.fna.gz",
+        "filename": "GCF_000872305.1_ViralProj27893_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009986.1 Sulfolobus spindle-shaped virus 4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

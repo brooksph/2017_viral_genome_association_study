@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430535.1/GCF_001430535.1_ViralProj300234_genomic.fna.gz",
+        "filename": "GCF_001430535.1_ViralProj300234_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028114.1 Tomato leaf curl Comoros virus complete genome, isolate Mayote:Dembeni:2003",
         "signatures": [
             {
                 "ksize": 31,

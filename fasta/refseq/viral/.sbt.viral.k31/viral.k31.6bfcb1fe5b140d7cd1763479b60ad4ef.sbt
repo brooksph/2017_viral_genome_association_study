@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863225.1/GCF_000863225.1_ViralProj15355_genomic.fna.gz",
+        "filename": "GCF_000863225.1_ViralProj15355_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003377.1 Maize dwarf mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

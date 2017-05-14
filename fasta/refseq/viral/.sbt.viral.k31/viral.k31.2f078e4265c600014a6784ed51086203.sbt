@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871885.1/GCF_000871885.1_ViralProj20647_genomic.fna.gz",
+        "filename": "GCF_000871885.1_ViralProj20647_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009756.1 Marine RNA virus SOG, complete genome",
         "signatures": [
             {
                 "ksize": 31,

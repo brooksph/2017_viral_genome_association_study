@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867285.1/GCF_000867285.1_ViralProj16799_genomic.fna.gz",
+        "filename": "GCF_000867285.1_ViralProj16799_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008034.1 Dracaena mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

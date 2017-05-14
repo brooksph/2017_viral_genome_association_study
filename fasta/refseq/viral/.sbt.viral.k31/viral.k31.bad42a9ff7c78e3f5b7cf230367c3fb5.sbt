@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845725.1/GCF_000845725.1_ViralProj14470_genomic.fna.gz",
+        "filename": "GCF_000845725.1_ViralProj14470_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004324.3 Cestrum yellow leaf curling virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

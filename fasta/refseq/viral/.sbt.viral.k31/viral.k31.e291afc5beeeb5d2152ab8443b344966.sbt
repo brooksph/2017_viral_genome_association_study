@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646535.1/GCF_001646535.1_ViralProj321696_genomic.fna.gz",
+        "filename": "GCF_001646535.1_ViralProj321696_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030138.1 Faeces associated gemycircularvirus 14 isolate 4_Fec7_duck, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

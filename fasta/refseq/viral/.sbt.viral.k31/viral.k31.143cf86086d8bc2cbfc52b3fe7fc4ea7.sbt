@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902575.1/GCF_000902575.1_ViralProj181249_genomic.fna.gz",
+        "filename": "GCF_000902575.1_ViralProj181249_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019492.1 Pseudoplusia includens densovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

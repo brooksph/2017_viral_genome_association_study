@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849885.1/GCF_000849885.1_ViralProj14641_genomic.fna.gz",
+        "filename": "GCF_000849885.1_ViralProj14641_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001500.1 Spleen focus-forming virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

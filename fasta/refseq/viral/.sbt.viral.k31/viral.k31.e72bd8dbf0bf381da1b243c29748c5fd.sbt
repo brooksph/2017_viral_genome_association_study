@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898555.1/GCF_000898555.1_ViralMultiSegProj173357_genomic.fna.gz",
+        "filename": "GCF_000898555.1_ViralMultiSegProj173357_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018465.1 Aino virus RdRp gene for RNA-dependent RNA polymerase, segment L, genomic RNA, isolate 38K",
         "signatures": [
             {
                 "ksize": 31,

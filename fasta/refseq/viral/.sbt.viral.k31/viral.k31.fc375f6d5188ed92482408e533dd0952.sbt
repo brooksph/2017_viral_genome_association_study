@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008755.1/GCF_002008755.1_ViralProj376926_genomic.fna.gz",
+        "filename": "GCF_002008755.1_ViralProj376926_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033815.1 Jingmen tombus-like virus 1 strain JMYJCC68055 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

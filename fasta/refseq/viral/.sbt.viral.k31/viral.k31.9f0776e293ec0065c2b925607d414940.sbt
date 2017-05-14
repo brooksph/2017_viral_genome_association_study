@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906455.1/GCF_000906455.1_ViralMultiSegProj203281_genomic.fna.gz",
+        "filename": "GCF_000906455.1_ViralMultiSegProj203281_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021222.1 Cryphonectria parasitica bipartite mycovirus 1 strain 09269 segment RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

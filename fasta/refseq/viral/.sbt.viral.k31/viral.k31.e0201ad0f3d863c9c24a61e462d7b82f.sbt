@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925255.1/GCF_000925255.1_ViralProj263507_genomic.fna.gz",
+        "filename": "GCF_000925255.1_ViralProj263507_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025247.1 Cygnus olor circovirus isolate H51, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002029515.1/GCF_002029515.1_ViralProj379130_genomic.fna.gz",
+        "filename": "GCF_002029515.1_ViralProj379130_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034207.1 African eggplant yellowing virus isolate eMA4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

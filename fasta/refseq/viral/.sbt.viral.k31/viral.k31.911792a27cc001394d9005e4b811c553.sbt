@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964275.1/GCF_001964275.1_ViralProj362039_genomic.fna.gz",
+        "filename": "GCF_001964275.1_ViralProj362039_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032794.1 Changjiang picorna-like virus 6 strain CJLX30470 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

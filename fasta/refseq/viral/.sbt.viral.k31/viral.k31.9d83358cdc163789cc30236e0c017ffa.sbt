@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001465505.1/GCF_001465505.1_ViralProj305765_genomic.fna.gz",
+        "filename": "GCF_001465505.1_ViralProj305765_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028650.1 Rat bufavirus SY-2015 isolate 791102, partial genome",
         "signatures": [
             {
                 "ksize": 31,

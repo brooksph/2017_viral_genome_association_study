@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001698295.1/GCF_001698295.1_ViralProj336046_genomic.fna.gz",
+        "filename": "GCF_001698295.1_ViralProj336046_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030701.1 Variegated squirrel bornavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

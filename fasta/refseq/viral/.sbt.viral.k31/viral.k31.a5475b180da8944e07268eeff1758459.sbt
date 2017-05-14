@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918015.1/GCF_000918015.1_ViralProj243493_genomic.fna.gz",
+        "filename": "GCF_000918015.1_ViralProj243493_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023885.1 Mink circovirus strain MiCV-DL13, complete genome",
         "signatures": [
             {
                 "ksize": 31,

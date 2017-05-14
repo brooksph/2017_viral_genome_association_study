@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895035.1/GCF_000895035.1_ViralProj77939_genomic.fna.gz",
+        "filename": "GCF_000895035.1_ViralProj77939_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016418.1 Halastavi arva RNA virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

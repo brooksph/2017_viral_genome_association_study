@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910615.1/GCF_000910615.1_ViralProj213076_genomic.fna.gz",
+        "filename": "GCF_000910615.1_ViralProj213076_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021861.1 Lactococcus phage BM13, complete genome",
         "signatures": [
             {
                 "ksize": 31,

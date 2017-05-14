@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881535.1/GCF_000881535.1_ViralProj32009_genomic.fna.gz",
+        "filename": "GCF_000881535.1_ViralProj32009_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011290.1 Mycobacterium phage Gumball, complete genome",
         "signatures": [
             {
                 "ksize": 31,

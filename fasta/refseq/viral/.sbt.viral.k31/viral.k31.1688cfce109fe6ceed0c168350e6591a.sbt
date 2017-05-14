@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868585.1/GCF_000868585.1_ViralProj18015_genomic.fna.gz",
+        "filename": "GCF_000868585.1_ViralProj18015_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008517.1 Tomato leaf curl Pune virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

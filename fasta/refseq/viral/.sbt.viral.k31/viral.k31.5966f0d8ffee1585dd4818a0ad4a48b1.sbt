@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923635.1/GCF_000923635.1_ViralProj253325_genomic.fna.gz",
+        "filename": "GCF_000923635.1_ViralProj253325_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024354.1 Cronobacter phage CR8, complete genome",
         "signatures": [
             {
                 "ksize": 31,

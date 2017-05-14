@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845205.1/GCF_000845205.1_ViralProj14549_genomic.fna.gz",
+        "filename": "GCF_000845205.1_ViralProj14549_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003287.2 Enterobacteria phage M13, complete genome",
         "signatures": [
             {
                 "ksize": 31,

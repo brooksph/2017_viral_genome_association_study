@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908275.1/GCF_000908275.1_ViralProj198436_genomic.fna.gz",
+        "filename": "GCF_000908275.1_ViralProj198436_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021071.1 Cyanophage P-RSM1 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

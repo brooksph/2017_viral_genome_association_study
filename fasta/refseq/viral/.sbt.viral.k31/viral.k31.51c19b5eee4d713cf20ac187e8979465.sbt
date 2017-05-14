@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909075.1/GCF_000909075.1_ViralProj206032_genomic.fna.gz",
+        "filename": "GCF_000909075.1_ViralProj206032_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021310.1 Mycobacterium phage Newman, complete genome",
         "signatures": [
             {
                 "ksize": 31,

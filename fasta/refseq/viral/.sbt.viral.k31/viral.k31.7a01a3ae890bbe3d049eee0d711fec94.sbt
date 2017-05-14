@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001431975.1/GCF_001431975.1_ViralProj301020_genomic.fna.gz",
+        "filename": "GCF_001431975.1_ViralProj301020_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028233.1 Teviot virus isolate Geelong, complete genome",
         "signatures": [
             {
                 "ksize": 31,

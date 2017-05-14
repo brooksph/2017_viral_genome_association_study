@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001516995.1/GCF_001516995.1_ViralProj308758_genomic.fna.gz",
+        "filename": "GCF_001516995.1_ViralProj308758_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029044.1 Mycobacterium phage Breeniome, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838125.1/GCF_000838125.1_ViralProj14128_genomic.fna.gz",
+        "filename": "GCF_000838125.1_ViralProj14128_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003084.1 Culex nigripalpus NPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

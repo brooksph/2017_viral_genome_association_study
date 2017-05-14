@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885235.1/GCF_000885235.1_ViralProj40127_genomic.fna.gz",
+        "filename": "GCF_000885235.1_ViralProj40127_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013135.1 Drosophila melanogaster sigma virus AP30 N, P, X, M, G and L genes, genomic RNA, isolate AP30",
         "signatures": [
             {
                 "ksize": 31,

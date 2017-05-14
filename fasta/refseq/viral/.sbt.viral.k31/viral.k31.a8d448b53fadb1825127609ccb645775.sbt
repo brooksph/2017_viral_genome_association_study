@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924635.2/GCF_000924635.2_ViralProj264931_genomic.fna.gz",
+        "filename": "GCF_000924635.2_ViralProj264931_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025349.2 Avian paramyxovirus penguin/Falkland Islands/324/2007, complete genome",
         "signatures": [
             {
                 "ksize": 31,

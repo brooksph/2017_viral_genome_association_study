@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858805.1/GCF_000858805.1_ViralProj15147_genomic.fna.gz",
+        "filename": "GCF_000858805.1_ViralProj15147_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001554.1 Tomato bushy stunt virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885215.1/GCF_000885215.1_ViralMultiSegProj39977_genomic.fna.gz",
+        "filename": "GCF_000885215.1_ViralMultiSegProj39977_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013111.1 Cassava virus C",
         "signatures": [
             {
                 "ksize": 31,

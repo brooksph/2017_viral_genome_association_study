@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919175.1/GCF_000919175.1_ViralMultiSegProj244666_genomic.fna.gz",
+        "filename": "GCF_000919175.1_ViralMultiSegProj244666_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024012.1 Jatropha mosaic virus strain Jamaica:Spanish Town:2004 clone A1 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

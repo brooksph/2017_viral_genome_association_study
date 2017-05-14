@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001443805.1/GCF_001443805.1_ViralProj302029_genomic.fna.gz",
+        "filename": "GCF_001443805.1_ViralProj302029_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028370.1 Xingshan cricket virus strain XSXS-2 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

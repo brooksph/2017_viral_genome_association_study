@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848305.1/GCF_000848305.1_ViralProj14662_genomic.fna.gz",
+        "filename": "GCF_000848305.1_ViralProj14662_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001471.1 Coconut tinangaja viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

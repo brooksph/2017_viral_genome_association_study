@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904195.1/GCF_000904195.1_ViralMultiSegProj191884_genomic.fna.gz",
+        "filename": "GCF_000904195.1_ViralMultiSegProj191884_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020439.1 Melaka orthoreovirus segment L1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955035.1/GCF_000955035.1_ViralProj276866_genomic.fna.gz",
+        "filename": "GCF_000955035.1_ViralProj276866_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026592.1 Citrus yellow vein clearing virus isolate CQ, complete genome",
         "signatures": [
             {
                 "ksize": 31,

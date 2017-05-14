@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884995.1/GCF_000884995.1_ViralProj39307_genomic.fna.gz",
+        "filename": "GCF_000884995.1_ViralProj39307_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012931.1 Wheat yellow dwarf virus-GPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

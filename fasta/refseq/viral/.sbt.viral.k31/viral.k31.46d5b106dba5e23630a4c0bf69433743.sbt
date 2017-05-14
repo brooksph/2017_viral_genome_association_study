@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913035.1/GCF_000913035.1_ViralProj227354_genomic.fna.gz",
+        "filename": "GCF_000913035.1_ViralProj227354_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022787.1 Porcine torovirus strain SH1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851245.1/GCF_000851245.1_ViralMultiSegProj14766_genomic.fna.gz",
+        "filename": "GCF_000851245.1_ViralMultiSegProj14766_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003614.1 Peanut bud necrosis virus L protein (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842405.1/GCF_000842405.1_ViralProj14317_genomic.fna.gz",
+        "filename": "GCF_000842405.1_ViralProj14317_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005265.1 Sulfolobus virus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

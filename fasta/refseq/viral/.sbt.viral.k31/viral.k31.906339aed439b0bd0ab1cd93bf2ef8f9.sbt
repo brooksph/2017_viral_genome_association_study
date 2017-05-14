@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001678335.1/GCF_001678335.1_ViralMultiSegProj326432_genomic.fna.gz",
+        "filename": "GCF_001678335.1_ViralMultiSegProj326432_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030403.1 Telfairia mosaic virus isolate Cameroon-Bakundu Bangang-Telfairia-20-14 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

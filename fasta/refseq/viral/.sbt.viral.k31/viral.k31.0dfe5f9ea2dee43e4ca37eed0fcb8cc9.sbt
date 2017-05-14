@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974555.1/GCF_001974555.1_ViralProj368984_genomic.fna.gz",
+        "filename": "GCF_001974555.1_ViralProj368984_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033553.1 Kibale red colobus virus 1 isolate SHFV-krc1_RC61, partial genome",
         "signatures": [
             {
                 "ksize": 31,

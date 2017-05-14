@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853005.1/GCF_000853005.1_ViralProj14802_genomic.fna.gz",
+        "filename": "GCF_000853005.1_ViralProj14802_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003783.1 Triatoma virus nonstructural protein precursor and capsid protein precursor, genes, partial cds",
         "signatures": [
             {
                 "ksize": 31,

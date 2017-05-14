@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854945.1/GCF_000854945.1_ViralProj15047_genomic.fna.gz",
+        "filename": "GCF_000854945.1_ViralProj15047_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006551.1 Usutu virus, complete cds",
         "signatures": [
             {
                 "ksize": 31,

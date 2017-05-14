@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868365.1/GCF_000868365.1_ViralProj17481_genomic.fna.gz",
+        "filename": "GCF_000868365.1_ViralProj17481_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008294.1 Pseudomonas phage PRR1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

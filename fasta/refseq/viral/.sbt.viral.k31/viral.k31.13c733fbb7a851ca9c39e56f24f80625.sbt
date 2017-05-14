@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869265.1/GCF_000869265.1_ViralProj17349_genomic.fna.gz",
+        "filename": "GCF_000869265.1_ViralProj17349_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008251.1 Malva mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

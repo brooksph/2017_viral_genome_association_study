@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882975.1/GCF_000882975.1_ViralProj38265_genomic.fna.gz",
+        "filename": "GCF_000882975.1_ViralProj38265_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012741.1 Enterobacteria phage JS10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

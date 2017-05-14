@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880095.1/GCF_000880095.1_ViralProj30081_genomic.fna.gz",
+        "filename": "GCF_000880095.1_ViralProj30081_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010817.1 Bandicoot papillomatosis carcinomatosis virus type 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

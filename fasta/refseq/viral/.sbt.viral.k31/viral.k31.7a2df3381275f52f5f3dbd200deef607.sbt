@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846065.1/GCF_000846065.1_ViralProj14552_genomic.fna.gz",
+        "filename": "GCF_000846065.1_ViralProj14552_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005881.2 Ostreid herpesvirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

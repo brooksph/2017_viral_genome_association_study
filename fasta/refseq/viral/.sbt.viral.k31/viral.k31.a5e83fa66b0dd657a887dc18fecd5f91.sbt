@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882715.1/GCF_000882715.1_ViralProj34757_genomic.fna.gz",
+        "filename": "GCF_000882715.1_ViralProj34757_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012137.1 Cotton leaf curl Burewala virus - [India:Vehari:2004], complete genome",
         "signatures": [
             {
                 "ksize": 31,

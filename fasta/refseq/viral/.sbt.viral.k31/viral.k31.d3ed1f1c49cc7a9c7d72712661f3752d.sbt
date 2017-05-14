@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001042135.1/GCF_001042135.1_ViralProj287971_genomic.fna.gz",
+        "filename": "GCF_001042135.1_ViralProj287971_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027356.1 Enterobacteria phage DT57C, complete genome",
         "signatures": [
             {
                 "ksize": 31,

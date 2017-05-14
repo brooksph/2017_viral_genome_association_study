@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004995.1/GCF_002004995.1_ViralProj375052_genomic.fna.gz",
+        "filename": "GCF_002004995.1_ViralProj375052_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033747.1 Thrips-associated gemykolovirus 1 isolate thrp_197937, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848905.1/GCF_000848905.1_ViralProj14608_genomic.fna.gz",
+        "filename": "GCF_000848905.1_ViralProj14608_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "AC_000011.1 Simian adenovirus 25, complete genome",
         "signatures": [
             {
                 "ksize": 31,

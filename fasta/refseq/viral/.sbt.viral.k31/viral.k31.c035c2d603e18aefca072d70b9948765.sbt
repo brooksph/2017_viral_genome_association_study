@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736575.1/GCF_001736575.1_ViralProj343517_genomic.fna.gz",
+        "filename": "GCF_001736575.1_ViralProj343517_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030910.1 Pseudomonas phage K5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

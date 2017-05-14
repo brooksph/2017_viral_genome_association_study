@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869705.1/GCF_000869705.1_ViralMultiSegProj18539_genomic.fna.gz",
+        "filename": "GCF_000869705.1_ViralMultiSegProj18539_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008733.1 Mal de Rio Cuarto virus segment S1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

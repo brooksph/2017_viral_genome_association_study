@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502895.1/GCF_001502895.1_ViralProj307801_genomic.fna.gz",
+        "filename": "GCF_001502895.1_ViralProj307801_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028935.1 Escherichia phage SUSP2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

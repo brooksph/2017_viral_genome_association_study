@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000969175.1/GCF_000969175.1_ViralProj280116_genomic.fna.gz",
+        "filename": "GCF_000969175.1_ViralProj280116_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026759.1 Artichoke latent virus isolate FR37, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461625.1/GCF_001461625.1_ViralProj304912_genomic.fna.gz",
+        "filename": "GCF_001461625.1_ViralProj304912_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028471.1 Botrytis cinerea mitovirus 2 RdRp gene for RNA dependent RNA polymerase, isolate HAZ1-2",
         "signatures": [
             {
                 "ksize": 31,

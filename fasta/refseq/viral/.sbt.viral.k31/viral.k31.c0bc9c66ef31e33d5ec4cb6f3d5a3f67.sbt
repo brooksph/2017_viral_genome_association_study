@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503535.1/GCF_001503535.1_ViralProj307935_genomic.fna.gz",
+        "filename": "GCF_001503535.1_ViralProj307935_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028940.1 Pectobacterium bacteriophage PM2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

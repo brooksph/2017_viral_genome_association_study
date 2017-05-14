@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001019975.1/GCF_001019975.1_ViralMultiSegProj285598_genomic.fna.gz",
+        "filename": "GCF_001019975.1_ViralMultiSegProj285598_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027138.1 Sclerotinia sclerotiorum botybirnavirus 1 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

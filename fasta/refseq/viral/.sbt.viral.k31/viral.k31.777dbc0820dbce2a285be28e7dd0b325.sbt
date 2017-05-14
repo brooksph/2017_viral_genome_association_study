@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001433625.1/GCF_001433625.1_ViralProj301066_genomic.fna.gz",
+        "filename": "GCF_001433625.1_ViralProj301066_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028249.1 Phocine distemper virus strain PDV/Wadden_Sea.NLD/1988, complete genome",
         "signatures": [
             {
                 "ksize": 31,

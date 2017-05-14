@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914995.1/GCF_000914995.1_ViralProj229901_genomic.fna.gz",
+        "filename": "GCF_000914995.1_ViralProj229901_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022916.1 Burkholderia phage JG068, complete genome",
         "signatures": [
             {
                 "ksize": 31,

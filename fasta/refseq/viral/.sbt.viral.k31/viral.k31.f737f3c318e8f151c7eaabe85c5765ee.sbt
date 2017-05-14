@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924835.1/GCF_000924835.1_ViralProj265987_genomic.fna.gz",
+        "filename": "GCF_000924835.1_ViralProj265987_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025412.1 Melbournevirus isolate 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

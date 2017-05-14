@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502915.1/GCF_001502915.1_ViralProj307805_genomic.fna.gz",
+        "filename": "GCF_001502915.1_ViralProj307805_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028993.1 Gokushovirinae GAIR4, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

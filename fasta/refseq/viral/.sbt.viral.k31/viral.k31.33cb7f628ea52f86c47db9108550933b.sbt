@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004615.1/GCF_002004615.1_ViralProj375045_genomic.fna.gz",
+        "filename": "GCF_002004615.1_ViralProj375045_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033697.1 Saboya virus strain Dak AR D4600 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

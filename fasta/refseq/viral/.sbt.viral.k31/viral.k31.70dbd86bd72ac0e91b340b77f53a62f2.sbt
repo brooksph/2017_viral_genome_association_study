@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001629885.1/GCF_001629885.1_ViralProj319118_genomic.fna.gz",
+        "filename": "GCF_001629885.1_ViralProj319118_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029904.1 Callinectes sapidus reovirus 1 segment 1 VP1 gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001271055.1/GCF_001271055.1_ViralProj293051_genomic.fna.gz",
+        "filename": "GCF_001271055.1_ViralProj293051_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027704.1 Trichomonas vaginalis virus dsRNA satellite S1', complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001441075.1/GCF_001441075.1_ViralProj301301_genomic.fna.gz",
+        "filename": "GCF_001441075.1_ViralProj301301_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028262.1 Andrographis yellow vein leaf curl virus isolate A-64, complete genome",
         "signatures": [
             {
                 "ksize": 31,

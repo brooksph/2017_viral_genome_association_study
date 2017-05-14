@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470975.1/GCF_001470975.1_ViralProj306343_genomic.fna.gz",
+        "filename": "GCF_001470975.1_ViralProj306343_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028688.1 Klebsiella phage vB_Kp1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

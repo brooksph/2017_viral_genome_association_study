@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000973435.1/GCF_000973435.1_ViralProj281397_genomic.fna.gz",
+        "filename": "GCF_000973435.1_ViralProj281397_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026815.1 Mpulungu bufavirus NS1, VP1, VP2 genes for nonstructural protein, capsid protein VP1, capsid protein VP2, complete cds, strain: ZM38",
         "signatures": [
             {
                 "ksize": 31,

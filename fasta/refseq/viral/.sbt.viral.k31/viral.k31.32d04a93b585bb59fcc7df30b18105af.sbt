@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889975.1/GCF_000889975.1_ViralProj50363_genomic.fna.gz",
+        "filename": "GCF_000889975.1_ViralProj50363_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014322.1 Hyperthermophilic Archaeal Virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

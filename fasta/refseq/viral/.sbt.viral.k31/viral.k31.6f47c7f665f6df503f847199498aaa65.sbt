@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842285.1/GCF_000842285.1_ViralProj14292_genomic.fna.gz",
+        "filename": "GCF_000842285.1_ViralProj14292_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004902.1 Xanthomonas phage Xp10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

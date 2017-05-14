@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960775.1/GCF_001960775.1_ViralProj361815_genomic.fna.gz",
+        "filename": "GCF_001960775.1_ViralProj361815_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032920.1 Shahe tombus-like virus 2 strain SHWC01c3797 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

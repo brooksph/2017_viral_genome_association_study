@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921495.1/GCF_000921495.1_ViralProj257743_genomic.fna.gz",
+        "filename": "GCF_000921495.1_ViralProj257743_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024693.1 Sweet potato leaf curl Guangxi virus isolate China:Guangxi5:2011, complete genome",
         "signatures": [
             {
                 "ksize": 31,

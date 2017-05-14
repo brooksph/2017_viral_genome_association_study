@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921515.1/GCF_000921515.1_ViralProj258184_genomic.fna.gz",
+        "filename": "GCF_000921515.1_ViralProj258184_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024701.1 Feline astrovirus D1 isolate FAstV-D1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

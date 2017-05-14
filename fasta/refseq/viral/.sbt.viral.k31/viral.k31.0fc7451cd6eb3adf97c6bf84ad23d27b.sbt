@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913335.1/GCF_000913335.1_ViralProj215124_genomic.fna.gz",
+        "filename": "GCF_000913335.1_ViralProj215124_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022057.1 Mycobacterium phage Catdawg, complete genome",
         "signatures": [
             {
                 "ksize": 31,

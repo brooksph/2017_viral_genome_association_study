@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874785.1/GCF_000874785.1_ViralProj30965_genomic.fna.gz",
+        "filename": "GCF_000874785.1_ViralProj30965_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011142.1 Iodobacteriophage phiPLPE, complete genome",
         "signatures": [
             {
                 "ksize": 31,

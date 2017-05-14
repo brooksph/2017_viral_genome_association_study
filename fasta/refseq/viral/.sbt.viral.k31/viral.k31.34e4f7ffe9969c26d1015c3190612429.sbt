@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894895.1/GCF_000894895.1_ViralProj74353_genomic.fna.gz",
+        "filename": "GCF_000894895.1_ViralProj74353_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016074.1 Canine papillomavirus 9, complete genome",
         "signatures": [
             {
                 "ksize": 31,

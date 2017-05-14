@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001923215.1/GCF_001923215.1_ViralProj358929_genomic.fna.gz",
+        "filename": "GCF_001923215.1_ViralProj358929_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032231.1 Hubei mosquito virus 4 strain 3mos6213 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

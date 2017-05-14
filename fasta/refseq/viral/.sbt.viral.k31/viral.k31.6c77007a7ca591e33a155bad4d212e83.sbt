@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845085.1/GCF_000845085.1_ViralProj14518_genomic.fna.gz",
+        "filename": "GCF_000845085.1_ViralProj14518_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001405.1 Human adenovirus C, complete genome",
         "signatures": [
             {
                 "ksize": 31,

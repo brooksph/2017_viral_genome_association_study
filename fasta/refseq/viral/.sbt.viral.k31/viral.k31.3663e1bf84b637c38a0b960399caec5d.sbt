@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001884615.1/GCF_001884615.1_ViralProj353701_genomic.fna.gz",
+        "filename": "GCF_001884615.1_ViralProj353701_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031909.1 Campylobacter phage PC14, complete genome",
         "signatures": [
             {
                 "ksize": 31,

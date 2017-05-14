@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001028925.1/GCF_001028925.1_ViralProj286706_genomic.fna.gz",
+        "filename": "GCF_001028925.1_ViralProj286706_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027211.1 Nectarine stem pitting-associated virus isolate nectarine, complete genome",
         "signatures": [
             {
                 "ksize": 31,

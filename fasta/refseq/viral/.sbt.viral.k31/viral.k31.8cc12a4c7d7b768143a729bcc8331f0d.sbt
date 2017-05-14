@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884215.1/GCF_000884215.1_ViralMultiSegProj39929_genomic.fna.gz",
+        "filename": "GCF_000884215.1_ViralMultiSegProj39929_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013096.1 Faba bean necrotic stunt virus DNA C, complete genome",
         "signatures": [
             {
                 "ksize": 31,

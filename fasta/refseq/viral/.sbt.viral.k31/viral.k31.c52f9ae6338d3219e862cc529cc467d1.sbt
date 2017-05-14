@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470475.1/GCF_001470475.1_ViralProj306348_genomic.fna.gz",
+        "filename": "GCF_001470475.1_ViralProj306348_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028683.1 Edwardsiella phage PEi20 DNA, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

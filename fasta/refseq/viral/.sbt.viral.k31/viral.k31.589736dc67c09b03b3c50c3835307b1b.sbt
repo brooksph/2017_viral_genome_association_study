@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897275.1/GCF_000897275.1_ViralMultiSegProj168523_genomic.fna.gz",
+        "filename": "GCF_000897275.1_ViralMultiSegProj168523_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018070.1 Bean necrotic mosaic virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

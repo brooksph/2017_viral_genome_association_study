@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000973355.1/GCF_000973355.1_ViralProj281125_genomic.fna.gz",
+        "filename": "GCF_000973355.1_ViralProj281125_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026806.1 Badger feces-associated gemycircularvirus strain 588t, complete genome",
         "signatures": [
             {
                 "ksize": 31,

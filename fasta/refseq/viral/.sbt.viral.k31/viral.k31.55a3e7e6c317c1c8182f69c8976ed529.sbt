@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874845.1/GCF_000874845.1_ViralMultiSegProj28325_genomic.fna.gz",
+        "filename": "GCF_000874845.1_ViralMultiSegProj28325_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010255.1 Bear Canyon virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

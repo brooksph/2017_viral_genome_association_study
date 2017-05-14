@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926375.1/GCF_000926375.1_ViralProj264898_genomic.fna.gz",
+        "filename": "GCF_000926375.1_ViralProj264898_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025344.1 Canine pneumovirus strain dog/Bari/100-12/ITA/2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

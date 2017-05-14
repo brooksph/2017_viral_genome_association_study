@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001958475.1/GCF_001958475.1_ViralProj361805_genomic.fna.gz",
+        "filename": "GCF_001958475.1_ViralProj361805_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033089.1 Shuangao sobemo-like virus 2 strain insectZJ89114 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

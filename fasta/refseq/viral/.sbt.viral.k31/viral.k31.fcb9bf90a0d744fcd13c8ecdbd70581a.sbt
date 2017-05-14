@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965395.1/GCF_001965395.1_ViralProj362096_genomic.fna.gz",
+        "filename": "GCF_001965395.1_ViralProj362096_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033260.1 Hubei macula-like virus 2 strain QTM27299 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

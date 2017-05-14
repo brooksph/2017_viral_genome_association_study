@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001970285.1/GCF_001970285.1_ViralMultiSegProj362912_genomic.fna.gz",
+        "filename": "GCF_001970285.1_ViralMultiSegProj362912_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033446.1 Wuhan arthropod virus 4 strain WHCC117028 segment 1 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

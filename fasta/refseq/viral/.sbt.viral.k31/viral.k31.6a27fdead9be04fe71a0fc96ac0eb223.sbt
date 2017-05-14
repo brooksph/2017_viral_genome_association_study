@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872145.1/GCF_000872145.1_ViralProj27891_genomic.fna.gz",
+        "filename": "GCF_000872145.1_ViralProj27891_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009987.1 Spiroplasma kunkelii virus SkV1_CR2-3x, complete genome",
         "signatures": [
             {
                 "ksize": 31,

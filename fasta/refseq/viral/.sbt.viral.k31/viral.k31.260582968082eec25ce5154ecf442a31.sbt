@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883355.1/GCF_000883355.1_ViralMultiSegProj32709_genomic.fna.gz",
+        "filename": "GCF_000883355.1_ViralMultiSegProj32709_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011556.1 Beet cryptic virus 1 RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

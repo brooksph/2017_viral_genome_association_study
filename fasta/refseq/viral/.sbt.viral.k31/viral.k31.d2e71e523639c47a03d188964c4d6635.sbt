@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001292895.1/GCF_001292895.1_ViralProj295309_genomic.fna.gz",
+        "filename": "GCF_001292895.1_ViralProj295309_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027817.1 Parramatta River virus isolate 92-B115745, complete genome",
         "signatures": [
             {
                 "ksize": 31,

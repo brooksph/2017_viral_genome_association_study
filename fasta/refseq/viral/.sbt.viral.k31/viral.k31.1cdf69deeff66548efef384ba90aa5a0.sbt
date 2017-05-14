@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865025.1/GCF_000865025.1_ViralProj15561_genomic.fna.gz",
+        "filename": "GCF_000865025.1_ViralProj15561_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007212.1 Ludwigia yellow vein virus-associated DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

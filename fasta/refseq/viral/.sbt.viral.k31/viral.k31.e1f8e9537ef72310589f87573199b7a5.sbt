@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274245.1/GCF_001274245.1_ViralProj293726_genomic.fna.gz",
+        "filename": "GCF_001274245.1_ViralProj293726_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027797.1 Primnoa pacifica coral associated circular virus isolate I0345, complete genome",
         "signatures": [
             {
                 "ksize": 31,

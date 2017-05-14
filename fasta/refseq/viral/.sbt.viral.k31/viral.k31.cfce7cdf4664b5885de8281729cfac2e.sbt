@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916775.1/GCF_000916775.1_ViralProj232775_genomic.fna.gz",
+        "filename": "GCF_000916775.1_ViralProj232775_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023176.1 Porcine pestivirus isolate Bungowannah, complete genome",
         "signatures": [
             {
                 "ksize": 31,

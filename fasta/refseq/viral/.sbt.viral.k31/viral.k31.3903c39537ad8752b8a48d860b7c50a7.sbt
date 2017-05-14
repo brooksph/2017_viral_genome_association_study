@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925875.1/GCF_001925875.1_ViralProj359328_genomic.fna.gz",
+        "filename": "GCF_001925875.1_ViralProj359328_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032483.1 Xingshan nematode virus 1 strain XSNXC21749 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

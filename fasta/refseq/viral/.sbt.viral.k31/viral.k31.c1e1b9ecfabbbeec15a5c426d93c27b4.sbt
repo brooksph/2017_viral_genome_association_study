@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001891055.1/GCF_001891055.1_ViralProj356437_genomic.fna.gz",
+        "filename": "GCF_001891055.1_ViralProj356437_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032005.1 Rattus norvegicus polyomavirus 2 isolate 1014-2016-2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

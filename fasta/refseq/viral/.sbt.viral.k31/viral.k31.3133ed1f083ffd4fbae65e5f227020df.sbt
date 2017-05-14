@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865405.1/GCF_000865405.1_ViralMultiSegProj16327_genomic.fna.gz",
+        "filename": "GCF_000865405.1_ViralMultiSegProj16327_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007726.1 Tomato yellow spot virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

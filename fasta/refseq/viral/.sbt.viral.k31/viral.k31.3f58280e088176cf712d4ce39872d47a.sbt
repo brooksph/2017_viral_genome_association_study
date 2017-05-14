@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274265.1/GCF_001274265.1_ViralProj293731_genomic.fna.gz",
+        "filename": "GCF_001274265.1_ViralProj293731_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027786.1 Palaemonetes intermedius brackish grass shrimp associated circular virus isolate I0059, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868225.1/GCF_000868225.1_ViralProj17119_genomic.fna.gz",
+        "filename": "GCF_000868225.1_ViralProj17119_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008188.1 Human papillomavirus type 103, complete genome",
         "signatures": [
             {
                 "ksize": 31,

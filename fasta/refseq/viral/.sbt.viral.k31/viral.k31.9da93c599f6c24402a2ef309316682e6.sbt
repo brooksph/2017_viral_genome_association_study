@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869545.1/GCF_000869545.1_ViralProj18129_genomic.fna.gz",
+        "filename": "GCF_000869545.1_ViralProj18129_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008561.1 Malvastrum yellow mosaic virus-associated DNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974075.1/GCF_001974075.1_ViralProj368937_genomic.fna.gz",
+        "filename": "GCF_001974075.1_ViralProj368937_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033473.1 Wuhan insect virus 14 strain WHZM10168 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905695.1/GCF_000905695.1_ViralProj186951_genomic.fna.gz",
+        "filename": "GCF_000905695.1_ViralProj186951_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020159.1 Halovirus HSTV-2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

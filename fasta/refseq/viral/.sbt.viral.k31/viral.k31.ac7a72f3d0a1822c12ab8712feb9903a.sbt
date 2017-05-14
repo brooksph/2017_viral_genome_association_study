@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921695.1/GCF_000921695.1_ViralProj260486_genomic.fna.gz",
+        "filename": "GCF_000921695.1_ViralProj260486_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024791.1 Vibrio phage ICP2_2013_A_Haiti, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930075.1/GCF_000930075.1_ViralProj271167_genomic.fna.gz",
+        "filename": "GCF_000930075.1_ViralProj271167_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025965.1 Porcine parvovirus 2 strain BR/GO/ion_09_PPV-2/2011, complete genome",
         "signatures": [
             {
                 "ksize": 31,

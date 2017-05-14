@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902975.1/GCF_000902975.1_ViralProj184167_genomic.fna.gz",
+        "filename": "GCF_000902975.1_ViralProj184167_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019930.1 Tetrasphaera phage TJE1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

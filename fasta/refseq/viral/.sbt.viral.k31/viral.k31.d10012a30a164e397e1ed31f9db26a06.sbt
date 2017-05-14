@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001634615.1/GCF_001634615.1_ViralProj320119_genomic.fna.gz",
+        "filename": "GCF_001634615.1_ViralProj320119_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029995.1 Tomato yellow leaf curl Shuangbai virus - [Y4536], complete genome",
         "signatures": [
             {
                 "ksize": 31,

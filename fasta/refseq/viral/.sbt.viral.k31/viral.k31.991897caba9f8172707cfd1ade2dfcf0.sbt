@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955395.1/GCF_000955395.1_ViralProj276869_genomic.fna.gz",
+        "filename": "GCF_000955395.1_ViralProj276869_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026605.1 Mycobacterium phage Malithi, complete genome",
         "signatures": [
             {
                 "ksize": 31,

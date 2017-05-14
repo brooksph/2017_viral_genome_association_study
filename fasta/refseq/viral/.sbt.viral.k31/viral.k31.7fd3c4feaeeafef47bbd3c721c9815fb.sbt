@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884735.1/GCF_000884735.1_ViralProj36669_genomic.fna.gz",
+        "filename": "GCF_000884735.1_ViralProj36669_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012557.1 Ageratum leaf Cameroon betasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

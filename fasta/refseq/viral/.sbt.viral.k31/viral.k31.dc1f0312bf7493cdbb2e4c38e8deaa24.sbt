@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866265.1/GCF_001866265.1_ViralProj351808_genomic.fna.gz",
+        "filename": "GCF_001866265.1_ViralProj351808_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031691.1 Gata virus strain M4 L protein, glycoprotein, matrix protein, phosphoprotein, and nucleoprotein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

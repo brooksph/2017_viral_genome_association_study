@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001271235.1/GCF_001271235.1_ViralProj293081_genomic.fna.gz",
+        "filename": "GCF_001271235.1_ViralProj293081_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027707.1 Salmon gill poxvirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

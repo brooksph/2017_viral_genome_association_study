@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925855.1/GCF_000925855.1_ViralProj266775_genomic.fna.gz",
+        "filename": "GCF_000925855.1_ViralProj266775_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025429.1 Rhizobium phage vB_RleM_P10VF, complete genome",
         "signatures": [
             {
                 "ksize": 31,

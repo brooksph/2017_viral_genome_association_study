@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870945.1/GCF_000870945.1_ViralMultiSegProj19969_genomic.fna.gz",
+        "filename": "GCF_000870945.1_ViralMultiSegProj19969_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009608.1 Orchid fleck virus genomic RNA, segment RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551405.1/GCF_001551405.1_ViralProj310937_genomic.fna.gz",
+        "filename": "GCF_001551405.1_ViralProj310937_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029075.1 Achromobacter phage JWF, complete genome",
         "signatures": [
             {
                 "ksize": 31,

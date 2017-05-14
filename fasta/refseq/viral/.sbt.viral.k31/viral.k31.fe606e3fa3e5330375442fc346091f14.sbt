@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001923235.1/GCF_001923235.1_ViralProj358933_genomic.fna.gz",
+        "filename": "GCF_001923235.1_ViralProj358933_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032175.1 Hubei earwig virus 3 strain arthropodmix12795 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

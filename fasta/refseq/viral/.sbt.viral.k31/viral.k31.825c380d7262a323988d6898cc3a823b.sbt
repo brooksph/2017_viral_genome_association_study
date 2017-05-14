@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895815.1/GCF_000895815.1_ViralProj81033_genomic.fna.gz",
+        "filename": "GCF_000895815.1_ViralProj81033_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016647.1 Porcine bocavirus 5/JS677, complete genome",
         "signatures": [
             {
                 "ksize": 31,

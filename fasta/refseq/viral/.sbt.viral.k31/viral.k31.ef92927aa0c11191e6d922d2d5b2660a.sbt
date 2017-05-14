@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894295.1/GCF_000894295.1_ViralProj81739_genomic.fna.gz",
+        "filename": "GCF_000894295.1_ViralProj81739_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016752.1 Artibeus jamaicensis parvovirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

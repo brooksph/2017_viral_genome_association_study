@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883155.1/GCF_000883155.1_ViralProj32171_genomic.fna.gz",
+        "filename": "GCF_000883155.1_ViralProj32171_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011345.1 Agrotis ipsilon multiple nucleopolyhedrovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

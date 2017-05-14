@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854425.1/GCF_000854425.1_ViralMultiSegProj14934_genomic.fna.gz",
+        "filename": "GCF_000854425.1_ViralMultiSegProj14934_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005266.1 Raspberry ringspot virus RNA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

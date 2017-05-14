@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859105.1/GCF_000859105.1_ViralProj15208_genomic.fna.gz",
+        "filename": "GCF_000859105.1_ViralProj15208_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003608.1 Hibiscus chlorotic ringspot virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

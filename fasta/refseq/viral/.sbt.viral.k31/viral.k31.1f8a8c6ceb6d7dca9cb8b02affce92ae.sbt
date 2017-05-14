@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001725935.1/GCF_001725935.1_ViralMultiSegProj342646_genomic.fna.gz",
+        "filename": "GCF_001725935.1_ViralMultiSegProj342646_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030888.1 Sclerotium hydrophilum virus 1 isolate ShR#20 putative RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

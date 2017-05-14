@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910935.1/GCF_000910935.1_ViralProj215864_genomic.fna.gz",
+        "filename": "GCF_000910935.1_ViralProj215864_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022104.1 Porcine partetravirus strain FMV10-1437266, complete genome",
         "signatures": [
             {
                 "ksize": 31,

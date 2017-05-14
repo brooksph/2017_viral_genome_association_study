@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899555.1/GCF_000899555.1_ViralProj178591_genomic.fna.gz",
+        "filename": "GCF_000899555.1_ViralProj178591_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019029.1 Diuris virus A isolate SW3.3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

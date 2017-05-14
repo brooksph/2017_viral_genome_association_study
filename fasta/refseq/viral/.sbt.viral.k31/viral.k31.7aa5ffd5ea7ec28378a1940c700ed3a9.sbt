@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963115.1/GCF_001963115.1_ViralProj361926_genomic.fna.gz",
+        "filename": "GCF_001963115.1_ViralProj361926_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033125.1 Beihai tiger crab virus 1 strain HWRTX14333 replicase, hypothetical protein, putative structural protein, and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

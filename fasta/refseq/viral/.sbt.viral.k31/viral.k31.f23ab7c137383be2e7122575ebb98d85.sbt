@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930635.1/GCF_000930635.1_ViralProj269977_genomic.fna.gz",
+        "filename": "GCF_000930635.1_ViralProj269977_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025889.1 Chaetoceros tenuissimus RNA virus type-II DNA, nearly complete genome, isolate: SS10-16V",
         "signatures": [
             {
                 "ksize": 31,

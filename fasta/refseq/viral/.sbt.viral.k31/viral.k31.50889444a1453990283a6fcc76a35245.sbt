@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926235.1/GCF_000926235.1_ViralProj262543_genomic.fna.gz",
+        "filename": "GCF_000926235.1_ViralProj262543_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025114.1 Salivirus FHB, complete genome",
         "signatures": [
             {
                 "ksize": 31,

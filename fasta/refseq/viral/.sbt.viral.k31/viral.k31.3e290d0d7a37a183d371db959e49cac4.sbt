@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928335.1/GCF_000928335.1_ViralProj273471_genomic.fna.gz",
+        "filename": "GCF_000928335.1_ViralProj273471_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026238.1 Rubus yellow net virus strain Baumforth's Seedling A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

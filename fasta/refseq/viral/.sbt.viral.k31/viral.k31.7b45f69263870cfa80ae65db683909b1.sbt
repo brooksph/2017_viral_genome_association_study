@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745835.1/GCF_001745835.1_ViralProj344148_genomic.fna.gz",
+        "filename": "GCF_001745835.1_ViralProj344148_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031078.1 Streptomyces phage Nanodon, complete genome",
         "signatures": [
             {
                 "ksize": 31,

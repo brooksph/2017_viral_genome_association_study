@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001882135.1/GCF_001882135.1_ViralProj353702_genomic.fna.gz",
+        "filename": "GCF_001882135.1_ViralProj353702_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031908.1 Pseudoalteromonas phage PH1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927415.1/GCF_000927415.1_ViralProj266714_genomic.fna.gz",
+        "filename": "GCF_000927415.1_ViralProj266714_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025445.1 Enterobacteria phage J8-65, complete genome",
         "signatures": [
             {
                 "ksize": 31,

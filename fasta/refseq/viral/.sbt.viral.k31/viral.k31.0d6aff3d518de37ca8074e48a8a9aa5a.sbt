@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873265.1/GCF_000873265.1_ViralProj19779_genomic.fna.gz",
+        "filename": "GCF_000873265.1_ViralProj19779_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009545.1 Spilanthes yellow vein virus DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

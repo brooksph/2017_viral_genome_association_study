@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001714475.1/GCF_001714475.1_ViralProj339882_genomic.fna.gz",
+        "filename": "GCF_001714475.1_ViralProj339882_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030798.1 Bos taurus papillomavirus 18, complete genome",
         "signatures": [
             {
                 "ksize": 31,

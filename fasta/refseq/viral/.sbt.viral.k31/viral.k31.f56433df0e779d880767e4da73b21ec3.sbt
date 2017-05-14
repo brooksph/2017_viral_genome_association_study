@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855625.1/GCF_000855625.1_ViralProj15023_genomic.fna.gz",
+        "filename": "GCF_000855625.1_ViralProj15023_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001552.1 Sendai virus genomic RNA, antisense, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

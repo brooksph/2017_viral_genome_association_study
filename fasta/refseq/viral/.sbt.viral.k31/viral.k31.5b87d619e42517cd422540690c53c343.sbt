@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000970585.1/GCF_000970585.1_ViralMultiSegProj280458_genomic.fna.gz",
+        "filename": "GCF_000970585.1_ViralMultiSegProj280458_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026799.1 Black grass cryptic virus 2 segment RNA 1",
         "signatures": [
             {
                 "ksize": 31,

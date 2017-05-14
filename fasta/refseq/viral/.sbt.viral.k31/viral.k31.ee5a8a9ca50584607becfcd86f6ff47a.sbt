@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842805.1/GCF_000842805.1_ViralProj14218_genomic.fna.gz",
+        "filename": "GCF_000842805.1_ViralProj14218_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004192.1 Pepper leaf curl Bangladesh virus segment A component, complete genome",
         "signatures": [
             {
                 "ksize": 31,

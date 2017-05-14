@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843185.1/GCF_000843185.1_ViralProj14299_genomic.fna.gz",
+        "filename": "GCF_000843185.1_ViralProj14299_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005040.1 Myzus persicae densovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

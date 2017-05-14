@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001645995.1/GCF_001645995.1_ViralProj321703_genomic.fna.gz",
+        "filename": "GCF_001645995.1_ViralProj321703_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030150.1 Porcine faeces associated circular DNA molecule-1 isolate 23_Fec22_cow, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001856635.1/GCF_001856635.1_ViralProj351253_genomic.fna.gz",
+        "filename": "GCF_001856635.1_ViralProj351253_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031692.1 Grapevine asteroid mosaic-associated virus isolate GV30, complete genome",
         "signatures": [
             {
                 "ksize": 31,

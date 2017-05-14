@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837145.1/GCF_000837145.1_ViralProj14089_genomic.fna.gz",
+        "filename": "GCF_000837145.1_ViralProj14089_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001962.1 Bombyx mori NPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

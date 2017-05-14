@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849125.1/GCF_000849125.1_ViralProj14660_genomic.fna.gz",
+        "filename": "GCF_000849125.1_ViralProj14660_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001441.1 Narcissus mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

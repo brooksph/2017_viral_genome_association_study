@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892675.1/GCF_000892675.1_ViralProj66399_genomic.fna.gz",
+        "filename": "GCF_000892675.1_ViralProj66399_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015466.1 Roseobacter phage RDJL Phi 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

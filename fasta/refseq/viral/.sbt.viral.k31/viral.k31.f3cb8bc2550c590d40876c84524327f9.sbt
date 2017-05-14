@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837425.1/GCF_000837425.1_ViralProj14146_genomic.fna.gz",
+        "filename": "GCF_000837425.1_ViralProj14146_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003324.1 Sinorhizobium phage PBC5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

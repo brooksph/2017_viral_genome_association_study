@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884275.1/GCF_000884275.1_ViralProj40235_genomic.fna.gz",
+        "filename": "GCF_000884275.1_ViralProj40235_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013197.1 Thermus phage P23-77, complete genome",
         "signatures": [
             {
                 "ksize": 31,

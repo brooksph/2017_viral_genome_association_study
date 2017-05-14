@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461245.1/GCF_001461245.1_ViralMultiSegProj304922_genomic.fna.gz",
+        "filename": "GCF_001461245.1_ViralMultiSegProj304922_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028495.1 Penicillium janczewskii chrysovirus 1 RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

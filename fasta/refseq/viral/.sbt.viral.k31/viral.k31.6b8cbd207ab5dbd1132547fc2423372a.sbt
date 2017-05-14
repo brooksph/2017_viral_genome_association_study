@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853465.1/GCF_000853465.1_ViralMultiSegProj14905_genomic.fna.gz",
+        "filename": "GCF_000853465.1_ViralMultiSegProj14905_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005289.1 Broad bean wilt virus 1 RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

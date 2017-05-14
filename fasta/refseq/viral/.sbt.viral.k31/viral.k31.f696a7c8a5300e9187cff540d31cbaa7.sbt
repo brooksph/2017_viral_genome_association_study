@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895455.2/GCF_000895455.2_ViralProj129597_genomic.fna.gz",
+        "filename": "GCF_000895455.2_ViralProj129597_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017005.1 Cassava mosaic Madagascar virus DNA B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461485.1/GCF_001461485.1_ViralProj304915_genomic.fna.gz",
+        "filename": "GCF_001461485.1_ViralProj304915_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028478.1 Tomato brown rugose fruit virus isolate Tom1-Jo, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921035.1/GCF_000921035.1_ViralProj253218_genomic.fna.gz",
+        "filename": "GCF_000921035.1_ViralProj253218_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024373.1 Luffa puckering and leaf distortion-associated betasatellite [India:Gurdaspur:Okra:2013], complete sequence",
         "signatures": [
             {
                 "ksize": 31,

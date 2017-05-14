@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906395.1/GCF_000906395.1_ViralProj200956_genomic.fna.gz",
+        "filename": "GCF_000906395.1_ViralProj200956_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021168.1 Simian adenovirus C isolate BaAdV-2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

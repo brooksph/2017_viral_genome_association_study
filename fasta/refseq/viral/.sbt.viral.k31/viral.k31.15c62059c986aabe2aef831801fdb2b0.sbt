@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001271195.1/GCF_001271195.1_ViralProj293048_genomic.fna.gz",
+        "filename": "GCF_001271195.1_ViralProj293048_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027713.1 Bombyx mori iflavirus gene for polyprotein, complete cds, strain: BMI1",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844705.1/GCF_000844705.1_ViralProj14436_genomic.fna.gz",
+        "filename": "GCF_000844705.1_ViralProj14436_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002190.2 Infectious hypodermal and hematopoietic necrosis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

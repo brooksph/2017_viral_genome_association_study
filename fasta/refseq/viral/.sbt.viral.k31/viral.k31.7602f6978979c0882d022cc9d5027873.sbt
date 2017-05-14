@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924495.1/GCF_000924495.1_ViralProj264896_genomic.fna.gz",
+        "filename": "GCF_000924495.1_ViralProj264896_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025343.1 Sosuga virus isolate 2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

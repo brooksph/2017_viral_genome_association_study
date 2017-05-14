@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913015.1/GCF_000913015.1_ViralProj227126_genomic.fna.gz",
+        "filename": "GCF_000913015.1_ViralProj227126_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022771.1 Bacillus phage Grass, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837025.1/GCF_000837025.1_ViralProj14062_genomic.fna.gz",
+        "filename": "GCF_000837025.1_ViralProj14062_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001421.2 Enterobacteria phage PRD1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000981755.1/GCF_000981755.1_ViralProj282169_genomic.fna.gz",
+        "filename": "GCF_000981755.1_ViralProj282169_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026921.1 Falcovirus A1 strain kestrel/VOVE0622/2013/HUN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

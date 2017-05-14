@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869565.1/GCF_000869565.1_ViralProj18249_genomic.fna.gz",
+        "filename": "GCF_000869565.1_ViralProj18249_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008579.1 Croton yellow vein mosaic virus satellite DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

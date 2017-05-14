@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856645.1/GCF_000856645.1_ViralProj15050_genomic.fna.gz",
+        "filename": "GCF_000856645.1_ViralProj15050_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006296.2 Rinderpest virus (strain Kabete O), complete genome",
         "signatures": [
             {
                 "ksize": 31,

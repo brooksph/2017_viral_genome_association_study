@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745475.1/GCF_001745475.1_ViralProj344215_genomic.fna.gz",
+        "filename": "GCF_001745475.1_ViralProj344215_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031106.1 Rosavirus C strain RATLC11A polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

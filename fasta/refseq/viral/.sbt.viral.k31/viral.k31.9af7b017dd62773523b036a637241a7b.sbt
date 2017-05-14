@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868825.1/GCF_000868825.1_ViralProj18827_genomic.fna.gz",
+        "filename": "GCF_000868825.1_ViralProj18827_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009011.2 Spodoptera frugiperda MNPV virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

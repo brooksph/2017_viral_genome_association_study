@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755245.1/GCF_001755245.1_ViralProj344628_genomic.fna.gz",
+        "filename": "GCF_001755245.1_ViralProj344628_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031281.1 Mycobacterium phage Panchino, complete genome",
         "signatures": [
             {
                 "ksize": 31,

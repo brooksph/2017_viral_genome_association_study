@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881955.1/GCF_000881955.1_ViralProj33483_genomic.fna.gz",
+        "filename": "GCF_000881955.1_ViralProj33483_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011802.1 Salmonella enterica bacteriophage SE1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928155.1/GCF_000928155.1_ViralProj271230_genomic.fna.gz",
+        "filename": "GCF_000928155.1_ViralProj271230_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025967.1 Persimmon virus B genomic RNA, complete genome, variant 1",
         "signatures": [
             {
                 "ksize": 31,

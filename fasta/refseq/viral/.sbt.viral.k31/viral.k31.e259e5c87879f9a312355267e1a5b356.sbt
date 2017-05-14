@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654365.1/GCF_001654365.1_ViralProj323861_genomic.fna.gz",
+        "filename": "GCF_001654365.1_ViralProj323861_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030238.1 Euphorbia caput-medusae latent virus isolate DAR12_CM243, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905215.1/GCF_000905215.1_ViralProj192606_genomic.fna.gz",
+        "filename": "GCF_000905215.1_ViralProj192606_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020472.1 Gastropod associated circular ssDNA virus strain chc, complete genome",
         "signatures": [
             {
                 "ksize": 31,

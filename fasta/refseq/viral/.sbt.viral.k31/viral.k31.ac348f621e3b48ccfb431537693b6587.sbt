@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853325.1/GCF_000853325.1_ViralMultiSegProj14871_genomic.fna.gz",
+        "filename": "GCF_000853325.1_ViralMultiSegProj14871_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004439.1 Tomato black ring virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

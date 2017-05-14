@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881055.1/GCF_000881055.1_ViralProj33679_genomic.fna.gz",
+        "filename": "GCF_000881055.1_ViralProj33679_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011920.1 Rudbeckia flower distortion virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

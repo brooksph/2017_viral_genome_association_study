@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847805.1/GCF_000847805.1_ViralMultiSegProj14724_genomic.fna.gz",
+        "filename": "GCF_000847805.1_ViralMultiSegProj14724_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002690.1 Nodamura virus RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

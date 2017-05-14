@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905395.1/GCF_000905395.1_ViralProj195475_genomic.fna.gz",
+        "filename": "GCF_000905395.1_ViralProj195475_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020841.1 Psychrobacter phage pOW20-A genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

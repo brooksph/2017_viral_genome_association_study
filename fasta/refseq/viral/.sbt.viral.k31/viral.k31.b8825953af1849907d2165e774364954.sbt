@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745175.1/GCF_001745175.1_ViralProj344149_genomic.fna.gz",
+        "filename": "GCF_001745175.1_ViralProj344149_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031124.1 Mycobacterium phage Gardann, complete genome",
         "signatures": [
             {
                 "ksize": 31,

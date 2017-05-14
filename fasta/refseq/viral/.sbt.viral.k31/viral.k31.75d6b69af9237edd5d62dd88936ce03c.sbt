@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001714395.1/GCF_001714395.1_ViralProj339885_genomic.fna.gz",
+        "filename": "GCF_001714395.1_ViralProj339885_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030795.1 Bos taurus papillomavirus 13 strain 14RO12, complete genome",
         "signatures": [
             {
                 "ksize": 31,

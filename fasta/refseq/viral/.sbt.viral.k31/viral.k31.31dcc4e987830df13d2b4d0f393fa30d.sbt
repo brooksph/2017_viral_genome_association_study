@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888435.1/GCF_000888435.1_ViralProj50561_genomic.fna.gz",
+        "filename": "GCF_000888435.1_ViralProj50561_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014326.1 Mus musculus papillomavirus type 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

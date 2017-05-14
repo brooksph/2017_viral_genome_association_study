@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911315.1/GCF_000911315.1_ViralProj227116_genomic.fna.gz",
+        "filename": "GCF_000911315.1_ViralProj227116_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022761.1 Bacillus phage CampHawk, complete genome",
         "signatures": [
             {
                 "ksize": 31,

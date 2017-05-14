@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867125.1/GCF_000867125.1_ViralProj16653_genomic.fna.gz",
+        "filename": "GCF_000867125.1_ViralProj16653_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007916.1 Newbury agent 1 virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

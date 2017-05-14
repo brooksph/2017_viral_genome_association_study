@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863045.1/GCF_000863045.1_ViralMultiSegProj15319_genomic.fna.gz",
+        "filename": "GCF_000863045.1_ViralMultiSegProj15319_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005235.1 Dobrava virus complete L segment gene for polymerase protein, strain DOBV/Ano-Poroia/Afl9/1999)",
         "signatures": [
             {
                 "ksize": 31,

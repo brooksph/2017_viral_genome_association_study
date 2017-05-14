@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856785.1/GCF_000856785.1_ViralProj15081_genomic.fna.gz",
+        "filename": "GCF_000856785.1_ViralProj15081_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003633.1 Oat chlorotic stunt virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

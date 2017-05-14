@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001500435.1/GCF_001500435.1_ViralProj307718_genomic.fna.gz",
+        "filename": "GCF_001500435.1_ViralProj307718_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028785.1 Mycobacterium phage NelitzaMV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870665.1/GCF_000870665.1_ViralProj19181_genomic.fna.gz",
+        "filename": "GCF_000870665.1_ViralProj19181_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009240.1 Gryllus bimaculatus nudivirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

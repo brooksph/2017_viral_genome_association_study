@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974015.1/GCF_001974015.1_ViralMultiSegProj368924_genomic.fna.gz",
+        "filename": "GCF_001974015.1_ViralMultiSegProj368924_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033476.1 Botryosphaeria dothidea virus 1 strain YZN115 RNA-dependent RNA polymerase (RdRp) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

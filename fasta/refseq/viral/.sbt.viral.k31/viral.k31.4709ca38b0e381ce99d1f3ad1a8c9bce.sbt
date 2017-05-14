@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846845.1/GCF_000846845.1_ViralProj14525_genomic.fna.gz",
+        "filename": "GCF_000846845.1_ViralProj14525_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005875.1 Cucurbita yellow vein virus-associated DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

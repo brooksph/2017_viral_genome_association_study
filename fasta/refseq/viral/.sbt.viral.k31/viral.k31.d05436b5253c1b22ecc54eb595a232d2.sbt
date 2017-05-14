@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896995.1/GCF_000896995.1_ViralProj159111_genomic.fna.gz",
+        "filename": "GCF_000896995.1_ViralProj159111_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017716.1 Papio hamadryas papillomavirus type 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

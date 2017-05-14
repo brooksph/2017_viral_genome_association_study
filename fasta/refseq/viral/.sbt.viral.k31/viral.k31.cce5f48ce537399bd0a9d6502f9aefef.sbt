@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913655.1/GCF_000913655.1_ViralProj225923_genomic.fna.gz",
+        "filename": "GCF_000913655.1_ViralProj225923_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022613.1 Turkey adenovirus 5 isolate 1277BT, complete genome",
         "signatures": [
             {
                 "ksize": 31,

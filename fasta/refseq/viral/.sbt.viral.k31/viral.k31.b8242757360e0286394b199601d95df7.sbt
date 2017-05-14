@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882855.1/GCF_000882855.1_ViralProj37291_genomic.fna.gz",
+        "filename": "GCF_000882855.1_ViralProj37291_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012564.1 Human bocavirus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

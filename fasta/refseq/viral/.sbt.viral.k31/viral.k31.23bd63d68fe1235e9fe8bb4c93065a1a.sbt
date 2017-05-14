@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922815.1/GCF_000922815.1_ViralProj249092_genomic.fna.gz",
+        "filename": "GCF_000922815.1_ViralProj249092_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024213.1 Bacillus phage Hakuna, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001517015.1/GCF_001517015.1_ViralProj308859_genomic.fna.gz",
+        "filename": "GCF_001517015.1_ViralProj308859_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029043.1 Mycobacterium phage SweetiePie, complete genome",
         "signatures": [
             {
                 "ksize": 31,

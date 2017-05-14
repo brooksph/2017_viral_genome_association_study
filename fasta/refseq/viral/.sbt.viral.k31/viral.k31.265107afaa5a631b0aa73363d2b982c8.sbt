@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840645.2/GCF_000840645.2_ViralProj14289_genomic.fna.gz",
+        "filename": "GCF_000840645.2_ViralProj14289_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002628.3 Methanothermobacter wolfeii prophage psiM100, complete genome; flanked by Methanothermobacter wolfeii MTW1216 (mtw1216) and MTW1215 (mtw1215) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

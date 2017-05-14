@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925295.1/GCF_001925295.1_ViralProj359244_genomic.fna.gz",
+        "filename": "GCF_001925295.1_ViralProj359244_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032439.1 Beihai astro-like virus strain BHWZXX13371 putative protease, RNA-dependent RNA polymerase, and putative capsid genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

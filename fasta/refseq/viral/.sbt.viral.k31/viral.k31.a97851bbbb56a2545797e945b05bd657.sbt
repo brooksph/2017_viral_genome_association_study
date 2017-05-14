@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906655.1/GCF_000906655.1_ViralProj189217_genomic.fna.gz",
+        "filename": "GCF_000906655.1_ViralProj189217_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020255.1 Sida yellow mosaic Alagoas virus isolate BR:Vsa3:10 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

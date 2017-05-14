@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004435.1/GCF_002004435.1_ViralProj375009_genomic.fna.gz",
+        "filename": "GCF_002004435.1_ViralProj375009_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033740.1 Eidolon helvum papillomavirus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920335.1/GCF_000920335.1_ViralMultiSegProj241107_genomic.fna.gz",
+        "filename": "GCF_000920335.1_ViralMultiSegProj241107_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023763.1 Merino Walk virus Z protein and L genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

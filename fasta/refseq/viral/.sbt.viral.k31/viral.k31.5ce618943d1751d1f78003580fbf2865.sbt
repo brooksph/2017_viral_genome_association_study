@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918855.1/GCF_000918855.1_ViralMultiSegProj242647_genomic.fna.gz",
+        "filename": "GCF_000918855.1_ViralMultiSegProj242647_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023765.1 University of Helsinki virus strain UHV-1 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896795.1/GCF_000896795.1_ViralMultiSegProj83187_genomic.fna.gz",
+        "filename": "GCF_000896795.1_ViralMultiSegProj83187_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016879.1 Spissistilus festinus reovirus segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840005.1/GCF_000840005.1_ViralMultiSegProj14165_genomic.fna.gz",
+        "filename": "GCF_000840005.1_ViralMultiSegProj14165_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003504.1 Bean calico mosaic virus DNA A coat protein (AV1), replication enhancer protein (AC3), transcription activator protein (AC2), replication initiator protein (AC1), and AC4 (AC4) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

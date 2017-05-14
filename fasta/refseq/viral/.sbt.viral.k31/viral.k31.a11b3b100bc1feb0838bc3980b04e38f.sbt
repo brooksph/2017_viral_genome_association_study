@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850745.1/GCF_000850745.1_ViralProj14801_genomic.fna.gz",
+        "filename": "GCF_000850745.1_ViralProj14801_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003782.1 Himetobi P virus genomic RNA, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

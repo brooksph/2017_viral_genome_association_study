@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912235.1/GCF_000912235.1_ViralProj226084_genomic.fna.gz",
+        "filename": "GCF_000912235.1_ViralProj226084_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022643.1 Betacoronavirus Erinaceus/VMC/DEU/2012 isolate ErinaceusCoV/2012-216/GER/2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875105.1/GCF_000875105.1_ViralProj29397_genomic.fna.gz",
+        "filename": "GCF_000875105.1_ViralProj29397_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010620.1 Okra leaf curl disease associated DNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

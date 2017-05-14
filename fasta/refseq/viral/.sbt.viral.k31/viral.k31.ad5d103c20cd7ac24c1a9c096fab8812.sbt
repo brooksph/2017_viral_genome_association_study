@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001881895.1/GCF_001881895.1_ViralProj353675_genomic.fna.gz",
+        "filename": "GCF_001881895.1_ViralProj353675_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031904.1 Flavobacterium phage Fpv3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

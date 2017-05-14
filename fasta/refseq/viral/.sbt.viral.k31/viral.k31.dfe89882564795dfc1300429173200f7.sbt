@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870625.1/GCF_000870625.1_ViralMultiSegProj19149_genomic.fna.gz",
+        "filename": "GCF_000870625.1_ViralMultiSegProj19149_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009248.1 Rice gall dwarf virus segment S1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

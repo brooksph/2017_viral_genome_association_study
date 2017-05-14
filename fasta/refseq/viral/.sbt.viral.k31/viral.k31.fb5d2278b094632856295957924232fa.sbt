@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845585.1/GCF_000845585.1_ViralProj14442_genomic.fna.gz",
+        "filename": "GCF_000845585.1_ViralProj14442_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005049.1 Tobacco leaf curl disease associated sequence virion, complete genome",
         "signatures": [
             {
                 "ksize": 31,

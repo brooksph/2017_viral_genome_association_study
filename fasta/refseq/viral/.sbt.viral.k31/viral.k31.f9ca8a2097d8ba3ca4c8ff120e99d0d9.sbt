@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904975.1/GCF_000904975.1_ViralProj185272_genomic.fna.gz",
+        "filename": "GCF_000904975.1_ViralProj185272_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020074.1 Bovine adenovirus 6 strain 671130, complete genome",
         "signatures": [
             {
                 "ksize": 31,

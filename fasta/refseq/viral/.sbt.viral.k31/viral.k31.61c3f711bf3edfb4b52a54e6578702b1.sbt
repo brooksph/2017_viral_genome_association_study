@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865065.1/GCF_000865065.1_ViralProj15599_genomic.fna.gz",
+        "filename": "GCF_000865065.1_ViralProj15599_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002640.1 Dengue virus 4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

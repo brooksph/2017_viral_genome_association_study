@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004915.1/GCF_002004915.1_ViralProj375036_genomic.fna.gz",
+        "filename": "GCF_002004915.1_ViralProj375036_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033725.1 Bamaga virus isolate CY4270 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

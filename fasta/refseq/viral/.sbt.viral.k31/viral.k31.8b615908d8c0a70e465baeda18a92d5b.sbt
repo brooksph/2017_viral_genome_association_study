@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840225.1/GCF_000840225.1_ViralMultiSegProj14200_genomic.fna.gz",
+        "filename": "GCF_000840225.1_ViralMultiSegProj14200_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001439.1 Bean golden yellow mosaic virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888575.1/GCF_000888575.1_ViralProj51791_genomic.fna.gz",
+        "filename": "GCF_000888575.1_ViralProj51791_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014474.1 Simian retrovirus 4 strain SRV4/TEX/2009/V1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

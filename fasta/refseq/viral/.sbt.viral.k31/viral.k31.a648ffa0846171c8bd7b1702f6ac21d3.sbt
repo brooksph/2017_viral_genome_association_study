@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754465.1/GCF_001754465.1_ViralProj344785_genomic.fna.gz",
+        "filename": "GCF_001754465.1_ViralProj344785_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031301.1 Wuhan Louse Fly Virus 5 strain BFJSC-5 nucleocapsid (N), phosphoprotein (P), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

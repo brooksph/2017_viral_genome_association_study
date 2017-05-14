@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903455.1/GCF_000903455.1_ViralProj181247_genomic.fna.gz",
+        "filename": "GCF_000903455.1_ViralProj181247_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019494.1 Porcine astrovirus 3 isolate US-MO123, complete genome",
         "signatures": [
             {
                 "ksize": 31,

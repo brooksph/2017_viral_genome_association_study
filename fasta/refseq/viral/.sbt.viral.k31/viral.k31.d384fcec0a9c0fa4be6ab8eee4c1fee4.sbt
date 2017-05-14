@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925735.1/GCF_001925735.1_ViralMultiSegProj359288_genomic.fna.gz",
+        "filename": "GCF_001925735.1_ViralMultiSegProj359288_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032498.1 Beihai picobirna-like virus 7 strain BHNXC57916 segment Seg 2 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

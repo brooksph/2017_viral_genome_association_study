@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930795.1/GCF_000930795.1_ViralProj272436_genomic.fna.gz",
+        "filename": "GCF_000930795.1_ViralProj272436_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026138.1 Seal anellovirus 4 ORF1 gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840525.1/GCF_000840525.1_ViralMultiSegProj14262_genomic.fna.gz",
+        "filename": "GCF_000840525.1_ViralMultiSegProj14262_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004657.1 Sida golden mosaic Costa Rica virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

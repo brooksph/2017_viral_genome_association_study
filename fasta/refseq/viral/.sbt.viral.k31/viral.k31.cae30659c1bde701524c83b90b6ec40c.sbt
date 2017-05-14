@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504035.1/GCF_001504035.1_ViralProj307874_genomic.fna.gz",
+        "filename": "GCF_001504035.1_ViralProj307874_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005056.1 Bacteriophage WPhi, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887895.1/GCF_000887895.1_ViralProj61451_genomic.fna.gz",
+        "filename": "GCF_000887895.1_ViralProj61451_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014823.1 Tolypocladium cylindrosporum virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

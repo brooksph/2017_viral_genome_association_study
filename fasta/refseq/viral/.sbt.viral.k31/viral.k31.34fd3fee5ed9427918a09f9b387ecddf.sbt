@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001443905.1/GCF_001443905.1_ViralProj302027_genomic.fna.gz",
+        "filename": "GCF_001443905.1_ViralProj302027_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028379.1 Elephant endotheliotropic herpesvirus 4 isolate North American NAP69, complete genome",
         "signatures": [
             {
                 "ksize": 31,

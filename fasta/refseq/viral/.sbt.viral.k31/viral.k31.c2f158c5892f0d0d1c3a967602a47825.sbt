@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858105.1/GCF_000858105.1_ViralProj15161_genomic.fna.gz",
+        "filename": "GCF_000858105.1_ViralProj15161_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006956.1 Begomovirus-associated DNA-II, complete genome",
         "signatures": [
             {
                 "ksize": 31,

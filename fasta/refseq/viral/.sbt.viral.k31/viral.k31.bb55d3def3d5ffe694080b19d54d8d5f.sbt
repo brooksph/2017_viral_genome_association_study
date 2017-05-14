@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918735.1/GCF_000918735.1_ViralProj240754_genomic.fna.gz",
+        "filename": "GCF_000918735.1_ViralProj240754_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023712.1 Mycobacterium phage Firecracker, complete genome",
         "signatures": [
             {
                 "ksize": 31,

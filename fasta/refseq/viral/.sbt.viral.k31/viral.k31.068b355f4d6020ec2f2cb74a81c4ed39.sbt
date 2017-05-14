@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851045.1/GCF_000851045.1_ViralMultiSegProj14866_genomic.fna.gz",
+        "filename": "GCF_000851045.1_ViralMultiSegProj14866_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004362.1 Prunus necrotic ringspot virus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

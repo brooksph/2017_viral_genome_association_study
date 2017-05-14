@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001725915.1/GCF_001725915.1_ViralProj342648_genomic.fna.gz",
+        "filename": "GCF_001725915.1_ViralProj342648_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030885.1 Parrot bornavirus 5 viral cRNA, complete genome, isolate: 2012/Japan",
         "signatures": [
             {
                 "ksize": 31,

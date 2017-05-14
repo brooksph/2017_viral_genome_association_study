@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849925.1/GCF_000849925.1_ViralMultiSegProj14649_genomic.fna.gz",
+        "filename": "GCF_000849925.1_ViralMultiSegProj14649_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001925.1 Bunyamwera virus L segment, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

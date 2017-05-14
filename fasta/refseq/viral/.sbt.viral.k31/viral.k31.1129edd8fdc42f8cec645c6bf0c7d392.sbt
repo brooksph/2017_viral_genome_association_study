@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866305.1/GCF_001866305.1_ViralProj351804_genomic.fna.gz",
+        "filename": "GCF_001866305.1_ViralProj351804_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031689.1 Bradson virus strain HN1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

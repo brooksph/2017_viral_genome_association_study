@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001443765.1/GCF_001443765.1_ViralProj302021_genomic.fna.gz",
+        "filename": "GCF_001443765.1_ViralProj302021_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028366.1 Bat hepatovirus isolate M32Eidhel2010 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

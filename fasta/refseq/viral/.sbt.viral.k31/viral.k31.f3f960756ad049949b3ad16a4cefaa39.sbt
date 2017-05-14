@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884015.1/GCF_000884015.1_ViralProj38845_genomic.fna.gz",
+        "filename": "GCF_000884015.1_ViralProj38845_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012884.1 Streptococcus phage M102, complete genome",
         "signatures": [
             {
                 "ksize": 31,

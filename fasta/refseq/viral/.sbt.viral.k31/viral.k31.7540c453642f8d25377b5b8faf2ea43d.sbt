@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854105.2/GCF_000854105.2_ViralProj15010_genomic.fna.gz",
+        "filename": "GCF_000854105.2_ViralProj15010_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006441.1 Amasya cherry disease-associated mycovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855085.1/GCF_000855085.1_ViralProj15078_genomic.fna.gz",
+        "filename": "GCF_000855085.1_ViralProj15078_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002618.2 Cocksfoot mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

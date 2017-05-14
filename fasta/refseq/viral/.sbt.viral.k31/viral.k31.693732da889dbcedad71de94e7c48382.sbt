@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875485.1/GCF_000875485.1_ViralProj30673_genomic.fna.gz",
+        "filename": "GCF_000875485.1_ViralProj30673_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011052.2 Sweet potato leaf curl Spain virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

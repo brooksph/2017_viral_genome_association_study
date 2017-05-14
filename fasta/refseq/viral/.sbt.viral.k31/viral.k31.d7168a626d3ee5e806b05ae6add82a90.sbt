@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002006915.1/GCF_002006915.1_ViralProj376170_genomic.fna.gz",
+        "filename": "GCF_002006915.1_ViralProj376170_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033781.1 Human papillomavirus type 156 isolate GC01, complete genome",
         "signatures": [
             {
                 "ksize": 31,

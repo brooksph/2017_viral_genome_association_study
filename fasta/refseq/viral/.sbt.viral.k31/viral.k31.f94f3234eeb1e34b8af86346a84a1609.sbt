@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872445.1/GCF_000872445.1_ViralProj28279_genomic.fna.gz",
+        "filename": "GCF_000872445.1_ViralProj28279_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010238.1 Radish leaf curl virus segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

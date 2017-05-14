@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847665.1/GCF_000847665.1_ViralProj14696_genomic.fna.gz",
+        "filename": "GCF_000847665.1_ViralProj14696_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002064.1 Leishmania RNA virus 2 - 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

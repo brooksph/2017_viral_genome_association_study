@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919995.1/GCF_000919995.1_ViralProj248633_genomic.fna.gz",
+        "filename": "GCF_000919995.1_ViralProj248633_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024135.1 Mycobacterium phage Bernal13, complete genome",
         "signatures": [
             {
                 "ksize": 31,

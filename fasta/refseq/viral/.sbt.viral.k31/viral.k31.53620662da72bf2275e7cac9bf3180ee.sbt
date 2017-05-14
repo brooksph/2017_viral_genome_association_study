@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859245.1/GCF_000859245.1_ViralProj15240_genomic.fna.gz",
+        "filename": "GCF_000859245.1_ViralProj15240_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007003.1 Banana streak virus strain Acuminata Vietnam, complete genome",
         "signatures": [
             {
                 "ksize": 31,

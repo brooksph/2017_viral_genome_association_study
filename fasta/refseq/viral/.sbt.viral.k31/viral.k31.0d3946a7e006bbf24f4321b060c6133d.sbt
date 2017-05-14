@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008775.1/GCF_002008775.1_ViralMultiSegProj376930_genomic.fna.gz",
+        "filename": "GCF_002008775.1_ViralMultiSegProj376930_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033849.1 Uriurana virus strain BeAr479776 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

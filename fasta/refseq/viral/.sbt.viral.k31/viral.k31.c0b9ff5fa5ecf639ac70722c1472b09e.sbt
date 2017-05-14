@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918955.1/GCF_000918955.1_ViralProj243064_genomic.fna.gz",
+        "filename": "GCF_000918955.1_ViralProj243064_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023848.1 Anopheles minimus irodovirus isolate AMIV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

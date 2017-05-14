@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745675.1/GCF_001745675.1_ViralProj344111_genomic.fna.gz",
+        "filename": "GCF_001745675.1_ViralProj344111_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031012.1 Bacillus phage Kida, complete genome",
         "signatures": [
             {
                 "ksize": 31,

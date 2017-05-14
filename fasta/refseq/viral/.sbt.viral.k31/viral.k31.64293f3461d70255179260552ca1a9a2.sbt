@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960455.1/GCF_001960455.1_ViralProj361751_genomic.fna.gz",
+        "filename": "GCF_001960455.1_ViralProj361751_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033172.1 Wenzhou gastropodes virus 2 strain WZSLuoI86086 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

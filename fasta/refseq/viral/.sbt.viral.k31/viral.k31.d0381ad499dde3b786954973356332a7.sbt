@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001440835.1/GCF_001440835.1_ViralProj301247_genomic.fna.gz",
+        "filename": "GCF_001440835.1_ViralProj301247_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028265.1 Wuhan Mosquito Virus 8 strain XC2-7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

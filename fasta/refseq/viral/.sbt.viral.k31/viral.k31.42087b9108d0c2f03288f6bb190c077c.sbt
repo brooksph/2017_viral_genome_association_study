@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000836885.1/GCF_000836885.1_ViralProj14030_genomic.fna.gz",
+        "filename": "GCF_000836885.1_ViralProj14030_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001829.1 Adeno-associated virus - 4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

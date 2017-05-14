@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855885.1/GCF_000855885.1_ViralMultiSegProj15067_genomic.fna.gz",
+        "filename": "GCF_000855885.1_ViralMultiSegProj15067_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002036.1 Pea early browning virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

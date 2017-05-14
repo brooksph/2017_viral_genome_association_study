@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925915.1/GCF_000925915.1_ViralProj266787_genomic.fna.gz",
+        "filename": "GCF_000925915.1_ViralProj266787_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025433.1 Mycobacteriophage Taj, complete genome",
         "signatures": [
             {
                 "ksize": 31,

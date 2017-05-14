@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929375.1/GCF_000929375.1_ViralMultiSegProj274117_genomic.fna.gz",
+        "filename": "GCF_000929375.1_ViralMultiSegProj274117_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026281.1 Maprik virus isolate MK7532 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

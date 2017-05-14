@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916475.1/GCF_000916475.1_ViralProj240046_genomic.fna.gz",
+        "filename": "GCF_000916475.1_ViralProj240046_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023577.1 Mycobacterium phage Obama12, complete genome",
         "signatures": [
             {
                 "ksize": 31,

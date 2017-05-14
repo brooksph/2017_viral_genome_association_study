@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880555.1/GCF_000880555.1_ViralProj31285_genomic.fna.gz",
+        "filename": "GCF_000880555.1_ViralProj31285_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011270.1 Mycobacterium phage Spud, complete genome",
         "signatures": [
             {
                 "ksize": 31,

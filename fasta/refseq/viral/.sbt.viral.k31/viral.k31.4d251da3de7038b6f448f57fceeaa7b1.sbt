@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895355.1/GCF_000895355.1_ViralProj88117_genomic.fna.gz",
+        "filename": "GCF_000895355.1_ViralProj88117_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016960.1 Southern elephant seal virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921955.1/GCF_000921955.1_ViralProj253327_genomic.fna.gz",
+        "filename": "GCF_000921955.1_ViralProj253327_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024371.1 Mycobacterium phage Damien, complete genome",
         "signatures": [
             {
                 "ksize": 31,

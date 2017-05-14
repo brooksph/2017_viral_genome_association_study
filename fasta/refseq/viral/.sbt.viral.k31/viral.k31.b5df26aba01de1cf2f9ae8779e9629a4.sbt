@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501835.1/GCF_001501835.1_ViralProj307712_genomic.fna.gz",
+        "filename": "GCF_001501835.1_ViralProj307712_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028876.1 Mycobacterium phage Ariel, complete genome",
         "signatures": [
             {
                 "ksize": 31,

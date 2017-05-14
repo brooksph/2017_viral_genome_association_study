@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001431875.1/GCF_001431875.1_ViralProj301015_genomic.fna.gz",
+        "filename": "GCF_001431875.1_ViralProj301015_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028240.1 Posavirus 3 strain 958-4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

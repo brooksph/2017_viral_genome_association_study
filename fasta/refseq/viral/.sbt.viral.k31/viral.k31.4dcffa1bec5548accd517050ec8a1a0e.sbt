@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866805.1/GCF_000866805.1_ViralMultiSegProj16158_genomic.fna.gz",
+        "filename": "GCF_000866805.1_ViralMultiSegProj16158_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007582.1 Chum salmon reovirus CS segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

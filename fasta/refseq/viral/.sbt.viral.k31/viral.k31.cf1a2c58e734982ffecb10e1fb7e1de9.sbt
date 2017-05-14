@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461085.1/GCF_001461085.1_ViralMultiSegProj304898_genomic.fna.gz",
+        "filename": "GCF_001461085.1_ViralMultiSegProj304898_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028498.1 Penicillium aurantiogriseum bipartite virus 1 segment RNA 1 putative RdRp gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

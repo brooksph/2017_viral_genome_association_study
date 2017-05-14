@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922375.1/GCF_000922375.1_ViralProj259190_genomic.fna.gz",
+        "filename": "GCF_000922375.1_ViralProj259190_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024692.1 Penaeus monodon nudivirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

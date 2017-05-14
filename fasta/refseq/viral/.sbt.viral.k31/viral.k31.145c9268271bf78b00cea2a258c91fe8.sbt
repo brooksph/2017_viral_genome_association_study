@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001684605.1/GCF_001684605.1_ViralProj328327_genomic.fna.gz",
+        "filename": "GCF_001684605.1_ViralProj328327_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030451.1 Diachasmimorpha longicaudata rhabdovirus isolate UGA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

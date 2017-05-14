@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863545.1/GCF_000863545.1_ViralProj15425_genomic.fna.gz",
+        "filename": "GCF_000863545.1_ViralProj15425_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005281.1 Heterosigma akashiwo RNA virus SOG263, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929115.1/GCF_000929115.1_ViralProj272440_genomic.fna.gz",
+        "filename": "GCF_000929115.1_ViralProj272440_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026140.1 Eimeria tenella RNA virus 1 strain JL610V coat protein (EtRv1gp1) and RNA-dependent RNA polymerase (RDRP) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

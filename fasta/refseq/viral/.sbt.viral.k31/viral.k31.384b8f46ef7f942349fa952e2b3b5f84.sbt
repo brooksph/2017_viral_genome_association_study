@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926075.1/GCF_000926075.1_ViralProj260451_genomic.fna.gz",
+        "filename": "GCF_000926075.1_ViralProj260451_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024788.1 Bacillus phage Riley, complete genome",
         "signatures": [
             {
                 "ksize": 31,

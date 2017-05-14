@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919735.1/GCF_000919735.1_ViralProj243529_genomic.fna.gz",
+        "filename": "GCF_000919735.1_ViralProj243529_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023888.1 Circo-like virus-Brazil hs1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

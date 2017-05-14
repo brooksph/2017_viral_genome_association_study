@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001661875.1/GCF_001661875.1_ViralProj325265_genomic.fna.gz",
+        "filename": "GCF_001661875.1_ViralProj325265_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030293.1 Pecan mosaic-associated virus isolate LA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

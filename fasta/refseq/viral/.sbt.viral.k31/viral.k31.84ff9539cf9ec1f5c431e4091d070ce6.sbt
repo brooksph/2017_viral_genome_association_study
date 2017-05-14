@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891595.1/GCF_000891595.1_ViralMultiSegProj62875_genomic.fna.gz",
+        "filename": "GCF_000891595.1_ViralMultiSegProj62875_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015126.1 Avian orthoreovirus segment L1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

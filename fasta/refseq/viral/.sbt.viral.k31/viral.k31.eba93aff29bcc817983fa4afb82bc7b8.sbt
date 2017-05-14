@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847145.1/GCF_000847145.1_ViralProj14586_genomic.fna.gz",
+        "filename": "GCF_000847145.1_ViralProj14586_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004166.2 Bacteriophage SPP1 complete nucleotide sequence",
         "signatures": [
             {
                 "ksize": 31,

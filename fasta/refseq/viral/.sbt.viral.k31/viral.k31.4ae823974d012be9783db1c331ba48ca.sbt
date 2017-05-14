@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839865.1/GCF_000839865.1_ViralProj14134_genomic.fna.gz",
+        "filename": "GCF_000839865.1_ViralProj14134_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002169.1 Spodoptera exigua nucleopolyhedrovirus complete genome",
         "signatures": [
             {
                 "ksize": 31,

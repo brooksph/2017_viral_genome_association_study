@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907315.1/GCF_000907315.1_ViralProj203090_genomic.fna.gz",
+        "filename": "GCF_000907315.1_ViralProj203090_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021220.1 Enterovirus F strain BEV-261 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

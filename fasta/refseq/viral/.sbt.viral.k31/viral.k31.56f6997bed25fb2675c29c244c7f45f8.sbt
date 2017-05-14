@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924555.1/GCF_000924555.1_ViralProj264913_genomic.fna.gz",
+        "filename": "GCF_000924555.1_ViralProj264913_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025367.1 Ustilaginoidea virens RNA virus M isolate GX-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

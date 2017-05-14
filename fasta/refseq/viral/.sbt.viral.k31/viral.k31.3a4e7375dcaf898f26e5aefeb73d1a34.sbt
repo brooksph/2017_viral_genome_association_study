@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001959915.1/GCF_001959915.1_ViralProj361762_genomic.fna.gz",
+        "filename": "GCF_001959915.1_ViralProj361762_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033012.1 Wenling toti-like virus 2 strain WLJQ104148 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

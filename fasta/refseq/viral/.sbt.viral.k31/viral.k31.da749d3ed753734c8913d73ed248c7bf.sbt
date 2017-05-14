@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925615.1/GCF_000925615.1_ViralProj265904_genomic.fna.gz",
+        "filename": "GCF_000925615.1_ViralProj265904_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025408.1 Lyssavirus Ozernoe, complete genome",
         "signatures": [
             {
                 "ksize": 31,

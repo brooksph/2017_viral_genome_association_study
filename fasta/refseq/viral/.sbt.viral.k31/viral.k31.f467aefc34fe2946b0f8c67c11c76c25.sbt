@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000836985.1/GCF_000836985.1_ViralProj14054_genomic.fna.gz",
+        "filename": "GCF_000836985.1_ViralProj14054_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002214.1 Streptococcus thermophilus bacteriophage Sfi11, complete genome",
         "signatures": [
             {
                 "ksize": 31,

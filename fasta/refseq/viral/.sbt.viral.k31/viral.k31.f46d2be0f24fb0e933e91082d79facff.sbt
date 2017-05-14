@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001968075.1/GCF_001968075.1_ViralProj361660_genomic.fna.gz",
+        "filename": "GCF_001968075.1_ViralProj361660_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033153.1 Hubei tetragnatha maxillosa virus 5 strain SSZZ3471 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

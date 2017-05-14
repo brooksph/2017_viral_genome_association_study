@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847565.3/GCF_000847565.3_ViralProj14675.1_genomic.fna.gz",
+        "filename": "GCF_000847565.3_ViralProj14675.1_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030692.1 Borna disease virus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

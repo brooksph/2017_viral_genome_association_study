@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912375.1/GCF_000912375.1_ViralProj227123_genomic.fna.gz",
+        "filename": "GCF_000912375.1_ViralProj227123_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022765.1 Bacillus phage Riggi, complete genome",
         "signatures": [
             {
                 "ksize": 31,

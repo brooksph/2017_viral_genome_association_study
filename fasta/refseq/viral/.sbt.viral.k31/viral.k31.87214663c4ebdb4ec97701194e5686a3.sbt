@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894155.1/GCF_000894155.1_ViralProj80915_genomic.fna.gz",
+        "filename": "GCF_000894155.1_ViralProj80915_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016564.1 Planktothrix phage PaV-LD, complete genome",
         "signatures": [
             {
                 "ksize": 31,

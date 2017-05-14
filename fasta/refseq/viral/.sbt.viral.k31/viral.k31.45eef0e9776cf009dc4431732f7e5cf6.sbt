@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001669805.1/GCF_001669805.1_ViralProj326001_genomic.fna.gz",
+        "filename": "GCF_001669805.1_ViralProj326001_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030309.1 Chayote yellow mosaic Benin betasatellite isolate Cameroon-Kumba-Papaya-20-14, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

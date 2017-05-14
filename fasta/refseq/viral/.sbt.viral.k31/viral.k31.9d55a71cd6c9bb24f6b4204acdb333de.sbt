@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843925.1/GCF_000843925.1_ViralProj14445_genomic.fna.gz",
+        "filename": "GCF_000843925.1_ViralProj14445_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003405.1 Bhendi yellow vein mosaic virus-associated DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

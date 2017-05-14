@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913395.1/GCF_000913395.1_ViralProj215672_genomic.fna.gz",
+        "filename": "GCF_000913395.1_ViralProj215672_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022085.1 Myobacteriophage Goku, complete genome",
         "signatures": [
             {
                 "ksize": 31,

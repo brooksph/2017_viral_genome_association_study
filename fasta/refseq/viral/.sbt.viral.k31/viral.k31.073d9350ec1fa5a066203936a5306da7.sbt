@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851305.2/GCF_000851305.2_ViralMultiSegProj14778_genomic.fna.gz",
+        "filename": "GCF_000851305.2_ViralMultiSegProj14778_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003673.1 Olive latent virus 2 RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

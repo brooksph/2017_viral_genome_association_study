@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889495.1/GCF_000889495.1_ViralProj60747_genomic.fna.gz",
+        "filename": "GCF_000889495.1_ViralProj60747_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014745.1 Okra leaf curl Cameroon virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

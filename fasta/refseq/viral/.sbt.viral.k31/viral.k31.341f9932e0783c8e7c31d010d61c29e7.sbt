@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001881875.1/GCF_001881875.1_ViralProj353714_genomic.fna.gz",
+        "filename": "GCF_001881875.1_ViralProj353714_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031918.1 Salmonella phage 64795_sal3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

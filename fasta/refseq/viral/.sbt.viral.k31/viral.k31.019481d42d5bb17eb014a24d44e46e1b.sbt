@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501295.1/GCF_001501295.1_ViralProj307759_genomic.fna.gz",
+        "filename": "GCF_001501295.1_ViralProj307759_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028855.1 Acinetobacter phage YMC11/12/R2315, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001431995.1/GCF_001431995.1_ViralProj301024_genomic.fna.gz",
+        "filename": "GCF_001431995.1_ViralProj301024_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028241.1 Yata virus isolate DakArB 2181, complete genome",
         "signatures": [
             {
                 "ksize": 31,

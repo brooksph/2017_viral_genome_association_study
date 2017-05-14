@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550465.1/GCF_001550465.1_ViralProj310890_genomic.fna.gz",
+        "filename": "GCF_001550465.1_ViralProj310890_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029064.1 Cucumis melo endornavirus isolate CL-01, complete genome",
         "signatures": [
             {
                 "ksize": 31,

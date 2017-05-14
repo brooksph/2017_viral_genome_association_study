@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837765.1/GCF_000837765.1_ViralProj14053_genomic.fna.gz",
+        "filename": "GCF_000837765.1_ViralProj14053_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001792.2 Porcine circovirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

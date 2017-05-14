@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916115.1/GCF_000916115.1_ViralProj239034_genomic.fna.gz",
+        "filename": "GCF_000916115.1_ViralProj239034_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003639.1 Milk vetch dwarf C2 alphasatellite gene for viral replication-associated protein, complete cds",
         "signatures": [
             {
                 "ksize": 31,

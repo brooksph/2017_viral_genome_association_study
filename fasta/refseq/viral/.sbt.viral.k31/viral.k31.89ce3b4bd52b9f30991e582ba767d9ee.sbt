@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896815.1/GCF_000896815.1_ViralProj84407_genomic.fna.gz",
+        "filename": "GCF_000896815.1_ViralProj84407_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016899.1 Thermococcus prieurii virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

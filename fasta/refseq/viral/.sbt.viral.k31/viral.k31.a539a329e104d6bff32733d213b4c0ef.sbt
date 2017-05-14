@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844225.1/GCF_000844225.1_ViralProj14511_genomic.fna.gz",
+        "filename": "GCF_000844225.1_ViralProj14511_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006458.1 Tobacco bushy top virus satellite-like RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

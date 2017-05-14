@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001190495.1/GCF_001190495.1_ViralProj291247_genomic.fna.gz",
+        "filename": "GCF_001190495.1_ViralProj291247_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027632.1 Temperate fruit decay-associated virus isolate MFB10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

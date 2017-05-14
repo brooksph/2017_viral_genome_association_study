@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898215.1/GCF_000898215.1_ViralProj167666_genomic.fna.gz",
+        "filename": "GCF_000898215.1_ViralProj167666_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017982.1 Equine polyomavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

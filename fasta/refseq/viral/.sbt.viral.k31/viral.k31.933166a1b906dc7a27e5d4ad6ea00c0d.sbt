@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927975.1/GCF_000927975.1_ViralProj269306_genomic.fna.gz",
+        "filename": "GCF_000927975.1_ViralProj269306_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025811.1 Bovine polyomavirus 2 strain BPyV2-SF, complete genome",
         "signatures": [
             {
                 "ksize": 31,

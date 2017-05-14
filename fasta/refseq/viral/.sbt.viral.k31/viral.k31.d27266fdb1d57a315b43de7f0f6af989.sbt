@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906695.1/GCF_000906695.1_ViralProj192607_genomic.fna.gz",
+        "filename": "GCF_000906695.1_ViralProj192607_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020473.1 Corchorus yellow vein mosaic virus isolate CEA8, complete genome",
         "signatures": [
             {
                 "ksize": 31,

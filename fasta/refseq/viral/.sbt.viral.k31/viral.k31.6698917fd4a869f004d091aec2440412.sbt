@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852405.1/GCF_000852405.1_ViralProj14846_genomic.fna.gz",
+        "filename": "GCF_000852405.1_ViralProj14846_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004074.1 Tioman virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

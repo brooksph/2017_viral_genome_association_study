@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963095.1/GCF_001963095.1_ViralProj361922_genomic.fna.gz",
+        "filename": "GCF_001963095.1_ViralProj361922_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033081.1 Chicken calicivirus strain RS/BR/2015, complete genome",
         "signatures": [
             {
                 "ksize": 31,

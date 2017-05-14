@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926975.1/GCF_001926975.1_ViralProj359282_genomic.fna.gz",
+        "filename": "GCF_001926975.1_ViralProj359282_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032430.1 Beihai barnacle virus 8 strain BHTH14652 hypothetical protein 1, hypothetical protein 2, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

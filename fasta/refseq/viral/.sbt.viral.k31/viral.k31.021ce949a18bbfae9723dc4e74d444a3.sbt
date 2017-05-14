@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882795.1/GCF_000882795.1_ViralProj36541_genomic.fna.gz",
+        "filename": "GCF_000882795.1_ViralProj36541_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012493.1 Tomato leaf curl Patna betasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

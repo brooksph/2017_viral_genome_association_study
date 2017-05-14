@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754985.1/GCF_001754985.1_ViralMultiSegProj344321_genomic.fna.gz",
+        "filename": "GCF_001754985.1_ViralMultiSegProj344321_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031220.1 Shayang Spider Virus 1 strain SYZZ-4 RNA-dependent RNA polymerase (L) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

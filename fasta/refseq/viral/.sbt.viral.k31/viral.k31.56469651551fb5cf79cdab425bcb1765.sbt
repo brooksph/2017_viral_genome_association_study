@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008555.1/GCF_002008555.1_ViralMultiSegProj376920_genomic.fna.gz",
+        "filename": "GCF_002008555.1_ViralMultiSegProj376920_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033830.1 Munguba virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

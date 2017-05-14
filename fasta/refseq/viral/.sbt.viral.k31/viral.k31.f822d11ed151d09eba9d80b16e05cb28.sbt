@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919195.1/GCF_000919195.1_ViralProj245453_genomic.fna.gz",
+        "filename": "GCF_000919195.1_ViralProj245453_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024031.1 Atlantic salmon calicivirus isolate Nordland/2011, complete genome",
         "signatures": [
             {
                 "ksize": 31,

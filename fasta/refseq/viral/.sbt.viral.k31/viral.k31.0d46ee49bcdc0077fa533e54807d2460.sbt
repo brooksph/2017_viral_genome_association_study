@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898415.1/GCF_000898415.1_ViralProj171976_genomic.fna.gz",
+        "filename": "GCF_000898415.1_ViralProj171976_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018272.1 Persicivirga phage P12024L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

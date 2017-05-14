@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504515.1/GCF_001504515.1_ViralProj307970_genomic.fna.gz",
+        "filename": "GCF_001504515.1_ViralProj307970_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028978.1 Mycobacterium phage Murucutumbu, complete genome",
         "signatures": [
             {
                 "ksize": 31,

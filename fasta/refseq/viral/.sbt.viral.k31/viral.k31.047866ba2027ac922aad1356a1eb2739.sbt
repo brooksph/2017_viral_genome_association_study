@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892015.1/GCF_000892015.1_ViralMultiSegProj66459_genomic.fna.gz",
+        "filename": "GCF_000892015.1_ViralMultiSegProj66459_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015469.1 Groundnut ringspot and Tomato chlorotic spot virus reassortant segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924755.1/GCF_000924755.1_ViralProj265899_genomic.fna.gz",
+        "filename": "GCF_000924755.1_ViralProj265899_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025407.1 Avian paramyxovirus 11 isolate common_snipe/France/100212/2010, complete genome",
         "signatures": [
             {
                 "ksize": 31,

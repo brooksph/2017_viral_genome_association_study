@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891515.1/GCF_000891515.1_ViralProj62211_genomic.fna.gz",
+        "filename": "GCF_000891515.1_ViralProj62211_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014967.1 Honeysuckle ringspot virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

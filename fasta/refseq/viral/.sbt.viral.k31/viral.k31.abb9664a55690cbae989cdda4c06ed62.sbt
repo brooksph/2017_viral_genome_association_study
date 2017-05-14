@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001634535.1/GCF_001634535.1_ViralProj319976_genomic.fna.gz",
+        "filename": "GCF_001634535.1_ViralProj319976_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029991.1 Rhizoctonia oryzae-sativae mitovirus 1 isolate 89-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

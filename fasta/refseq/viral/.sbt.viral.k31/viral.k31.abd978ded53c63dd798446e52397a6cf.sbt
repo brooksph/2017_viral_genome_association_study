@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001921275.1/GCF_001921275.1_ViralProj358102_genomic.fna.gz",
+        "filename": "GCF_001921275.1_ViralProj358102_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032122.1 Beihai permutotetra-like virus 2 strain HOU234589 RdRp and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

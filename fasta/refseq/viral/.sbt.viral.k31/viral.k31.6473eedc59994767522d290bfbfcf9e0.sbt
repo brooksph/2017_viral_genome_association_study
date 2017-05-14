@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840125.1/GCF_000840125.1_ViralProj14189_genomic.fna.gz",
+        "filename": "GCF_000840125.1_ViralProj14189_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003889.1 Tobacco ringspot virus satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

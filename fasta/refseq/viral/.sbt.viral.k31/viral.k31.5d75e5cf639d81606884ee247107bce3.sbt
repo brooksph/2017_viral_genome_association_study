@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845105.1/GCF_000845105.1_ViralProj14522_genomic.fna.gz",
+        "filename": "GCF_000845105.1_ViralProj14522_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001720.1 Fowl adenovirus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

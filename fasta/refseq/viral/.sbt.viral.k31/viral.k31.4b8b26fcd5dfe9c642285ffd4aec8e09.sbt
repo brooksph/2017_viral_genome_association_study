@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918055.1/GCF_000918055.1_ViralProj243501_genomic.fna.gz",
+        "filename": "GCF_000918055.1_ViralProj243501_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023884.1 Cyanoramphus nest associated circular K DNA virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

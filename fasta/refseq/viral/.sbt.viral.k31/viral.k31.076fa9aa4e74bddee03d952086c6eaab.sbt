@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864265.1/GCF_000864265.1_ViralMultiSegProj16156_genomic.fna.gz",
+        "filename": "GCF_000864265.1_ViralMultiSegProj16156_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007537.1 Rosellinia necatrix partitivirus 1-W8 segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

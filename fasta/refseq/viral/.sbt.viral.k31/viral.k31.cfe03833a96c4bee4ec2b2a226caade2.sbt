@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001271115.2/GCF_001271115.2_ViralProj293045_genomic.fna.gz",
+        "filename": "GCF_001271115.2_ViralProj293045_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027710.2 Opium poppy mosaic virus isolate PHEL5235, complete genome",
         "signatures": [
             {
                 "ksize": 31,

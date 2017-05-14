@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905175.1/GCF_000905175.1_ViralProj189216_genomic.fna.gz",
+        "filename": "GCF_000905175.1_ViralProj189216_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020254.1 Sida yellow blotch virus isolate BR:Rla1:10 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839205.1/GCF_000839205.1_ViralProj14178_genomic.fna.gz",
+        "filename": "GCF_000839205.1_ViralProj14178_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003793.1 Spiroplasma phage 1-C74, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001619055.1/GCF_001619055.1_ViralProj318037_genomic.fna.gz",
+        "filename": "GCF_001619055.1_ViralProj318037_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029852.1 Bovine retrovirus CH15 putative group-specific antigen, putative protease, putative viral DNA polymerase, and putative envelope protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

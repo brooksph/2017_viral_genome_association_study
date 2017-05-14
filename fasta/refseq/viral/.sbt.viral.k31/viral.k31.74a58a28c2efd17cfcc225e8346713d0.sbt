@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846665.1/GCF_000846665.1_ViralMultiSegProj14483_genomic.fna.gz",
+        "filename": "GCF_000846665.1_ViralMultiSegProj14483_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001932.1 Indian cassava mosaic virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

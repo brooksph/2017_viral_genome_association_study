@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004555.1/GCF_002004555.1_ViralMultiSegProj375033_genomic.fna.gz",
+        "filename": "GCF_002004555.1_ViralMultiSegProj375033_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033762.1 Hubei myriapoda virus 9 strain arthropodmix12082 segment 1 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

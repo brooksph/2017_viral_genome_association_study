@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470935.1/GCF_001470935.1_ViralProj306299_genomic.fna.gz",
+        "filename": "GCF_001470935.1_ViralProj306299_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028663.1 Cyanophage P-TIM40, complete genome",
         "signatures": [
             {
                 "ksize": 31,

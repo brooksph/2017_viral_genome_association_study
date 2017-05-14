@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883335.1/GCF_000883335.1_ViralProj32701_genomic.fna.gz",
+        "filename": "GCF_000883335.1_ViralProj32701_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011549.1 Thrush coronavirus HKU12-600, complete genome",
         "signatures": [
             {
                 "ksize": 31,

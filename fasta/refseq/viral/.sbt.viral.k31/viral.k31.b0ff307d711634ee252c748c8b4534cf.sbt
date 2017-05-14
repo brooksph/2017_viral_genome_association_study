@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925195.1/GCF_000925195.1_ViralProj262492_genomic.fna.gz",
+        "filename": "GCF_000925195.1_ViralProj262492_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025112.1 Mikumi yellow baboon virus 1 isolate MYBV_M58, complete genome",
         "signatures": [
             {
                 "ksize": 31,

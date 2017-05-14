@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001441015.1/GCF_001441015.1_ViralProj301249_genomic.fna.gz",
+        "filename": "GCF_001441015.1_ViralProj301249_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028263.1 Tacheng Tick Virus 4 strain TCRP-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

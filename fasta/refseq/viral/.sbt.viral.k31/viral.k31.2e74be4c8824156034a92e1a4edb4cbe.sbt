@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736955.1/GCF_001736955.1_ViralProj343492_genomic.fna.gz",
+        "filename": "GCF_001736955.1_ViralProj343492_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030903.1 Bacillus phage SPG24 DNA, contig00001 sequence",
         "signatures": [
             {
                 "ksize": 31,

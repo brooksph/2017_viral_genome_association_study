@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008575.1/GCF_002008575.1_ViralProj376917_genomic.fna.gz",
+        "filename": "GCF_002008575.1_ViralProj376917_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033819.1 Bat crohivirus clone Bat/CAM/CroV-P25/2013 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

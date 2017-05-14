@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927495.1/GCF_000927495.1_ViralProj266773_genomic.fna.gz",
+        "filename": "GCF_000927495.1_ViralProj266773_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025439.1 Idiomarinaceae phage 1N2-2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

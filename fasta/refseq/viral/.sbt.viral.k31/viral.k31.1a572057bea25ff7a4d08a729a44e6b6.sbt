@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901255.1/GCF_000901255.1_ViralProj184154_genomic.fna.gz",
+        "filename": "GCF_000901255.1_ViralProj184154_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019926.1 Erwinia amylovora phage phiEa100 complete genome",
         "signatures": [
             {
                 "ksize": 31,

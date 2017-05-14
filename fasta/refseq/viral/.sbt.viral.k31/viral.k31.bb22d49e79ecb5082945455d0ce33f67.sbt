@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898935.1/GCF_000898935.1_ViralProj169624_genomic.fna.gz",
+        "filename": "GCF_000898935.1_ViralProj169624_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018093.1 Sweet potato virus G isolate Jesus Maria, complete genome",
         "signatures": [
             {
                 "ksize": 31,

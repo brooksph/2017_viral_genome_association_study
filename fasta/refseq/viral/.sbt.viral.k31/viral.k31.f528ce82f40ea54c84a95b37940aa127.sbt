@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887815.1/GCF_000887815.1_ViralProj60733_genomic.fna.gz",
+        "filename": "GCF_000887815.1_ViralProj60733_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014744.1 Ageratum leaf curl Cameroon alphasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

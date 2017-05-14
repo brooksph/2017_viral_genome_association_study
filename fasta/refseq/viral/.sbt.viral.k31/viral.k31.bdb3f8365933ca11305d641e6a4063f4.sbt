@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001885445.1/GCF_001885445.1_ViralProj314140_genomic.fna.gz",
+        "filename": "GCF_001885445.1_ViralProj314140_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029548.1 Pyrobaculum filamentous virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

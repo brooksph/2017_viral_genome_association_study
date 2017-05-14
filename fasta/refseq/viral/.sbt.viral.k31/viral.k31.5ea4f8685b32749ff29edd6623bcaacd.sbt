@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001717375.1/GCF_001717375.1_ViralProj340456_genomic.fna.gz",
+        "filename": "GCF_001717375.1_ViralProj340456_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030844.1 Bat tymo-like virus polyprotein and capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

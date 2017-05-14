@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001995595.1/GCF_001995595.1_ViralProj369555_genomic.fna.gz",
+        "filename": "GCF_001995595.1_ViralProj369555_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033618.1 Pea leaf distortion betasatellite clone N36-54, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

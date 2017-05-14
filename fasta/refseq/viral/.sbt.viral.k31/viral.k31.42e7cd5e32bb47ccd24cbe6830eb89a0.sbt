@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000969055.1/GCF_000969055.1_ViralProj280298_genomic.fna.gz",
+        "filename": "GCF_000969055.1_ViralProj280298_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026760.1 Apple geminivirus PL-2015 isolate China, complete genome",
         "signatures": [
             {
                 "ksize": 31,

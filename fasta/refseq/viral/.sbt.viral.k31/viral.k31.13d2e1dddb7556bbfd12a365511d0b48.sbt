@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001698375.1/GCF_001698375.1_ViralProj336044_genomic.fna.gz",
+        "filename": "GCF_001698375.1_ViralProj336044_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030694.1 Gordonia phage Rosalind, complete genome",
         "signatures": [
             {
                 "ksize": 31,

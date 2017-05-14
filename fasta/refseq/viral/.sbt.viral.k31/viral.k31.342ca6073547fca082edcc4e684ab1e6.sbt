@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929975.1/GCF_000929975.1_ViralProj269794_genomic.fna.gz",
+        "filename": "GCF_000929975.1_ViralProj269794_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025837.1 Sauropus yellowing virus isolate THSP1-B P0, P1-P2 fusion protein, P1, P3-P5 readthrough protein, P3, and P4 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

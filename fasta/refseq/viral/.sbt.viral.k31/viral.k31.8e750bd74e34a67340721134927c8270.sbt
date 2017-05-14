@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910215.1/GCF_000910215.1_ViralProj209072_genomic.fna.gz",
+        "filename": "GCF_000910215.1_ViralProj209072_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021538.1 Mycobacterium phage Job42, complete genome",
         "signatures": [
             {
                 "ksize": 31,

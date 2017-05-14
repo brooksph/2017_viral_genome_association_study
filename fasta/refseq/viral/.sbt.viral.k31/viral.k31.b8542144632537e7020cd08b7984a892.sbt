@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856325.1/GCF_000856325.1_ViralProj14979_genomic.fna.gz",
+        "filename": "GCF_000856325.1_ViralProj14979_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002598.1 Panicum mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

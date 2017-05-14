@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898455.1/GCF_000898455.1_ViralMultiSegProj172456_genomic.fna.gz",
+        "filename": "GCF_000898455.1_ViralMultiSegProj172456_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018402.1 Amazon lily mild mottle virus 1a gene for replication protein 1a, complete cds, strain: Japan",
         "signatures": [
             {
                 "ksize": 31,

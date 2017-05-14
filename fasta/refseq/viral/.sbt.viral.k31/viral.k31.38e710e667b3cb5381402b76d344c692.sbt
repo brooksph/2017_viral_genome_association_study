@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894515.1/GCF_000894515.1_ViralProj157259_genomic.fna.gz",
+        "filename": "GCF_000894515.1_ViralProj157259_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017088.1 Halorubrum pleomorphic virus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

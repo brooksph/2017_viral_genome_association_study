@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745535.1/GCF_001745535.1_ViralProj344309_genomic.fna.gz",
+        "filename": "GCF_001745535.1_ViralProj344309_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031056.1 Bacillus phage Deep Blue, complete genome",
         "signatures": [
             {
                 "ksize": 31,

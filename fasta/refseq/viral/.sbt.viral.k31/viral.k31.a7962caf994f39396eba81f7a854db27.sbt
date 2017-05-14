@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502175.1/GCF_001502175.1_ViralProj307780_genomic.fna.gz",
+        "filename": "GCF_001502175.1_ViralProj307780_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028981.1 Tupaia hepatovirus A isolate TN1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

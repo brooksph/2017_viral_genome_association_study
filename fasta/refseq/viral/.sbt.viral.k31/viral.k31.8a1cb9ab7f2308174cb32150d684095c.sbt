@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850425.1/GCF_000850425.1_ViralMultiSegProj14750_genomic.fna.gz",
+        "filename": "GCF_000850425.1_ViralMultiSegProj14750_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003506.1 Beet soil-borne mosaic virus RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

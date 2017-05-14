@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501995.1/GCF_001501995.1_ViralProj307744_genomic.fna.gz",
+        "filename": "GCF_001501995.1_ViralProj307744_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028861.1 Mycobacterium phage FlagStaff, complete genome",
         "signatures": [
             {
                 "ksize": 31,

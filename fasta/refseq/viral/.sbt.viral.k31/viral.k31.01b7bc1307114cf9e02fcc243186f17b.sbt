@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925975.1/GCF_000925975.1_ViralProj267248_genomic.fna.gz",
+        "filename": "GCF_000925975.1_ViralProj267248_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025474.1 Crohivirus gene for polyprotein, complete cds, strain: ZM54",
         "signatures": [
             {
                 "ksize": 31,

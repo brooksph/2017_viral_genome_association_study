@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905615.1/GCF_000905615.1_ViralProj195535_genomic.fna.gz",
+        "filename": "GCF_000905615.1_ViralProj195535_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020881.1 Bat hepatitis virus isolate 776, complete genome",
         "signatures": [
             {
                 "ksize": 31,

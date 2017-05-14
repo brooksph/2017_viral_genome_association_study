@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000836865.1/GCF_000836865.1_ViralProj14025_genomic.fna.gz",
+        "filename": "GCF_000836865.1_ViralProj14025_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001678.1 Rhesus monkey papillomavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

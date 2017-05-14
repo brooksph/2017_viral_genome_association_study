@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001722885.1/GCF_001722885.1_ViralProj342446_genomic.fna.gz",
+        "filename": "GCF_001722885.1_ViralProj342446_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030873.1 Mink bocavirus clone 1 non-structural protein 1 (NS1), non-capsid protein 1 (NP1), capsid protein 1 (VP1), and capsid protein 2 (VP2) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

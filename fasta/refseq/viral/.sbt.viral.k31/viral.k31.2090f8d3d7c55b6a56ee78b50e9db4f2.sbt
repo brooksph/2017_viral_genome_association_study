@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930655.1/GCF_000930655.1_ViralProj270090_genomic.fna.gz",
+        "filename": "GCF_000930655.1_ViralProj270090_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025893.1 Chaetoceros tenuissimus DNA virus type-II DNA, complete genome, isolate: SS10-8V",
         "signatures": [
             {
                 "ksize": 31,

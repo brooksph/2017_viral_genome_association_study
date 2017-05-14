@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839505.1/GCF_000839505.1_ViralMultiSegProj14059_genomic.fna.gz",
+        "filename": "GCF_000839505.1_ViralMultiSegProj14059_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001359.1 Pepper huasteco yellow vein virus segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

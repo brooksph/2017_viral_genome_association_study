@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853645.1/GCF_000853645.1_ViralProj14912_genomic.fna.gz",
+        "filename": "GCF_000853645.1_ViralProj14912_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004714.1 Sclerophthora macrospora virus B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

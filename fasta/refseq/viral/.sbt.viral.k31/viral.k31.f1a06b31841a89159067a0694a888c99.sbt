@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905815.1/GCF_000905815.1_ViralProj192605_genomic.fna.gz",
+        "filename": "GCF_000905815.1_ViralProj192605_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020471.1 Andean potato mild mosaic virus isolate Hu, complete genome",
         "signatures": [
             {
                 "ksize": 31,

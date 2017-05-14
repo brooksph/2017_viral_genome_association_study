@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895795.1/GCF_000895795.1_ViralMultiSegProj81007_genomic.fna.gz",
+        "filename": "GCF_000895795.1_ViralMultiSegProj81007_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016573.1 Sida mosaic Alagoas virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

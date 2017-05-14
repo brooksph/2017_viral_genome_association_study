@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000909595.1/GCF_000909595.1_ViralProj212950_genomic.fna.gz",
+        "filename": "GCF_000909595.1_ViralProj212950_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021784.1 Phage phi OH2 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852365.1/GCF_000852365.1_ViralProj14838_genomic.fna.gz",
+        "filename": "GCF_000852365.1_ViralProj14838_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004046.1 Cryphonectria parasitica mitovirus 1-NB631, complete genome",
         "signatures": [
             {
                 "ksize": 31,

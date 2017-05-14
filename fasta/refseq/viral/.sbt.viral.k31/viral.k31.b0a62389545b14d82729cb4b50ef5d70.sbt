@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886075.1/GCF_000886075.1_ViralProj42145_genomic.fna.gz",
+        "filename": "GCF_000886075.1_ViralProj42145_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013527.1 Butterbur mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

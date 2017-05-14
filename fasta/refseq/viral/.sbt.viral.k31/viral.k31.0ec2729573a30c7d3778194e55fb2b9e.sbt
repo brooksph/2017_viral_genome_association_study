@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001777245.1/GCF_001777245.1_ViralProj348359_genomic.fna.gz",
+        "filename": "GCF_001777245.1_ViralProj348359_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031451.1 Wissadula yellow mosaic virus isolate ALW35_5B segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

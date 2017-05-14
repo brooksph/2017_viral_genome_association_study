@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754685.1/GCF_001754685.1_ViralProj344602_genomic.fna.gz",
+        "filename": "GCF_001754685.1_ViralProj344602_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031245.1 Bacillus phage SP-15, complete genome",
         "signatures": [
             {
                 "ksize": 31,

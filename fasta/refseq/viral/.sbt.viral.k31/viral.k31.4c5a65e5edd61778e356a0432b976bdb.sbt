@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906475.1/GCF_000906475.1_ViralProj185315_genomic.fna.gz",
+        "filename": "GCF_000906475.1_ViralProj185315_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020079.1 Escherichia phage phAPEC8, complete genome",
         "signatures": [
             {
                 "ksize": 31,

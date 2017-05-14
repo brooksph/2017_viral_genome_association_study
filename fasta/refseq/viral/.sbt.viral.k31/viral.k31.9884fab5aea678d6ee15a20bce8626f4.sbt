@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503795.1/GCF_001503795.1_ViralProj308017_genomic.fna.gz",
+        "filename": "GCF_001503795.1_ViralProj308017_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028772.1 Enterobacter phage phiEap-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

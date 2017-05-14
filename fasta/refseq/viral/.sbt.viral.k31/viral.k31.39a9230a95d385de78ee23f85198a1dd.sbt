@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926335.1/GCF_000926335.1_ViralProj263949_genomic.fna.gz",
+        "filename": "GCF_000926335.1_ViralProj263949_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025257.1 Erinnyis ello granulovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

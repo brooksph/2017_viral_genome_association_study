@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910775.1/GCF_000910775.1_ViralProj215109_genomic.fna.gz",
+        "filename": "GCF_000910775.1_ViralProj215109_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022058.1 Myobacteriophage Adzzy, complete genome",
         "signatures": [
             {
                 "ksize": 31,

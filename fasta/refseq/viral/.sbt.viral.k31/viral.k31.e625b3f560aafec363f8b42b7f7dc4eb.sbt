@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927955.1/GCF_000927955.1_ViralMultiSegProj268863_genomic.fna.gz",
+        "filename": "GCF_000927955.1_ViralMultiSegProj268863_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025795.1 Wellfleet Bay virus isolate 10-280-G segment 1 polymerase basic 2 protein (PB2) gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

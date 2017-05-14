@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920275.1/GCF_000920275.1_ViralProj240766_genomic.fna.gz",
+        "filename": "GCF_000920275.1_ViralProj240766_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023697.1 Mycobacterium phage Babsiella, complete genome",
         "signatures": [
             {
                 "ksize": 31,

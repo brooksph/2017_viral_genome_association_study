@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001661815.1/GCF_001661815.1_ViralProj325264_genomic.fna.gz",
+        "filename": "GCF_001661815.1_ViralProj325264_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030297.1 Torque teno mini virus 18 isolate 222, complete genome",
         "signatures": [
             {
                 "ksize": 31,

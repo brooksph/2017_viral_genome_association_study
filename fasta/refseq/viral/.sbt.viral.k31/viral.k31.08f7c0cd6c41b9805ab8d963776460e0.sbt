@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852885.2/GCF_000852885.2_ViralProj14777_genomic.fna.gz",
+        "filename": "GCF_000852885.2_ViralProj14777_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003670.1 Pepper ringspot virus RNA 2, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001743755.1/GCF_001743755.1_ViralProj344125_genomic.fna.gz",
+        "filename": "GCF_001743755.1_ViralProj344125_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031070.1 Bacillus phage Nemo, complete genome",
         "signatures": [
             {
                 "ksize": 31,

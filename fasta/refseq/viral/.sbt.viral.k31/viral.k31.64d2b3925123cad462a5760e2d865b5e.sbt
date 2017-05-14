@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461525.1/GCF_001461525.1_ViralProj304315_genomic.fna.gz",
+        "filename": "GCF_001461525.1_ViralProj304315_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028492.1 Rattus norvegicus papillomavirus 3 isolate Rat_60S, complete genome",
         "signatures": [
             {
                 "ksize": 31,

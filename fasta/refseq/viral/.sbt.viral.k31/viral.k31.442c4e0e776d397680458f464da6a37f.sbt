@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868345.1/GCF_000868345.1_ViralProj17363_genomic.fna.gz",
+        "filename": "GCF_000868345.1_ViralProj17363_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008249.1 Chickpea chlorotic stunt virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

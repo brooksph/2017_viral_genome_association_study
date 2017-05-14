@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875185.1/GCF_000875185.1_ViralProj29881_genomic.fna.gz",
+        "filename": "GCF_000875185.1_ViralProj29881_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010735.1 Verbena virus Y, complete genome",
         "signatures": [
             {
                 "ksize": 31,

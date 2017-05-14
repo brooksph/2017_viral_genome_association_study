@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860465.1/GCF_000860465.1_ViralMultiSegProj15300_genomic.fna.gz",
+        "filename": "GCF_000860465.1_ViralMultiSegProj15300_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003840.1 Tomato ringspot virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

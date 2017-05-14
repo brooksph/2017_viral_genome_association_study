@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846745.1/GCF_000846745.1_ViralProj14499_genomic.fna.gz",
+        "filename": "GCF_000846745.1_ViralProj14499_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005841.1 Enterobacteria phage ST104 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

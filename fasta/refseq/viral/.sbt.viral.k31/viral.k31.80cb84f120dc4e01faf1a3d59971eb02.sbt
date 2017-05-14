@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929575.1/GCF_000929575.1_ViralMultiSegProj267136_genomic.fna.gz",
+        "filename": "GCF_000929575.1_ViralMultiSegProj267136_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025482.1 Cassava Ivorian bacilliform virus strain SCRI-CV1 putative replicase mRNA, complete cds",
         "signatures": [
             {
                 "ksize": 31,

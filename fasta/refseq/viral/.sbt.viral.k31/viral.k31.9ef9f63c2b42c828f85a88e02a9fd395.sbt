@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926515.1/GCF_001926515.1_ViralProj359291_genomic.fna.gz",
+        "filename": "GCF_001926515.1_ViralProj359291_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032493.1 Beihai paphia shell virus 3 strain BWBFG40853 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

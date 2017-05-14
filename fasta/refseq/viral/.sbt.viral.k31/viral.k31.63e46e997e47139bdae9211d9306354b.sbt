@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854785.1/GCF_000854785.1_ViralMultiSegProj15009_genomic.fna.gz",
+        "filename": "GCF_000854785.1_ViralMultiSegProj15009_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004120.1 Spring beauty latent virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

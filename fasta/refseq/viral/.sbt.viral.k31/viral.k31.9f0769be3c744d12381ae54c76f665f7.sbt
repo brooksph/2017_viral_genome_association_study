@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001923175.1/GCF_001923175.1_ViralProj358921_genomic.fna.gz",
+        "filename": "GCF_001923175.1_ViralProj358921_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032241.1 Hubei noda-like virus 17 strain HC30049 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

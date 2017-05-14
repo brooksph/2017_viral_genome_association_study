@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928535.1/GCF_000928535.1_ViralProj274156_genomic.fna.gz",
+        "filename": "GCF_000928535.1_ViralProj274156_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026320.1 Lemur smacovirus isolate SF5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

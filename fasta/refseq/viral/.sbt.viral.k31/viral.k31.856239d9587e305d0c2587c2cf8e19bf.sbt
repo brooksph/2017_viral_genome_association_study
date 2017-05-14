@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872425.2/GCF_000872425.2_ViralProj28159_genomic.fna.gz",
+        "filename": "GCF_000872425.2_ViralProj28159_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010191.2 Ostreococcus tauri virus OtV5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

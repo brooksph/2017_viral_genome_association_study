@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925995.1/GCF_001925995.1_ViralProj359253_genomic.fna.gz",
+        "filename": "GCF_001925995.1_ViralProj359253_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032433.1 Lake Sinai virus strain WHCC111282 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

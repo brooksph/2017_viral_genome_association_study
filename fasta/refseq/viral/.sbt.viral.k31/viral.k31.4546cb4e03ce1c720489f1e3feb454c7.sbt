@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430115.1/GCF_001430115.1_ViralProj300230_genomic.fna.gz",
+        "filename": "GCF_001430115.1_ViralProj300230_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028125.1 Human papillomavirus type 163 isolate KC3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

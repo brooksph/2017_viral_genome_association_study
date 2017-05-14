@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845505.1/GCF_000845505.1_ViralProj14425_genomic.fna.gz",
+        "filename": "GCF_000845505.1_ViralProj14425_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006147.2 Muscovy duck parvovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

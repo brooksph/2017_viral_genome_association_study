@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903995.1/GCF_000903995.1_ViralProj185316_genomic.fna.gz",
+        "filename": "GCF_000903995.1_ViralProj185316_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020078.1 Cronobacter sakazakii phage vB_CskP_GAP227, complete genome",
         "signatures": [
             {
                 "ksize": 31,

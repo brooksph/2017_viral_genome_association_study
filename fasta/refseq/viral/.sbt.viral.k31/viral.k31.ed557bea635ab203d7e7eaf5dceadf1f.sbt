@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874105.1/GCF_000874105.1_ViralProj20323_genomic.fna.gz",
+        "filename": "GCF_000874105.1_ViralProj20323_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009731.1 Okra leaf curl Mali virus satellite DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

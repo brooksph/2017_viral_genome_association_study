@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505795.1/GCF_001505795.1_ViralProj307933_genomic.fna.gz",
+        "filename": "GCF_001505795.1_ViralProj307933_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028798.1 Mycobacterium phage MarQuardt, complete genome",
         "signatures": [
             {
                 "ksize": 31,

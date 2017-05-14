@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551465.1/GCF_001551465.1_ViralProj310953_genomic.fna.gz",
+        "filename": "GCF_001551465.1_ViralProj310953_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029065.1 Pseudomonas phage VCM genome assembly VCM, chromosome : 1",
         "signatures": [
             {
                 "ksize": 31,

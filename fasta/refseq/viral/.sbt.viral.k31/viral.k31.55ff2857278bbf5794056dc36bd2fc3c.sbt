@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916955.1/GCF_000916955.1_ViralProj239026_genomic.fna.gz",
+        "filename": "GCF_000916955.1_ViralProj239026_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023496.1 Saimiri sciureus papillomavirus type 1 isolate Mac2066, complete genome",
         "signatures": [
             {
                 "ksize": 31,

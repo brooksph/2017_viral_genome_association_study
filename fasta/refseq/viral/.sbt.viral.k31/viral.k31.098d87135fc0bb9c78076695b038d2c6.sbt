@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926955.1/GCF_001926955.1_ViralProj359278_genomic.fna.gz",
+        "filename": "GCF_001926955.1_ViralProj359278_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032449.1 Beihai charybdis crab virus 1 strain BHXun33339 RdRp and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

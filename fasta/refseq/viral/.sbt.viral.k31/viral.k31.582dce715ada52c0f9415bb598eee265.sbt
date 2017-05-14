@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840905.1/GCF_000840905.1_ViralMultiSegProj14343_genomic.fna.gz",
+        "filename": "GCF_000840905.1_ViralMultiSegProj14343_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005330.1 Sida micrantha mosaic virus segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

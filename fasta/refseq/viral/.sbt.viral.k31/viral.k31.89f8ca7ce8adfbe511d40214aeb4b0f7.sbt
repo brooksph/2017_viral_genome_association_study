@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964435.1/GCF_001964435.1_ViralProj362045_genomic.fna.gz",
+        "filename": "GCF_001964435.1_ViralProj362045_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032909.1 Hubei hepe-like virus 1 strain WHCC116187 replicase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

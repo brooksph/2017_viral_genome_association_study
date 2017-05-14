@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000820495.2/GCF_000820495.2_ViralMultiSegProj14656_genomic.fna.gz",
+        "filename": "GCF_000820495.2_ViralMultiSegProj14656_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002204.1 Influenza B virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

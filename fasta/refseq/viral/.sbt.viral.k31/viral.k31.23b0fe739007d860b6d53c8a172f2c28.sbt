@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001887825.1/GCF_001887825.1_ViralProj355304_genomic.fna.gz",
+        "filename": "GCF_001887825.1_ViralProj355304_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032001.1 Only Syngen Nebraska virus 5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902275.1/GCF_000902275.1_ViralProj181064_genomic.fna.gz",
+        "filename": "GCF_000902275.1_ViralProj181064_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019447.1 Brucella phage Pr, complete genome",
         "signatures": [
             {
                 "ksize": 31,

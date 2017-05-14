@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857645.1/GCF_000857645.1_ViralProj15268_genomic.fna.gz",
+        "filename": "GCF_000857645.1_ViralProj15268_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007052.1 Staphylococcus phage 42e, complete genome",
         "signatures": [
             {
                 "ksize": 31,

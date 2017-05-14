@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872325.1/GCF_000872325.1_ViralProj27901_genomic.fna.gz",
+        "filename": "GCF_000872325.1_ViralProj27901_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009996.1 Human rhinovirus C, complete genome",
         "signatures": [
             {
                 "ksize": 31,

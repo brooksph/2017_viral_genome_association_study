@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916335.1/GCF_000916335.1_ViralProj240018_genomic.fna.gz",
+        "filename": "GCF_000916335.1_ViralProj240018_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023597.1 Mycobacterium phage 20ES, complete genome",
         "signatures": [
             {
                 "ksize": 31,

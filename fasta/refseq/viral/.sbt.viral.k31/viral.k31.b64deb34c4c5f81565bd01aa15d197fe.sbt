@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851545.1/GCF_000851545.1_ViralMultiSegProj14829_genomic.fna.gz",
+        "filename": "GCF_000851545.1_ViralMultiSegProj14829_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003885.1 Mycovirus FusoV RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

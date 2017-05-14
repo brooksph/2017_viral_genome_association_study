@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430575.1/GCF_001430575.1_ViralProj300242_genomic.fna.gz",
+        "filename": "GCF_001430575.1_ViralProj300242_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028119.1 Common vole polyomavirus isolate KS13/0947, complete genome",
         "signatures": [
             {
                 "ksize": 31,

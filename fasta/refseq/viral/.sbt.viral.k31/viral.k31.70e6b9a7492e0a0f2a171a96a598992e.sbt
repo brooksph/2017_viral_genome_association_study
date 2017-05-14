@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000989075.1/GCF_000989075.1_ViralMultiSegProj283068_genomic.fna.gz",
+        "filename": "GCF_000989075.1_ViralMultiSegProj283068_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026954.1 Rhizoctonia fumigata mycovirus isolate C-314 putative RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

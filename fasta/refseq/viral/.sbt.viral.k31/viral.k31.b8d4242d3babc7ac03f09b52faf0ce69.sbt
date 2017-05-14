@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869305.1/GCF_000869305.1_ViralProj17485_genomic.fna.gz",
+        "filename": "GCF_000869305.1_ViralProj17485_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008293.1 Clanis bilineata nucleopolyhedrosis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903015.1/GCF_000903015.1_ViralProj185190_genomic.fna.gz",
+        "filename": "GCF_000903015.1_ViralProj185190_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020070.1 Pteronotus polyomavirus isolate GTM203, complete genome",
         "signatures": [
             {
                 "ksize": 31,

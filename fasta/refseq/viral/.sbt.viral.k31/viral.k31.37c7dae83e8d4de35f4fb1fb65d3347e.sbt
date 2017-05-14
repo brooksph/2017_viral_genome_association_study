@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430015.1/GCF_001430015.1_ViralProj300252_genomic.fna.gz",
+        "filename": "GCF_001430015.1_ViralProj300252_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028122.1 Desmodus rotundus polyomavirus 1 isolate AT7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892835.1/GCF_000892835.1_ViralProj68287_genomic.fna.gz",
+        "filename": "GCF_000892835.1_ViralProj68287_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015691.1 Macaca fascicularis papillomavirus type 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

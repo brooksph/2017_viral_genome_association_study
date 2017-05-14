@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870985.1/GCF_000870985.1_ViralProj20135_genomic.fna.gz",
+        "filename": "GCF_000870985.1_ViralProj20135_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009657.1 Scotophilus bat coronavirus 512, complete genome",
         "signatures": [
             {
                 "ksize": 31,

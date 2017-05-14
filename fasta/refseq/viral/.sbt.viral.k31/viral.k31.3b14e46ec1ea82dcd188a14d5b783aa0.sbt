@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906295.1/GCF_000906295.1_ViralProj196972_genomic.fna.gz",
+        "filename": "GCF_000906295.1_ViralProj196972_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020999.1 Rose yellow vein virus strain RYVV-MN1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

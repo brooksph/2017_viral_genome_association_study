@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887915.1/GCF_000887915.1_ViralProj61775_genomic.fna.gz",
+        "filename": "GCF_000887915.1_ViralProj61775_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014894.1 Okra enation leaf curl virus [India:Munthal EL37:2006] DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

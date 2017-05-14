@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884375.1/GCF_000884375.1_ViralMultiSegProj41175_genomic.fna.gz",
+        "filename": "GCF_000884375.1_ViralMultiSegProj41175_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013414.1 Velvet bean severe mosaic virus DNA A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870405.1/GCF_000870405.1_ViralProj18657_genomic.fna.gz",
+        "filename": "GCF_000870405.1_ViralProj18657_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008793.1 Honeysuckle yellow vein mosaic virus-[Kagoshima], complete genome",
         "signatures": [
             {
                 "ksize": 31,

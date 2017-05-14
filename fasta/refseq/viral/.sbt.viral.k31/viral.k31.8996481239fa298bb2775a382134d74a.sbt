@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001634515.1/GCF_001634515.1_ViralProj320120_genomic.fna.gz",
+        "filename": "GCF_001634515.1_ViralProj320120_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029993.1 Alfalfa enamovirus-1 isolate Manfredi, complete genome",
         "signatures": [
             {
                 "ksize": 31,

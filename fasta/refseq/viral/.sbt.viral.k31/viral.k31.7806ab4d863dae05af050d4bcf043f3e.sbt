@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856065.1/GCF_000856065.1_ViralMultiSegProj14923_genomic.fna.gz",
+        "filename": "GCF_000856065.1_ViralMultiSegProj14923_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005989.1 Chuzan virus segment 3, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

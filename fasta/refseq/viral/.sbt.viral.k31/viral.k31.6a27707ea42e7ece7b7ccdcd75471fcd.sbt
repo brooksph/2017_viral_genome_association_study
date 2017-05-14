@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430275.1/GCF_001430275.1_ViralMultiSegProj300791_genomic.fna.gz",
+        "filename": "GCF_001430275.1_ViralMultiSegProj300791_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028142.1 Melochia yellow mosaic virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

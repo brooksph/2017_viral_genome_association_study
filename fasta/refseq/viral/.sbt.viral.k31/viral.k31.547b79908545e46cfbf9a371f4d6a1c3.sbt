@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884055.1/GCF_000884055.1_ViralProj39351_genomic.fna.gz",
+        "filename": "GCF_000884055.1_ViralProj39351_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012958.1 Drosophila A virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

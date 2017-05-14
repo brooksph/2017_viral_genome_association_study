@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897115.1/GCF_000897115.1_ViralProj167164_genomic.fna.gz",
+        "filename": "GCF_000897115.1_ViralProj167164_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017940.1 European sheatfish virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

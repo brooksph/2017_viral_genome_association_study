@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926275.1/GCF_000926275.1_ViralProj263035_genomic.fna.gz",
+        "filename": "GCF_000926275.1_ViralProj263035_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025219.1 Cripavirus NB-1/2011/HUN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

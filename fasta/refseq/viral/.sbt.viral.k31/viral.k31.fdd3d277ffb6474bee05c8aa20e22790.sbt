@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001441115.1/GCF_001441115.1_ViralProj301252_genomic.fna.gz",
+        "filename": "GCF_001441115.1_ViralProj301252_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028259.1 Bole Tick Virus 3 strain BL199, complete genome",
         "signatures": [
             {
                 "ksize": 31,

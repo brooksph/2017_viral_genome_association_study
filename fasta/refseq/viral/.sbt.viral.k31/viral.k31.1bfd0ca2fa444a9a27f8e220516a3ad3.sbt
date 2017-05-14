@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906355.1/GCF_000906355.1_ViralProj198479_genomic.fna.gz",
+        "filename": "GCF_000906355.1_ViralProj198479_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021069.1 Mosquito flavivirus isolate LSFlaviV-A20-09, complete genome",
         "signatures": [
             {
                 "ksize": 31,

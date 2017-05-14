@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001967655.1/GCF_001967655.1_ViralProj361677_genomic.fna.gz",
+        "filename": "GCF_001967655.1_ViralProj361677_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032804.1 Biomphalaria virus 1 isolate Brazil, complete genome",
         "signatures": [
             {
                 "ksize": 31,

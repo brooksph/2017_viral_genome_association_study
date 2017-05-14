@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849005.1/GCF_000849005.1_ViralProj14632_genomic.fna.gz",
+        "filename": "GCF_000849005.1_ViralProj14632_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001402.1 Avian carcinoma virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

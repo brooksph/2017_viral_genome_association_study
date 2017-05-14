@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858925.1/GCF_000858925.1_ViralProj15172_genomic.fna.gz",
+        "filename": "GCF_000858925.1_ViralProj15172_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006946.1 Apricot pseudo-chlorotic leaf spot virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

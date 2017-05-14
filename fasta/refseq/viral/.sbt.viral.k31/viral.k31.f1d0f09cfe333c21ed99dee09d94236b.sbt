@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918575.1/GCF_000918575.1_ViralProj240722_genomic.fna.gz",
+        "filename": "GCF_000918575.1_ViralProj240722_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023705.1 Mycobacterium phage Liefie, complete genome",
         "signatures": [
             {
                 "ksize": 31,

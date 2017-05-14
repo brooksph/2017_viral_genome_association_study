@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849545.1/GCF_000849545.1_ViralMultiSegProj14745_genomic.fna.gz",
+        "filename": "GCF_000849545.1_ViralMultiSegProj14745_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003464.1 Apple mosaic virus RNA 1 putative methyltransferase/helicase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

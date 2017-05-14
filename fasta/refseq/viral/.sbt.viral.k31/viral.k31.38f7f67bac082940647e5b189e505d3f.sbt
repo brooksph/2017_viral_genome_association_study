@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001717355.1/GCF_001717355.1_ViralProj340443_genomic.fna.gz",
+        "filename": "GCF_001717355.1_ViralProj340443_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030848.1 Haloarcula californiae icosahedral virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916375.1/GCF_000916375.1_ViralProj240026_genomic.fna.gz",
+        "filename": "GCF_000916375.1_ViralProj240026_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023565.1 Mycobacterium phage Nyxis, complete genome",
         "signatures": [
             {
                 "ksize": 31,

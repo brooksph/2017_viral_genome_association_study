@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844645.1/GCF_000844645.1_ViralProj14423_genomic.fna.gz",
+        "filename": "GCF_000844645.1_ViralProj14423_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003401.1 Macacine herpesvirus 5, genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898335.1/GCF_000898335.1_ViralProj170047_genomic.fna.gz",
+        "filename": "GCF_000898335.1_ViralProj170047_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018102.1 MW polyomavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897595.1/GCF_000897595.1_ViralProj173920_genomic.fna.gz",
+        "filename": "GCF_000897595.1_ViralProj173920_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018519.1 Blueberry virus A genomic RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

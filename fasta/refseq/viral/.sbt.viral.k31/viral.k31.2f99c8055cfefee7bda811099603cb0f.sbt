@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920835.1/GCF_000920835.1_ViralProj248631_genomic.fna.gz",
+        "filename": "GCF_000920835.1_ViralProj248631_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024147.1 Mycobacterium phage ZoeJ, complete genome",
         "signatures": [
             {
                 "ksize": 31,

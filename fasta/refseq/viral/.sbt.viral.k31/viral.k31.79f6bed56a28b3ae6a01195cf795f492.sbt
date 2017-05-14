@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887795.1/GCF_000887795.1_ViralProj60627_genomic.fna.gz",
+        "filename": "GCF_000887795.1_ViralProj60627_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014740.1 Chickpea chlorosis virus-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

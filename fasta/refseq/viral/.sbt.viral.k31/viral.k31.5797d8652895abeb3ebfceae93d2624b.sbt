@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887615.1/GCF_000887615.1_ViralProj51905_genomic.fna.gz",
+        "filename": "GCF_000887615.1_ViralProj51905_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014481.1 Rhododendron virus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

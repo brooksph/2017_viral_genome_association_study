@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908175.1/GCF_000908175.1_ViralProj214239_genomic.fna.gz",
+        "filename": "GCF_000908175.1_ViralProj214239_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021926.1 Calibrachoa mottle virus isolate California, complete genome",
         "signatures": [
             {
                 "ksize": 31,

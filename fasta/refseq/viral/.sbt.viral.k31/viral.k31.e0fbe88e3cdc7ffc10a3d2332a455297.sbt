@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905455.1/GCF_000905455.1_ViralProj195487_genomic.fna.gz",
+        "filename": "GCF_000905455.1_ViralProj195487_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020867.1 Synechococcus phage S-RIP1 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

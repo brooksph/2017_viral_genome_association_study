@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869665.1/GCF_000869665.1_ViralProj18517_genomic.fna.gz",
+        "filename": "GCF_000869665.1_ViralProj18517_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008714.1 Possum enterovirus W1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

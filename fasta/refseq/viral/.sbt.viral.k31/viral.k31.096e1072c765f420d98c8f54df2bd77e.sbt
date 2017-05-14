@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844565.1/GCF_000844565.1_ViralMultiSegProj14407_genomic.fna.gz",
+        "filename": "GCF_000844565.1_ViralMultiSegProj14407_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004645.1 Squash mild leaf curl virus-[Imperial Valley] DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

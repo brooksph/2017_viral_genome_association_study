@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901735.1/GCF_000901735.1_ViralProj181081_genomic.fna.gz",
+        "filename": "GCF_000901735.1_ViralProj181081_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019490.1 Riemerella phage RAP44, complete genome",
         "signatures": [
             {
                 "ksize": 31,

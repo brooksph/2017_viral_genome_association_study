@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754525.1/GCF_001754525.1_ViralProj345346_genomic.fna.gz",
+        "filename": "GCF_001754525.1_ViralProj345346_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031326.1 Simian retrovirus 8 strain SRV8/SUZ/2012, complete genome",
         "signatures": [
             {
                 "ksize": 31,

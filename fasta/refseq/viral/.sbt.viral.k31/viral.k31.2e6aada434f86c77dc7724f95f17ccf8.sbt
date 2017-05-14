@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754745.1/GCF_001754745.1_ViralProj344614_genomic.fna.gz",
+        "filename": "GCF_001754745.1_ViralProj344614_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031269.1 Gordonia phage Yeezy, complete genome",
         "signatures": [
             {
                 "ksize": 31,

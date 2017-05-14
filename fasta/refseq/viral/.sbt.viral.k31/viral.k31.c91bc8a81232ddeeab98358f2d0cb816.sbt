@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839645.1/GCF_000839645.1_ViralProj14090_genomic.fna.gz",
+        "filename": "GCF_000839645.1_ViralProj14090_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000883.2 Human parvovirus B19, complete genome",
         "signatures": [
             {
                 "ksize": 31,

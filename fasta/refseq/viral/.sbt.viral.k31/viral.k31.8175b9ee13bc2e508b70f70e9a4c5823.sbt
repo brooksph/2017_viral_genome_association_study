@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879655.1/GCF_000879655.1_ViralProj30663_genomic.fna.gz",
+        "filename": "GCF_000879655.1_ViralProj30663_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011050.1 Steller sea lion vesivirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

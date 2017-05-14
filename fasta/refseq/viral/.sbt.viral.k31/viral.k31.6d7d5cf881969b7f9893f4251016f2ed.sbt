@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915395.1/GCF_000915395.1_ViralProj237552_genomic.fna.gz",
+        "filename": "GCF_000915395.1_ViralProj237552_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023439.1 Kama virus strain LEIV-20776Tat polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

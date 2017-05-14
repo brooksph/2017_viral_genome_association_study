@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912915.1/GCF_000912915.1_ViralProj227002_genomic.fna.gz",
+        "filename": "GCF_000912915.1_ViralProj227002_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022758.1 Staphylococcus phage YMC/09/04/R1988, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859965.1/GCF_000859965.1_ViralProj15213_genomic.fna.gz",
+        "filename": "GCF_000859965.1_ViralProj15213_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005947.1 Avian endogenous retrovirus EAV-HP, complete genome",
         "signatures": [
             {
                 "ksize": 31,

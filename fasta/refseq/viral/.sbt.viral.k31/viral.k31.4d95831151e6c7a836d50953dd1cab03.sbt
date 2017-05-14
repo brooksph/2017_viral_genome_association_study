@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846085.1/GCF_000846085.1_ViralProj14557_genomic.fna.gz",
+        "filename": "GCF_000846085.1_ViralProj14557_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006630.1 Bombyx mori cypovirus 1 satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

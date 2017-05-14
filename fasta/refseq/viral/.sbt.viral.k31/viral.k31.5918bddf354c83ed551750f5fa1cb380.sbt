@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925475.1/GCF_001925475.1_ViralProj359251_genomic.fna.gz",
+        "filename": "GCF_001925475.1_ViralProj359251_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032423.1 Bastrovirus/VietNam/Porcine/17489_85 non-structural polyprotein and structural polyprotein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

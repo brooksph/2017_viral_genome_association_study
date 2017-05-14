@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880415.1/GCF_000880415.1_ViralProj31055_genomic.fna.gz",
+        "filename": "GCF_000880415.1_ViralProj31055_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011166.1 Pseudomonas phage LMA2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

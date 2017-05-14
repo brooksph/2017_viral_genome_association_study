@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886855.1/GCF_000886855.1_ViralProj41173_genomic.fna.gz",
+        "filename": "GCF_000886855.1_ViralProj41173_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013413.1 Tomato leaf curl Sulawesi virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854605.1/GCF_000854605.1_ViralProj14971_genomic.fna.gz",
+        "filename": "GCF_000854605.1_ViralProj14971_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003463.1 Apple dimple fruit viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

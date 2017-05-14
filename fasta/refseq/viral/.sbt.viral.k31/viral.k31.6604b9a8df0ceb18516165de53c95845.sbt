@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001560985.1/GCF_001560985.1_ViralProj311077_genomic.fna.gz",
+        "filename": "GCF_001560985.1_ViralProj311077_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029131.1 Delisea pulchra RNA virus isolate Delisea predicted replication-associated polyprotein and predicted structural polyprotein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

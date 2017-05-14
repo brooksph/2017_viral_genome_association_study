@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849285.2/GCF_000849285.2_ViralProj14693_genomic.fna.gz",
+        "filename": "GCF_000849285.2_ViralProj14693_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002351.1 Soil-borne cereal mosaic virus RNA1 complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874925.1/GCF_000874925.1_ViralProj28737_genomic.fna.gz",
+        "filename": "GCF_000874925.1_ViralProj28737_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010329.1 Human papillomavirus type 88, complete genome",
         "signatures": [
             {
                 "ksize": 31,

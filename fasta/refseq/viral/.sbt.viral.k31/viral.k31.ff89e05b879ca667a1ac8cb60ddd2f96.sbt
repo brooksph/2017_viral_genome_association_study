@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501415.1/GCF_001501415.1_ViralProj307783_genomic.fna.gz",
+        "filename": "GCF_001501415.1_ViralProj307783_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028806.1 Swine enteric coronavirus strain Italy/213306/2009, complete genome",
         "signatures": [
             {
                 "ksize": 31,

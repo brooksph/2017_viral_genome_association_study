@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894275.1/GCF_000894275.1_ViralProj81183_genomic.fna.gz",
+        "filename": "GCF_000894275.1_ViralProj81183_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016658.1 Cyanophage NATL1A-7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

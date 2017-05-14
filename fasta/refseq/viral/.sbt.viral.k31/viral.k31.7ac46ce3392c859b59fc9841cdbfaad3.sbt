@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917675.1/GCF_000917675.1_ViralProj240744_genomic.fna.gz",
+        "filename": "GCF_000917675.1_ViralProj240744_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023748.1 Mycobacterium phage SkiPole, complete genome",
         "signatures": [
             {
                 "ksize": 31,

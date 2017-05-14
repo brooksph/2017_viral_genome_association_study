@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927935.1/GCF_000927935.1_ViralProj268832_genomic.fna.gz",
+        "filename": "GCF_000927935.1_ViralProj268832_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025788.1 Laodelphax striatellus picorna-like virus 2 isolate LsPV2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

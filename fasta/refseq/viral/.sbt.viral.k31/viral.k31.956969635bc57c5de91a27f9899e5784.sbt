@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856905.1/GCF_000856905.1_ViralProj15112_genomic.fna.gz",
+        "filename": "GCF_000856905.1_ViralProj15112_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "AC_000016.1 Turkey adenovirus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

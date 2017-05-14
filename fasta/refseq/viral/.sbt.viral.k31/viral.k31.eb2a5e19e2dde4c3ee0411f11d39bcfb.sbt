@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906275.1/GCF_000906275.1_ViralProj196432_genomic.fna.gz",
+        "filename": "GCF_000906275.1_ViralProj196432_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020904.1 Canine circovirus isolate UCD1-1698, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001882015.3/GCF_001882015.3_ViralProj353501.1_genomic.fna.gz",
+        "filename": "GCF_001882015.3_ViralProj353501.1_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031947.1 Bat hepacivirus C, complete cds",
         "signatures": [
             {
                 "ksize": 31,

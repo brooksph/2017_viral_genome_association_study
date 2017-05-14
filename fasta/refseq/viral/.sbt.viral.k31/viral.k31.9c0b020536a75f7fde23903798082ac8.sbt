@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001743915.1/GCF_001743915.1_ViralProj344165_genomic.fna.gz",
+        "filename": "GCF_001743915.1_ViralProj344165_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031024.1 Bacillus phage Belinda, complete genome",
         "signatures": [
             {
                 "ksize": 31,

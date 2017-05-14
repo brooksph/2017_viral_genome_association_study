@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274485.1/GCF_001274485.1_ViralProj293730_genomic.fna.gz",
+        "filename": "GCF_001274485.1_ViralProj293730_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027792.1 Palaemonetes kadiakensis Mississippi grass shrimp associated circular virus isolate I0099, complete genome",
         "signatures": [
             {
                 "ksize": 31,

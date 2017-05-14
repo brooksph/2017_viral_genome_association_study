@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001440935.1/GCF_001440935.1_ViralProj301250_genomic.fna.gz",
+        "filename": "GCF_001440935.1_ViralProj301250_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028261.1 Changping Tick Virus 3 strain CP1-3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

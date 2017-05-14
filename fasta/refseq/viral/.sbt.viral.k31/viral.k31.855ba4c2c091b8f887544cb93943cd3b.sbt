@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926655.1/GCF_000926655.1_ViralProj265905_genomic.fna.gz",
+        "filename": "GCF_000926655.1_ViralProj265905_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025390.1 Avian paramyxovirus 9 strain duck/New York/22/1978, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900735.1/GCF_000900735.1_ViralProj181212_genomic.fna.gz",
+        "filename": "GCF_000900735.1_ViralProj181212_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019500.1 Enterobacteria phage Bp7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

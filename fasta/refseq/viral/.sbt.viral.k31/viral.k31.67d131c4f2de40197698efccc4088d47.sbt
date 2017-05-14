@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501555.1/GCF_001501555.1_ViralProj307811_genomic.fna.gz",
+        "filename": "GCF_001501555.1_ViralProj307811_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028850.1 Yersinia phage vB_YenP_ISAO8, complete genome",
         "signatures": [
             {
                 "ksize": 31,

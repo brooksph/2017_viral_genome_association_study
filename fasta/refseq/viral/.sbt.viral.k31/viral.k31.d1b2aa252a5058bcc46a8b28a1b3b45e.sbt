@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911995.1/GCF_000911995.1_ViralProj217881_genomic.fna.gz",
+        "filename": "GCF_000911995.1_ViralProj217881_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022230.1 Tomato mottle mosaic virus isolate MX5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

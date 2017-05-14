@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912395.1/GCF_000912395.1_ViralProj227127_genomic.fna.gz",
+        "filename": "GCF_000912395.1_ViralProj227127_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022773.1 Bacillus phage Blastoid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

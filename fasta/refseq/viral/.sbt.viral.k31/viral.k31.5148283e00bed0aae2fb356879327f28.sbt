@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001500695.1/GCF_001500695.1_ViralProj307770_genomic.fna.gz",
+        "filename": "GCF_001500695.1_ViralProj307770_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028864.1 Staphylococcus aureus phage phiNM4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

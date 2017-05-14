@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001934485.1/GCF_001934485.1_ViralProj359874_genomic.fna.gz",
+        "filename": "GCF_001934485.1_ViralProj359874_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032604.1 Beihai picorna-like virus 105 strain BHHK79817 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921275.1/GCF_000921275.1_ViralProj253739_genomic.fna.gz",
+        "filename": "GCF_000921275.1_ViralProj253739_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024454.1 Turkey parvovirus 1078, complete genome",
         "signatures": [
             {
                 "ksize": 31,

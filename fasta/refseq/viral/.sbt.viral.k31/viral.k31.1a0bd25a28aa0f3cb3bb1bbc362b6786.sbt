@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001551005.1/GCF_001551005.1_ViralProj310923_genomic.fna.gz",
+        "filename": "GCF_001551005.1_ViralProj310923_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029110.1 Ctenophore-associated circular virus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

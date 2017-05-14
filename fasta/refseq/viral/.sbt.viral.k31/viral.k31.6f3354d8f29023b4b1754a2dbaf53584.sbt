@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907695.1/GCF_000907695.1_ViralProj208540_genomic.fna.gz",
+        "filename": "GCF_000907695.1_ViralProj208540_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021481.1 Barley yellow dwarf virus Ker-II isolate K439, complete genome",
         "signatures": [
             {
                 "ksize": 31,

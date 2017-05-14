@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850685.1/GCF_000850685.1_ViralMultiSegProj14789_genomic.fna.gz",
+        "filename": "GCF_000850685.1_ViralMultiSegProj14789_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003723.1 Potato mop-top virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

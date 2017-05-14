@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849445.1/GCF_000849445.1_ViralProj14725_genomic.fna.gz",
+        "filename": "GCF_000849445.1_ViralProj14725_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002701.1 Eimeria brunetti RNA virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

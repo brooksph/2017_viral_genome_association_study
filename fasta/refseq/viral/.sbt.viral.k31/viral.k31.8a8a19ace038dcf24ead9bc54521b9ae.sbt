@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000973335.1/GCF_000973335.1_ViralProj281407_genomic.fna.gz",
+        "filename": "GCF_000973335.1_ViralProj281407_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026807.1 Mongoose feces-associated gemycircularvirus a strain 181a, complete genome",
         "signatures": [
             {
                 "ksize": 31,

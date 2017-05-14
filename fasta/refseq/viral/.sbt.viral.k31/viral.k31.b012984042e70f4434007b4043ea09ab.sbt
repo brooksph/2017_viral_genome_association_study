@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870485.1/GCF_000870485.1_ViralProj18855_genomic.fna.gz",
+        "filename": "GCF_000870485.1_ViralProj18855_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009025.1 Israel acute paralysis virus of bees",
         "signatures": [
             {
                 "ksize": 31,

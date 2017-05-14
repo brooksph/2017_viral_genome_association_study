@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889475.1/GCF_000889475.1_ViralProj60629_genomic.fna.gz",
+        "filename": "GCF_000889475.1_ViralProj60629_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014741.1 Tomato leaf curl Togo betasatellite-[Togo:2006], complete genome",
         "signatures": [
             {
                 "ksize": 31,

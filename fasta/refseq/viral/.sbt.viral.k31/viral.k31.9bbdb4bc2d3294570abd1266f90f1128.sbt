@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854625.1/GCF_000854625.1_ViralProj14976_genomic.fna.gz",
+        "filename": "GCF_000854625.1_ViralProj14976_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003553.1 Australian grapevine viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

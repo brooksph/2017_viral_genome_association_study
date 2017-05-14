@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501115.1/GCF_001501115.1_ViralProj307723_genomic.fna.gz",
+        "filename": "GCF_001501115.1_ViralProj307723_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028937.1 Mycobacterium phage Ovechkin, complete genome",
         "signatures": [
             {
                 "ksize": 31,

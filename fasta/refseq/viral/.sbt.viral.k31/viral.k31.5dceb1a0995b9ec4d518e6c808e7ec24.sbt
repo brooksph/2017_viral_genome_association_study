@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001907885.1/GCF_001907885.1_ViralProj357841_genomic.fna.gz",
+        "filename": "GCF_001907885.1_ViralProj357841_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032113.1 Bivalve RNA virus G2, partial genome",
         "signatures": [
             {
                 "ksize": 31,

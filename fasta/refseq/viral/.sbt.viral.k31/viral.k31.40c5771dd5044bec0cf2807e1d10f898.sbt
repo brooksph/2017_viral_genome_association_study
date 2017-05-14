@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002005055.1/GCF_002005055.1_ViralProj375064_genomic.fna.gz",
+        "filename": "GCF_002005055.1_ViralProj375064_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033734.1 Xinzhou nematode virus 7 strain XZSJSC65582 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

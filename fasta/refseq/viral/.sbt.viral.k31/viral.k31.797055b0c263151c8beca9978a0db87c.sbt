@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837845.1/GCF_000837845.1_ViralProj14070_genomic.fna.gz",
+        "filename": "GCF_000837845.1_ViralProj14070_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001484.1 Ground squirrel hepatitis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

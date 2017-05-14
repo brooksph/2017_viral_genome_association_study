@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962115.1/GCF_001962115.1_ViralProj361910_genomic.fna.gz",
+        "filename": "GCF_001962115.1_ViralProj361910_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032734.1 Hubei toti-like virus 2 strain arthropodmix13450 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

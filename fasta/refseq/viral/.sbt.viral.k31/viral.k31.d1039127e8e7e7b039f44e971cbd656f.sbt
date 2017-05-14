@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461305.1/GCF_001461305.1_ViralProj304909_genomic.fna.gz",
+        "filename": "GCF_001461305.1_ViralProj304909_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028476.1 Botrytis ourmia-like virus RdRp gene for RNA dependent RNA polymerase, isolate HAZ2-3",
         "signatures": [
             {
                 "ksize": 31,

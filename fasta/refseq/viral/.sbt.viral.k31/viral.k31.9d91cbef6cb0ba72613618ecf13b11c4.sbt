@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000973395.3/GCF_000973395.3_ViralMultiSegProj281402_genomic.fna.gz",
+        "filename": "GCF_000973395.3_ViralMultiSegProj281402_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026825.2 Rotavirus I strain KE135/2012 VP1 gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

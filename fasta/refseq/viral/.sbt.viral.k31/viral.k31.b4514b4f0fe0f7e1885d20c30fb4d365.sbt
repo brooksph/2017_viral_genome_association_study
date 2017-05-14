@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001589995.2/GCF_001589995.2_ViralProj314778.5_genomic.fna.gz",
+        "filename": "GCF_001589995.2_ViralProj314778.5_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030691.1 Aquatic bird bornavirus 2, complete cds",
         "signatures": [
             {
                 "ksize": 31,

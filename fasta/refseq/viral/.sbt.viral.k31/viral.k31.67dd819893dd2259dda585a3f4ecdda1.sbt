@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920675.1/GCF_000920675.1_ViralProj244736_genomic.fna.gz",
+        "filename": "GCF_000920675.1_ViralProj244736_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024017.1 Nhumirim virus strain BrMS-MQ10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

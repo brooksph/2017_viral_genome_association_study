@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885035.1/GCF_000885035.1_ViralProj39553_genomic.fna.gz",
+        "filename": "GCF_000885035.1_ViralProj39553_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012986.1 Salivirus A isolate 02394-01, complete genome",
         "signatures": [
             {
                 "ksize": 31,

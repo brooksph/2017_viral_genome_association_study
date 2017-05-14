@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897155.1/GCF_000897155.1_ViralProj167579_genomic.fna.gz",
+        "filename": "GCF_000897155.1_ViralProj167579_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017979.1 Goose adenovirus 4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

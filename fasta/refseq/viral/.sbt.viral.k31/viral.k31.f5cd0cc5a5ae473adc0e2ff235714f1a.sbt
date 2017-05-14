@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502715.1/GCF_001502715.1_ViralProj307765_genomic.fna.gz",
+        "filename": "GCF_001502715.1_ViralProj307765_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028891.1 Hawaiian green turtle herpesvirus thymidine kinase (UL23), membrane-associated protein (UL24), minor capsid protein (UL25), capsid maturation protease (UL26), virion scaffolding protein (UL26.5), virion membrane glycoprotein B (gB), DNA cleavage/packaging protein (UL28), single-stranded DNA-binding protein (UL29), DNA polymerase catalytic subunit (pol), nuclear phosphoprotein (UL31), DNA cleavage/packaging (UL32), DNA cleavage/packaging protein (UL33), membrane-associated phosphoprotein (UL34), and basic phosphorylated capsid protein (UL35) genes, complete cds; and very large tegument protein (UL36) gene, partial cds",
         "signatures": [
             {
                 "ksize": 31,

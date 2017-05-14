@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880835.1/GCF_000880835.1_ViralProj32703_genomic.fna.gz",
+        "filename": "GCF_000880835.1_ViralProj32703_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011550.1 Munia coronavirus HKU13-3514, complete genome",
         "signatures": [
             {
                 "ksize": 31,

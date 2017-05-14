@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930935.1/GCF_000930935.1_ViralProj273532_genomic.fna.gz",
+        "filename": "GCF_000930935.1_ViralProj273532_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026249.1 Bovine picornavirus isolate TCH6 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

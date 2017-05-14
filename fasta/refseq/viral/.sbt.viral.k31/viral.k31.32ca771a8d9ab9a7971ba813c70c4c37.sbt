@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001019755.1/GCF_001019755.1_ViralProj285589_genomic.fna.gz",
+        "filename": "GCF_001019755.1_ViralProj285589_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027131.1 Grapevine roditis leaf discoloration-associated virus complete genome, isolate w4",
         "signatures": [
             {
                 "ksize": 31,

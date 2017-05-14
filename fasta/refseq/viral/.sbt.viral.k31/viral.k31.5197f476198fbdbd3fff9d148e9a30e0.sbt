@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906075.1/GCF_000906075.1_ViralProj195490_genomic.fna.gz",
+        "filename": "GCF_000906075.1_ViralProj195490_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020840.1 Tetraselmis viridis virus S20 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

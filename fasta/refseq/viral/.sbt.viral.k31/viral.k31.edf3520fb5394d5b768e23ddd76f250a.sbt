@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902355.1/GCF_000902355.1_ViralProj181080_genomic.fna.gz",
+        "filename": "GCF_000902355.1_ViralProj181080_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019452.1 Escherichia phage PhaxI, complete genome",
         "signatures": [
             {
                 "ksize": 31,

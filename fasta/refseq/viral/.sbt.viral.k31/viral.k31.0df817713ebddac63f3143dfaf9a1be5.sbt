@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001619035.1/GCF_001619035.1_ViralMultiSegProj317755_genomic.fna.gz",
+        "filename": "GCF_001619035.1_ViralMultiSegProj317755_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029804.1 Deinbollia mosaic virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

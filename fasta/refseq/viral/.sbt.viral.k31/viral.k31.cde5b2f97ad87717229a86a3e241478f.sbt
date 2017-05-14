@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839725.1/GCF_000839725.1_ViralProj14106_genomic.fna.gz",
+        "filename": "GCF_000839725.1_ViralProj14106_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002641.1 Meleagrid herpesvirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

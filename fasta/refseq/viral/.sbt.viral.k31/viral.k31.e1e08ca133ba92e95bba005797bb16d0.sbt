@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861765.1/GCF_000861765.1_ViralProj15415_genomic.fna.gz",
+        "filename": "GCF_000861765.1_ViralProj15415_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007020.1 Tupaia virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

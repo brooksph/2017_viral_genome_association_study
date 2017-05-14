@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849165.1/GCF_000849165.1_ViralProj14668_genomic.fna.gz",
+        "filename": "GCF_000849165.1_ViralProj14668_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001511.1 Ovine lentivirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

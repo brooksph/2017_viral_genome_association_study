@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001271275.1/GCF_001271275.1_ViralProj293046_genomic.fna.gz",
+        "filename": "GCF_001271275.1_ViralProj293046_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027712.1 Tobacco virus 1 isolate AnHui, complete genome",
         "signatures": [
             {
                 "ksize": 31,

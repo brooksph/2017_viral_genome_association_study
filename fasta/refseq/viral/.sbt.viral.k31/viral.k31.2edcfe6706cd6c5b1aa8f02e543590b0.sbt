@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897375.1/GCF_000897375.1_ViralProj171011_genomic.fna.gz",
+        "filename": "GCF_000897375.1_ViralProj171011_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018176.1 Arracacha mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

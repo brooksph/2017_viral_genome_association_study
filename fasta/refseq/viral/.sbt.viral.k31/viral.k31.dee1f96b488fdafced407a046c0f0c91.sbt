@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001432155.1/GCF_001432155.1_ViralProj301026_genomic.fna.gz",
+        "filename": "GCF_001432155.1_ViralProj301026_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028244.1 Barley yellow striate mosaic virus strain Hebei, complete genome",
         "signatures": [
             {
                 "ksize": 31,

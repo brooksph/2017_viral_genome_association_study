@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001019835.1/GCF_001019835.1_ViralProj285357_genomic.fna.gz",
+        "filename": "GCF_001019835.1_ViralProj285357_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027121.1 Areca palm velarivirus 1 isolate APV1_HN, complete genome",
         "signatures": [
             {
                 "ksize": 31,

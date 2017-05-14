@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845045.1/GCF_000845045.1_ViralProj14506_genomic.fna.gz",
+        "filename": "GCF_000845045.1_ViralProj14506_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006451.1 Turnip crinkle virus virulent satellite RNA C, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963675.1/GCF_001963675.1_ViralProj361919_genomic.fna.gz",
+        "filename": "GCF_001963675.1_ViralProj361919_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033273.1 Hibiscus leaf curl alphasatellite alpha Rep gene, isolate C22A1",
         "signatures": [
             {
                 "ksize": 31,

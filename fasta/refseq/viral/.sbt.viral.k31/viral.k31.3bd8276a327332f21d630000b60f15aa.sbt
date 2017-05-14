@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850785.1/GCF_000850785.1_ViralMultiSegProj14810_genomic.fna.gz",
+        "filename": "GCF_000850785.1_ViralMultiSegProj14810_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003808.1 Spinach latent virus putative replicase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

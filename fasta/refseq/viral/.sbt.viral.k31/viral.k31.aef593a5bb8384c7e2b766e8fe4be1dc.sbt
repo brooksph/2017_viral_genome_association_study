@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274285.1/GCF_001274285.1_ViralProj293707_genomic.fna.gz",
+        "filename": "GCF_001274285.1_ViralProj293707_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027789.1 Hermit crab associated circular virus isolate I0085A4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

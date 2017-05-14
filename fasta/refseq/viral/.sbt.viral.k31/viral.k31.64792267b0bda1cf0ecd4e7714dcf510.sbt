@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856365.1/GCF_000856365.1_ViralProj14987_genomic.fna.gz",
+        "filename": "GCF_000856365.1_ViralProj14987_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001800.1 Garlic virus X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

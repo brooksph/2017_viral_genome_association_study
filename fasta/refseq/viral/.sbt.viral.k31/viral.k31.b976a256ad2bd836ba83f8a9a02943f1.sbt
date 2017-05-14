@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550525.1/GCF_001550525.1_ViralProj310902_genomic.fna.gz",
+        "filename": "GCF_001550525.1_ViralProj310902_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029102.1 Enterobacter phage E-2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

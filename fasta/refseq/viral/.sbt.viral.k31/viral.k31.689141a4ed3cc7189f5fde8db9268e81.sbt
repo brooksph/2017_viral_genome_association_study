@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897555.1/GCF_000897555.1_ViralProj173355_genomic.fna.gz",
+        "filename": "GCF_000897555.1_ViralProj173355_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018455.1 Chinese yam necrotic mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

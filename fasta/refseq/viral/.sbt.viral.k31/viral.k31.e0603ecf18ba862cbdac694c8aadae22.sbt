@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965135.1/GCF_001965135.1_ViralProj362044_genomic.fna.gz",
+        "filename": "GCF_001965135.1_ViralProj362044_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032896.1 Hubei hepe-like virus 2 strain WHCC101555 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

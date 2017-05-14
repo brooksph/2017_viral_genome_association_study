@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001958215.1/GCF_001958215.1_ViralProj361753_genomic.fna.gz",
+        "filename": "GCF_001958215.1_ViralProj361753_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033022.1 Wenzhou crab virus 5 strain WZRBX37749 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, hypothetical protein 4, and hypothetical protein 5 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

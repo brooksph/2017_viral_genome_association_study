@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908255.1/GCF_000908255.1_ViralProj198432_genomic.fna.gz",
+        "filename": "GCF_000908255.1_ViralProj198432_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021068.1 Vibrio phage douglas 12A4 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

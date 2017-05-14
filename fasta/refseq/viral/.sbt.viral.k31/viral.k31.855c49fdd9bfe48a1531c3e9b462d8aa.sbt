@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865625.1/GCF_000865625.1_ViralProj15498_genomic.fna.gz",
+        "filename": "GCF_000865625.1_ViralProj15498_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004148.2 Human metapneumovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

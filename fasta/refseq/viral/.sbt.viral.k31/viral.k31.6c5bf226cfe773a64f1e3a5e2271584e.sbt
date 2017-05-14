@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887455.1/GCF_000887455.1_ViralProj50429_genomic.fna.gz",
+        "filename": "GCF_000887455.1_ViralProj50429_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014324.1 Turnip curly top virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001431955.1/GCF_001431955.1_ViralProj301016_genomic.fna.gz",
+        "filename": "GCF_001431955.1_ViralProj301016_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028230.1 Inhangapi virus strain BEAR177325, complete genome",
         "signatures": [
             {
                 "ksize": 31,

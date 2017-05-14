@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001722805.1/GCF_001722805.1_ViralMultiSegProj342447_genomic.fna.gz",
+        "filename": "GCF_001722805.1_ViralMultiSegProj342447_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030875.1 Sophora japonica powdery mildew-associated partitivirus isolate HBJZ1510 putative dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

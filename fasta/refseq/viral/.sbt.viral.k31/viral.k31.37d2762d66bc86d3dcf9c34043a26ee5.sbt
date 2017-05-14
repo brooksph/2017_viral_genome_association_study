@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919815.1/GCF_000919815.1_ViralProj244665_genomic.fna.gz",
+        "filename": "GCF_000919815.1_ViralProj244665_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024009.1 Allamanda leaf mottle distortion virus isolate Al-K1 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

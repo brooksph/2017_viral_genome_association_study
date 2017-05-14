@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915895.1/GCF_000915895.1_ViralMultiSegProj231682_genomic.fna.gz",
+        "filename": "GCF_000915895.1_ViralMultiSegProj231682_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023041.1 Magnaporthe oryzae chrysovirus 3 RdRp gene for RNA dependent RNA polymerase, complete cds",
         "signatures": [
             {
                 "ksize": 31,

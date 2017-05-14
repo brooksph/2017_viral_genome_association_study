@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001646355.1/GCF_001646355.1_ViralProj321697_genomic.fna.gz",
+        "filename": "GCF_001646355.1_ViralProj321697_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030118.1 Tobacco mosqueado virus isolate RS-01, complete genome",
         "signatures": [
             {
                 "ksize": 31,

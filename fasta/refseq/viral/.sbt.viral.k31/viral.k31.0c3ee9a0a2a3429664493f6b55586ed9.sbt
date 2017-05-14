@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000989115.1/GCF_000989115.1_ViralProj283067_genomic.fna.gz",
+        "filename": "GCF_000989115.1_ViralProj283067_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026943.1 Cherax quadricarinatus densovirus non-structural protein 3, non-structural protein 1 (NS1), non-structural protein 2 (NS2), and viral protein (VP) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

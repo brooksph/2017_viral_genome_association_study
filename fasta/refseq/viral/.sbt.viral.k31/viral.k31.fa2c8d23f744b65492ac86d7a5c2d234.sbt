@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910055.1/GCF_000910055.1_ViralProj206481_genomic.fna.gz",
+        "filename": "GCF_000910055.1_ViralProj206481_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021339.1 Streptomyces phage Zemlya, complete genome",
         "signatures": [
             {
                 "ksize": 31,

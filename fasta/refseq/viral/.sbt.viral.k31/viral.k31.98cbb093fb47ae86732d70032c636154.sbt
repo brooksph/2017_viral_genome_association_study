@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916795.1/GCF_000916795.1_ViralProj233521_genomic.fna.gz",
+        "filename": "GCF_000916795.1_ViralProj233521_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023295.1 Apricot vein clearing associated virus complete genome, isolate VC",
         "signatures": [
             {
                 "ksize": 31,

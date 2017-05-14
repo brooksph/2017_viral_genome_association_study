@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851865.1/GCF_000851865.1_ViralMultiSegProj14902_genomic.fna.gz",
+        "filename": "GCF_000851865.1_ViralMultiSegProj14902_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005214.1 Uukuniemi virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

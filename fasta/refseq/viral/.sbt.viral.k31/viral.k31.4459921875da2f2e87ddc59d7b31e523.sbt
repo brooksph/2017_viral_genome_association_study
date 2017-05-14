@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502935.1/GCF_001502935.1_ViralProj307809_genomic.fna.gz",
+        "filename": "GCF_001502935.1_ViralProj307809_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028889.1 Mycobacterium phage Florinda, complete genome",
         "signatures": [
             {
                 "ksize": 31,

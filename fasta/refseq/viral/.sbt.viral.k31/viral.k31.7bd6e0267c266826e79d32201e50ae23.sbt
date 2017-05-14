@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885295.1/GCF_000885295.1_ViralMultiSegProj40329_genomic.fna.gz",
+        "filename": "GCF_000885295.1_ViralMultiSegProj40329_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013220.1 Phytophthora infestans RNA virus 1 RNA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

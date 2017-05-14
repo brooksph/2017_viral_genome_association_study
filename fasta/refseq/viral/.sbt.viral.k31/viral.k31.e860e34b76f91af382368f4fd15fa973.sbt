@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851925.1/GCF_000851925.1_ViralProj14914_genomic.fna.gz",
+        "filename": "GCF_000851925.1_ViralProj14914_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001514.1 Squirrel monkey retrovirus - HLB, complete genome",
         "signatures": [
             {
                 "ksize": 31,

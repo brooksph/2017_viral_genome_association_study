@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846465.1/GCF_000846465.1_ViralProj14443_genomic.fna.gz",
+        "filename": "GCF_000846465.1_ViralProj14443_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005051.1 Okra yellow vein disease associated sequence virion, complete genome",
         "signatures": [
             {
                 "ksize": 31,

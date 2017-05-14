@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927175.1/GCF_000927175.1_ViralProj264938_genomic.fna.gz",
+        "filename": "GCF_000927175.1_ViralProj264938_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025375.1 Stygiolobus rod-shaped virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

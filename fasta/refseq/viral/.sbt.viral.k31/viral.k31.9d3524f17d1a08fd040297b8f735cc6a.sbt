@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872525.1/GCF_000872525.1_ViralProj28683_genomic.fna.gz",
+        "filename": "GCF_000872525.1_ViralProj28683_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010308.1 Persimmon viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

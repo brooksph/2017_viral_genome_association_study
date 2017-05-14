@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844945.1/GCF_000844945.1_ViralProj14484_genomic.fna.gz",
+        "filename": "GCF_000844945.1_ViralProj14484_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003828.1 Tomato yellow leaf curl Sardinia virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

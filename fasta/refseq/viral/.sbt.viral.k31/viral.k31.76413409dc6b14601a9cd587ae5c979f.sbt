@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923855.1/GCF_000923855.1_ViralProj255105_genomic.fna.gz",
+        "filename": "GCF_000923855.1_ViralProj255105_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024473.1 Vesicular stomatitis New Jersey virus isolate NJ1184HDB, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858465.1/GCF_000858465.1_ViralProj15234_genomic.fna.gz",
+        "filename": "GCF_000858465.1_ViralProj15234_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006955.1 Banana streak Mysore virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

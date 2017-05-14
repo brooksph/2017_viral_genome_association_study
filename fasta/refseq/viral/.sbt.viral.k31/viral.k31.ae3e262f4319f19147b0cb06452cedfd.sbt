@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882095.1/GCF_000882095.1_ViralProj34845_genomic.fna.gz",
+        "filename": "GCF_000882095.1_ViralProj34845_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012212.1 Chaetoceros socialis f. radians RNA virus segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

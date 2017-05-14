@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974175.1/GCF_001974175.1_ViralProj368708_genomic.fna.gz",
+        "filename": "GCF_001974175.1_ViralProj368708_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033456.1 Biomphalaria virus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

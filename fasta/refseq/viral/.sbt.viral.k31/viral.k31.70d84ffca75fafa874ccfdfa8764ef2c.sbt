@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926695.1/GCF_000926695.1_ViralProj265913_genomic.fna.gz",
+        "filename": "GCF_000926695.1_ViralProj265913_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025395.1 Puerto Almendras virus isolate LO-39, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912755.1/GCF_000912755.1_ViralProj221115_genomic.fna.gz",
+        "filename": "GCF_000912755.1_ViralProj221115_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022373.1 Felis catus papillomavirus 4 isolate MY-3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

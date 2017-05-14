@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504955.1/GCF_001504955.1_ViralProj307896_genomic.fna.gz",
+        "filename": "GCF_001504955.1_ViralProj307896_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028813.1 Mycobacterium phage Seagreen, complete genome",
         "signatures": [
             {
                 "ksize": 31,

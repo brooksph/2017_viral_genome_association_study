@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974135.1/GCF_001974135.1_ViralProj368949_genomic.fna.gz",
+        "filename": "GCF_001974135.1_ViralProj368949_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033461.1 Wuhan heteroptera virus 1 strain arthropodmix8462 RdRp and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

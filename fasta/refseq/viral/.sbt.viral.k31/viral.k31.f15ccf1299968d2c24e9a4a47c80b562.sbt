@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853745.1/GCF_000853745.1_ViralProj14935_genomic.fna.gz",
+        "filename": "GCF_000853745.1_ViralProj14935_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004106.1 Paprika mild mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

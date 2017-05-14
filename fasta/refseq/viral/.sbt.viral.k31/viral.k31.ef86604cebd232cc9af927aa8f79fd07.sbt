@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852025.1/GCF_000852025.1_ViralMultiSegProj14767_genomic.fna.gz",
+        "filename": "GCF_000852025.1_ViralMultiSegProj14767_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003625.1 Impatiens necrotic spot virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

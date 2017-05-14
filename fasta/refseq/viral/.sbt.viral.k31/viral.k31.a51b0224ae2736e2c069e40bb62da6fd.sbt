@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754805.1/GCF_001754805.1_ViralProj344626_genomic.fna.gz",
+        "filename": "GCF_001754805.1_ViralProj344626_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031266.1 Mycobacterium phage Phrann, complete genome",
         "signatures": [
             {
                 "ksize": 31,

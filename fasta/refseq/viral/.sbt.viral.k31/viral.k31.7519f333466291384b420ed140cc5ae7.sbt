@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755185.1/GCF_001755185.1_ViralProj344616_genomic.fna.gz",
+        "filename": "GCF_001755185.1_ViralProj344616_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031249.1 Gordonia phage UmaThurman, complete genome",
         "signatures": [
             {
                 "ksize": 31,

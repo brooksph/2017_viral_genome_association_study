@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001706925.1/GCF_001706925.1_ViralProj336530_genomic.fna.gz",
+        "filename": "GCF_001706925.1_ViralProj336530_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030744.1 Picornavirales Tottori-HG1 gene for polyprotein, complete cds, strain: Tottori-HG1",
         "signatures": [
             {
                 "ksize": 31,

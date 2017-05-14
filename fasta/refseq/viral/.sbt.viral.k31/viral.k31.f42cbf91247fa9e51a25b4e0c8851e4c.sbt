@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919315.1/GCF_000919315.1_ViralProj240741_genomic.fna.gz",
+        "filename": "GCF_000919315.1_ViralProj240741_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023704.1 Mycobacterium phage Doom, complete genome",
         "signatures": [
             {
                 "ksize": 31,

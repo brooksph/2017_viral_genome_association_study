@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901455.1/GCF_000901455.1_ViralProj178459_genomic.fna.gz",
+        "filename": "GCF_000901455.1_ViralProj178459_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019024.1 Peristrophe mosaic virus segment DNA-B isolate 11B_1_C1206 complete sequence",
         "signatures": [
             {
                 "ksize": 31,

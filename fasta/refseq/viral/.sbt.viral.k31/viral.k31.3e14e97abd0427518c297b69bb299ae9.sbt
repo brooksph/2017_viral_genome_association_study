@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837085.1/GCF_000837085.1_ViralProj14075_genomic.fna.gz",
+        "filename": "GCF_000837085.1_ViralProj14075_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001541.1 Cottontail rabbit papillomavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850765.1/GCF_000850765.1_ViralProj14805_genomic.fna.gz",
+        "filename": "GCF_000850765.1_ViralProj14805_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003795.1 Shallot virus X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

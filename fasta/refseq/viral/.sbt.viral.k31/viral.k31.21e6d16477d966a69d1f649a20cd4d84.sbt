@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903515.1/GCF_000903515.1_ViralProj181991_genomic.fna.gz",
+        "filename": "GCF_000903515.1_ViralProj181991_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019550.1 Liberibacter phage SC2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

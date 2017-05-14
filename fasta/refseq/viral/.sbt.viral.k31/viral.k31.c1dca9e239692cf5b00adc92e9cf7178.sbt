@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890575.1/GCF_000890575.1_ViralMultiSegProj62479_genomic.fna.gz",
+        "filename": "GCF_000890575.1_ViralMultiSegProj62479_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015045.1 Abutilon mosaic Bolivia virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

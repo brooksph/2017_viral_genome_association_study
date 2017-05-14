@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929955.1/GCF_000929955.1_ViralProj269768_genomic.fna.gz",
+        "filename": "GCF_000929955.1_ViralProj269768_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025835.1 Dinocampus coccinellae paralysis virus strain Quebec2013, complete genome",
         "signatures": [
             {
                 "ksize": 31,

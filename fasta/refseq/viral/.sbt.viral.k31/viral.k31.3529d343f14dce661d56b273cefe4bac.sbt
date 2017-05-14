@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893535.1/GCF_000893535.1_ViralProj66343_genomic.fna.gz",
+        "filename": "GCF_000893535.1_ViralProj66343_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015455.1 Raptor adenovirus A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

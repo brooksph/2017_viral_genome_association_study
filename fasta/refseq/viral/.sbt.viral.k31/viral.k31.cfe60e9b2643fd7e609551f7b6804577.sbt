@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872765.1/GCF_000872765.1_ViralProj29143_genomic.fna.gz",
+        "filename": "GCF_000872765.1_ViralProj29143_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010237.1 Enterobacteria phage Min27, complete genome",
         "signatures": [
             {
                 "ksize": 31,

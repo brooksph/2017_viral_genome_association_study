@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919835.1/GCF_000919835.1_ViralProj244947_genomic.fna.gz",
+        "filename": "GCF_000919835.1_ViralProj244947_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024018.2 Pronghorn antelope pestivirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

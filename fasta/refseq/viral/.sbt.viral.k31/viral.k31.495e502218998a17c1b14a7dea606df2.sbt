@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001698315.1/GCF_001698315.1_ViralProj336037_genomic.fna.gz",
+        "filename": "GCF_001698315.1_ViralProj336037_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030700.1 Sweet potato leaf curl Henanzhengzhou virus isolate Zhengzhou42:2015, complete genome",
         "signatures": [
             {
                 "ksize": 31,

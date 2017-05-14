@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001876875.1/GCF_001876875.1_ViralProj352736_genomic.fna.gz",
+        "filename": "GCF_001876875.1_ViralProj352736_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031760.1 Cotton leaf curl virus isolate Faz-14, complete genome",
         "signatures": [
             {
                 "ksize": 31,

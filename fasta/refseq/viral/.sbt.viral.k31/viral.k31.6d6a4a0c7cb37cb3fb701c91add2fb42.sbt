@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869465.1/GCF_000869465.1_ViralMultiSegProj17991_genomic.fna.gz",
+        "filename": "GCF_000869465.1_ViralMultiSegProj17991_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008494.1 Desmodium leaf distortion virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

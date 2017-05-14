@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892315.1/GCF_000892315.1_ViralProj63565_genomic.fna.gz",
+        "filename": "GCF_000892315.1_ViralProj63565_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015211.1 Chaetoceros lorenzianus DNA Virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

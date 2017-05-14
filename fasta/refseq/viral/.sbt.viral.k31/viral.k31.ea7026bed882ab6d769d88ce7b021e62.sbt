@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922435.1/GCF_000922435.1_ViralProj259986_genomic.fna.gz",
+        "filename": "GCF_000922435.1_ViralProj259986_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024777.1 Small begomovirus-associated satellite isolate Sa19-S1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

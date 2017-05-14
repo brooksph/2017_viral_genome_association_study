@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841525.1/GCF_000841525.1_ViralProj14307_genomic.fna.gz",
+        "filename": "GCF_000841525.1_ViralProj14307_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005131.2 Ralstonia phage p12J, complete genome",
         "signatures": [
             {
                 "ksize": 31,

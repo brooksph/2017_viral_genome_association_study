@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863025.1/GCF_000863025.1_ViralProj15315_genomic.fna.gz",
+        "filename": "GCF_000863025.1_ViralProj15315_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001545.2 Rubella virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

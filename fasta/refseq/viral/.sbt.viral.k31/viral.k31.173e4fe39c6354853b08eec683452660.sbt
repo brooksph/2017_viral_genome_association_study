@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925555.1/GCF_000925555.1_ViralProj265892_genomic.fna.gz",
+        "filename": "GCF_000925555.1_ViralProj265892_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025402.1 Porcine parainfluenza virus 1 strain S206N, complete genome",
         "signatures": [
             {
                 "ksize": 31,

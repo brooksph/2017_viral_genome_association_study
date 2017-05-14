@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866525.1/GCF_000866525.1_ViralProj15515_genomic.fna.gz",
+        "filename": "GCF_000866525.1_ViralProj15515_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007067.1 Ageratum yellow vein China virus-associated DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

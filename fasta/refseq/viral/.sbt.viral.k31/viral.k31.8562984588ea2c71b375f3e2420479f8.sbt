@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891415.1/GCF_000891415.1_ViralProj61781_genomic.fna.gz",
+        "filename": "GCF_000891415.1_ViralProj61781_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014896.1 Okra enation leaf curl betasatellite [India:Sonipat:EL10:2006], complete genome",
         "signatures": [
             {
                 "ksize": 31,

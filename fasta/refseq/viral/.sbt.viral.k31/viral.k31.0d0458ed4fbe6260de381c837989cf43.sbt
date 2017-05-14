@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900895.1/GCF_000900895.1_ViralProj181244_genomic.fna.gz",
+        "filename": "GCF_000900895.1_ViralProj181244_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019498.1 Dragonfly-associated alphasatellite isolate PR_NZ48_2009, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

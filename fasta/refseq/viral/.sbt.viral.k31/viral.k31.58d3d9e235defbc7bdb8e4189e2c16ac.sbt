@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859825.1/GCF_000859825.1_ViralProj15185_genomic.fna.gz",
+        "filename": "GCF_000859825.1_ViralProj15185_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000939.2 Pothos latent virus genes for replicase, capsid protein and movement protein",
         "signatures": [
             {
                 "ksize": 31,

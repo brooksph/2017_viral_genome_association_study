@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001743535.1/GCF_001743535.1_ViralProj41333_genomic.fna.gz",
+        "filename": "GCF_001743535.1_ViralProj41333_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013597.1 Aggregatibacter phage S1249, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

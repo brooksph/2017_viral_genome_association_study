@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001661755.1/GCF_001661755.1_ViralProj324268_genomic.fna.gz",
+        "filename": "GCF_001661755.1_ViralProj324268_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030289.1 Edge Hill virus strain YMP 48 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

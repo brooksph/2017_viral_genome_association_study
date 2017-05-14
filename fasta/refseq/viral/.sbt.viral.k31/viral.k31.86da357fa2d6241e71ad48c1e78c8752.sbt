@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851405.1/GCF_000851405.1_ViralProj14799_genomic.fna.gz",
+        "filename": "GCF_000851405.1_ViralProj14799_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003779.1 Plautia stali intestine virus RNA for nonstructural polyprotein, capsid protein precursor, complete cds",
         "signatures": [
             {
                 "ksize": 31,

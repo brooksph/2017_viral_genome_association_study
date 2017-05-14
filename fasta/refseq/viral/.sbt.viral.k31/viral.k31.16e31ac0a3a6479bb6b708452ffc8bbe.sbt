@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887555.1/GCF_000887555.1_ViralProj51667_genomic.fna.gz",
+        "filename": "GCF_000887555.1_ViralProj51667_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014458.1 Mycobacterium phage Angelica, complete genome",
         "signatures": [
             {
                 "ksize": 31,

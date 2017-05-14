@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874385.1/GCF_000874385.1_ViralMultiSegProj21113_genomic.fna.gz",
+        "filename": "GCF_000874385.1_ViralMultiSegProj21113_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009947.1 Amasya cherry disease associated chrysovirus segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

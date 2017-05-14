@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736855.1/GCF_001736855.1_ViralProj343528_genomic.fna.gz",
+        "filename": "GCF_001736855.1_ViralProj343528_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030935.1 Gordonia phage GRU3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

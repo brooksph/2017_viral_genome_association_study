@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867825.1/GCF_000867825.1_ViralProj18305_genomic.fna.gz",
+        "filename": "GCF_000867825.1_ViralProj18305_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008603.1 Paramecium bursaria Chlorella virus FR483, complete genome",
         "signatures": [
             {
                 "ksize": 31,

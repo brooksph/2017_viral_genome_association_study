@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887575.1/GCF_000887575.1_ViralMultiSegProj51685_genomic.fna.gz",
+        "filename": "GCF_000887575.1_ViralMultiSegProj51685_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014462.1 Magnaporthe oryzae chrysovirus 1 segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

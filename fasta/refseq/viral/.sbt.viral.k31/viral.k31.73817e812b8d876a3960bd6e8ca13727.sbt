@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921215.1/GCF_000921215.1_ViralProj253396_genomic.fna.gz",
+        "filename": "GCF_000921215.1_ViralProj253396_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024376.1 Sierra Nevada virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

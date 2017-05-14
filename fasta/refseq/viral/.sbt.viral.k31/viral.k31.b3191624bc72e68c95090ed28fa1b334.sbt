@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865705.1/GCF_000865705.1_ViralProj15514_genomic.fna.gz",
+        "filename": "GCF_000865705.1_ViralProj15514_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006267.1 Sida yellow mosaic virus-[China]-associated DNA beta DNA beta, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

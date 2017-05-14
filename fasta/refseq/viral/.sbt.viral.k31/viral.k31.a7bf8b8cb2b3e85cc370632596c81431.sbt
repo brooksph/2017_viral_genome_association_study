@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001970665.1/GCF_001970665.1_ViralProj362929_genomic.fna.gz",
+        "filename": "GCF_001970665.1_ViralProj362929_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033420.1 Wenzhou tombus-like virus 4 strain shrimp14425 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

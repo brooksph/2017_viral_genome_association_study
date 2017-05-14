@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863305.1/GCF_000863305.1_ViralProj15373_genomic.fna.gz",
+        "filename": "GCF_000863305.1_ViralProj15373_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002552.1 Hop latent virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

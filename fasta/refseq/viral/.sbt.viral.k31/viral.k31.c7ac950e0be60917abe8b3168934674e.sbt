@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001020015.1/GCF_001020015.1_ViralProj285266_genomic.fna.gz",
+        "filename": "GCF_001020015.1_ViralProj285266_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027123.1 Cymbidium chlorotic mosaic virus genomic RNA, complete genome, isolate: Cym92-20",
         "signatures": [
             {
                 "ksize": 31,

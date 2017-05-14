@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915055.1/GCF_000915055.1_ViralProj230584_genomic.fna.gz",
+        "filename": "GCF_000915055.1_ViralProj230584_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022984.1 Mycobacterium phage Jovo, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910875.1/GCF_000910875.1_ViralProj215356_genomic.fna.gz",
+        "filename": "GCF_000910875.1_ViralProj215356_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022089.1 Parvovirus NIH-CQV putative 15-kDa protein, putative replication associated protein (rep), and putative capsid protein (cap) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

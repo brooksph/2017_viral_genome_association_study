@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001927135.1/GCF_001927135.1_ViralProj359326_genomic.fna.gz",
+        "filename": "GCF_001927135.1_ViralProj359326_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032440.1 Narna-like virus 6 strain WGML136220 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869685.1/GCF_000869685.1_ViralProj18527_genomic.fna.gz",
+        "filename": "GCF_000869685.1_ViralProj18527_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008724.1 Acanthocystis turfacea Chlorella virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

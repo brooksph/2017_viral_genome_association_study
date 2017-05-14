@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001444025.1/GCF_001444025.1_ViralProj302028_genomic.fna.gz",
+        "filename": "GCF_001444025.1_ViralProj302028_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028372.1 Xinzhou spider virus 2 strain XZZZ-7 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

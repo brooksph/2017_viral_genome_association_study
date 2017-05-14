@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859845.1/GCF_000859845.1_ViralProj15189_genomic.fna.gz",
+        "filename": "GCF_000859845.1_ViralProj15189_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003878.1 Zucchini green mottle mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921415.1/GCF_000921415.1_ViralMultiSegProj255996_genomic.fna.gz",
+        "filename": "GCF_000921415.1_ViralMultiSegProj255996_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024492.1 Senegalese sole Iberian betanodavirus isolate SpSsIAusc16003 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

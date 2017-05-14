@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906415.1/GCF_000906415.1_ViralProj202886_genomic.fna.gz",
+        "filename": "GCF_000906415.1_ViralProj202886_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021201.1 Turkey hepatitis virus 2993D polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

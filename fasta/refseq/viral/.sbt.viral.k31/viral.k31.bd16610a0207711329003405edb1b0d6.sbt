@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001310155.1/GCF_001310155.1_ViralProj298083_genomic.fna.gz",
+        "filename": "GCF_001310155.1_ViralProj298083_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027995.1 Escherichia phage vB_EcoM_ECO1230-10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

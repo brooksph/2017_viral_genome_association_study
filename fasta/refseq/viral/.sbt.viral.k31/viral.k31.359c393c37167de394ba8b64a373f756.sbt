@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841345.1/GCF_000841345.1_ViralProj14267_genomic.fna.gz",
+        "filename": "GCF_000841345.1_ViralProj14267_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004675.1 Tomato curly stunt virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

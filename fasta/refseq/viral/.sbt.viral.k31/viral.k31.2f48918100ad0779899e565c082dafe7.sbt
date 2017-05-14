@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008815.1/GCF_002008815.1_ViralMultiSegProj376924_genomic.fna.gz",
+        "filename": "GCF_002008815.1_ViralMultiSegProj376924_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033851.1 Wuhan insect virus 22 strain arthropodmix13806 segment Seg 1 RdRp gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

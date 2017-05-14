@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461545.1/GCF_001461545.1_ViralProj304896_genomic.fna.gz",
+        "filename": "GCF_001461545.1_ViralProj304896_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028470.1 Pleospora typhicola fusarivirus 1 175 kDa protein and 59 kDa protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

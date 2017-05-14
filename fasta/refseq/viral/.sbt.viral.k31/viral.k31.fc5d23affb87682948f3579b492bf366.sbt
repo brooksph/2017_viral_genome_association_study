@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920555.1/GCF_000920555.1_ViralProj243500_genomic.fna.gz",
+        "filename": "GCF_000920555.1_ViralProj243500_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023875.1 Black medic leafroll alphasatellite 1 isolate Lerik-Xalifa_47, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001921495.1/GCF_001921495.1_ViralMultiSegProj358544_genomic.fna.gz",
+        "filename": "GCF_001921495.1_ViralMultiSegProj358544_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032131.1 Xinzhou partiti-like virus 1 strain XZSJSC65291 segment Seg 1 RdRp gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

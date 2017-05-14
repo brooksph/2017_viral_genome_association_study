@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000846125.1/GCF_000846125.1_ViralProj14565_genomic.fna.gz",
+        "filename": "GCF_000846125.1_ViralProj14565_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006356.2 Flavobacterium phage 11b, complete genome",
         "signatures": [
             {
                 "ksize": 31,

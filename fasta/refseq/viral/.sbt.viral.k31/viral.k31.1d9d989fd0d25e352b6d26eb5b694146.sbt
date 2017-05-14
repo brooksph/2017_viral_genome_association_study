@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901355.1/GCF_000901355.1_ViralProj185189_genomic.fna.gz",
+        "filename": "GCF_000901355.1_ViralProj185189_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020069.1 Miniopterus polyomavirus isolate KY369, complete genome",
         "signatures": [
             {
                 "ksize": 31,

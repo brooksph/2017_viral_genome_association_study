@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904395.1/GCF_000904395.1_ViralProj195477_genomic.fna.gz",
+        "filename": "GCF_000904395.1_ViralProj195477_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020846.1 Vibrio phage pYD21-A genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

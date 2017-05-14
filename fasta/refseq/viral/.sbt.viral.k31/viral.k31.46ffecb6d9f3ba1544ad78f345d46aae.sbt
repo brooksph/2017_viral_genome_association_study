@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001684725.1/GCF_001684725.1_ViralProj328667_genomic.fna.gz",
+        "filename": "GCF_001684725.1_ViralProj328667_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030466.1 Chimpanzee faeces associated circular DNA virus 1 isolate CPNG_29286, complete genome",
         "signatures": [
             {
                 "ksize": 31,

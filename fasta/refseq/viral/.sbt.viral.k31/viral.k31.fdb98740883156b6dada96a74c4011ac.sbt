@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002003815.1/GCF_002003815.1_ViralProj375010_genomic.fna.gz",
+        "filename": "GCF_002003815.1_ViralProj375010_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033694.1 Palm Creek virus isolate 56 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

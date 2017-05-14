@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871685.1/GCF_000871685.1_ViralProj19783_genomic.fna.gz",
+        "filename": "GCF_000871685.1_ViralProj19783_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009547.1 Sida yellow vein Vietnam virus DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001190435.1/GCF_001190435.1_ViralProj291267_genomic.fna.gz",
+        "filename": "GCF_001190435.1_ViralProj291267_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027628.1 Propionibacterium phage Lauchelly, complete genome",
         "signatures": [
             {
                 "ksize": 31,

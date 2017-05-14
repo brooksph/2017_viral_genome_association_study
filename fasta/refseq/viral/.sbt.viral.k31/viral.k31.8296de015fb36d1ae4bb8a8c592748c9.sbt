@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848025.1/GCF_000848025.1_ViralProj14602_genomic.fna.gz",
+        "filename": "GCF_000848025.1_ViralProj14602_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004112.1 Lactobacillus phage A2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

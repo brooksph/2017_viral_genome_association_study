@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872565.1/GCF_000872565.1_ViralMultiSegProj28323_genomic.fna.gz",
+        "filename": "GCF_000872565.1_ViralMultiSegProj28323_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010249.1 Allpahuayo virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

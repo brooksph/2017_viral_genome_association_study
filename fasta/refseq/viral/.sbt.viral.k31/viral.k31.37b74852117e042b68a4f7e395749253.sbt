@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960495.1/GCF_001960495.1_ViralProj361759_genomic.fna.gz",
+        "filename": "GCF_001960495.1_ViralProj361759_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033100.1 Wenzhou bivalvia virus 2 strain beimix75763 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

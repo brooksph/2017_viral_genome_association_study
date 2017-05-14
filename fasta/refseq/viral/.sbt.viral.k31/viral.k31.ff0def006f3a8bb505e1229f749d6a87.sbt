@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919895.1/GCF_000919895.1_ViralProj248101_genomic.fna.gz",
+        "filename": "GCF_000919895.1_ViralProj248101_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024119.1 PoSCV Kor J481, complete genome",
         "signatures": [
             {
                 "ksize": 31,

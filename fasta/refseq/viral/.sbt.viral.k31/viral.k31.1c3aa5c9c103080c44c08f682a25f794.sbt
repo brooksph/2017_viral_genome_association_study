@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962895.1/GCF_001962895.1_ViralProj361880_genomic.fna.gz",
+        "filename": "GCF_001962895.1_ViralProj361880_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032835.1 Sanxia narna-like virus 1 strain SXXX35820 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

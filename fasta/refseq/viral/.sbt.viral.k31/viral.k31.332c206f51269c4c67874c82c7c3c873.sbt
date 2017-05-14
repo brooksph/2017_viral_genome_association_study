@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904795.1/GCF_000904795.1_ViralProj184143_genomic.fna.gz",
+        "filename": "GCF_000904795.1_ViralProj184143_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019909.1 Yersinia phage phiR1-RT complete genome",
         "signatures": [
             {
                 "ksize": 31,

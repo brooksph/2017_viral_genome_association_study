@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004255.1/GCF_002004255.1_ViralMultiSegProj375035_genomic.fna.gz",
+        "filename": "GCF_002004255.1_ViralMultiSegProj375035_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033756.1 Beihai shrimp virus 3 strain BHBJDX18821 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

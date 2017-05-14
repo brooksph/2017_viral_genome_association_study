@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855985.1/GCF_000855985.1_ViralProj15089_genomic.fna.gz",
+        "filename": "GCF_000855985.1_ViralProj15089_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002032.1 Bovine viral diarrhea virus genotype 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

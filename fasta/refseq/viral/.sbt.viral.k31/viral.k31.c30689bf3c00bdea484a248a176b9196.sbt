@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745755.1/GCF_001745755.1_ViralProj344127_genomic.fna.gz",
+        "filename": "GCF_001745755.1_ViralProj344127_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031018.1 Citrobacter phage SH4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

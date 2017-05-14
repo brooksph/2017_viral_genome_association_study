@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001973975.1/GCF_001973975.1_ViralProj368946_genomic.fna.gz",
+        "filename": "GCF_001973975.1_ViralProj368946_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033469.1 Wuhan house centipede virus 1 strain WHYY23932 RdRp and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

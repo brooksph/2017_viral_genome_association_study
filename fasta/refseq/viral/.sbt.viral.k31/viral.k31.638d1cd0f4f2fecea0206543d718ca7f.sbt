@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917775.1/GCF_000917775.1_ViralProj240767_genomic.fna.gz",
+        "filename": "GCF_000917775.1_ViralProj240767_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023716.1 Mycobacterium phage Alma, complete genome",
         "signatures": [
             {
                 "ksize": 31,

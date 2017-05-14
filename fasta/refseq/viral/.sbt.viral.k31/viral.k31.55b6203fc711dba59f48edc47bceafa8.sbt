@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926455.1/GCF_000926455.1_ViralProj264919_genomic.fna.gz",
+        "filename": "GCF_000926455.1_ViralProj264919_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025362.1 Xiburema virus isolate XIBV/BE AR 362159, complete genome",
         "signatures": [
             {
                 "ksize": 31,

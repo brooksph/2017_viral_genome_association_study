@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920355.1/GCF_000920355.1_ViralProj242938_genomic.fna.gz",
+        "filename": "GCF_000920355.1_ViralProj242938_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023841.1 Dunaliella viridis virus SI2 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

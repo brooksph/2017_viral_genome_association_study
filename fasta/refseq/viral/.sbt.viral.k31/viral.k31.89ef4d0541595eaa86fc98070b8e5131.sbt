@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864965.1/GCF_000864965.1_ViralProj15517_genomic.fna.gz",
+        "filename": "GCF_000864965.1_ViralProj15517_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001339.1 Artichoke mottled crinkle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881155.1/GCF_000881155.1_ViralProj34919_genomic.fna.gz",
+        "filename": "GCF_000881155.1_ViralProj34919_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012223.2 Enterobacteria phage SSL2009a, complete genome",
         "signatures": [
             {
                 "ksize": 31,

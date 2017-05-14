@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883235.1/GCF_000883235.1_ViralProj32387_genomic.fna.gz",
+        "filename": "GCF_000883235.1_ViralProj32387_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011423.1 Adoxophyes orana nucleopolyhedrovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

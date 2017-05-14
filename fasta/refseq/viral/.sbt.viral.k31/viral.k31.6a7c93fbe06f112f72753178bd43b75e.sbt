@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001028965.1/GCF_001028965.1_ViralProj286258_genomic.fna.gz",
+        "filename": "GCF_001028965.1_ViralProj286258_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027209.1 Magnaporthe oryzae virus 3 strain QSP5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879815.1/GCF_000879815.1_ViralProj28989_genomic.fna.gz",
+        "filename": "GCF_000879815.1_ViralProj28989_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010441.2 Tomato leaf curl Cotabato virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

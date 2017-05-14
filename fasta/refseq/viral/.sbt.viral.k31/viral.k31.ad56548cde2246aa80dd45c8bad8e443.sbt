@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001706985.1/GCF_001706985.1_ViralProj339073_genomic.fna.gz",
+        "filename": "GCF_001706985.1_ViralProj339073_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030747.1 Alternaria arborescens mitovirus 1 genomic RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

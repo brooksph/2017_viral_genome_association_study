@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881615.1/GCF_000881615.1_ViralProj32193_genomic.fna.gz",
+        "filename": "GCF_000881615.1_ViralProj32193_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011349.1 Seneca valley virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

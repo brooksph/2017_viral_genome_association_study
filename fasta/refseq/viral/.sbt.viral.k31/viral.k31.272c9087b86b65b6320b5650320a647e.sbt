@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886255.1/GCF_000886255.1_ViralProj43731_genomic.fna.gz",
+        "filename": "GCF_000886255.1_ViralProj43731_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013772.1 Pseudaletia unipuncta granulovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

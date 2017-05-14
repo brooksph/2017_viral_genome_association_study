@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502195.2/GCF_001502195.2_ViralMultiSegProj307784_genomic.fna.gz",
+        "filename": "GCF_001502195.2_ViralMultiSegProj307784_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029034.2 Colombian potato soil-borne virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

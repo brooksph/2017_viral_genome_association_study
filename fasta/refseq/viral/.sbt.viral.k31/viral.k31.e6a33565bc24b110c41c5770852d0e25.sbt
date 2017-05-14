@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844965.1/GCF_000844965.1_ViralProj14488_genomic.fna.gz",
+        "filename": "GCF_000844965.1_ViralProj14488_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002501.1 Frog adenovirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

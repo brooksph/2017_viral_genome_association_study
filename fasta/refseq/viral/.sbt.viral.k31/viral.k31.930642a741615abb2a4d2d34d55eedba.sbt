@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962035.1/GCF_001962035.1_ViralProj361894_genomic.fna.gz",
+        "filename": "GCF_001962035.1_ViralProj361894_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033192.1 Hubei virga-like virus 21 strain mosHB236537 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

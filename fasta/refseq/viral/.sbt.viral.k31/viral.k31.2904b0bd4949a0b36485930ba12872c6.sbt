@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862285.1/GCF_000862285.1_ViralMultiSegProj15338_genomic.fna.gz",
+        "filename": "GCF_000862285.1_ViralMultiSegProj15338_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003483.1 Barley mild mosaic virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

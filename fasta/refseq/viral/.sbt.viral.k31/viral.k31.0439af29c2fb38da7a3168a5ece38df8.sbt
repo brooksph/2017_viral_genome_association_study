@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914295.1/GCF_000914295.1_ViralProj237448_genomic.fna.gz",
+        "filename": "GCF_000914295.1_ViralProj237448_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023424.1 Tyuleniy virus strain LEIV-6C polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

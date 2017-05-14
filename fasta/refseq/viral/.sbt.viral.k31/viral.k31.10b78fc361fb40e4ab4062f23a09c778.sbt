@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893235.1/GCF_000893235.1_ViralProj64495_genomic.fna.gz",
+        "filename": "GCF_000893235.1_ViralProj64495_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015229.1 Fig fleck-associated virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

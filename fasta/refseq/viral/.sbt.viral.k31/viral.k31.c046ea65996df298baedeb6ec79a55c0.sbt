@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854385.1/GCF_000854385.1_ViralMultiSegProj15075_genomic.fna.gz",
+        "filename": "GCF_000854385.1_ViralMultiSegProj15075_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004146.1 Flock house virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470455.1/GCF_001470455.1_ViralProj306344_genomic.fna.gz",
+        "filename": "GCF_001470455.1_ViralProj306344_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028662.1 Mycobacterium phage Phlei, complete genome",
         "signatures": [
             {
                 "ksize": 31,

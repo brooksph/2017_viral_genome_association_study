@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917975.1/GCF_000917975.1_ViralProj243271_genomic.fna.gz",
+        "filename": "GCF_000917975.1_ViralProj243271_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023872.1 Dragonfly-associated circular virus 1 isolate FL1-2X-2010, complete genome",
         "signatures": [
             {
                 "ksize": 31,

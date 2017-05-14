@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855585.1/GCF_000855585.1_ViralProj15012_genomic.fna.gz",
+        "filename": "GCF_000855585.1_ViralProj15012_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006432.1 Sudan ebolavirus isolate Sudan virus/H.sapiens-tc/UGA/2000/Gulu-808892, complete genome",
         "signatures": [
             {
                 "ksize": 31,

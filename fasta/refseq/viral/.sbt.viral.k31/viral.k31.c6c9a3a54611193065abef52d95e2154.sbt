@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755225.1/GCF_001755225.1_ViralProj344624_genomic.fna.gz",
+        "filename": "GCF_001755225.1_ViralProj344624_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031234.1 Gordonia phage Emalyn, complete genome",
         "signatures": [
             {
                 "ksize": 31,

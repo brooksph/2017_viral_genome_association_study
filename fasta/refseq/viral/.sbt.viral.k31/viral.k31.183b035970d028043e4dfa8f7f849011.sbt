@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894375.1/GCF_000894375.1_ViralProj85563_genomic.fna.gz",
+        "filename": "GCF_000894375.1_ViralProj85563_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016924.1 Cotia virus SPAn232, complete genome",
         "signatures": [
             {
                 "ksize": 31,

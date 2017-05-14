@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890015.1/GCF_000890015.1_ViralProj51183_genomic.fna.gz",
+        "filename": "GCF_000890015.1_ViralProj51183_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014360.1 Circulifer tenellus virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

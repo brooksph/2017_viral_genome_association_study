@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736555.1/GCF_001736555.1_ViralProj343513_genomic.fna.gz",
+        "filename": "GCF_001736555.1_ViralProj343513_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030942.1 Gordonia phage BritBrat, complete genome",
         "signatures": [
             {
                 "ksize": 31,

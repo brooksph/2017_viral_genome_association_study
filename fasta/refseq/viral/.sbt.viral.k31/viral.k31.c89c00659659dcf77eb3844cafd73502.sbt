@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881175.1/GCF_000881175.1_ViralMultiSegProj36505_genomic.fna.gz",
+        "filename": "GCF_000881175.1_ViralMultiSegProj36505_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012481.1 Rhynchosia golden mosaic Yucatan virus DNA A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

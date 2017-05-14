@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001651145.1/GCF_001651145.1_ViralProj322487_genomic.fna.gz",
+        "filename": "GCF_001651145.1_ViralProj322487_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030205.1 Water chestnut soymovirus 1 isolate TuanFeng, complete genome",
         "signatures": [
             {
                 "ksize": 31,

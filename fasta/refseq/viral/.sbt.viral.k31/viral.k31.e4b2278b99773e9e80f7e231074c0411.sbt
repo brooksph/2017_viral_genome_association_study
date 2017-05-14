@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903035.1/GCF_000903035.1_ViralProj185194_genomic.fna.gz",
+        "filename": "GCF_000903035.1_ViralProj185194_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020068.1 Eidolon polyomavirus 1 isolate KY270, complete genome",
         "signatures": [
             {
                 "ksize": 31,

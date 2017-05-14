@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274305.1/GCF_001274305.1_ViralProj293715_genomic.fna.gz",
+        "filename": "GCF_001274305.1_ViralProj293715_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027782.1 Didemnum sp. Sea Squirt associated virus isolate I0026A4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

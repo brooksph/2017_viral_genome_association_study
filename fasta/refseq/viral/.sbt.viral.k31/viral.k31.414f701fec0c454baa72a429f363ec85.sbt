@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865265.1/GCF_000865265.1_ViralProj16201_genomic.fna.gz",
+        "filename": "GCF_000865265.1_ViralProj16201_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007619.1 Kelp fly virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

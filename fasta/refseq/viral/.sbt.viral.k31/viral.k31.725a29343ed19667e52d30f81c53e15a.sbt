@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884255.1/GCF_000884255.1_ViralProj39987_genomic.fna.gz",
+        "filename": "GCF_000884255.1_ViralProj39987_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013117.1 Francolinus leucoscepus papillomavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

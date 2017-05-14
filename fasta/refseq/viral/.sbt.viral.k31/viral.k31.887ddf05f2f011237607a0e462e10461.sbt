@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736275.1/GCF_001736275.1_ViralProj343491_genomic.fna.gz",
+        "filename": "GCF_001736275.1_ViralProj343491_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030938.1 Rosellinia necatrix endornavirus 1 genomic RNA, complete genome, strain: W1141",
         "signatures": [
             {
                 "ksize": 31,

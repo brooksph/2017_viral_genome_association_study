@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889275.1/GCF_000889275.1_ViralProj52631_genomic.fna.gz",
+        "filename": "GCF_000889275.1_ViralProj52631_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014509.2 Velvet tobacco mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

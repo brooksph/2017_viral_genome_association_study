@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926635.1/GCF_000926635.1_ViralProj265901_genomic.fna.gz",
+        "filename": "GCF_000926635.1_ViralProj265901_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025392.1 Jurona virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

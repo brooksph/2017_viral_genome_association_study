@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840585.1/GCF_000840585.1_ViralProj14274_genomic.fna.gz",
+        "filename": "GCF_000840585.1_ViralProj14274_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004689.1 Mycobacterium phage Barnyard, complete genome",
         "signatures": [
             {
                 "ksize": 31,

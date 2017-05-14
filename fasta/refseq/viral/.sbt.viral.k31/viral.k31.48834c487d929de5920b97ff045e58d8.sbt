@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853905.1/GCF_000853905.1_ViralProj14968_genomic.fna.gz",
+        "filename": "GCF_000853905.1_ViralProj14968_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002015.1 Chrysanthemum stunt viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

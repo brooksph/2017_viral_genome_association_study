@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911675.1/GCF_000911675.1_ViralProj213071_genomic.fna.gz",
+        "filename": "GCF_000911675.1_ViralProj213071_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021864.1 Puniceispirillum phage HMO-2011, complete genome",
         "signatures": [
             {
                 "ksize": 31,

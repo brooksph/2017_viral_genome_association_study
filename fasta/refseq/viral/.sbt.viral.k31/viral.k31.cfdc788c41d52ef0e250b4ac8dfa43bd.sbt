@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962155.1/GCF_001962155.1_ViralProj361920_genomic.fna.gz",
+        "filename": "GCF_001962155.1_ViralProj361920_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033271.1 Ageratum yellow vein Pakistan alphasatellite alpha Rep gene, isolate H5A1",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913815.1/GCF_000913815.1_ViralProj227120_genomic.fna.gz",
+        "filename": "GCF_000913815.1_ViralProj227120_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022763.1 Bacillus phage Spock, complete genome",
         "signatures": [
             {
                 "ksize": 31,

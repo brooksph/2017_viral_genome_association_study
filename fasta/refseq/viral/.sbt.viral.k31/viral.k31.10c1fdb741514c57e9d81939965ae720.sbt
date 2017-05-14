@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745575.1/GCF_001745575.1_ViralProj344091_genomic.fna.gz",
+        "filename": "GCF_001745575.1_ViralProj344091_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031109.1 Gordonia phage Jumbo, complete genome",
         "signatures": [
             {
                 "ksize": 31,

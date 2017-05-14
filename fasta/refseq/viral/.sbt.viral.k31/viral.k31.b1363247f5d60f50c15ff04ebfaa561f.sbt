@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900295.1/GCF_000900295.1_ViralProj177539_genomic.fna.gz",
+        "filename": "GCF_000900295.1_ViralProj177539_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018851.1 Propionibacterium phage ATCC29399B_C, complete genome",
         "signatures": [
             {
                 "ksize": 31,

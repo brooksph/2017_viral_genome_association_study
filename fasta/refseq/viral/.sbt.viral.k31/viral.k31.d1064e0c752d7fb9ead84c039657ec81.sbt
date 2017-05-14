@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893435.1/GCF_000893435.1_ViralProj65201_genomic.fna.gz",
+        "filename": "GCF_000893435.1_ViralProj65201_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015317.1 Sweet potato leaf curl South Carolina virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

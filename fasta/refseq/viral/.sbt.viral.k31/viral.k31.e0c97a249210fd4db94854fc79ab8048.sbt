@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929435.1/GCF_000929435.1_ViralProj274586_genomic.fna.gz",
+        "filename": "GCF_000929435.1_ViralProj274586_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026421.1 Equid herpesvirus 5 strain 2-141/67, complete genome",
         "signatures": [
             {
                 "ksize": 31,

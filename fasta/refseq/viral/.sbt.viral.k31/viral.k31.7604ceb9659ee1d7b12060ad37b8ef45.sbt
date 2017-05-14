@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863445.1/GCF_000863445.1_ViralProj15404_genomic.fna.gz",
+        "filename": "GCF_000863445.1_ViralProj15404_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004426.1 Wild potato mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

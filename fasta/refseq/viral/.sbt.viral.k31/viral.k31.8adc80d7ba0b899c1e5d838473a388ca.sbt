@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924595.1/GCF_000924595.1_ViralProj264921_genomic.fna.gz",
+        "filename": "GCF_000924595.1_ViralProj264921_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025351.1 Cedar virus isolate CG1a, complete genome",
         "signatures": [
             {
                 "ksize": 31,

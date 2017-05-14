@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470075.1/GCF_001470075.1_ViralProj306282_genomic.fna.gz",
+        "filename": "GCF_001470075.1_ViralProj306282_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028680.1 Mycobacterium phage Pepe, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904895.1/GCF_000904895.1_ViralProj184164_genomic.fna.gz",
+        "filename": "GCF_000904895.1_ViralProj184164_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019935.1 Pseudomonas phage KPP12 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

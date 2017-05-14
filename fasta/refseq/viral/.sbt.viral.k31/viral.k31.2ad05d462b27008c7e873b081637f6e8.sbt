@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854885.1/GCF_000854885.1_ViralMultiSegProj15033_genomic.fna.gz",
+        "filename": "GCF_000854885.1_ViralMultiSegProj15033_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003514.1 Beet necrotic yellow vein virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001957295.1/GCF_001957295.1_ViralMultiSegProj361686_genomic.fna.gz",
+        "filename": "GCF_001957295.1_ViralMultiSegProj361686_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033300.1 Wenzhou shrimp virus 9 strain shrimp6189 segment 1 hypothetical protein 1 and RdRp genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915315.1/GCF_000915315.1_ViralProj237139_genomic.fna.gz",
+        "filename": "GCF_000915315.1_ViralProj237139_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023422.1 Caprine kobuvirus isolate 12Q108, complete genome",
         "signatures": [
             {
                 "ksize": 31,

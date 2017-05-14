@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921895.1/GCF_000921895.1_ViralProj253223_genomic.fna.gz",
+        "filename": "GCF_000921895.1_ViralProj253223_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024357.1 Streptococcus phage K13, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

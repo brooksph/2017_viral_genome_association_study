@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755425.1/GCF_001755425.1_ViralProj344324_genomic.fna.gz",
+        "filename": "GCF_001755425.1_ViralProj344324_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031214.1 Shayang Fly Virus 1 strain SYY3-1 glycoprotein (G), putative nucleoprotein (N), and polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

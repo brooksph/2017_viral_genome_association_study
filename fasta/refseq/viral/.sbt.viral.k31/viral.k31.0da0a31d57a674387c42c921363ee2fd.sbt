@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851985.1/GCF_000851985.1_ViralMultiSegProj14759_genomic.fna.gz",
+        "filename": "GCF_000851985.1_ViralMultiSegProj14759_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003548.1 Citrus leaf rugose virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001924735.1/GCF_001924735.1_ViralProj358962_genomic.fna.gz",
+        "filename": "GCF_001924735.1_ViralProj358962_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032200.1 Hubei sobemo-like virus 34 strain SSZZ41 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

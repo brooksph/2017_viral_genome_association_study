@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902835.1/GCF_000902835.1_ViralProj183906_genomic.fna.gz",
+        "filename": "GCF_000902835.1_ViralProj183906_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019855.1 Pan troglodytes verus polyomavirus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

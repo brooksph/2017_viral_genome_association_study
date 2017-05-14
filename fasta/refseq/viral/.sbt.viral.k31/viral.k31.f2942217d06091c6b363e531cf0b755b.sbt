@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879255.1/GCF_000879255.1_ViralProj29247_genomic.fna.gz",
+        "filename": "GCF_000879255.1_ViralProj29247_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010437.1 Bat coronavirus 1A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

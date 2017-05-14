@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905315.1/GCF_000905315.1_ViralProj193977_genomic.fna.gz",
+        "filename": "GCF_000905315.1_ViralProj193977_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020499.1 Canine bocavirus 1 isolate Con-161, complete genome",
         "signatures": [
             {
                 "ksize": 31,

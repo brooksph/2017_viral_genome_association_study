@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902535.1/GCF_000902535.1_ViralProj181241_genomic.fna.gz",
+        "filename": "GCF_000902535.1_ViralProj181241_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019507.1 Campylobacter phage CP21, complete genome",
         "signatures": [
             {
                 "ksize": 31,

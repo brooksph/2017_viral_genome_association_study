@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923375.1/GCF_000923375.1_ViralProj257741_genomic.fna.gz",
+        "filename": "GCF_000923375.1_ViralProj257741_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024695.1 Rose leaf curl betasatellite isolate AS23, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

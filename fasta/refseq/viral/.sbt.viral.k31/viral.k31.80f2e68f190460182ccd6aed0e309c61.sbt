@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001308355.1/GCF_001308355.1_ViralMultiSegProj298045_genomic.fna.gz",
+        "filename": "GCF_001308355.1_ViralMultiSegProj298045_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027926.1 Tomato necrotic dwarf virus isolate R segment RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

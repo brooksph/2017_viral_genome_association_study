@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908715.1/GCF_000908715.1_ViralProj209063_genomic.fna.gz",
+        "filename": "GCF_000908715.1_ViralProj209063_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021534.1 Vibrio phage pYD38-A genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

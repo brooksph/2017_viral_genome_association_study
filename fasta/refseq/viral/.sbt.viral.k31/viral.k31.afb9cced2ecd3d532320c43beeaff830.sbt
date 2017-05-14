@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001041915.1/GCF_001041915.1_ViralProj287999_genomic.fna.gz",
+        "filename": "GCF_001041915.1_ViralProj287999_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027365.1 Mycobacterium phage Fionnbharth, complete genome",
         "signatures": [
             {
                 "ksize": 31,

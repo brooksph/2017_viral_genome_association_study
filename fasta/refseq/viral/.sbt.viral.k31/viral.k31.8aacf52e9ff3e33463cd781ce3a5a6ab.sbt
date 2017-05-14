@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926795.1/GCF_001926795.1_ViralProj359246_genomic.fna.gz",
+        "filename": "GCF_001926795.1_ViralProj359246_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032492.1 Beihai Nido-like virus 2 strain BHXun32263 1ab, putative glycoprotein 1, putative glycoprotein 2, and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008655.1/GCF_002008655.1_ViralProj376933_genomic.fna.gz",
+        "filename": "GCF_002008655.1_ViralProj376933_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033821.1 Qinghai Himalayan marmot astrovirus 2 isolate HHMAstV2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

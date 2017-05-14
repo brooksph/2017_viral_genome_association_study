@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870685.1/GCF_000870685.1_ViralProj19547_genomic.fna.gz",
+        "filename": "GCF_000870685.1_ViralProj19547_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009424.4 Woolly monkey sarcoma virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

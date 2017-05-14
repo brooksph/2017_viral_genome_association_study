@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872905.1/GCF_000872905.1_ViralProj29879_genomic.fna.gz",
+        "filename": "GCF_000872905.1_ViralProj29879_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010738.1 Eupatorium vein clearing virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

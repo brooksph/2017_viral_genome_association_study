@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874345.1/GCF_000874345.1_ViralProj20985_genomic.fna.gz",
+        "filename": "GCF_000874345.1_ViralProj20985_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009891.1 Seal picornavirus type 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

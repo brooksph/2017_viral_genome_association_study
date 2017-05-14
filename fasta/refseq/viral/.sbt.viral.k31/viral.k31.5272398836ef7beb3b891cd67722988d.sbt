@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884335.1/GCF_000884335.1_ViralProj40369_genomic.fna.gz",
+        "filename": "GCF_000884335.1_ViralProj40369_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013237.1 Canine papillomavirus 6 isolate Zurich, complete genome",
         "signatures": [
             {
                 "ksize": 31,

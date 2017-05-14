@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912195.1/GCF_000912195.1_ViralProj225922_genomic.fna.gz",
+        "filename": "GCF_000912195.1_ViralProj225922_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022612.1 Turkey adenovirus 4 isolate TNI1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

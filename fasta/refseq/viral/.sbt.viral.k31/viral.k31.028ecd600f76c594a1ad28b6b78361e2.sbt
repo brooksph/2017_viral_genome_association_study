@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883835.1/GCF_000883835.1_ViralProj37995_genomic.fna.gz",
+        "filename": "GCF_000883835.1_ViralProj37995_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012685.1 Culex pipiens densovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

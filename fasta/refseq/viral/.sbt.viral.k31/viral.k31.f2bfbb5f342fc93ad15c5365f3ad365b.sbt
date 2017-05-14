@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867305.1/GCF_000867305.1_ViralMultiSegProj16937_genomic.fna.gz",
+        "filename": "GCF_000867305.1_ViralMultiSegProj16937_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008059.1 Sida mosaic Sinaloa virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

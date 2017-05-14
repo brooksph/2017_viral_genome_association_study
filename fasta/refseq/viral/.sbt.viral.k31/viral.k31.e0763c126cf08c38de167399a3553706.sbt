@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745055.1/GCF_001745055.1_ViralProj344120_genomic.fna.gz",
+        "filename": "GCF_001745055.1_ViralProj344120_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031116.1 Bacillus phage Zuko, complete genome",
         "signatures": [
             {
                 "ksize": 31,

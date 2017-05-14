@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008615.1/GCF_002008615.1_ViralProj376925_genomic.fna.gz",
+        "filename": "GCF_002008615.1_ViralProj376925_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033816.1 Wuhan insect virus 12 strain arthropodmix13526 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

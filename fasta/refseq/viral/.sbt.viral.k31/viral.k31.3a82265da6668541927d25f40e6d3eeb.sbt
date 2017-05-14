@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001185005.2/GCF_001185005.2_ViralMultiSegProj290358_genomic.fna.gz",
+        "filename": "GCF_001185005.2_ViralMultiSegProj290358_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027567.1 Lutzomyia reovirus 1 isolate piaui segment RNA-dependent RNA polymerase RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

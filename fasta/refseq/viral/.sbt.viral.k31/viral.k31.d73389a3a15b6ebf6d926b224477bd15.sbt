@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919055.1/GCF_000919055.1_ViralProj243499_genomic.fna.gz",
+        "filename": "GCF_000919055.1_ViralProj243499_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023881.1 Faba bean necrotic stunt alphasatellite 1 isolate Peshtatuek_12b, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

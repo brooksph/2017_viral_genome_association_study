@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001040795.1/GCF_001040795.1_ViralProj287866_genomic.fna.gz",
+        "filename": "GCF_001040795.1_ViralProj287866_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027298.1 Pseudomonas phage LPB1, complate genome",
         "signatures": [
             {
                 "ksize": 31,

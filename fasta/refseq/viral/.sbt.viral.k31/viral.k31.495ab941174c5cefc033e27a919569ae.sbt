@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906715.1/GCF_000906715.1_ViralProj192611_genomic.fna.gz",
+        "filename": "GCF_000906715.1_ViralProj192611_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020470.1 Andean potato latent virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

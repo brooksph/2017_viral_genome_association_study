@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963735.1/GCF_001963735.1_ViralProj361931_genomic.fna.gz",
+        "filename": "GCF_001963735.1_ViralProj361931_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032972.1 Beihai sobemo-like virus 8 strain BWBFG36635 RdRp and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

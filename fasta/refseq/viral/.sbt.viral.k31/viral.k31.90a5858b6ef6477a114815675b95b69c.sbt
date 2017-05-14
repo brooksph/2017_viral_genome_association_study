@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000954715.1/GCF_000954715.1_ViralProj276876_genomic.fna.gz",
+        "filename": "GCF_000954715.1_ViralProj276876_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026596.1 Mycobacterium phage Inventum, complete genome",
         "signatures": [
             {
                 "ksize": 31,

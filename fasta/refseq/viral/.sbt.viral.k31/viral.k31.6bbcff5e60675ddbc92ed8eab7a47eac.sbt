@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857565.1/GCF_000857565.1_ViralProj15251_genomic.fna.gz",
+        "filename": "GCF_000857565.1_ViralProj15251_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006579.1 Pneumonia virus of mice J3666, complete genome",
         "signatures": [
             {
                 "ksize": 31,

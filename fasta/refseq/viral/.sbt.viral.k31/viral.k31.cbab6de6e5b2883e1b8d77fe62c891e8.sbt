@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849485.1/GCF_000849485.1_ViralProj14733_genomic.fna.gz",
+        "filename": "GCF_000849485.1_ViralProj14733_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003355.1 Wasabi mottle virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000871625.2/GCF_000871625.2_ViralProj19759_genomic.fna.gz",
+        "filename": "GCF_000871625.2_ViralProj19759_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009528.2 European bat lyssavirus 2 isolate RV1333, complete genome",
         "signatures": [
             {
                 "ksize": 31,

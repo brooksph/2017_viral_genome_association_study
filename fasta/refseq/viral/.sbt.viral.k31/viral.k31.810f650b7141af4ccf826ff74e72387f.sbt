@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908315.1/GCF_000908315.1_ViralMultiSegProj198774_genomic.fna.gz",
+        "filename": "GCF_000908315.1_ViralMultiSegProj198774_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021147.1 Dill cryptic virus 2 isolate IPP_hortorum segment RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

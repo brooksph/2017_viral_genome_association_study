@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001630045.1/GCF_001630045.1_ViralMultiSegProj318562_genomic.fna.gz",
+        "filename": "GCF_001630045.1_ViralMultiSegProj318562_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029931.1 Yogue virus isolate DakAnD 56 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

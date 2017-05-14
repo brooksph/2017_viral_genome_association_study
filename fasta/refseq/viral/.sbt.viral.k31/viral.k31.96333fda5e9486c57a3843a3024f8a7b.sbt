@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001316395.1/GCF_001316395.1_ViralProj298792_genomic.fna.gz",
+        "filename": "GCF_001316395.1_ViralProj298792_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028046.1 Chilli leaf curl Ahmedabad virus-India [India/Ahmedabad/2014], complete genome",
         "signatures": [
             {
                 "ksize": 31,

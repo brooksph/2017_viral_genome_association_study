@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891195.1/GCF_000891195.1_ViralProj68059_genomic.fna.gz",
+        "filename": "GCF_000891195.1_ViralProj68059_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015668.1 Cavally virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

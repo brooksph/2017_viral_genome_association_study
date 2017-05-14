@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912595.1/GCF_000912595.1_ViralMultiSegProj216153_genomic.fna.gz",
+        "filename": "GCF_000912595.1_ViralMultiSegProj216153_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022127.1 Ageratum latent virus isolate 1998 segment RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

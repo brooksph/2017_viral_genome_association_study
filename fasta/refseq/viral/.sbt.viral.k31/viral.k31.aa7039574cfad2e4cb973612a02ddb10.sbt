@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852085.1/GCF_000852085.1_ViralProj14780_genomic.fna.gz",
+        "filename": "GCF_000852085.1_ViralProj14780_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003678.1 Pestivirus giraffe-1 H138 complete genome",
         "signatures": [
             {
                 "ksize": 31,

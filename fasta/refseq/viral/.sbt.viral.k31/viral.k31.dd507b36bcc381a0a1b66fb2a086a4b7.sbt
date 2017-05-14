@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916495.1/GCF_000916495.1_ViralProj240050_genomic.fna.gz",
+        "filename": "GCF_000916495.1_ViralProj240050_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023570.1 Acinetobacter phage Petty, complete genome",
         "signatures": [
             {
                 "ksize": 31,

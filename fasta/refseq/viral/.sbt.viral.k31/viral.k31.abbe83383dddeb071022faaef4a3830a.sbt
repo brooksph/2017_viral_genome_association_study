@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914755.1/GCF_000914755.1_ViralProj240041_genomic.fna.gz",
+        "filename": "GCF_000914755.1_ViralProj240041_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023564.1 Mycobacterium phage EagleEye, complete genome",
         "signatures": [
             {
                 "ksize": 31,

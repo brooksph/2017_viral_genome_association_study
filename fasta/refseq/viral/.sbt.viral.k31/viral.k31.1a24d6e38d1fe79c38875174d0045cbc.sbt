@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898675.1/GCF_000898675.1_ViralProj175666_genomic.fna.gz",
+        "filename": "GCF_000898675.1_ViralProj175666_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018628.1 Cassava mosaic Madagascar alphasatellite rep gene for replication associated protein, segment DNA-1, isolate MG:Diana:635A1:2011",
         "signatures": [
             {
                 "ksize": 31,

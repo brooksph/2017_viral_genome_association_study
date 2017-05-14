@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861425.1/GCF_000861425.1_ViralProj15341_genomic.fna.gz",
+        "filename": "GCF_000861425.1_ViralProj15341_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001793.1 Oat blue dwarf virus complete genome",
         "signatures": [
             {
                 "ksize": 31,

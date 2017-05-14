@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754245.1/GCF_001754245.1_ViralProj344601_genomic.fna.gz",
+        "filename": "GCF_001754245.1_ViralProj344601_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031242.1 Cyanophage S-RIM50 isolate RW_29_0704, complete genome",
         "signatures": [
             {
                 "ksize": 31,

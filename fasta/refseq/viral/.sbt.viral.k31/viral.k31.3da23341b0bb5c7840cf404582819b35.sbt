@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864545.1/GCF_000864545.1_ViralProj16591_genomic.fna.gz",
+        "filename": "GCF_000864545.1_ViralProj16591_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007817.1 Enterobacteria phage ID2 Moscow/ID/2001, complete genome",
         "signatures": [
             {
                 "ksize": 31,

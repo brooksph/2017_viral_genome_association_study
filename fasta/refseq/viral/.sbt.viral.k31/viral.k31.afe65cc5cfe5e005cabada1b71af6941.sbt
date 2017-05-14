@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000855225.1/GCF_000855225.1_ViralMultiSegProj14936_genomic.fna.gz",
+        "filename": "GCF_000855225.1_ViralMultiSegProj14936_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005226.1 Tula virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

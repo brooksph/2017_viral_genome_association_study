@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001634415.1/GCF_001634415.1_ViralProj319735_genomic.fna.gz",
+        "filename": "GCF_001634415.1_ViralProj319735_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029990.1 Maize yellow dwarf virus-RMV2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

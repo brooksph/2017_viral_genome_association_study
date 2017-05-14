@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930035.1/GCF_000930035.1_ViralProj270093_genomic.fna.gz",
+        "filename": "GCF_000930035.1_ViralProj270093_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025891.1 Slow loris parvovirus 1 strain Buddha_08, complete genome",
         "signatures": [
             {
                 "ksize": 31,

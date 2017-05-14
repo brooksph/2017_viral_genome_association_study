@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927035.1/GCF_000927035.1_ViralProj264908_genomic.fna.gz",
+        "filename": "GCF_000927035.1_ViralProj264908_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025358.1 Berrimah virus strain DPP 63, complete genome",
         "signatures": [
             {
                 "ksize": 31,

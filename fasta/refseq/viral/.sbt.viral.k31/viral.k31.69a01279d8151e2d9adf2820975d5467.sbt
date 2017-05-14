@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905895.1/GCF_000905895.1_ViralProj192873_genomic.fna.gz",
+        "filename": "GCF_000905895.1_ViralProj192873_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020479.1 Bacillus phage Curly, complete genome",
         "signatures": [
             {
                 "ksize": 31,

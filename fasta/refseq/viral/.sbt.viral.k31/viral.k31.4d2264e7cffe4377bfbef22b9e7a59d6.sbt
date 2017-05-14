@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917255.1/GCF_000917255.1_ViralProj240032_genomic.fna.gz",
+        "filename": "GCF_000917255.1_ViralProj240032_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023593.1 Escherichia phage KBNP1711, complete genome",
         "signatures": [
             {
                 "ksize": 31,

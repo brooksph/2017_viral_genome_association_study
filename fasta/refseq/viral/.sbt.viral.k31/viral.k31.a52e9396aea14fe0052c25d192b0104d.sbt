@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849865.1/GCF_000849865.1_ViralProj14637_genomic.fna.gz",
+        "filename": "GCF_000849865.1_ViralProj14637_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001464.1 Citrus exocortis viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

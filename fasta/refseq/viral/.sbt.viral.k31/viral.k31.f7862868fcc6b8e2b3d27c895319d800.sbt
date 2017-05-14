@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886575.1/GCF_000886575.1_ViralProj39593_genomic.fna.gz",
+        "filename": "GCF_000886575.1_ViralProj39593_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013013.1 Gossypium darwinii symptomless alphasatellite DNA-alpha, complete genome",
         "signatures": [
             {
                 "ksize": 31,

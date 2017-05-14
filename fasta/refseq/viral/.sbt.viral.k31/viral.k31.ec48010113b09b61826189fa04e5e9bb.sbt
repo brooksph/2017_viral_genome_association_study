@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891275.1/GCF_000891275.1_ViralMultiSegProj71165_genomic.fna.gz",
+        "filename": "GCF_000891275.1_ViralMultiSegProj71165_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015877.1 Baboon orthoreovirus segment L1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004315.1/GCF_002004315.1_ViralProj375047_genomic.fna.gz",
+        "filename": "GCF_002004315.1_ViralProj375047_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033726.1 Saumarez Reef virus from Australia polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001959035.1/GCF_001959035.1_ViralProj361768_genomic.fna.gz",
+        "filename": "GCF_001959035.1_ViralProj361768_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033079.1 Wenling toga-like virus strain WLJQ101932 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

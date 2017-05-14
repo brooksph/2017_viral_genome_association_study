@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889595.1/GCF_000889595.1_ViralProj61777_genomic.fna.gz",
+        "filename": "GCF_000889595.1_ViralProj61777_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014895.1 Bhendi yellow vein mosaic betasatellite [India:Coimbator:OYCO1:2005], complete genome",
         "signatures": [
             {
                 "ksize": 31,

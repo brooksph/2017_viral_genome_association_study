@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001443745.1/GCF_001443745.1_ViralProj302017_genomic.fna.gz",
+        "filename": "GCF_001443745.1_ViralProj302017_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028374.1 Gamboa mosquito virus strain GW polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

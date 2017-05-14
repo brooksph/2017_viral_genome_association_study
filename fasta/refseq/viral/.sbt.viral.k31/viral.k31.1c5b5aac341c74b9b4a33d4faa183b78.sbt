@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001444085.1/GCF_001444085.1_ViralProj302022_genomic.fna.gz",
+        "filename": "GCF_001444085.1_ViralProj302022_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028365.1 Hedgehog hepatovirus isolate Igel8Erieur2014 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001722905.1/GCF_001722905.1_ViralProj342450_genomic.fna.gz",
+        "filename": "GCF_001722905.1_ViralProj342450_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030870.1 Fusarium poae mycovirus 2 genomic RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

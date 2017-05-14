@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929415.1/GCF_000929415.1_ViralProj274157_genomic.fna.gz",
+        "filename": "GCF_000929415.1_ViralProj274157_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026319.1 Gorilla smacovirus isolate SF3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

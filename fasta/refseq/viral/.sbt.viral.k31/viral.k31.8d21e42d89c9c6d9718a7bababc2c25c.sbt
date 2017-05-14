@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913095.1/GCF_000913095.1_ViralProj229827_genomic.fna.gz",
+        "filename": "GCF_000913095.1_ViralProj229827_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022895.1 Yam spherical virus culture-collection DSMZ:PV-0517, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744195.1/GCF_001744195.1_ViralProj344224_genomic.fna.gz",
+        "filename": "GCF_001744195.1_ViralProj344224_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031077.1 Enterobacter phage Tyrion, complete genome",
         "signatures": [
             {
                 "ksize": 31,

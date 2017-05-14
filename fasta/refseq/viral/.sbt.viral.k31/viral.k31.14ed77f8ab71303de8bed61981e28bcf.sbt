@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857745.1/GCF_000857745.1_ViralProj15079_genomic.fna.gz",
+        "filename": "GCF_000857745.1_ViralProj15079_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003491.1 Beet mild yellowing virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

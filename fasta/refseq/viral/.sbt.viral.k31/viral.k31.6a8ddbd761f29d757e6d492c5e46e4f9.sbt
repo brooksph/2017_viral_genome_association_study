@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001654405.1/GCF_001654405.1_ViralProj323871_genomic.fna.gz",
+        "filename": "GCF_001654405.1_ViralProj323871_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030231.1 Avian paramyxovirus goose/Shimane/67/2000 viral cRNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

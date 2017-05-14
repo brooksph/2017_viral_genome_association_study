@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000906235.1/GCF_000906235.1_ViralProj195931_genomic.fna.gz",
+        "filename": "GCF_000906235.1_ViralProj195931_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020890.1 Human polyomavirus 12 strain hu1403, complete genome",
         "signatures": [
             {
                 "ksize": 31,

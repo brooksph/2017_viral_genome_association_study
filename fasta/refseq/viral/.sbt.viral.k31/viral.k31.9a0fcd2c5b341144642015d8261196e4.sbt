@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881335.1/GCF_000881335.1_ViralProj38079_genomic.fna.gz",
+        "filename": "GCF_000881335.1_ViralProj38079_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012696.1 Roseophage EE36P1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

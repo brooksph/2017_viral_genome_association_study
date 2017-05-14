@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000857785.1/GCF_000857785.1_ViralProj15087_genomic.fna.gz",
+        "filename": "GCF_000857785.1_ViralProj15087_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002615.1 European brown hare syndrome virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916695.1/GCF_000916695.1_ViralProj230850_genomic.fna.gz",
+        "filename": "GCF_000916695.1_ViralProj230850_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023005.1 Pseudomonas phage PPpW-4 DNA, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

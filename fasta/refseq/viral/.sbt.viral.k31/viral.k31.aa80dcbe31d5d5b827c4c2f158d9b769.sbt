@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907575.1/GCF_000907575.1_ViralProj206482_genomic.fna.gz",
+        "filename": "GCF_000907575.1_ViralProj206482_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021334.1 Mycobacterium phage WIVsmall, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915195.1/GCF_000915195.1_ViralProj230992_genomic.fna.gz",
+        "filename": "GCF_000915195.1_ViralProj230992_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023014.1 Bidens mosaic virus isolate SP01, complete genome",
         "signatures": [
             {
                 "ksize": 31,

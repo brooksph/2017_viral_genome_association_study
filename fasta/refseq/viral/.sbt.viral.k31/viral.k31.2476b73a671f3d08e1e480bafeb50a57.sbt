@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894415.1/GCF_000894415.1_ViralProj89655_genomic.fna.gz",
+        "filename": "GCF_000894415.1_ViralProj89655_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016984.1 Pepper leaf curl Lahore Virus-[Pakistan:Lahore1:2004] segment A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

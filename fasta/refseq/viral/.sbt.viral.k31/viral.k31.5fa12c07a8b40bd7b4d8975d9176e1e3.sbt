@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001958255.1/GCF_001958255.1_ViralProj361761_genomic.fna.gz",
+        "filename": "GCF_001958255.1_ViralProj361761_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033197.1 Wenling zhaovirus-like virus 1 strain WLJQ103300 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

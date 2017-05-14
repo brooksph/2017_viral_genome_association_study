@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905375.1/GCF_000905375.1_ViralProj194144_genomic.fna.gz",
+        "filename": "GCF_000905375.1_ViralProj194144_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020810.1 Duvenhage virus isolate 86132SA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868325.1/GCF_000868325.1_ViralProj17269_genomic.fna.gz",
+        "filename": "GCF_000868325.1_ViralProj17269_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008237.1 Siegesbeckia yellow vein virus-[GD13]-associated DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867505.1/GCF_000867505.1_ViralMultiSegProj17429_genomic.fna.gz",
+        "filename": "GCF_000867505.1_ViralMultiSegProj17429_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008283.1 Pepper yellow leaf curl Indonesia virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

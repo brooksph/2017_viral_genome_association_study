@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922935.1/GCF_000922935.1_ViralProj253220_genomic.fna.gz",
+        "filename": "GCF_000922935.1_ViralProj253220_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024370.1 Streptococcus phage IC1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

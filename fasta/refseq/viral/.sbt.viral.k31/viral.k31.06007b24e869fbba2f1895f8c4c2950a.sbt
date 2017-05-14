@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001661735.1/GCF_001661735.1_ViralProj325259_genomic.fna.gz",
+        "filename": "GCF_001661735.1_ViralProj325259_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030294.1 Negev virus genes for hypothetical proteins, complete cds, strain: PL17",
         "signatures": [
             {
                 "ksize": 31,

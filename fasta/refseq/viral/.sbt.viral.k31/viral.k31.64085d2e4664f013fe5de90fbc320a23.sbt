@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911335.1/GCF_000911335.1_ViralProj227121_genomic.fna.gz",
+        "filename": "GCF_000911335.1_ViralProj227121_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022768.1 Salmonella phage Maynard, complete genome",
         "signatures": [
             {
                 "ksize": 31,

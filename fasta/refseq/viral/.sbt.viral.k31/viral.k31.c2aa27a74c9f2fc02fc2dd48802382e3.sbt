@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001505915.1/GCF_001505915.1_ViralProj307957_genomic.fna.gz",
+        "filename": "GCF_001505915.1_ViralProj307957_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028986.1 Mycobacterium phage Alice, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

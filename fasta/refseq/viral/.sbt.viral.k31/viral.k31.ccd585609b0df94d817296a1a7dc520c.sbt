@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001722845.1/GCF_001722845.1_ViralMultiSegProj342455_genomic.fna.gz",
+        "filename": "GCF_001722845.1_ViralMultiSegProj342455_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030882.1 Fusarium poae virus 1-240374 genomic RNA, segment 1, complete sequence, strain: 240374",
         "signatures": [
             {
                 "ksize": 31,

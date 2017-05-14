@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001629945.1/GCF_001629945.1_ViralProj319113_genomic.fna.gz",
+        "filename": "GCF_001629945.1_ViralProj319113_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029908.1 Tobacco leaf curl Cuba virus segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

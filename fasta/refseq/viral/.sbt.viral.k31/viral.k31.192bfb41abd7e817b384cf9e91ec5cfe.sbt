@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001308415.1/GCF_001308415.1_ViralProj298069_genomic.fna.gz",
+        "filename": "GCF_001308415.1_ViralProj298069_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027984.1 Stx2 converting phage vB_EcoP_24B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

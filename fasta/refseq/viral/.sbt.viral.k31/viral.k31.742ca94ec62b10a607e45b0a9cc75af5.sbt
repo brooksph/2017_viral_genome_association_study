@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001684865.1/GCF_001684865.1_ViralProj328674_genomic.fna.gz",
+        "filename": "GCF_001684865.1_ViralProj328674_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030456.1 Circovirus-like genome DHCV-5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

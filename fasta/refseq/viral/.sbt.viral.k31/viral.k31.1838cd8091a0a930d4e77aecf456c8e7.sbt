@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872185.1/GCF_000872185.1_ViralProj27907_genomic.fna.gz",
+        "filename": "GCF_000872185.1_ViralProj27907_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009993.2 Mycobacterium phage Giles, complete genome",
         "signatures": [
             {
                 "ksize": 31,

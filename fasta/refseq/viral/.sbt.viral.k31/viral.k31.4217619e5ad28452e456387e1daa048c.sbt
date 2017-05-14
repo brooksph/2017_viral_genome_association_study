@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881635.1/GCF_000881635.1_ViralProj32241_genomic.fna.gz",
+        "filename": "GCF_000881635.1_ViralProj32241_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011362.1 Mulberry small circular viroid-like RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

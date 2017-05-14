@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001962275.1/GCF_001962275.1_ViralProj361944_genomic.fna.gz",
+        "filename": "GCF_001962275.1_ViralProj361944_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032817.1 Beihai sobemo-like virus 19 strain BHBJDX18617 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

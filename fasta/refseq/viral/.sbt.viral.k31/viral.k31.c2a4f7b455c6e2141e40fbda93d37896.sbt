@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001021255.1/GCF_001021255.1_ViralProj286012_genomic.fna.gz",
+        "filename": "GCF_001021255.1_ViralProj286012_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027198.1 Rottboellia yellow mottle virus culture-collection DSM:PV-0496, complete genome",
         "signatures": [
             {
                 "ksize": 31,

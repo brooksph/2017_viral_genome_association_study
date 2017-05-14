@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872745.1/GCF_000872745.1_ViralProj29011_genomic.fna.gz",
+        "filename": "GCF_000872745.1_ViralProj29011_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010440.1 Tomato leaf curl Mindanao virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

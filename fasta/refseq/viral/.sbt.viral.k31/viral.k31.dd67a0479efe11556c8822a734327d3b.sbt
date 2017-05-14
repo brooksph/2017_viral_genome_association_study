@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919235.1/GCF_000919235.1_ViralProj240725_genomic.fna.gz",
+        "filename": "GCF_000919235.1_ViralProj240725_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023720.1 Mycobacterium phage Perseus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

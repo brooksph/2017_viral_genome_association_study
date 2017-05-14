@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001019855.1/GCF_001019855.1_ViralMultiSegProj285593_genomic.fna.gz",
+        "filename": "GCF_001019855.1_ViralMultiSegProj285593_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027140.1 Bhanja virus strain ibAr2709 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

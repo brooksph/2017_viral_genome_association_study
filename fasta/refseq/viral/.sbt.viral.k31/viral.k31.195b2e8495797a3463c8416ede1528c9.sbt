@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856925.1/GCF_000856925.1_ViralProj15117_genomic.fna.gz",
+        "filename": "GCF_000856925.1_ViralProj15117_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003627.1 Maize chlorotic mottle virus genomic RNA, isolate KS1",
         "signatures": [
             {
                 "ksize": 31,

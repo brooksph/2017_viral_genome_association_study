@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852165.1/GCF_000852165.1_ViralMultiSegProj14796_genomic.fna.gz",
+        "filename": "GCF_000852165.1_ViralMultiSegProj14796_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003756.1 Red clover necrotic mosaic virus RNA-1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

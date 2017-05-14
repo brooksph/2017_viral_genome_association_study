@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001722705.1/GCF_001722705.1_ViralProj342445_genomic.fna.gz",
+        "filename": "GCF_001722705.1_ViralProj342445_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030874.1 Bat mastadenovirus WIV13, complete genome",
         "signatures": [
             {
                 "ksize": 31,

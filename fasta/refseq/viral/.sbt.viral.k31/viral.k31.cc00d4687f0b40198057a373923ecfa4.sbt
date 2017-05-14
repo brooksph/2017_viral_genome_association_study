@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905995.1/GCF_000905995.1_ViralProj195474_genomic.fna.gz",
+        "filename": "GCF_000905995.1_ViralProj195474_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020862.2 Sulfitobacter phage phiCB2047-B genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

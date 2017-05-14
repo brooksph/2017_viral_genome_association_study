@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000926535.1/GCF_000926535.1_ViralProj264937_genomic.fna.gz",
+        "filename": "GCF_000926535.1_ViralProj264937_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025347.1 Avian paramyxovirus 7 strain APMV-7/dove/Tennessee/4/75, complete genome",
         "signatures": [
             {
                 "ksize": 31,

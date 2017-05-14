@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904735.1/GCF_000904735.1_ViralProj198478_genomic.fna.gz",
+        "filename": "GCF_000904735.1_ViralProj198478_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021065.1 Sunflower mild mosaic virus isolate Entre Rios, complete genome",
         "signatures": [
             {
                 "ksize": 31,

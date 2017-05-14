@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880235.1/GCF_000880235.1_ViralProj30523_genomic.fna.gz",
+        "filename": "GCF_000880235.1_ViralProj30523_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011024.1 TYLCAxV-Sic1-[IT:Sic2/2:04], complete genome",
         "signatures": [
             {
                 "ksize": 31,

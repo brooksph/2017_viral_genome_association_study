@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847785.1/GCF_000847785.1_ViralProj14720_genomic.fna.gz",
+        "filename": "GCF_000847785.1_ViralProj14720_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001351.1 Hop stunt viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

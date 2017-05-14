@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883575.1/GCF_000883575.1_ViralProj33877_genomic.fna.gz",
+        "filename": "GCF_000883575.1_ViralProj33877_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012038.1 Helleborus net necrosis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

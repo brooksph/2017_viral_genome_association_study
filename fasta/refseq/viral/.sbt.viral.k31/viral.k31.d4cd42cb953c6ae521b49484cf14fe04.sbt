@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881755.1/GCF_000881755.1_ViralProj32689_genomic.fna.gz",
+        "filename": "GCF_000881755.1_ViralProj32689_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011542.1 Iranian maize mosaic nucleorhabdovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

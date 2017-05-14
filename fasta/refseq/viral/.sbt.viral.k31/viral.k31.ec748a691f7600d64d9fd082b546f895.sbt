@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907155.1/GCF_000907155.1_ViralProj196970_genomic.fna.gz",
+        "filename": "GCF_000907155.1_ViralProj196970_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020996.1 Cherry rusty mottle associated virus isolate 95CI192R3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

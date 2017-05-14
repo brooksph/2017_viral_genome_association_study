@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916835.1/GCF_000916835.1_ViralProj237323_genomic.fna.gz",
+        "filename": "GCF_000916835.1_ViralProj237323_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023423.1 Pithovirus sibericum isolate P1084-T, complete genome",
         "signatures": [
             {
                 "ksize": 31,

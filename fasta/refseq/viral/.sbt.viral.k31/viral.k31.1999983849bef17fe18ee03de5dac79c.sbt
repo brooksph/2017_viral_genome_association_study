@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910295.1/GCF_000910295.1_ViralProj209361_genomic.fna.gz",
+        "filename": "GCF_000910295.1_ViralProj209361_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021556.1 Mycobacterium phage Leo, complete genome",
         "signatures": [
             {
                 "ksize": 31,

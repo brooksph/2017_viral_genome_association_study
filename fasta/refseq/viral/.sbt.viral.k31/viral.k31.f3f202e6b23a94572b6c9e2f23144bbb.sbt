@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963315.1/GCF_001963315.1_ViralProj361966_genomic.fna.gz",
+        "filename": "GCF_001963315.1_ViralProj361966_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032786.1 Beihai victori-like virus 1 strain BHZC37363 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

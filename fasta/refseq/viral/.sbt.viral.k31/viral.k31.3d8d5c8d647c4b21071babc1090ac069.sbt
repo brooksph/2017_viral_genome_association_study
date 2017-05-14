@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849205.1/GCF_000849205.1_ViralProj14676_genomic.fna.gz",
+        "filename": "GCF_000849205.1_ViralProj14676_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001633.1 Mushroom bacilliform virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

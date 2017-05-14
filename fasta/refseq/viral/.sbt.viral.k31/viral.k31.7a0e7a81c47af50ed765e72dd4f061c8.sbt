@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901435.1/GCF_000901435.1_ViralProj177904_genomic.fna.gz",
+        "filename": "GCF_000901435.1_ViralProj177904_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018875.1 Epinotia aporema granulovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

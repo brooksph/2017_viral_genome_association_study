@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848185.1/GCF_000848185.1_ViralProj14638_genomic.fna.gz",
+        "filename": "GCF_000848185.1_ViralProj14638_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001469.1 Cucumber necrosis virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

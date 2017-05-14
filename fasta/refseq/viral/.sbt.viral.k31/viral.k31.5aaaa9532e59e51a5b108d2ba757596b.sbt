@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001924575.1/GCF_001924575.1_ViralMultiSegProj358930_genomic.fna.gz",
+        "filename": "GCF_001924575.1_ViralMultiSegProj358930_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032264.1 Hubei lepidoptera virus 3 strain LCM141729 Cypovirus VP1 gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

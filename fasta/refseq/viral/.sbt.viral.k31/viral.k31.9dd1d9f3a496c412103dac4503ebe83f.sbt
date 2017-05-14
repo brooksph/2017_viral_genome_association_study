@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920575.1/GCF_000920575.1_ViralProj243506_genomic.fna.gz",
+        "filename": "GCF_000920575.1_ViralProj243506_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023886.1 Dragonfly cyclovirus isolate DfCyV-A1_To-6NZ21-Tt-2010 replication associated protein and capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

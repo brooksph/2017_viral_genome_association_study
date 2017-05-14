@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868305.2/GCF_000868305.2_ViralProj17175_genomic.fna.gz",
+        "filename": "GCF_000868305.2_ViralProj17175_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008206.2 Mycobacteriophage Wildcat, complete genome",
         "signatures": [
             {
                 "ksize": 31,

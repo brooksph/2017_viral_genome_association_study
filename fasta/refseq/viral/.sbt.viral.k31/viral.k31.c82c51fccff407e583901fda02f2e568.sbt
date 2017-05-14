@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503895.1/GCF_001503895.1_ViralProj307846_genomic.fna.gz",
+        "filename": "GCF_001503895.1_ViralProj307846_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028867.1 Fox fecal rhabdovirus isolate S40 nucleocapsid protein, phosphoprotein, matrix protein, glycoprotein, alpha 1 protein, alpha 2 protein, alpha 3 protein, and L protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

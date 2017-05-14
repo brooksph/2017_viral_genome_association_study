@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001273685.1/GCF_001273685.1_ViralProj293231_genomic.fna.gz",
+        "filename": "GCF_001273685.1_ViralProj293231_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027776.1 Poecile atricapillus GI tract-associated gemycircularvirus isolate 254065908, complete genome",
         "signatures": [
             {
                 "ksize": 31,

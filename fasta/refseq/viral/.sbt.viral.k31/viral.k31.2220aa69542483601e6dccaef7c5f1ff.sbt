@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001041035.1/GCF_001041035.1_ViralProj287965_genomic.fna.gz",
+        "filename": "GCF_001041035.1_ViralProj287965_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027364.1 Escherichia phage PBECO 4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

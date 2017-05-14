@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001028985.1/GCF_001028985.1_ViralProj286937_genomic.fna.gz",
+        "filename": "GCF_001028985.1_ViralProj286937_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027212.1 Camponotus yamaokai virus genomic RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

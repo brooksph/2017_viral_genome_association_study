@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841545.1/GCF_000841545.1_ViralProj14311_genomic.fna.gz",
+        "filename": "GCF_000841545.1_ViralProj14311_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005258.1 Bacillus phage Bam35c, complete genome",
         "signatures": [
             {
                 "ksize": 31,

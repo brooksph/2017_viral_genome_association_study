@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864045.1/GCF_000864045.1_ViralProj15558_genomic.fna.gz",
+        "filename": "GCF_000864045.1_ViralProj15558_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007220.1 Duck circovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

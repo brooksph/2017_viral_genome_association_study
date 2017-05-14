@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920195.1/GCF_000920195.1_ViralProj240747_genomic.fna.gz",
+        "filename": "GCF_000920195.1_ViralProj240747_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023688.1 Aeromonas phage PX29, complete genome",
         "signatures": [
             {
                 "ksize": 31,

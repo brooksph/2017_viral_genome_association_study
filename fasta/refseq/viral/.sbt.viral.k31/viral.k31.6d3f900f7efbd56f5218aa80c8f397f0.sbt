@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001343705.1/GCF_001343705.1_ViralMultiSegProj14344_genomic.fna.gz",
+        "filename": "GCF_001343705.1_ViralMultiSegProj14344_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005338.2 Dolichos yellow mosaic virus isolate DA segment DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

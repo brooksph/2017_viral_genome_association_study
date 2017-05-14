@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002037775.1/GCF_002037775.1_ViralProj379589_genomic.fna.gz",
+        "filename": "GCF_002037775.1_ViralProj379589_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034217.1 Pityohyphantes rubrofasciatus iflavirus isolate UW1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

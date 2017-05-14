@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838665.2/GCF_000838665.2_ViralProj14065_genomic.fna.gz",
+        "filename": "GCF_000838665.2_ViralProj14065_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001935.1 Potato yellow mosaic virus DNA B, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

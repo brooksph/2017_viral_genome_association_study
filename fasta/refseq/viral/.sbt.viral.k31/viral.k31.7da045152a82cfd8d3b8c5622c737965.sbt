@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001645855.1/GCF_001645855.1_ViralProj321675_genomic.fna.gz",
+        "filename": "GCF_001645855.1_ViralProj321675_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030130.1 Bovine faeces associated circular DNA virus 1 isolate GP3-46075_cow2, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

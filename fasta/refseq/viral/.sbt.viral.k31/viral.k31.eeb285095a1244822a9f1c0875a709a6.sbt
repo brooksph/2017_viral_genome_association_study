@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001717275.1/GCF_001717275.1_ViralProj340440_genomic.fna.gz",
+        "filename": "GCF_001717275.1_ViralProj340440_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030847.1 Brazilian weed virus Y isolate KLL097, complete genome",
         "signatures": [
             {
                 "ksize": 31,

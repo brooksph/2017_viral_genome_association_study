@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000887715.1/GCF_000887715.1_ViralProj59729_genomic.fna.gz",
+        "filename": "GCF_000887715.1_ViralProj59729_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014636.1 Aeromonas phage phiAS5, complete genome",
         "signatures": [
             {
                 "ksize": 31,

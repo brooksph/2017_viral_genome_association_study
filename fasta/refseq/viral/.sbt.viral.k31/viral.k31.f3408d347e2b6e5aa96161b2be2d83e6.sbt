@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002022175.1/GCF_002022175.1_ViralProj378002_genomic.fna.gz",
+        "filename": "GCF_002022175.1_ViralProj378002_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034018.1 Yaounde virus strain Dak Ar Y276 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

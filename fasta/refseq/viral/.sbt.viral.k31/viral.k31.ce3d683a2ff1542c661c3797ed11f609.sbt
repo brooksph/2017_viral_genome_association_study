@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875345.1/GCF_000875345.1_ViralProj30173_genomic.fna.gz",
+        "filename": "GCF_000875345.1_ViralProj30173_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010955.1 Xenopus laevis endogenous retrovirus Xen1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

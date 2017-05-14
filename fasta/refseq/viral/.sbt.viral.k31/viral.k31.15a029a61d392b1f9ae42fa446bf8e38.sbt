@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000954755.2/GCF_000954755.2_ViralMultiSegProj277203_genomic.fna.gz",
+        "filename": "GCF_000954755.2_ViralMultiSegProj277203_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026617.1 Mulberry vein banding virus isolate XCSY-3 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

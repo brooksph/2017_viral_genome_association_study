@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002037755.1/GCF_002037755.1_ViralProj379593_genomic.fna.gz",
+        "filename": "GCF_002037755.1_ViralProj379593_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034221.1 Miniopterus schreibersii polyomavirus 2 DNA, complete genome, strain: 12SuB08",
         "signatures": [
             {
                 "ksize": 31,

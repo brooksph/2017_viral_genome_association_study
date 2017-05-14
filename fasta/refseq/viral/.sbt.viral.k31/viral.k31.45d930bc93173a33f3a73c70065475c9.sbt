@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899035.1/GCF_000899035.1_ViralProj171979_genomic.fna.gz",
+        "filename": "GCF_000899035.1_ViralProj171979_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018269.1 Marinomonas phage P12026, complete genome",
         "signatures": [
             {
                 "ksize": 31,

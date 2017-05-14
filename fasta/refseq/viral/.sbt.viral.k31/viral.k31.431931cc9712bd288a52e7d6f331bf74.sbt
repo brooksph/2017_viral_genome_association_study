@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861325.1/GCF_000861325.1_ViralProj15321_genomic.fna.gz",
+        "filename": "GCF_000861325.1_ViralProj15321_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001472.1 Human enterovirus B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

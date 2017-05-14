@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745735.1/GCF_001745735.1_ViralProj344123_genomic.fna.gz",
+        "filename": "GCF_001745735.1_ViralProj344123_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031049.1 Bacillus phage NotTheCreek, complete genome",
         "signatures": [
             {
                 "ksize": 31,

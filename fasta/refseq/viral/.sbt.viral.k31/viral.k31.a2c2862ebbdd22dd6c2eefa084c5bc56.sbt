@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004575.1/GCF_002004575.1_ViralProj375037_genomic.fna.gz",
+        "filename": "GCF_002004575.1_ViralProj375037_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033729.1 Phomopsis longicolla RNA virus 1 isolate KY RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

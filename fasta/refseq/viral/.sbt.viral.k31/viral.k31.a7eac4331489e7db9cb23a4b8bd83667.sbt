@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853445.1/GCF_000853445.1_ViralMultiSegProj14901_genomic.fna.gz",
+        "filename": "GCF_000853445.1_ViralMultiSegProj14901_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005209.2 Beet pseudo-yellows virus RNA 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

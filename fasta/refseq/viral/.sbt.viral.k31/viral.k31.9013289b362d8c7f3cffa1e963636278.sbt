@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895255.1/GCF_000895255.1_ViralProj81215_genomic.fna.gz",
+        "filename": "GCF_000895255.1_ViralProj81215_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016660.1 Eclipta yellow vein virus clone EcYVV-[PK,Fai,06], complete genome",
         "signatures": [
             {
                 "ksize": 31,

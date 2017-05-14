@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853765.1/GCF_000853765.1_ViralMultiSegProj14939_genomic.fna.gz",
+        "filename": "GCF_000853765.1_ViralMultiSegProj14939_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005082.1 Guanarito virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

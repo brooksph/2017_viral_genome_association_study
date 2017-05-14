@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974335.1/GCF_001974335.1_ViralProj368891_genomic.fna.gz",
+        "filename": "GCF_001974335.1_ViralProj368891_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033464.1 Spheniscid herpesvirus 2 isolate lib01004 genome assembly, complete genome: monopartite",
         "signatures": [
             {
                 "ksize": 31,

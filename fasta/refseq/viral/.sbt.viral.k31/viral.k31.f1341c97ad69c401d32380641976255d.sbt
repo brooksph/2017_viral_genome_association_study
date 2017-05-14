@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001891015.1/GCF_001891015.1_ViralProj356067_genomic.fna.gz",
+        "filename": "GCF_001891015.1_ViralProj356067_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032004.1 Sugarcane chlorotic streak virus isolate Sc10-SR-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

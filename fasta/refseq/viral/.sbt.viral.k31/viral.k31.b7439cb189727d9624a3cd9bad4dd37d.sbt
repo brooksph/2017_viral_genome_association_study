@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000861285.1/GCF_000861285.1_ViralProj15313_genomic.fna.gz",
+        "filename": "GCF_000861285.1_ViralProj15313_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001543.1 Rabbit hemorrhagic disease virus-FRG, complete genome",
         "signatures": [
             {
                 "ksize": 31,

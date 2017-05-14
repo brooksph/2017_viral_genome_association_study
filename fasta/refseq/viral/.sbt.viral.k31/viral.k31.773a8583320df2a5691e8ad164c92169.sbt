@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001661795.1/GCF_001661795.1_ViralProj325256_genomic.fna.gz",
+        "filename": "GCF_001661795.1_ViralProj325256_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030296.1 Diaphorina citri densovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

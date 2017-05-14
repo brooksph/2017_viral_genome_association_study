@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899235.1/GCF_000899235.1_ViralProj174780_genomic.fna.gz",
+        "filename": "GCF_000899235.1_ViralProj174780_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018573.1 Mesta yellow vein mosaic virus-associated alphasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

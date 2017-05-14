@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744495.1/GCF_001744495.1_ViralProj344143_genomic.fna.gz",
+        "filename": "GCF_001744495.1_ViralProj344143_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031119.1 Propionibacterium phage Enoki, complete genome",
         "signatures": [
             {
                 "ksize": 31,

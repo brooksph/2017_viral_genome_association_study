@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907395.1/GCF_000907395.1_ViralProj203665_genomic.fna.gz",
+        "filename": "GCF_000907395.1_ViralProj203665_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021247.1 Adoxophyes honmai enomopoxvirus 'L', complete genome",
         "signatures": [
             {
                 "ksize": 31,

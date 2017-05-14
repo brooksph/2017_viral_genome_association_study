@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894955.1/GCF_000894955.1_ViralProj76725_genomic.fna.gz",
+        "filename": "GCF_000894955.1_ViralProj76725_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016156.1 Feline picornavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

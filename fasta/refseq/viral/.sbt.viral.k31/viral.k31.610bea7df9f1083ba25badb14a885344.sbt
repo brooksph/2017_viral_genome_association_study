@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875465.1/GCF_000875465.1_ViralProj30613_genomic.fna.gz",
+        "filename": "GCF_000875465.1_ViralProj30613_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011041.1 Escherichia coli bacteriophage rv5, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

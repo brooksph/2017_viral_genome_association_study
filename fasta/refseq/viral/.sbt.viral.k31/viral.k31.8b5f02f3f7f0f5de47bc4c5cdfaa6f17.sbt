@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002024755.1/GCF_002024755.1_ViralProj378399_genomic.fna.gz",
+        "filename": "GCF_002024755.1_ViralProj378399_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034157.1 Fort Crockett virus strain 22503a hypothetical protein 1 gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

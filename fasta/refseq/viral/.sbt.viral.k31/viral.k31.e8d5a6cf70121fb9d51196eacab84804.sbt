@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929095.1/GCF_000929095.1_ViralProj271783_genomic.fna.gz",
+        "filename": "GCF_000929095.1_ViralProj271783_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026017.1 Salmonella phage LSPA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

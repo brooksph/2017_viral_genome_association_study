@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866225.1/GCF_001866225.1_ViralProj351802_genomic.fna.gz",
+        "filename": "GCF_001866225.1_ViralProj351802_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031687.1 Centovirus AC, complete genome",
         "signatures": [
             {
                 "ksize": 31,

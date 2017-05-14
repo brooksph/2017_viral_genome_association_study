@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847725.1/GCF_000847725.1_ViralProj14708_genomic.fna.gz",
+        "filename": "GCF_000847725.1_ViralProj14708_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001403.1 Fujinami sarcoma virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

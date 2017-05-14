@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921315.1/GCF_000921315.1_ViralProj255102_genomic.fna.gz",
+        "filename": "GCF_000921315.1_ViralProj255102_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024474.1 Pigeon adenovirus 1 complete genome, strain IDA4",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001717215.1/GCF_001717215.1_ViralProj340441_genomic.fna.gz",
+        "filename": "GCF_001717215.1_ViralProj340441_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030839.1 Sparus aurata papillomavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

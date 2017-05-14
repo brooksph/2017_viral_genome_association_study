@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919855.1/GCF_000919855.1_ViralProj246231_genomic.fna.gz",
+        "filename": "GCF_000919855.1_ViralProj246231_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024073.1 Enterovirus sp. isolate CPML_8109/08, complete genome",
         "signatures": [
             {
                 "ksize": 31,

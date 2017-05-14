@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886515.1/GCF_000886515.1_ViralProj39313_genomic.fna.gz",
+        "filename": "GCF_000886515.1_ViralProj39313_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012936.1 Rat coronavirus Parker, complete genome",
         "signatures": [
             {
                 "ksize": 31,

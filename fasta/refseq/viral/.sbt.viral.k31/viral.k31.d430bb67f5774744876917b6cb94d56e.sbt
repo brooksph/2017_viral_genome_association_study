@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885815.1/GCF_000885815.1_ViralProj39811_genomic.fna.gz",
+        "filename": "GCF_000885815.1_ViralProj39811_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013060.1 Astrovirus VA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

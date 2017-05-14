@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001958935.1/GCF_001958935.1_ViralProj361748_genomic.fna.gz",
+        "filename": "GCF_001958935.1_ViralProj361748_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032742.1 Wenzhou narna-like virus 2 strain shrimp13495 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

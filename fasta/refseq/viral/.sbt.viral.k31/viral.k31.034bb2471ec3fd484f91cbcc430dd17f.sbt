@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920435.1/GCF_000920435.1_ViralProj242978_genomic.fna.gz",
+        "filename": "GCF_000920435.1_ViralProj242978_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023860.1 Porcine parvovirus 6 isolate TJ, complete genome",
         "signatures": [
             {
                 "ksize": 31,

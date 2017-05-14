@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859905.1/GCF_000859905.1_ViralProj15201_genomic.fna.gz",
+        "filename": "GCF_000859905.1_ViralProj15201_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001728.1 Odontoglossum ringspot virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

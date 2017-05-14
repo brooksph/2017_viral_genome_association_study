@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870465.1/GCF_000870465.1_ViralProj18845_genomic.fna.gz",
+        "filename": "GCF_000870465.1_ViralProj18845_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009028.2 Ilheus virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

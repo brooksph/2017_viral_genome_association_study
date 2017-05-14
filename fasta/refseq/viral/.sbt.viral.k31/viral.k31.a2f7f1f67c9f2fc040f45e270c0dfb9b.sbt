@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862085.1/GCF_000862085.1_ViralProj15298_genomic.fna.gz",
+        "filename": "GCF_000862085.1_ViralProj15298_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001445.1 Plum pox virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

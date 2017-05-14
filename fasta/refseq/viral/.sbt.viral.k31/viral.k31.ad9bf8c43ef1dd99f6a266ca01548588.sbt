@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848585.1/GCF_000848585.1_ViralProj14719_genomic.fna.gz",
+        "filename": "GCF_000848585.1_ViralProj14719_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003043.1 Avian paramyxovirus 6, complete genome",
         "signatures": [
             {
                 "ksize": 31,

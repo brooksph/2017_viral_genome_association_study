@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001933805.1/GCF_001933805.1_ViralProj359811_genomic.fna.gz",
+        "filename": "GCF_001933805.1_ViralProj359811_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032536.1 Beihai sea slater virus 3 strain BHHZL10233 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929195.1/GCF_000929195.1_ViralProj273467_genomic.fna.gz",
+        "filename": "GCF_000929195.1_ViralProj273467_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026245.1 Bromus-associated circular DNA virus 4 isolate BasCV-4_FR38-38-Cam, complete genome",
         "signatures": [
             {
                 "ksize": 31,

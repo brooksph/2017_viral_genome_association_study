@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916735.1/GCF_000916735.1_ViralProj231522_genomic.fna.gz",
+        "filename": "GCF_000916735.1_ViralProj231522_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023022.1 Formica exsecta virus 2 isolate Fex2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

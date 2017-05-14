@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000914615.1/GCF_000914615.1_ViralProj240013_genomic.fna.gz",
+        "filename": "GCF_000914615.1_ViralProj240013_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023609.1 Mycobacterium phage RhynO, complete genome",
         "signatures": [
             {
                 "ksize": 31,

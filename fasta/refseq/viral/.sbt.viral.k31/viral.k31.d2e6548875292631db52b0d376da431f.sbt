@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905495.1/GCF_000905495.1_ViralProj195495_genomic.fna.gz",
+        "filename": "GCF_000905495.1_ViralProj195495_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020843.1 Vibrio phage 11895-B1 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

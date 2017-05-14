@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851465.1/GCF_000851465.1_ViralProj14812_genomic.fna.gz",
+        "filename": "GCF_000851465.1_ViralProj14812_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003823.1 Ustilago maydis virus H1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

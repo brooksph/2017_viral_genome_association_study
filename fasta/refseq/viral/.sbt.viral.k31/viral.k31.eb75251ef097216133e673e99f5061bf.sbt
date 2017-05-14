@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000928355.1/GCF_000928355.1_ViralProj273529_genomic.fna.gz",
+        "filename": "GCF_000928355.1_ViralProj273529_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026253.1 Oxalis yellow vein virus strain USA:LA:01 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

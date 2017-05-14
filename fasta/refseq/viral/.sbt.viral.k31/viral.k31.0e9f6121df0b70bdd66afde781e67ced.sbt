@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919355.1/GCF_000919355.1_ViralProj240749_genomic.fna.gz",
+        "filename": "GCF_000919355.1_ViralProj240749_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023723.1 Mycobacterium phage Aeneas, complete genome",
         "signatures": [
             {
                 "ksize": 31,

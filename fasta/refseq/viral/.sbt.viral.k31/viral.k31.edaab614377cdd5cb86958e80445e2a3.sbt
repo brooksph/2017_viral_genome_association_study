@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890035.1/GCF_000890035.1_ViralProj51413_genomic.fna.gz",
+        "filename": "GCF_000890035.1_ViralProj51413_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014379.1 Melon chlorotic mosaic virus-associated alphasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

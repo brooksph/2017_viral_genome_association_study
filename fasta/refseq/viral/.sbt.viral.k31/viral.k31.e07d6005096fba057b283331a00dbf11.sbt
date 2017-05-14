@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845625.1/GCF_000845625.1_ViralProj14450_genomic.fna.gz",
+        "filename": "GCF_000845625.1_ViralProj14450_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004903.1 Tomato yellow leaf curl Thailand virus satellite DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

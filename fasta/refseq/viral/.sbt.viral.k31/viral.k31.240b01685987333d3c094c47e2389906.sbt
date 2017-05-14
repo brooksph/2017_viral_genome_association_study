@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912135.1/GCF_000912135.1_ViralProj222253_genomic.fna.gz",
+        "filename": "GCF_000912135.1_ViralProj222253_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022517.1 Baboon endogenous virus strain M7 proviral DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

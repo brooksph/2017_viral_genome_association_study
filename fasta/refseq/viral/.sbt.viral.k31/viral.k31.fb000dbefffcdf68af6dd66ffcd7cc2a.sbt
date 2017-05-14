@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430295.1/GCF_001430295.1_ViralMultiSegProj300795_genomic.fna.gz",
+        "filename": "GCF_001430295.1_ViralMultiSegProj300795_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028139.1 Bean rugose mosaic virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

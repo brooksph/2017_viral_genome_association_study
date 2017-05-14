@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865285.1/GCF_000865285.1_ViralProj16226_genomic.fna.gz",
+        "filename": "GCF_000865285.1_ViralProj16226_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007639.1 Sida leaf curl virus-associated DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

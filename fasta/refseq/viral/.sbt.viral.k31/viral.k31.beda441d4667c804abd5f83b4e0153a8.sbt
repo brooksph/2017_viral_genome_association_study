@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848045.2/GCF_000848045.2_ViralProj14606_genomic.fna.gz",
+        "filename": "GCF_000848045.2_ViralProj14606_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001978.3 Bacteriophage phi-C31 complete genome",
         "signatures": [
             {
                 "ksize": 31,

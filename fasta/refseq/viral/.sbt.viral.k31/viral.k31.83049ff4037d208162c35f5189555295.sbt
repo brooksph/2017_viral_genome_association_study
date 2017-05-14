@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911155.1/GCF_000911155.1_ViralProj225920_genomic.fna.gz",
+        "filename": "GCF_000911155.1_ViralProj225920_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022611.1 Halyomorpha halys virus isolate Beltsville, complete genome",
         "signatures": [
             {
                 "ksize": 31,

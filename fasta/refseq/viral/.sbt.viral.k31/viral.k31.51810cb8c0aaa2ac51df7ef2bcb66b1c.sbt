@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860405.1/GCF_000860405.1_ViralMultiSegProj15287_genomic.fna.gz",
+        "filename": "GCF_000860405.1_ViralMultiSegProj15287_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003693.1 Beet ringspot virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

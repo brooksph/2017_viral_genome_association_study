@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001440875.1/GCF_001440875.1_ViralProj301255_genomic.fna.gz",
+        "filename": "GCF_001440875.1_ViralProj301255_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028256.1 Aeropyrum pernix ovoid virus 1 complete genome",
         "signatures": [
             {
                 "ksize": 31,

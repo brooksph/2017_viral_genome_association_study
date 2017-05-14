@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866925.1/GCF_000866925.1_ViralProj16299_genomic.fna.gz",
+        "filename": "GCF_000866925.1_ViralProj16299_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007709.1 Xanthomonas oryzae phage OP1 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

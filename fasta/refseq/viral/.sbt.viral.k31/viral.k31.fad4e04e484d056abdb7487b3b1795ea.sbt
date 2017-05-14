@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000890375.1/GCF_000890375.1_ViralProj61013_genomic.fna.gz",
+        "filename": "GCF_000890375.1_ViralProj61013_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014767.1 Micromonas sp. RCC1109 virus MpV1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

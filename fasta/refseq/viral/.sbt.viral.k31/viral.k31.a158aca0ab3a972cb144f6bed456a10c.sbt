@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001685345.1/GCF_001685345.1_ViralProj328030_genomic.fna.gz",
+        "filename": "GCF_001685345.1_ViralProj328030_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030453.1 Diaphorina citri flavi-like virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

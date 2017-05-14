@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847505.1/GCF_000847505.1_ViralProj14663_genomic.fna.gz",
+        "filename": "GCF_000847505.1_ViralProj14663_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001488.1 Human T-lymphotropic virus 2, complete proviral genome",
         "signatures": [
             {
                 "ksize": 31,

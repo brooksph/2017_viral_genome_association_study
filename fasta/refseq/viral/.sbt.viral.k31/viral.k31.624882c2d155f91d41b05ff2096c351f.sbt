@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274185.1/GCF_001274185.1_ViralProj293714_genomic.fna.gz",
+        "filename": "GCF_001274185.1_ViralProj293714_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027787.1 Farfantepenaeus duorarum pink shrimp associated circular virus isolate I0066, complete genome",
         "signatures": [
             {
                 "ksize": 31,

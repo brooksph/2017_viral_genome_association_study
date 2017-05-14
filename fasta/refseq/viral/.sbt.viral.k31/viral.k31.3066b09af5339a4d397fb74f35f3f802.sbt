@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868605.1/GCF_000868605.1_ViralProj18125_genomic.fna.gz",
+        "filename": "GCF_000868605.1_ViralProj18125_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008558.1 Blackberry virus Y, complete genome",
         "signatures": [
             {
                 "ksize": 31,

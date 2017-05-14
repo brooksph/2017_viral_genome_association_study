@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000886995.1/GCF_000886995.1_ViralProj42745_genomic.fna.gz",
+        "filename": "GCF_000886995.1_ViralProj42745_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013640.2 Sweet potato leaf curl Bengal virus - [India:West Bengal:2008] segment A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000845745.1/GCF_000845745.1_ViralProj14474_genomic.fna.gz",
+        "filename": "GCF_000845745.1_ViralProj14474_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005842.1 Tomato leaf curl Iran virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

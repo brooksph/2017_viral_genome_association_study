@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000841065.1/GCF_000841065.1_ViralProj14209_genomic.fna.gz",
+        "filename": "GCF_000841065.1_ViralProj14209_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004093.1 OkLCV satDNA 10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000908775.1/GCF_000908775.1_ViralProj209208_genomic.fna.gz",
+        "filename": "GCF_000908775.1_ViralProj209208_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021558.1 Paenibacillus phage PG1 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

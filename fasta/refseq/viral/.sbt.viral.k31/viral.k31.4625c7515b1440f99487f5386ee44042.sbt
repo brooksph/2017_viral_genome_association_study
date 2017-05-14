@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865965.1/GCF_000865965.1_ViralMultiSegProj16145_genomic.fna.gz",
+        "filename": "GCF_000865965.1_ViralMultiSegProj16145_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007559.1 Operophtera brumata reovirus segment 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

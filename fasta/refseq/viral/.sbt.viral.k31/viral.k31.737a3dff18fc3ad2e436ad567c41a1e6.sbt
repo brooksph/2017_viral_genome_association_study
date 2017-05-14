@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896895.1/GCF_000896895.1_ViralProj109281_genomic.fna.gz",
+        "filename": "GCF_000896895.1_ViralProj109281_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016996.1 Common-moorhen coronavirus HKU21, complete genome",
         "signatures": [
             {
                 "ksize": 31,

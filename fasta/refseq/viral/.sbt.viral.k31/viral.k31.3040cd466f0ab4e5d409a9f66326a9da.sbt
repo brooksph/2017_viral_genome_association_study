@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001602085.1/GCF_001602085.1_ViralProj316309_genomic.fna.gz",
+        "filename": "GCF_001602085.1_ViralProj316309_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029692.1 Brazilian marseillevirus strain BH2014, complete genome",
         "signatures": [
             {
                 "ksize": 31,

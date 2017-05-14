@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001045345.1/GCF_001045345.1_ViralProj288492_genomic.fna.gz",
+        "filename": "GCF_001045345.1_ViralProj288492_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027432.1 Portulaca latent viroid isolate Vd21, complete genome",
         "signatures": [
             {
                 "ksize": 31,

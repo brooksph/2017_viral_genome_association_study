@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889615.1/GCF_000889615.1_ViralProj61855_genomic.fna.gz",
+        "filename": "GCF_000889615.1_ViralProj61855_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014899.1 Murine adenovirus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

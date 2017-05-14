@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872925.1/GCF_000872925.1_ViralMultiSegProj29903_genomic.fna.gz",
+        "filename": "GCF_000872925.1_ViralMultiSegProj29903_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010759.1 Flexal virus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

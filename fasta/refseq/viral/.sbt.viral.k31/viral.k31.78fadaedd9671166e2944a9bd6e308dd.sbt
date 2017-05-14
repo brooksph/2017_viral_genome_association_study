@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917955.1/GCF_000917955.1_ViralProj243066_genomic.fna.gz",
+        "filename": "GCF_000917955.1_ViralProj243066_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023859.1 Microbacterium phage vB_MoxS-ISF9, complete genome",
         "signatures": [
             {
                 "ksize": 31,

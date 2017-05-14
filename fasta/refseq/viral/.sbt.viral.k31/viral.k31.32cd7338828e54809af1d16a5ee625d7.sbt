@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430635.1/GCF_001430635.1_ViralProj300254_genomic.fna.gz",
+        "filename": "GCF_001430635.1_ViralProj300254_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028121.1 Pteronotus parnellii polyomavirus 1 isolate R266, complete genome",
         "signatures": [
             {
                 "ksize": 31,

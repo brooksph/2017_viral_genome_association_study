@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924415.1/GCF_000924415.1_ViralProj263092_genomic.fna.gz",
+        "filename": "GCF_000924415.1_ViralProj263092_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025214.1 Botryosphaeria dothidea victorivirus 1 isolate GY25, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858225.1/GCF_000858225.1_ViralProj15186_genomic.fna.gz",
+        "filename": "GCF_000858225.1_ViralProj15186_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003348.1 Phocoena spinipinnis papillomavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

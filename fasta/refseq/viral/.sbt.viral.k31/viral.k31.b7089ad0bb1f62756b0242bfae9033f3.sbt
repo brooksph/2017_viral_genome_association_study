@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000847525.1/GCF_000847525.1_ViralMultiSegProj14667_genomic.fna.gz",
+        "filename": "GCF_000847525.1_ViralMultiSegProj14667_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001495.1 Alfalfa mosaic virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

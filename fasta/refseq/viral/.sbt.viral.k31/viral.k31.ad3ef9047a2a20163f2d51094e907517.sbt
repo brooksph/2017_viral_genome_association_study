@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888495.1/GCF_000888495.1_ViralProj51559_genomic.fna.gz",
+        "filename": "GCF_000888495.1_ViralProj51559_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014406.1 Human polyomavirus 6, complete genome",
         "signatures": [
             {
                 "ksize": 31,

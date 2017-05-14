@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918715.1/GCF_000918715.1_ViralProj240750_genomic.fna.gz",
+        "filename": "GCF_000918715.1_ViralProj240750_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023735.1 Rhodococcus phage ReqiPepy6, complete genome",
         "signatures": [
             {
                 "ksize": 31,

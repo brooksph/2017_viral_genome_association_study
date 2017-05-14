@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754725.1/GCF_001754725.1_ViralProj344610_genomic.fna.gz",
+        "filename": "GCF_001754725.1_ViralProj344610_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031271.1 Salmonella phage BP12B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

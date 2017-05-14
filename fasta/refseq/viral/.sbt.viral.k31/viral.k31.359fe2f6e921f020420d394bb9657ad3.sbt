@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853085.1/GCF_000853085.1_ViralProj14819_genomic.fna.gz",
+        "filename": "GCF_000853085.1_ViralProj14819_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003870.1 Sugarcane striate mosaic-associated virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

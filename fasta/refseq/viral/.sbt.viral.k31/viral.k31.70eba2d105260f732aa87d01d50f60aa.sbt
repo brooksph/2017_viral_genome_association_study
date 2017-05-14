@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897935.1/GCF_000897935.1_ViralProj178075_genomic.fna.gz",
+        "filename": "GCF_000897935.1_ViralProj178075_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018935.1 Tobacco leaf chlorosis betasatellite isolate 03, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

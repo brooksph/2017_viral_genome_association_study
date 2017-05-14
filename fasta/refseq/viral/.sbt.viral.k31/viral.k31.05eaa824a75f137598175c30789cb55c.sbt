@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964315.1/GCF_001964315.1_ViralProj362047_genomic.fna.gz",
+        "filename": "GCF_001964315.1_ViralProj362047_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033034.1 Hubei diptera virus 9 strain SCM172232 putative nucleoprotein, hypothetical protein 2, putative X protein, putative matrix protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

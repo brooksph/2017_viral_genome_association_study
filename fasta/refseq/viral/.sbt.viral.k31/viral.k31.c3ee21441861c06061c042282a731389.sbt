@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001292935.1/GCF_001292935.1_ViralMultiSegProj295302_genomic.fna.gz",
+        "filename": "GCF_001292935.1_ViralMultiSegProj295302_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027822.1 Verticillium dahliae partitivirus 1 isolate Vd-253 segment RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

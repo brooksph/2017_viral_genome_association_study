@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001967255.1/GCF_001967255.1_ViralProj362371_genomic.fna.gz",
+        "filename": "GCF_001967255.1_ViralProj362371_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033335.1 Pedilanthus leaf curl virus alphasatellite, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

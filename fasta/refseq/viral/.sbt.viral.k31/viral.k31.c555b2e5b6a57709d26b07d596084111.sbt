@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001042235.1/GCF_001042235.1_ViralProj287992_genomic.fna.gz",
+        "filename": "GCF_001042235.1_ViralProj287992_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027395.1 Phage vB_EcoP_SU10, complete genome",
         "signatures": [
             {
                 "ksize": 31,

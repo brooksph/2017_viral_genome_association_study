@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000921815.2/GCF_000921815.2_ViralProj252618_genomic.fna.gz",
+        "filename": "GCF_000921815.2_ViralProj252618_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024304.1 Solanum mosaic Bolivia virus segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

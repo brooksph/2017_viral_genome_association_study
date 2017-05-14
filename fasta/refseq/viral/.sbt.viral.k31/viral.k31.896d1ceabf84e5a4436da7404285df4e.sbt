@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843345.1/GCF_000843345.1_ViralProj14332_genomic.fna.gz",
+        "filename": "GCF_000843345.1_ViralProj14332_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004777.1 Yersinia pestis phage phiA1122, complete genome",
         "signatures": [
             {
                 "ksize": 31,

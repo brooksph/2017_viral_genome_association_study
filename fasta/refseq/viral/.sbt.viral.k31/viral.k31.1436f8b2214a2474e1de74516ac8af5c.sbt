@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001923715.1/GCF_001923715.1_ViralProj358936_genomic.fna.gz",
+        "filename": "GCF_001923715.1_ViralProj358936_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032203.1 Hubei astro-like virus strain WGML136555 putative protease, hypothetical protein, RNA-dependent RNA polymerase, and capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

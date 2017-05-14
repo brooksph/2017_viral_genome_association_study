@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001723005.1/GCF_001723005.1_ViralProj342448_genomic.fna.gz",
+        "filename": "GCF_001723005.1_ViralProj342448_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030872.1 Fusarium poae negative-stranded virus 2 genomic RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

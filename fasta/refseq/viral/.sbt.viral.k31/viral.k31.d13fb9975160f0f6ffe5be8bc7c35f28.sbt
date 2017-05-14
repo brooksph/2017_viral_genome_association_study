@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960515.1/GCF_001960515.1_ViralProj361763_genomic.fna.gz",
+        "filename": "GCF_001960515.1_ViralProj361763_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033090.1 Wenling tombus-like virus 5 strain WLJQ104103 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

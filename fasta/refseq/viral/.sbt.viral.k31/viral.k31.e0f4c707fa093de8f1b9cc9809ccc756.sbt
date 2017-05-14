@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840925.1/GCF_000840925.1_ViralProj14348_genomic.fna.gz",
+        "filename": "GCF_000840925.1_ViralProj14348_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005347.1 Pepper yellow vein Mali virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

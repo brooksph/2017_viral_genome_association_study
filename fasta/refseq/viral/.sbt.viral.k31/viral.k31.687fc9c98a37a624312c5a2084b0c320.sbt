@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001926055.1/GCF_001926055.1_ViralProj359265_genomic.fna.gz",
+        "filename": "GCF_001926055.1_ViralProj359265_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032447.1 Beihai mantis shrimp virus 2 strain BHXG46195 replicase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

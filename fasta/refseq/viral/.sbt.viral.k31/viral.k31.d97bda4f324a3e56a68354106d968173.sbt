@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862385.1/GCF_000862385.1_ViralMultiSegProj15358_genomic.fna.gz",
+        "filename": "GCF_000862385.1_ViralMultiSegProj15358_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002350.1 Wheat yellow mosaic virus RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

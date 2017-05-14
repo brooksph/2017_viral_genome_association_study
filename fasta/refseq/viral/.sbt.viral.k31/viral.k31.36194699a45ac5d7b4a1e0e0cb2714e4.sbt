@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430035.1/GCF_001430035.1_ViralProj300256_genomic.fna.gz",
+        "filename": "GCF_001430035.1_ViralProj300256_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028108.1 Yellowstone lake phycodnavirus 3 DNA, complete genome, isolate: 3",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001921475.1/GCF_001921475.1_ViralProj358540_genomic.fna.gz",
+        "filename": "GCF_001921475.1_ViralProj358540_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032127.1 Beihai hepe-like virus 4 strain BHZY60842 replicase and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

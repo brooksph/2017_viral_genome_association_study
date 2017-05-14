@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000917495.1/GCF_000917495.1_ViralProj240715_genomic.fna.gz",
+        "filename": "GCF_000917495.1_ViralProj240715_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023732.1 Mycobacterium phage Rumpelstiltskin, complete genome",
         "signatures": [
             {
                 "ksize": 31,

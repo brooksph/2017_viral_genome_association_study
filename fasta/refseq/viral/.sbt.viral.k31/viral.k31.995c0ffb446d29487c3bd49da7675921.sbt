@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866645.1/GCF_000866645.1_ViralMultiSegProj15620_genomic.fna.gz",
+        "filename": "GCF_000866645.1_ViralMultiSegProj15620_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007378.1 Influenza A virus (A/Korea/426/1968(H2N2)) segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

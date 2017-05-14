@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848685.1/GCF_000848685.1_ViralProj14739_genomic.fna.gz",
+        "filename": "GCF_000848685.1_ViralProj14739_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003436.1 Porcine epidemic diarrhea virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913215.1/GCF_000913215.1_ViralProj230591_genomic.fna.gz",
+        "filename": "GCF_000913215.1_ViralProj230591_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022973.1 Mycobacterium phage Conspiracy, complete genome",
         "signatures": [
             {
                 "ksize": 31,

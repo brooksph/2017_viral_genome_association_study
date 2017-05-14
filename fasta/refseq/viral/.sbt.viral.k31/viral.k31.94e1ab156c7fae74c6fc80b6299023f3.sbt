@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882875.1/GCF_000882875.1_ViralProj37821_genomic.fna.gz",
+        "filename": "GCF_000882875.1_ViralProj37821_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012636.1 Aedes aegypti densovirus 2 strain 0814616, complete genome",
         "signatures": [
             {
                 "ksize": 31,

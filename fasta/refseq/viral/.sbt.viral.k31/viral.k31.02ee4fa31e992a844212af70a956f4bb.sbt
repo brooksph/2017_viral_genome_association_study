@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000856305.1/GCF_000856305.1_ViralProj14974_genomic.fna.gz",
+        "filename": "GCF_000856305.1_ViralProj14974_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003264.1 Citrus dwarfing viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

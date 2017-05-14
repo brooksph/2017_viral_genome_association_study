@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001619015.1/GCF_001619015.1_ViralProj318036_genomic.fna.gz",
+        "filename": "GCF_001619015.1_ViralProj318036_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029853.1 Mus musculus mobilized endogenous polytropic provirus clone 15 truncated gag-pol polyprotein (gag) and envelope protein (env) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

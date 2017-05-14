@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893455.1/GCF_000893455.1_ViralProj65279_genomic.fna.gz",
+        "filename": "GCF_000893455.1_ViralProj65279_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015326.1 Lausannevirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

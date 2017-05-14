@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873365.1/GCF_000873365.1_ViralProj19863_genomic.fna.gz",
+        "filename": "GCF_000873365.1_ViralProj19863_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009571.1 Honeysuckle yellow vein mosaic disease associated satellite DNA beta-[Ibaraki], complete genome",
         "signatures": [
             {
                 "ksize": 31,

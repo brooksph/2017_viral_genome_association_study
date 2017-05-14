@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867665.1/GCF_000867665.1_ViralProj17807_genomic.fna.gz",
+        "filename": "GCF_000867665.1_ViralProj17807_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008377.1 Okra yellow crinkle virus segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

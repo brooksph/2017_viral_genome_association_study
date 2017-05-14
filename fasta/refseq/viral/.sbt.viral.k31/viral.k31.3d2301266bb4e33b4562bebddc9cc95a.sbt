@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916315.1/GCF_000916315.1_ViralProj240014_genomic.fna.gz",
+        "filename": "GCF_000916315.1_ViralProj240014_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023561.1 Enterobacter phage PG7, complete genome",
         "signatures": [
             {
                 "ksize": 31,

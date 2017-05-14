@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000927315.1/GCF_000927315.1_ViralProj265910_genomic.fna.gz",
+        "filename": "GCF_000927315.1_ViralProj265910_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025396.1 Kimberley virus isolate CS368, complete genome",
         "signatures": [
             {
                 "ksize": 31,

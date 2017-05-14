@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001440995.1/GCF_001440995.1_ViralProj301302_genomic.fna.gz",
+        "filename": "GCF_001440995.1_ViralProj301302_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028266.1 Wuhan Tick Virus 2 strain X78-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

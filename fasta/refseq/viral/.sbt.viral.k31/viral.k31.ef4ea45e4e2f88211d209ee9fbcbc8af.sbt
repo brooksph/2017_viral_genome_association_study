@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916575.1/GCF_000916575.1_ViralProj240319_genomic.fna.gz",
+        "filename": "GCF_000916575.1_ViralProj240319_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023675.1 Porcine astrovirus 4 strain 35/USA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001935565.1/GCF_001935565.1_ViralProj359915_genomic.fna.gz",
+        "filename": "GCF_001935565.1_ViralProj359915_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032586.1 Beihai sobemo-like virus 1 strain BHZY60709 hypothetical protein 1, RdRp, and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

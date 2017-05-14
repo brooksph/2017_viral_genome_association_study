@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000892815.1/GCF_000892815.1_ViralProj67961_genomic.fna.gz",
+        "filename": "GCF_000892815.1_ViralProj67961_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015631.1 Verbesina encelioides leaf curl alphasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

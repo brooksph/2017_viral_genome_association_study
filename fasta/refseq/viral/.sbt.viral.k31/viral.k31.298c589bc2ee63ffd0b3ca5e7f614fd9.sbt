@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001008515.1/GCF_001008515.1_ViralProj284016_genomic.fna.gz",
+        "filename": "GCF_001008515.1_ViralProj284016_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027040.1 Ageratum yellow vein virus strain Guam 12-02 segment A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001963495.1/GCF_001963495.1_ViralProj362002_genomic.fna.gz",
+        "filename": "GCF_001963495.1_ViralProj362002_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032893.1 Changjiang astro-like virus strain CJLX30757 putative protease, hypothetical protein, RNA-dependent RNA polymerase, and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

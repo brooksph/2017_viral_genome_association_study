@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867925.1/GCF_000867925.1_ViralMultiSegProj18625_genomic.fna.gz",
+        "filename": "GCF_000867925.1_ViralMultiSegProj18625_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008779.1 Sida yellow mosaic Yucatan virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

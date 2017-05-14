@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000954995.1/GCF_000954995.1_ViralProj276858_genomic.fna.gz",
+        "filename": "GCF_000954995.1_ViralProj276858_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026599.1 Pseudomonas phage vB_PaeP_C2-10_Ab22, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000898475.1/GCF_000898475.1_ViralProj172460_genomic.fna.gz",
+        "filename": "GCF_000898475.1_ViralProj172460_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018382.1 Bat hepevirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

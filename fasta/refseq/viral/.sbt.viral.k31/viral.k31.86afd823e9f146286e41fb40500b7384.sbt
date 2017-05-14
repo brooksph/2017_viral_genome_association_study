@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929395.1/GCF_000929395.1_ViralProj274150_genomic.fna.gz",
+        "filename": "GCF_000929395.1_ViralProj274150_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026314.1 Rabovirus A isolate Berlin/Jan2011/0572, complete genome",
         "signatures": [
             {
                 "ksize": 31,

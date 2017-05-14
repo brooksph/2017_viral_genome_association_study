@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923555.1/GCF_000923555.1_ViralProj253217_genomic.fna.gz",
+        "filename": "GCF_000923555.1_ViralProj253217_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024372.1 Sida yellow vein alphasatellite isolate India:Okra:Hsp:2013, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

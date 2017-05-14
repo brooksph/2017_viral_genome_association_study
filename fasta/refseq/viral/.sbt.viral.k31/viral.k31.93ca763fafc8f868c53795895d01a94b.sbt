@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001923575.1/GCF_001923575.1_ViralProj358596_genomic.fna.gz",
+        "filename": "GCF_001923575.1_ViralProj358596_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032172.1 Beihai noda-like virus 18 strain YYSZX13070 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

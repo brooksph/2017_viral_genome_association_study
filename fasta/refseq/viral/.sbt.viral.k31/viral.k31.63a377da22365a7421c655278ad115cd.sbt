@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924235.1/GCF_000924235.1_ViralProj260752_genomic.fna.gz",
+        "filename": "GCF_000924235.1_ViralProj260752_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024807.1 Ethiopian tobacco bushy top virus satellite RNA isolate 18-2, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

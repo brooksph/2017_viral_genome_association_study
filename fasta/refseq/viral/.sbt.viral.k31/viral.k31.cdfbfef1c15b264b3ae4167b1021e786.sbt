@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870965.1/GCF_000870965.1_ViralMultiSegProj20053_genomic.fna.gz",
+        "filename": "GCF_000870965.1_ViralMultiSegProj20053_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009645.1 Kudzu mosaic virus DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

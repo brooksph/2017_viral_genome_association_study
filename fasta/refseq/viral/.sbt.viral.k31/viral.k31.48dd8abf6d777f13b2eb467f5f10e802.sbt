@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849345.1/GCF_000849345.1_ViralProj14705_genomic.fna.gz",
+        "filename": "GCF_000849345.1_ViralProj14705_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001658.1 Cassava common mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

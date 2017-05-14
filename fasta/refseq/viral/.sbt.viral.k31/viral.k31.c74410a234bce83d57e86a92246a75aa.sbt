@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965955.1/GCF_001965955.1_ViralProj362042_genomic.fna.gz",
+        "filename": "GCF_001965955.1_ViralProj362042_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032925.1 Hubei leech virus 1 strain SZmix32467 putative protease, RNA-dependent RNA polymerase, and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

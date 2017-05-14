@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000931355.1/GCF_000931355.1_ViralProj275611_genomic.fna.gz",
+        "filename": "GCF_000931355.1_ViralProj275611_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026470.1 African bat icavirus A isolate PREDICT-06105, complete genome",
         "signatures": [
             {
                 "ksize": 31,

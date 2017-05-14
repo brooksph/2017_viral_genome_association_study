@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001611665.1/GCF_001611665.1_ViralProj317158_genomic.fna.gz",
+        "filename": "GCF_001611665.1_ViralProj317158_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029797.1 Megabat bufavirus 1 NS1, VP1, VP2 genes for nonstructural protein 1, capsid protein VP1, capsid protein VP2, complete cds, isolate: MAG12-57",
         "signatures": [
             {
                 "ksize": 31,

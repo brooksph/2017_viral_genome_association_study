@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001020075.1/GCF_001020075.1_ViralMultiSegProj285600_genomic.fna.gz",
+        "filename": "GCF_001020075.1_ViralMultiSegProj285600_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027136.1 Mariental virus strain N27 MRMi.n9 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

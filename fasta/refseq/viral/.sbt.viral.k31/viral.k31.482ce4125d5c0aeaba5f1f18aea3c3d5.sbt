@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744075.1/GCF_001744075.1_ViralProj344198_genomic.fna.gz",
+        "filename": "GCF_001744075.1_ViralProj344198_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031093.1 Sanxia Water Strider Virus 5 strain SXSSP11 nucleocapsid (N), ORF2 (ORF2), ORF3 (ORF3), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

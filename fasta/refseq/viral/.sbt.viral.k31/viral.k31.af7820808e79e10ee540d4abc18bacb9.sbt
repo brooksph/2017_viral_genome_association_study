@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895015.1/GCF_000895015.1_ViralProj77135_genomic.fna.gz",
+        "filename": "GCF_000895015.1_ViralProj77135_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016405.1 Spodoptera exigua iflavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

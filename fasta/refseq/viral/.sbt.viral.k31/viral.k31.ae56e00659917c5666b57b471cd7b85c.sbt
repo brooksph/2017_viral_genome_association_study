@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000895195.1/GCF_000895195.1_ViralProj81035_genomic.fna.gz",
+        "filename": "GCF_000895195.1_ViralProj81035_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016648.1 Persea americana endornavirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

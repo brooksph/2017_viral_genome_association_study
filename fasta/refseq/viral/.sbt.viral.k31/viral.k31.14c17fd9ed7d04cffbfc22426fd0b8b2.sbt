@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001651125.1/GCF_001651125.1_ViralProj322193_genomic.fna.gz",
+        "filename": "GCF_001651125.1_ViralProj322193_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030199.1 Avian-like circovirus isolate A1 replication-associated protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

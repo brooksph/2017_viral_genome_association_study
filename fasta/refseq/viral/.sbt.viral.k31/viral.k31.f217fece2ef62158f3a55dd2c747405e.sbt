@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001964115.1/GCF_001964115.1_ViralProj362007_genomic.fna.gz",
+        "filename": "GCF_001964115.1_ViralProj362007_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033162.1 Beihai zhaovirus-like virus 1 strain BHZY59866 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

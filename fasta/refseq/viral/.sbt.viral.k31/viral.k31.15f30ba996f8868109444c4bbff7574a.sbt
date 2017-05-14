@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501675.1/GCF_001501675.1_ViralProj307835_genomic.fna.gz",
+        "filename": "GCF_001501675.1_ViralProj307835_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028962.1 Staphylococcus phage phiIPLA-C1C, complete genome",
         "signatures": [
             {
                 "ksize": 31,

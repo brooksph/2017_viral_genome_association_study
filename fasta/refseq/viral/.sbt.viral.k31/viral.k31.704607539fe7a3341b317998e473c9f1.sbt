@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863905.1/GCF_000863905.1_ViralProj15497_genomic.fna.gz",
+        "filename": "GCF_000863905.1_ViralProj15497_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007193.2 Chaetoceros salsugineum DNA virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

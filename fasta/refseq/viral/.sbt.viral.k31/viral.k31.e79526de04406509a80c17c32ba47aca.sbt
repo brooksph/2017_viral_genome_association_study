@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001444125.1/GCF_001444125.1_ViralProj302030_genomic.fna.gz",
+        "filename": "GCF_001444125.1_ViralProj302030_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028377.1 Wenling shark virus, complete cds",
         "signatures": [
             {
                 "ksize": 31,

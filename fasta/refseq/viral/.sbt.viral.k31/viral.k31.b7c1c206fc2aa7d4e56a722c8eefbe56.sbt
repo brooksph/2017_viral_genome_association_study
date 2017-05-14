@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867625.1/GCF_000867625.1_ViralProj17743_genomic.fna.gz",
+        "filename": "GCF_000867625.1_ViralProj17743_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008367.1 Phormidium phage Pf-WMP4, complete genome",
         "signatures": [
             {
                 "ksize": 31,

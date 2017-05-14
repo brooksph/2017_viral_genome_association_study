@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001190235.1/GCF_001190235.1_ViralProj291254_genomic.fna.gz",
+        "filename": "GCF_001190235.1_ViralProj291254_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027644.1 Microviridae Fen7786_21, complete genome",
         "signatures": [
             {
                 "ksize": 31,

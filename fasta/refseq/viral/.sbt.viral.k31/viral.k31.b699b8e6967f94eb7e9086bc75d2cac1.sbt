@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896555.1/GCF_000896555.1_ViralProj78945_genomic.fna.gz",
+        "filename": "GCF_000896555.1_ViralProj78945_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016447.1 Aotine herpesvirus 1 strain S34E, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000919375.1/GCF_000919375.1_ViralProj240753_genomic.fna.gz",
+        "filename": "GCF_000919375.1_ViralProj240753_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023740.1 Mycobacterium phage JacAttac, complete genome",
         "signatures": [
             {
                 "ksize": 31,

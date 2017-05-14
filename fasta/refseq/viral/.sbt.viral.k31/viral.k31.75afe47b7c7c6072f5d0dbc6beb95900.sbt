@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001970305.1/GCF_001970305.1_ViralMultiSegProj362916_genomic.fna.gz",
+        "filename": "GCF_001970305.1_ViralMultiSegProj362916_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033447.1 Wuhan Millipede virus 4 strain GCM8225 segment Seg 1 RdRp gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

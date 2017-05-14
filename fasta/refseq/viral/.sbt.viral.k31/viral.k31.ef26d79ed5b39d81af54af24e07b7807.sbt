@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911395.1/GCF_000911395.1_ViralProj227357_genomic.fna.gz",
+        "filename": "GCF_000911395.1_ViralProj227357_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022790.1 Marine gokushovirus isolate GOM, complete genome",
         "signatures": [
             {
                 "ksize": 31,

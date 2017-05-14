@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859505.1/GCF_000859505.1_ViralProj15119_genomic.fna.gz",
+        "filename": "GCF_000859505.1_ViralProj15119_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001749.2 Apple stem grooving virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

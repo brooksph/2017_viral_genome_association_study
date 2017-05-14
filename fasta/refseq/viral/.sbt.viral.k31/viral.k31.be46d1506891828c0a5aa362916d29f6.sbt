@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470755.1/GCF_001470755.1_ViralProj306345_genomic.fna.gz",
+        "filename": "GCF_001470755.1_ViralProj306345_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028681.1 Mycobacterium phage Pops, complete genome",
         "signatures": [
             {
                 "ksize": 31,

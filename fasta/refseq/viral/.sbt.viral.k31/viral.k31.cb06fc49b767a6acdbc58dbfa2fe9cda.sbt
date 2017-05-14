@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863865.1/GCF_000863865.1_ViralProj15489_genomic.fna.gz",
+        "filename": "GCF_000863865.1_ViralProj15489_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001515.2 Murine polyomavirus strain BG, complete genome",
         "signatures": [
             {
                 "ksize": 31,

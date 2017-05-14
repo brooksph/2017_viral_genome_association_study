@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897715.1/GCF_000897715.1_ViralProj176549_genomic.fna.gz",
+        "filename": "GCF_000897715.1_ViralProj176549_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018705.3 Ntaya virus, complete cds",
         "signatures": [
             {
                 "ksize": 31,

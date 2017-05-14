@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001967735.1/GCF_001967735.1_ViralMultiSegProj361693_genomic.fna.gz",
+        "filename": "GCF_001967735.1_ViralMultiSegProj361693_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033296.1 Wenzhou qinvirus-like virus 2 strain WZRBX42684 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

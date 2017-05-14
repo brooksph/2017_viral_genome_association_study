@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744575.1/GCF_001744575.1_ViralProj344161_genomic.fna.gz",
+        "filename": "GCF_001744575.1_ViralProj344161_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031020.1 Morganella phage vB_MmoM_MP1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

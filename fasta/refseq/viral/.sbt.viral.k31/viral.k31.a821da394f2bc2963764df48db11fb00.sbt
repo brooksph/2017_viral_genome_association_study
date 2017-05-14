@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000883775.1/GCF_000883775.1_ViralProj37715_genomic.fna.gz",
+        "filename": "GCF_000883775.1_ViralProj37715_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012585.1 Thielaviopsis basicola mitovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885915.1/GCF_000885915.1_ViralProj40317_genomic.fna.gz",
+        "filename": "GCF_000885915.1_ViralProj40317_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "AC_000009.1 Porcine adenovirus C, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000882115.1/GCF_000882115.1_ViralProj36375_genomic.fna.gz",
+        "filename": "GCF_000882115.1_ViralProj36375_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012419.1 Enterococcus phage EFAP-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

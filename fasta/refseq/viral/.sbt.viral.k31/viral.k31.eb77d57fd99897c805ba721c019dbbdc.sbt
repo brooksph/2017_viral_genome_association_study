@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912855.1/GCF_000912855.1_ViralMultiSegProj226083_genomic.fna.gz",
+        "filename": "GCF_000912855.1_ViralMultiSegProj226083_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022645.1 East African cassava mosaic Malawi virus clone EACMMV[MA:07:S4] AV2 (AV2), CP (AV1), REn (AC3), TrAP (AC2), and Rep genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

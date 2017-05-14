@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004975.1/GCF_002004975.1_ViralProj375048_genomic.fna.gz",
+        "filename": "GCF_002004975.1_ViralProj375048_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033721.1 Meaban virus from France polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

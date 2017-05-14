@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867725.1/GCF_000867725.1_ViralProj18013_genomic.fna.gz",
+        "filename": "GCF_000867725.1_ViralProj18013_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008516.1 White bream virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

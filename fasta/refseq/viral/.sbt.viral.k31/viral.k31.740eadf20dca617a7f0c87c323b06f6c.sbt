@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874665.1/GCF_000874665.1_ViralProj30665_genomic.fna.gz",
+        "filename": "GCF_000874665.1_ViralProj30665_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011051.1 Capreolus capreolus papillomavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001461165.1/GCF_001461165.1_ViralProj304906_genomic.fna.gz",
+        "filename": "GCF_001461165.1_ViralProj304906_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028481.1 Red clover powdery mildew-associated totivirus 2 CP, RdRp genes for capsid protein, RNA dependent RNA polymerase, complete cds, isolate: RPaTV2_75-52",
         "signatures": [
             {
                 "ksize": 31,

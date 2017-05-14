@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000888835.1/GCF_000888835.1_ViralProj61011_genomic.fna.gz",
+        "filename": "GCF_000888835.1_ViralProj61011_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014766.1 Ostreococcus lucimarinus virus OlV1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

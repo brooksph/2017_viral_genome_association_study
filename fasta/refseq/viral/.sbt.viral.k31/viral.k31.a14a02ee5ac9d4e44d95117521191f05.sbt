@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001446225.1/GCF_001446225.1_ViralMultiSegProj302261_genomic.fna.gz",
+        "filename": "GCF_001446225.1_ViralMultiSegProj302261_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028400.1 Wuhan cricket virus strain WHXS-1 segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838185.1/GCF_000838185.1_ViralMultiSegProj14140_genomic.fna.gz",
+        "filename": "GCF_000838185.1_ViralMultiSegProj14140_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003220.1 Planaria asexual strain-specific virus-like element type 1 large DNA segment, complete genome",
         "signatures": [
             {
                 "ksize": 31,

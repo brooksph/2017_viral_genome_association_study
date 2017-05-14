@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884715.1/GCF_000884715.1_ViralProj36617_genomic.fna.gz",
+        "filename": "GCF_000884715.1_ViralProj36617_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012533.1 Kedougou virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

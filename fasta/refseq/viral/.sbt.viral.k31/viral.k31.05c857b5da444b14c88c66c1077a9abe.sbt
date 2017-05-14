@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913615.1/GCF_000913615.1_ViralProj223065_genomic.fna.gz",
+        "filename": "GCF_000913615.1_ViralProj223065_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022563.1 Squirrel poxvirus strain Red squirrel UK complete genome",
         "signatures": [
             {
                 "ksize": 31,

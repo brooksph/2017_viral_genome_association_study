@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870585.1/GCF_000870585.1_ViralProj19163_genomic.fna.gz",
+        "filename": "GCF_000870585.1_ViralProj19163_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009234.1 Burkholderia phage phiE202 chromosome, complete genome",
         "signatures": [
             {
                 "ksize": 31,

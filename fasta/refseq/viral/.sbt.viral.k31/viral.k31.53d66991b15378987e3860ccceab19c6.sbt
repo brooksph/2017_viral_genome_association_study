@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907815.1/GCF_000907815.1_ViralProj209362_genomic.fna.gz",
+        "filename": "GCF_000907815.1_ViralProj209362_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021565.1 Rosellinia necatrix victorivirus 1 RNA, complete genome, isolate: W1029",
         "signatures": [
             {
                 "ksize": 31,

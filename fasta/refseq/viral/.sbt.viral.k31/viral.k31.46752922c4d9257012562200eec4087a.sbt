@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866245.1/GCF_001866245.1_ViralProj351805_genomic.fna.gz",
+        "filename": "GCF_001866245.1_ViralProj351805_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031690.1 Orgi virus strain SP1 L protein, glycoprotein, matrix protein, phosphoprotein, and nucleoprotein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

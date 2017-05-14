@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955315.1/GCF_000955315.1_ViralProj276850_genomic.fna.gz",
+        "filename": "GCF_000955315.1_ViralProj276850_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026590.1 Mycobacterium phage Gaia, complete genome",
         "signatures": [
             {
                 "ksize": 31,

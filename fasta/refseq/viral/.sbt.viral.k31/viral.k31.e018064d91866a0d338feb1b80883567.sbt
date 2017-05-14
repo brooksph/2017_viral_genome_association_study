@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863165.1/GCF_000863165.1_ViralProj15343_genomic.fna.gz",
+        "filename": "GCF_000863165.1_ViralProj15343_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001809.1 Louping ill virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

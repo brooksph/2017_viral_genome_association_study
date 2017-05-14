@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902035.1/GCF_000902035.1_ViralMultiSegProj182753_genomic.fna.gz",
+        "filename": "GCF_000902035.1_ViralMultiSegProj182753_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019569.1 Bean chlorosis virus isolate Venezuela:La Barinesa 459:2006 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863645.1/GCF_000863645.1_ViralProj15447_genomic.fna.gz",
+        "filename": "GCF_000863645.1_ViralProj15447_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007147.1 Pennisetum mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

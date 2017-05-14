@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915635.1/GCF_000915635.1_ViralProj240011_genomic.fna.gz",
+        "filename": "GCF_000915635.1_ViralProj240011_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023605.1 Vibrio phage PVA1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

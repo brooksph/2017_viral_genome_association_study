@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000893735.1/GCF_000893735.1_ViralProj68409_genomic.fna.gz",
+        "filename": "GCF_000893735.1_ViralProj68409_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015706.1 Blackberry virus E, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001746095.1/GCF_001746095.1_ViralProj344206_genomic.fna.gz",
+        "filename": "GCF_001746095.1_ViralProj344206_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031079.1 Bole Tick Virus 2 strain BL076 nucleocapsid (N), putative phosphoprotein (ORF2), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

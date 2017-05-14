@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001443965.1/GCF_001443965.1_ViralProj302016_genomic.fna.gz",
+        "filename": "GCF_001443965.1_ViralProj302016_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028368.1 Sanxia water strider virus 6 strain SYSZZ-2 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

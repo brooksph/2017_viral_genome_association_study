@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000881195.1/GCF_000881195.1_ViralProj36527_genomic.fna.gz",
+        "filename": "GCF_000881195.1_ViralProj36527_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012492.1 Tomato leaf curl Patna virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

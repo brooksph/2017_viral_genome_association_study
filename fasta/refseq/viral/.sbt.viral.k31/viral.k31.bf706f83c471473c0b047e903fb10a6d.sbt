@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430215.1/GCF_001430215.1_ViralProj300251_genomic.fna.gz",
+        "filename": "GCF_001430215.1_ViralProj300251_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028123.1 Molossus molossus polyomavirus 1 isolate B1130, complete genome",
         "signatures": [
             {
                 "ksize": 31,

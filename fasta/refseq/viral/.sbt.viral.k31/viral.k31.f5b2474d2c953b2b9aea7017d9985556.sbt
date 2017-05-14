@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001502475.1/GCF_001502475.1_ViralProj307717_genomic.fna.gz",
+        "filename": "GCF_001502475.1_ViralProj307717_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028892.1 Streptomyces phage Caliburn, complete genome",
         "signatures": [
             {
                 "ksize": 31,

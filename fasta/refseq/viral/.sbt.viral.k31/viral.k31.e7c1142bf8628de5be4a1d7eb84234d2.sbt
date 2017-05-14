@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001959255.1/GCF_001959255.1_ViralProj361812_genomic.fna.gz",
+        "filename": "GCF_001959255.1_ViralProj361812_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033146.1 Shuangao alphatetra-like virus 1 strain insectZJ93971 replicase, putative structural protein, and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

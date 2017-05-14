@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889035.1/GCF_000889035.1_ViralProj48419_genomic.fna.gz",
+        "filename": "GCF_000889035.1_ViralProj48419_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014127.1 Chiltepin yellow mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

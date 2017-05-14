@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000925295.1/GCF_000925295.1_ViralProj263908_genomic.fna.gz",
+        "filename": "GCF_000925295.1_ViralProj263908_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025256.1 Bat Paramyxovirus Eid_hel/GH-M74a/GHA/2009, complete genome",
         "signatures": [
             {
                 "ksize": 31,

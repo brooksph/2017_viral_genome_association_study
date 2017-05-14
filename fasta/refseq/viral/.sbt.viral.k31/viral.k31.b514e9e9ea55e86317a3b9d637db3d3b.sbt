@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899915.1/GCF_000899915.1_ViralProj172457_genomic.fna.gz",
+        "filename": "GCF_000899915.1_ViralProj172457_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018381.2 Persimmon virus A viral cRNA, complete genome, clone: Kaki13-14",
         "signatures": [
             {
                 "ksize": 31,

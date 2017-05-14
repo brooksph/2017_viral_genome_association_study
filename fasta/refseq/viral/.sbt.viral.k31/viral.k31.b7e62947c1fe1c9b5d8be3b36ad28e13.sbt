@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869965.1/GCF_000869965.1_ViralProj17373_genomic.fna.gz",
+        "filename": "GCF_000869965.1_ViralProj17373_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008266.1 Narcissus common latent virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

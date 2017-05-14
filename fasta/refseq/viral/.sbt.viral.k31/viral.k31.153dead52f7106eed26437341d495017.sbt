@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001754405.1/GCF_001754405.1_ViralProj344633_genomic.fna.gz",
+        "filename": "GCF_001754405.1_ViralProj344633_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031253.1 Mycobacterium phage Bipper, complete genome",
         "signatures": [
             {
                 "ksize": 31,

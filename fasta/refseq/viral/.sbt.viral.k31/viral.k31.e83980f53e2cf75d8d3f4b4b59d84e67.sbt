@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858985.1/GCF_000858985.1_ViralProj15184_genomic.fna.gz",
+        "filename": "GCF_000858985.1_ViralProj15184_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004011.1 Leek yellow stripe virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

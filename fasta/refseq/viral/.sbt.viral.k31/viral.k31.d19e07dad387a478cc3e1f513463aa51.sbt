@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839165.1/GCF_000839165.1_ViralProj14170_genomic.fna.gz",
+        "filename": "GCF_000839165.1_ViralProj14170_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003540.1 Chrysanthemum chlorotic mottle viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

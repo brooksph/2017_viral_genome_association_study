@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922255.1/GCF_000922255.1_ViralMultiSegProj255997_genomic.fna.gz",
+        "filename": "GCF_000922255.1_ViralMultiSegProj255997_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024495.1 Heartland virus isolate Patient1 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

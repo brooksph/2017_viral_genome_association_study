@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867745.1/GCF_000867745.1_ViralProj18071_genomic.fna.gz",
+        "filename": "GCF_000867745.1_ViralProj18071_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008552.1 Narcissus symptomless virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

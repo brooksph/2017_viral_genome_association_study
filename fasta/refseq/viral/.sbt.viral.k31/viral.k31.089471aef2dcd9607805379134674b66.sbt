@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001564365.1/GCF_001564365.1_ViralProj312360_genomic.fna.gz",
+        "filename": "GCF_001564365.1_ViralProj312360_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029300.1 Bat bocavirus isolate YNJH, complete genome",
         "signatures": [
             {
                 "ksize": 31,

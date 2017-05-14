@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000820355.1/GCF_000820355.1_ViralMultiSegProj14361_genomic.fna.gz",
+        "filename": "GCF_000820355.1_ViralMultiSegProj14361_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005817.1 Sclerophthora macrospora virus A RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

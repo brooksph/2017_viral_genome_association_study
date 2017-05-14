@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924015.1/GCF_000924015.1_ViralProj257742_genomic.fna.gz",
+        "filename": "GCF_000924015.1_ViralProj257742_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024694.1 Human circovirus VS6600022, complete genome",
         "signatures": [
             {
                 "ksize": 31,

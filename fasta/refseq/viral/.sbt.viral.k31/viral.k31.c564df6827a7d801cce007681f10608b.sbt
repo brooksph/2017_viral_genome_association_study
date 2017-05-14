@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755265.1/GCF_001755265.1_ViralProj344632_genomic.fna.gz",
+        "filename": "GCF_001755265.1_ViralProj344632_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031257.1 Mycobacterium phage Mulciber, complete genome",
         "signatures": [
             {
                 "ksize": 31,

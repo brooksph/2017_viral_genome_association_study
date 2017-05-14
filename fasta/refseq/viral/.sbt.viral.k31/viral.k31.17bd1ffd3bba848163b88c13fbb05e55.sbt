@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002004295.1/GCF_002004295.1_ViralProj375043_genomic.fna.gz",
+        "filename": "GCF_002004295.1_ViralProj375043_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033698.1 Uganda S virus polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

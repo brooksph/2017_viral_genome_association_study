@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000849085.1/GCF_000849085.1_ViralProj14648_genomic.fna.gz",
+        "filename": "GCF_000849085.1_ViralProj14648_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001874.1 Rhopalosiphum padi virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

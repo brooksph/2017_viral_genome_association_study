@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001008455.1/GCF_001008455.1_ViralProj284019_genomic.fna.gz",
+        "filename": "GCF_001008455.1_ViralProj284019_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027054.1 Porcine kobuvirus isolate JS-02a-CHN/2014/China, complete genome",
         "signatures": [
             {
                 "ksize": 31,

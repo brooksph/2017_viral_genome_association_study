@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902415.1/GCF_000902415.1_ViralProj181217_genomic.fna.gz",
+        "filename": "GCF_000902415.1_ViralProj181217_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019518.1 Vibrio phage vB_VchM-138, complete genome",
         "signatures": [
             {
                 "ksize": 31,

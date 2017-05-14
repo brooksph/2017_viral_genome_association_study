@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001973875.1/GCF_001973875.1_ViralMultiSegProj368926_genomic.fna.gz",
+        "filename": "GCF_001973875.1_ViralMultiSegProj368926_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033492.1 Petunia chlorotic mottle virus segment RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

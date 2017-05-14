@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000873485.1/GCF_000873485.1_ViralProj20651_genomic.fna.gz",
+        "filename": "GCF_000873485.1_ViralProj20651_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009758.1 Marine RNA virus JP-B, complete genome",
         "signatures": [
             {
                 "ksize": 31,

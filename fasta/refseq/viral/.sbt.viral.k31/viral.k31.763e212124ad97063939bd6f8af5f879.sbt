@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000843385.1/GCF_000843385.1_ViralProj14341_genomic.fna.gz",
+        "filename": "GCF_000843385.1_ViralProj14341_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005319.1 Euphorbia leaf curl virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

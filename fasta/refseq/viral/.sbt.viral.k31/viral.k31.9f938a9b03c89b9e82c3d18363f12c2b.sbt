@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894635.1/GCF_000894635.1_ViralProj167111_genomic.fna.gz",
+        "filename": "GCF_000894635.1_ViralProj167111_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017936.1 Bat sapovirus TLC58/HK, complete genome",
         "signatures": [
             {
                 "ksize": 31,

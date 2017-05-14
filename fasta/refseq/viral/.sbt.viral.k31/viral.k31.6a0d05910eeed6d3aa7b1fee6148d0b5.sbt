@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907035.1/GCF_000907035.1_ViralProj195516_genomic.fna.gz",
+        "filename": "GCF_000907035.1_ViralProj195516_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020872.1 Cyanophage SS120-1 genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

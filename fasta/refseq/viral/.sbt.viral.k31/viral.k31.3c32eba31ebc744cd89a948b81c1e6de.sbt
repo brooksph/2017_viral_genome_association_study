@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000900015.1/GCF_000900015.1_ViralMultiSegProj173358_genomic.fna.gz",
+        "filename": "GCF_000900015.1_ViralMultiSegProj173358_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018463.1 Shamonda virus RdRp gene for RNA-dependent RNA polymerase, segment L, genomic RNA, isolate Ib An 5550",
         "signatures": [
             {
                 "ksize": 31,

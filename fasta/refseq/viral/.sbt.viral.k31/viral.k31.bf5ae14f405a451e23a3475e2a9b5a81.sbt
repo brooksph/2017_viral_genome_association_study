@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885315.1/GCF_000885315.1_ViralProj40629_genomic.fna.gz",
+        "filename": "GCF_000885315.1_ViralProj40629_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013261.1 Canna Yellow Streak Virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736295.1/GCF_001736295.1_ViralProj343506_genomic.fna.gz",
+        "filename": "GCF_001736295.1_ViralProj343506_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030917.1 Gordonia phage OneUp, complete genome",
         "signatures": [
             {
                 "ksize": 31,

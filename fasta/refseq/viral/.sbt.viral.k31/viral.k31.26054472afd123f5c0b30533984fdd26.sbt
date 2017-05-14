@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001959195.1/GCF_001959195.1_ViralProj361800_genomic.fna.gz",
+        "filename": "GCF_001959195.1_ViralProj361800_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032781.1 Wenling crustacean virus 11 strain WLJQ201798 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

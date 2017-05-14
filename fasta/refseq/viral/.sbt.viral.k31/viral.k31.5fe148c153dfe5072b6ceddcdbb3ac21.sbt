@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000891935.1/GCF_000891935.1_ViralProj65815_genomic.fna.gz",
+        "filename": "GCF_000891935.1_ViralProj65815_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_015396.1 Avian gyrovirus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

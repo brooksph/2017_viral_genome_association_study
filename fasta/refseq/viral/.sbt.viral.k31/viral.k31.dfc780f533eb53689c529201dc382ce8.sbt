@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000897035.1/GCF_000897035.1_ViralProj162497_genomic.fna.gz",
+        "filename": "GCF_000897035.1_ViralProj162497_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_017829.1 Cotton leaf curl virus betasatellite, complete genome",
         "signatures": [
             {
                 "ksize": 31,

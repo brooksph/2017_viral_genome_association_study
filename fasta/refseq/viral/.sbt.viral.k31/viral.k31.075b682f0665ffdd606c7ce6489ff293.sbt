@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915795.1/GCF_000915795.1_ViralProj240043_genomic.fna.gz",
+        "filename": "GCF_000915795.1_ViralProj240043_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023569.1 Vibrio phage SHOU24, complete genome",
         "signatures": [
             {
                 "ksize": 31,

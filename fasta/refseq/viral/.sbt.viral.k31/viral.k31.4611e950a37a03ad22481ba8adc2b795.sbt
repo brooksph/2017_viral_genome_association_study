@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001470315.1/GCF_001470315.1_ViralProj306280_genomic.fna.gz",
+        "filename": "GCF_001470315.1_ViralProj306280_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028678.1 Mycobacterium phage Cabrinians, complete genome",
         "signatures": [
             {
                 "ksize": 31,

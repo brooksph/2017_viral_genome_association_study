@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885375.1/GCF_000885375.1_ViralProj41471_genomic.fna.gz",
+        "filename": "GCF_000885375.1_ViralProj41471_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013439.1 Bornean orang-utan polyomavirus complete genome, isolate Bo",
         "signatures": [
             {
                 "ksize": 31,

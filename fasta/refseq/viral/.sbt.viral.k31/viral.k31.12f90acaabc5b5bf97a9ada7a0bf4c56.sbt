@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000915415.1/GCF_000915415.1_ViralProj237561_genomic.fna.gz",
+        "filename": "GCF_000915415.1_ViralProj237561_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_023443.1 Ageratum yellow vein China alphasatellite isolate Sn3 segment DNA-1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001967315.1/GCF_001967315.1_ViralProj361608_genomic.fna.gz",
+        "filename": "GCF_001967315.1_ViralProj361608_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032970.1 Hubei tombus-like virus 21 strain spider121926 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

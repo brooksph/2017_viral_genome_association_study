@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965275.1/GCF_001965275.1_ViralProj362072_genomic.fna.gz",
+        "filename": "GCF_001965275.1_ViralProj362072_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032846.1 Hubei odonate virus 12 strain QTM25968 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

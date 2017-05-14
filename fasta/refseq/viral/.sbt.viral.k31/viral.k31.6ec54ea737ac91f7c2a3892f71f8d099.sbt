@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001446205.1/GCF_001446205.1_ViralMultiSegProj302170_genomic.fna.gz",
+        "filename": "GCF_001446205.1_ViralMultiSegProj302170_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028396.1 Shuangao insect virus 7 strain SKC segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

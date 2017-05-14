@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000885455.1/GCF_000885455.1_ViralProj42429_genomic.fna.gz",
+        "filename": "GCF_000885455.1_ViralProj42429_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013590.2 Felid herpesvirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001042195.1/GCF_001042195.1_ViralProj287984_genomic.fna.gz",
+        "filename": "GCF_001042195.1_ViralProj287984_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027381.1 Escherichia phage Pollock, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961015.1/GCF_001961015.1_ViralProj361865_genomic.fna.gz",
+        "filename": "GCF_001961015.1_ViralProj361865_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032918.1 Sanxia sobemo-like virus 4 strain SXSSP2021 hypothetical protein 1 and hypothetical protein 2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

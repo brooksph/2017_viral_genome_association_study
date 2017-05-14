@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853545.1/GCF_000853545.1_ViralProj14922_genomic.fna.gz",
+        "filename": "GCF_000853545.1_ViralProj14922_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005985.1 Pelargonium chlorotic ring pattern virus isolate GR57, complete genome",
         "signatures": [
             {
                 "ksize": 31,

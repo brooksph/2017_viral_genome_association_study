@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896455.1/GCF_000896455.1_ViralProj76735_genomic.fna.gz",
+        "filename": "GCF_000896455.1_ViralProj76735_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016161.1 Pediococcus phage clP1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904235.1/GCF_000904235.1_ViralProj192853_genomic.fna.gz",
+        "filename": "GCF_000904235.1_ViralProj192853_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020486.1 Synechococcus phage S-RIM8 A.HR1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

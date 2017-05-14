@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874525.1/GCF_000874525.1_ViralMultiSegProj30171_genomic.fna.gz",
+        "filename": "GCF_000874525.1_ViralMultiSegProj30171_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010949.1 Tomato yellow vein streak virus DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

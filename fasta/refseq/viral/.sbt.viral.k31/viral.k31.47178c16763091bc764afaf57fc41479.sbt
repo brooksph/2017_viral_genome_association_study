@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840325.1/GCF_000840325.1_ViralProj14221_genomic.fna.gz",
+        "filename": "GCF_000840325.1_ViralProj14221_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004286.1 Galleria mellonella densovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

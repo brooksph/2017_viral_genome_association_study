@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863745.1/GCF_000863745.1_ViralProj15469_genomic.fna.gz",
+        "filename": "GCF_000863745.1_ViralProj15469_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007151.1 Chrysodeixis chalcites nucleopolyhedrovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

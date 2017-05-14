@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858205.1/GCF_000858205.1_ViralProj15182_genomic.fna.gz",
+        "filename": "GCF_000858205.1_ViralProj15182_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004005.1 Tomato yellow leaf curl virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

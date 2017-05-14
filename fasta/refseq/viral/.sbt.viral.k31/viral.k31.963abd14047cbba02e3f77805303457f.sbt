@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001593375.1/GCF_001593375.1_ViralProj315216_genomic.fna.gz",
+        "filename": "GCF_001593375.1_ViralProj315216_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029648.1 Cotton leaf curl Shadadpur virus, complete genome, isolate Sha",
         "signatures": [
             {
                 "ksize": 31,

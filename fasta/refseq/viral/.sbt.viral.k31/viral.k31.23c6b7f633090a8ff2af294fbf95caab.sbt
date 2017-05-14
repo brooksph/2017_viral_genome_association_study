@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911115.1/GCF_000911115.1_ViralProj222309_genomic.fna.gz",
+        "filename": "GCF_000911115.1_ViralProj222309_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022519.1 African elephant polyomavirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

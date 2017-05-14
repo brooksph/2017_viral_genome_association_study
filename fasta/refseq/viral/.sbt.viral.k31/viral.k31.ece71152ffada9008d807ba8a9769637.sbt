@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736975.1/GCF_001736975.1_ViralProj343507_genomic.fna.gz",
+        "filename": "GCF_001736975.1_ViralProj343507_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030924.1 Gordonia phage Monty, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868765.1/GCF_000868765.1_ViralProj18531_genomic.fna.gz",
+        "filename": "GCF_000868765.1_ViralProj18531_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008716.1 Maracuja mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

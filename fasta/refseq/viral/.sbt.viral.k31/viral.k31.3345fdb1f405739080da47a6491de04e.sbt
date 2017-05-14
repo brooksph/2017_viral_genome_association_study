@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000920855.1/GCF_000920855.1_ViralProj248635_genomic.fna.gz",
+        "filename": "GCF_000920855.1_ViralProj248635_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024148.1 Mycobacterium phage Phantastic, complete genome",
         "signatures": [
             {
                 "ksize": 31,

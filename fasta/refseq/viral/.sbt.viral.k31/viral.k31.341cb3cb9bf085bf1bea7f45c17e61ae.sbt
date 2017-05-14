@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000894975.1/GCF_000894975.1_ViralProj76733_genomic.fna.gz",
+        "filename": "GCF_000894975.1_ViralProj76733_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016160.1 Escherichia phage HK75, complete genome",
         "signatures": [
             {
                 "ksize": 31,

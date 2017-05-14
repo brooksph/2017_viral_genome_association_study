@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860965.1/GCF_000860965.1_ViralProj15405_genomic.fna.gz",
+        "filename": "GCF_000860965.1_ViralProj15405_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005028.1 Papaya leaf-distortion mosaic potyvirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

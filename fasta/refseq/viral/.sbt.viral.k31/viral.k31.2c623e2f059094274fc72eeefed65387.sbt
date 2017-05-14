@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000922955.1/GCF_000922955.1_ViralProj253224_genomic.fna.gz",
+        "filename": "GCF_000922955.1_ViralProj253224_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024374.1 Chilli leaf curl alphasatellite clone VIRO 395, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

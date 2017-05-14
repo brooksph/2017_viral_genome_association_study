@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000902255.1/GCF_000902255.1_ViralProj179431_genomic.fna.gz",
+        "filename": "GCF_000902255.1_ViralProj179431_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019413.1 Sulfolobales Mexican rudivirus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

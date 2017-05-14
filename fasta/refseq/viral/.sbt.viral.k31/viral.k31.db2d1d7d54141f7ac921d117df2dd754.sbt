@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000889355.1/GCF_000889355.1_ViralMultiSegProj56055_genomic.fna.gz",
+        "filename": "GCF_000889355.1_ViralMultiSegProj56055_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_014598.1 Raspberry latent virus segment S1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

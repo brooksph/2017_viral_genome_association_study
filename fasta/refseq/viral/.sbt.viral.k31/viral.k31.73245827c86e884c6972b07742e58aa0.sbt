@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000954535.1/GCF_000954535.1_ViralProj277517_genomic.fna.gz",
+        "filename": "GCF_000954535.1_ViralProj277517_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026623.1 Cacipacore virus flavivirus polyprotein (flavivirus polyprotein gene) and truncated polyprotein (flavivirus polyprotein gene) genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

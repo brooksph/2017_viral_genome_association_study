@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001973995.1/GCF_001973995.1_ViralMultiSegProj368950_genomic.fna.gz",
+        "filename": "GCF_001973995.1_ViralMultiSegProj368950_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033485.1 Wuhan fly virus 5 strain fly34516 segment Seg 1 RdRp gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

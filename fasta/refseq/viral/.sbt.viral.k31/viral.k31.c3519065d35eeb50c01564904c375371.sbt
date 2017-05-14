@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896835.1/GCF_000896835.1_ViralProj88119_genomic.fna.gz",
+        "filename": "GCF_000896835.1_ViralProj88119_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016961.1 Whataroa virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866445.1/GCF_000866445.1_ViralProj15499_genomic.fna.gz",
+        "filename": "GCF_000866445.1_ViralProj15499_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006383.2 Peste des petits ruminants virus complete genome",
         "signatures": [
             {
                 "ksize": 31,

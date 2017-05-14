@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001958195.1/GCF_001958195.1_ViralProj361749_genomic.fna.gz",
+        "filename": "GCF_001958195.1_ViralProj361749_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033184.1 Wenzhou hepe-like virus 1 strain WZSLuoII97618 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

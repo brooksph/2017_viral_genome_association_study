@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838405.1/GCF_000838405.1_ViralMultiSegProj14187_genomic.fna.gz",
+        "filename": "GCF_000838405.1_ViralMultiSegProj14187_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003866.1 Cabbage leaf curl virus coat protein (AV1), replicase associated protein (AC3), transactivator protein (AC2), replicase associated protein (AC1) and AC4 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

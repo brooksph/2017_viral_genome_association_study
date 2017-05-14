@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001891035.1/GCF_001891035.1_ViralProj356438_genomic.fna.gz",
+        "filename": "GCF_001891035.1_ViralProj356438_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032006.1 Tomato mottle leaf curl virus isolate BR-PB44-14 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

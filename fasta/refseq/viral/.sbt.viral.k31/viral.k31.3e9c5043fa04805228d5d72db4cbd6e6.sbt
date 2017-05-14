@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000879755.1/GCF_000879755.1_ViralMultiSegProj28761_genomic.fna.gz",
+        "filename": "GCF_000879755.1_ViralMultiSegProj28761_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010346.1 Rose cryptic virus 1 RNA 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

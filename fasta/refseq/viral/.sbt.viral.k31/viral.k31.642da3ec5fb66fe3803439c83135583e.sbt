@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840965.1/GCF_000840965.1_ViralMultiSegProj14356_genomic.fna.gz",
+        "filename": "GCF_000840965.1_ViralMultiSegProj14356_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005635.1 Horsegram yellow mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

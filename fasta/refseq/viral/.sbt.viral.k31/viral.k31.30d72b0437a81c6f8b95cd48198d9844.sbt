@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000837345.1/GCF_000837345.1_ViralProj14129_genomic.fna.gz",
+        "filename": "GCF_000837345.1_ViralProj14129_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003138.2 Blueberry red ringspot virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

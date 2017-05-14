@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929655.1/GCF_000929655.1_ViralProj267781_genomic.fna.gz",
+        "filename": "GCF_000929655.1_ViralProj267781_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025674.1 Macrophomina phaseolina tobamo-like virus strain IL-01 2013, complete genome",
         "signatures": [
             {
                 "ksize": 31,

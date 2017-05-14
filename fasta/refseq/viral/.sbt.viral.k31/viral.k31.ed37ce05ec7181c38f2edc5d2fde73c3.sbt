@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001441155.1/GCF_001441155.1_ViralProj301300_genomic.fna.gz",
+        "filename": "GCF_001441155.1_ViralProj301300_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028271.1 Cherry small circular viroid-like RNA 1 isolate cscRNA1.84, complete genome",
         "signatures": [
             {
                 "ksize": 31,

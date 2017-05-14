@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001755605.1/GCF_001755605.1_ViralProj344615_genomic.fna.gz",
+        "filename": "GCF_001755605.1_ViralProj344615_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031239.1 Gordonia phage Vivi2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

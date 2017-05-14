@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874945.1/GCF_000874945.1_ViralMultiSegProj28759_genomic.fna.gz",
+        "filename": "GCF_000874945.1_ViralMultiSegProj28759_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010349.1 Botryotinia fuckeliana partitivirus 1, complete segment 1, genomic RNA",
         "signatures": [
             {
                 "ksize": 31,

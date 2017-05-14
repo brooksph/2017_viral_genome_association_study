@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001501175.1/GCF_001501175.1_ViralProj307735_genomic.fna.gz",
+        "filename": "GCF_001501175.1_ViralProj307735_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028945.1 Sinorhizobium phage phiN3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

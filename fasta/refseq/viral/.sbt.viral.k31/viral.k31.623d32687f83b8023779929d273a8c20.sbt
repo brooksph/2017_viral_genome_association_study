@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000844805.1/GCF_000844805.1_ViralProj14456_genomic.fna.gz",
+        "filename": "GCF_000844805.1_ViralProj14456_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004828.1 Avian adeno-associated virus ATCC VR-865, complete genome",
         "signatures": [
             {
                 "ksize": 31,

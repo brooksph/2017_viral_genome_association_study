@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884915.1/GCF_000884915.1_ViralProj38429_genomic.fna.gz",
+        "filename": "GCF_000884915.1_ViralProj38429_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_012783.2 Cercopithecine herpesvirus 5 strain 2715, complete genome",
         "signatures": [
             {
                 "ksize": 31,

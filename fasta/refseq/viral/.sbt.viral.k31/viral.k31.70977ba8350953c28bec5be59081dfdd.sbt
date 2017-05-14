@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001907845.1/GCF_001907845.1_ViralProj357838_genomic.fna.gz",
+        "filename": "GCF_001907845.1_ViralProj357838_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032119.1 Vernonia crinkle betasatellite isolate UG7, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

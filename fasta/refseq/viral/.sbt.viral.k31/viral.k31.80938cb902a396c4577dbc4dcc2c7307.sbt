@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000864385.1/GCF_000864385.1_ViralProj16247_genomic.fna.gz",
+        "filename": "GCF_000864385.1_ViralProj16247_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007654.1 Atlantic salmon swim bladder sarcoma virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

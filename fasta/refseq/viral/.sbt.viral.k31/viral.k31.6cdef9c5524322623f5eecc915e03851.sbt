@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001678235.1/GCF_001678235.1_ViralProj327362_genomic.fna.gz",
+        "filename": "GCF_001678235.1_ViralProj327362_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030391.1 Wild onion symptomless virus gene for polyprotein, complete cds, isolate: TUR256-1",
         "signatures": [
             {
                 "ksize": 31,

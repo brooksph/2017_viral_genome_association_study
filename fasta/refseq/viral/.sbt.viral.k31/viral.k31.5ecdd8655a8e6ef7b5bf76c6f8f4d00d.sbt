@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910975.1/GCF_000910975.1_ViralProj218014_genomic.fna.gz",
+        "filename": "GCF_000910975.1_ViralProj218014_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022249.1 Feline astrovirus 2 strain 1637F, complete genome",
         "signatures": [
             {
                 "ksize": 31,

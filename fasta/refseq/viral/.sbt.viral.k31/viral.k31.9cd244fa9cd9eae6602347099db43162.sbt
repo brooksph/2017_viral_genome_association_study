@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911435.1/GCF_000911435.1_ViralProj229826_genomic.fna.gz",
+        "filename": "GCF_000911435.1_ViralProj229826_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022896.1 Sclerotinia sclerotiorum hypovirus 2 isolate 5472, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503335.1/GCF_001503335.1_ViralProj307895_genomic.fna.gz",
+        "filename": "GCF_001503335.1_ViralProj307895_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028778.1 Mycobacterium phage Snenia, complete genome",
         "signatures": [
             {
                 "ksize": 31,

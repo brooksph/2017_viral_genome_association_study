@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854825.1/GCF_000854825.1_ViralProj15018_genomic.fna.gz",
+        "filename": "GCF_000854825.1_ViralProj15018_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003555.1 Giardia lamblia virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

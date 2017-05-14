@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550445.1/GCF_001550445.1_ViralProj310886_genomic.fna.gz",
+        "filename": "GCF_001550445.1_ViralProj310886_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029096.1 Panax notoginseng virus A isolate YNSL1210, complete genome",
         "signatures": [
             {
                 "ksize": 31,

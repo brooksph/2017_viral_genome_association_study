@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848345.1/GCF_000848345.1_ViralProj14670_genomic.fna.gz",
+        "filename": "GCF_000848345.1_ViralProj14670_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001553.1 Tomato apical stunt viroid, complete genome",
         "signatures": [
             {
                 "ksize": 31,

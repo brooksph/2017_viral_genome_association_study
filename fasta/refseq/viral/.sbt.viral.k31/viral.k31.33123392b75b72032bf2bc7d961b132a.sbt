@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974535.1/GCF_001974535.1_ViralProj369104_genomic.fna.gz",
+        "filename": "GCF_001974535.1_ViralProj369104_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033555.1 Ageratum yellow vein alphasatellite clone N36-24, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

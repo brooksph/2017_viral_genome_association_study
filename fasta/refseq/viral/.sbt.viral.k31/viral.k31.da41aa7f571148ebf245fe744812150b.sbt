@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000896015.1/GCF_000896015.1_ViralProj109269_genomic.fna.gz",
+        "filename": "GCF_000896015.1_ViralProj109269_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_016989.1 Haloarcula hispanica icosahedral virus 2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

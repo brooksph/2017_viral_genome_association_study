@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862605.1/GCF_000862605.1_ViralProj15407_genomic.fna.gz",
+        "filename": "GCF_000862605.1_ViralProj15407_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_005029.1 Onion yellow dwarf virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

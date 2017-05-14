@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000905655.1/GCF_000905655.1_ViralProj185428_genomic.fna.gz",
+        "filename": "GCF_000905655.1_ViralProj185428_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020082.1 Edwardsiella phage MSW-3 DNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,

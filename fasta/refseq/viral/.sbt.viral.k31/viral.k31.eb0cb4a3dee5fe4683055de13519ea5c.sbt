@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925695.1/GCF_001925695.1_ViralProj359280_genomic.fna.gz",
+        "filename": "GCF_001925695.1_ViralProj359280_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032488.1 Beihai blue swimmer crab virus 1 strain YYSZX13554 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

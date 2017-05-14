@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923535.2/GCF_000923535.2_ViralProj252624_genomic.fna.gz",
+        "filename": "GCF_000923535.2_ViralProj252624_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024299.2 Nienokoue virus isolate B51/CI/2004, complete genome",
         "signatures": [
             {
                 "ksize": 31,

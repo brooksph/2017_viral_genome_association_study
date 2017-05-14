@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001504275.1/GCF_001504275.1_ViralProj307922_genomic.fna.gz",
+        "filename": "GCF_001504275.1_ViralProj307922_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028854.1 Bacteriophage Sitara, complete genome",
         "signatures": [
             {
                 "ksize": 31,

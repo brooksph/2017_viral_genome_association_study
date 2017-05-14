@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000869925.1/GCF_000869925.1_ViralProj17181_genomic.fna.gz",
+        "filename": "GCF_000869925.1_ViralProj17181_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008211.1 Ranid herpesvirus 1 strain McKinnell, complete genome",
         "signatures": [
             {
                 "ksize": 31,

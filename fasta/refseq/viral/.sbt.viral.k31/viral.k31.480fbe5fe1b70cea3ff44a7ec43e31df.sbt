@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001019955.1/GCF_001019955.1_ViralProj285594_genomic.fna.gz",
+        "filename": "GCF_001019955.1_ViralProj285594_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027124.1 Pebjah virus isolate I621, complete genome",
         "signatures": [
             {
                 "ksize": 31,

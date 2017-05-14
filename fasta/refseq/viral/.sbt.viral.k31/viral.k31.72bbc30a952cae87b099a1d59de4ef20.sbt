@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000929935.1/GCF_000929935.1_ViralProj269633_genomic.fna.gz",
+        "filename": "GCF_000929935.1_ViralProj269633_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025825.1 Raccoon dog amdovirus isolate HS-R NS1, NS2, NS3, VP1, and VP2 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

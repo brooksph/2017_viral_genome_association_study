@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000918195.1/GCF_000918195.1_ViralProj247502_genomic.fna.gz",
+        "filename": "GCF_000918195.1_ViralProj247502_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024077.1 Soybean cyst nematode virus 5 strain ScV5 polyprotein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

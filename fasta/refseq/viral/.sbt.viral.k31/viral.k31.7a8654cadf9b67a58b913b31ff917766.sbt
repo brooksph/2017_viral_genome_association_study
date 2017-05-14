@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001042215.1/GCF_001042215.1_ViralProj287988_genomic.fna.gz",
+        "filename": "GCF_001042215.1_ViralProj287988_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027377.1 Leuconostoc phage Ln-8, complete genome",
         "signatures": [
             {
                 "ksize": 31,

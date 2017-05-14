@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965355.1/GCF_001965355.1_ViralProj362088_genomic.fna.gz",
+        "filename": "GCF_001965355.1_ViralProj362088_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033234.1 Hubei narna-like virus 17 strain mosHB204971 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

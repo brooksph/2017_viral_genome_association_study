@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001743575.1/GCF_001743575.1_ViralProj344089_genomic.fna.gz",
+        "filename": "GCF_001743575.1_ViralProj344089_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031031.1 Gordonia phage Remus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

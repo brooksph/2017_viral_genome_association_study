@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000903955.1/GCF_000903955.1_ViralProj185193_genomic.fna.gz",
+        "filename": "GCF_000903955.1_ViralProj185193_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020066.1 Otomops polyomavirus 2 isolate KY156, complete genome",
         "signatures": [
             {
                 "ksize": 31,

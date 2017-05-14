@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000838785.1/GCF_000838785.1_ViralProj14091_genomic.fna.gz",
+        "filename": "GCF_000838785.1_ViralProj14091_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_000936.1 Periplaneta fuliginosa densovirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

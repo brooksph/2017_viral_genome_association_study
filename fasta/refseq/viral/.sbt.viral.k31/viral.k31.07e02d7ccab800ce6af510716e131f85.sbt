@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899995.1/GCF_000899995.1_ViralMultiSegProj173354_genomic.fna.gz",
+        "filename": "GCF_000899995.1_ViralMultiSegProj173354_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018482.1 Golden Gate virus segment L, complete genome",
         "signatures": [
             {
                 "ksize": 31,

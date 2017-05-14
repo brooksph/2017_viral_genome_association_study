@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000872385.1/GCF_000872385.1_ViralProj28067_genomic.fna.gz",
+        "filename": "GCF_000872385.1_ViralProj28067_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010148.1 Tomato leaf curl Bangalore virus-[Ban5] satellite DNA beta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

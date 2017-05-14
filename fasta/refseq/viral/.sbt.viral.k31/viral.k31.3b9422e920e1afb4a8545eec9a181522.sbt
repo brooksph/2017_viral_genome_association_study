@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868505.1/GCF_000868505.1_ViralProj17801_genomic.fna.gz",
+        "filename": "GCF_000868505.1_ViralProj17801_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008374.1 Tomato yellow leaf curl Guangdong virus DNA A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001924115.1/GCF_001924115.1_ViralMultiSegProj358931_genomic.fna.gz",
+        "filename": "GCF_001924115.1_ViralMultiSegProj358931_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032282.1 Hubei lepidoptera virus 1 strain LCM141331 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

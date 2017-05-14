@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000859705.1/GCF_000859705.1_ViralProj15160_genomic.fna.gz",
+        "filename": "GCF_000859705.1_ViralProj15160_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006948.1 Mint virus X, complete genome",
         "signatures": [
             {
                 "ksize": 31,

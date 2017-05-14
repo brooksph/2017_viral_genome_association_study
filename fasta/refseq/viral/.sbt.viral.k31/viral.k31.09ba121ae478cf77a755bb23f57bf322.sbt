@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965995.1/GCF_001965995.1_ViralProj362050_genomic.fna.gz",
+        "filename": "GCF_001965995.1_ViralProj362050_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032872.1 Hubei diptera virus 16 strain SCM32007 hypothetical protein gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

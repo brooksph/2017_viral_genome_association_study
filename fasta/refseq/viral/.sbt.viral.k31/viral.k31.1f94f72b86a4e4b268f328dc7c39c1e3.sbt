@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001968635.1/GCF_001968635.1_ViralMultiSegProj361658_genomic.fna.gz",
+        "filename": "GCF_001968635.1_ViralMultiSegProj361658_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033313.1 Hubei tetragnatha maxillosa virus 8 strain arthropodmix13417 segment Seg 1 RdRp gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

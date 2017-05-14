@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867485.1/GCF_000867485.1_ViralProj17361_genomic.fna.gz",
+        "filename": "GCF_000867485.1_ViralProj17361_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008252.1 Neodiprion abietis NPV, complete genome",
         "signatures": [
             {
                 "ksize": 31,

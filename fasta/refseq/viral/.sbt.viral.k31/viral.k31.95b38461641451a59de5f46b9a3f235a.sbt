@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001651205.1/GCF_001651205.1_ViralProj322488_genomic.fna.gz",
+        "filename": "GCF_001651205.1_ViralProj322488_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030202.1 Fusarium poae dsRNA virus 3 isolate SX63, complete genome",
         "signatures": [
             {
                 "ksize": 31,

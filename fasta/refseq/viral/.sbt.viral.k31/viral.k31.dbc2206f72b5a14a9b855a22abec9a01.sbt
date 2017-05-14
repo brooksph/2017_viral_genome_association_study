@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924255.1/GCF_000924255.1_ViralProj261260_genomic.fna.gz",
+        "filename": "GCF_000924255.1_ViralProj261260_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024888.1 Bufavirus-3 genes for NS1, putative VP1, hypothetical protein, VP2, complete cds, strain: BTN-63",
         "signatures": [
             {
                 "ksize": 31,

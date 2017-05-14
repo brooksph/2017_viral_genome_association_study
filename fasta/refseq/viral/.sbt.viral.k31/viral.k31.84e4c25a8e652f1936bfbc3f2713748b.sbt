@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001736455.1/GCF_001736455.1_ViralProj343538_genomic.fna.gz",
+        "filename": "GCF_001736455.1_ViralProj343538_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030911.1 Gordonia phage Vendetta, complete genome",
         "signatures": [
             {
                 "ksize": 31,

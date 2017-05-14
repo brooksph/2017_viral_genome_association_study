@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001503395.1/GCF_001503395.1_ViralProj307907_genomic.fna.gz",
+        "filename": "GCF_001503395.1_ViralProj307907_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028844.1 Mycobacterium phage Phatniss, complete genome",
         "signatures": [
             {
                 "ksize": 31,

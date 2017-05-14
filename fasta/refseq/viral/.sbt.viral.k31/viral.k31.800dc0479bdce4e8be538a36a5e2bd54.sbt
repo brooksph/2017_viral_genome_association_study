@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000853265.1/GCF_000853265.1_ViralMultiSegProj14857_genomic.fna.gz",
+        "filename": "GCF_000853265.1_ViralMultiSegProj14857_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004181.1 Colorado tick fever virus segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

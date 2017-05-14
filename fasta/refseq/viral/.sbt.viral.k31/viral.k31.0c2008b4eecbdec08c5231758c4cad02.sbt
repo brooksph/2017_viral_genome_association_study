@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000907455.1/GCF_000907455.1_ViralProj206031_genomic.fna.gz",
+        "filename": "GCF_000907455.1_ViralProj206031_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021308.1 Mycobacterium phage HINdeR, complete genome",
         "signatures": [
             {
                 "ksize": 31,

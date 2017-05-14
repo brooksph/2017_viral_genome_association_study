@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000858765.1/GCF_000858765.1_ViralProj15139_genomic.fna.gz",
+        "filename": "GCF_000858765.1_ViralProj15139_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_006577.2 Human coronavirus HKU1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

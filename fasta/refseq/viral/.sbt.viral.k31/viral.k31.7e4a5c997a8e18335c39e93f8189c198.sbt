@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899655.1/GCF_000899655.1_ViralProj179423_genomic.fna.gz",
+        "filename": "GCF_000899655.1_ViralProj179423_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019411.1 Caulobacter phage CcrSwift, complete genome",
         "signatures": [
             {
                 "ksize": 31,

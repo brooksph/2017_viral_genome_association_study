@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001961595.1/GCF_001961595.1_ViralProj361957_genomic.fna.gz",
+        "filename": "GCF_001961595.1_ViralProj361957_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032962.1 Beihai weivirus-like virus 2 strain BHZC36779 hypothetical protein, RNA-dependent RNA polymerase, and putative capsid protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000865805.1/GCF_000865805.1_ViralMultiSegProj15591_genomic.fna.gz",
+        "filename": "GCF_000865805.1_ViralMultiSegProj15591_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007339.1 Squash leaf curl China virus - [B] DNA-A, complete genome",
         "signatures": [
             {
                 "ksize": 31,

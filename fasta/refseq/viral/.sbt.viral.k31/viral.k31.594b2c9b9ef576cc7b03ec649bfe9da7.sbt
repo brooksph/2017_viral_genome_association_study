@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000930815.1/GCF_000930815.1_ViralProj272442_genomic.fna.gz",
+        "filename": "GCF_000930815.1_ViralProj272442_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026137.1 Magnaporthe oryzae RNA virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

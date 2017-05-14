@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000916675.1/GCF_000916675.1_ViralProj230700_genomic.fna.gz",
+        "filename": "GCF_000916675.1_ViralProj230700_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004553.3 Turnip rosette virus isolate TRoV-1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

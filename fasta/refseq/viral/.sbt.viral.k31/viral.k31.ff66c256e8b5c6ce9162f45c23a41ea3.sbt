@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000840465.1/GCF_000840465.1_ViralProj14249_genomic.fna.gz",
+        "filename": "GCF_000840465.1_ViralProj14249_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_004627.1 Ageratum yellow vein Taiwan virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

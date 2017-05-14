@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000911975.1/GCF_000911975.1_ViralProj216948_genomic.fna.gz",
+        "filename": "GCF_000911975.1_ViralProj216948_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022131.1 Chickpea chlorosis Australia virus isolate CpCV-D_AU_3494I_2002, complete genome",
         "signatures": [
             {
                 "ksize": 31,

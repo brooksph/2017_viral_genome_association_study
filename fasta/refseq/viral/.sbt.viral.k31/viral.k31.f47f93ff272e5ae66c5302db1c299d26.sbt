@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000848445.1/GCF_000848445.1_ViralProj14691_genomic.fna.gz",
+        "filename": "GCF_000848445.1_ViralProj14691_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002198.2 Cereal yellow dwarf virus-RPS, complete genome",
         "signatures": [
             {
                 "ksize": 31,

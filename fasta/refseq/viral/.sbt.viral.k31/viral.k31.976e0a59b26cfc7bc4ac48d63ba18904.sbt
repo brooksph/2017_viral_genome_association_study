@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002022215.1/GCF_002022215.1_ViralProj378003_genomic.fna.gz",
+        "filename": "GCF_002022215.1_ViralProj378003_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_034017.1 Xishuangbanna aedes flavivirus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

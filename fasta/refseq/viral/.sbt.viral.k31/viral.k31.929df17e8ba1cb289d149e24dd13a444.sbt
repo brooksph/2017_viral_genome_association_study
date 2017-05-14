@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925675.1/GCF_001925675.1_ViralProj359276_genomic.fna.gz",
+        "filename": "GCF_001925675.1_ViralProj359276_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032414.1 Wenling chuvirus-like virus 2 strain WLJQ104274 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

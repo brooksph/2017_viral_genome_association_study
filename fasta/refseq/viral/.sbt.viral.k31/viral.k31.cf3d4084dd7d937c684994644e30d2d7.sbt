@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000839045.1/GCF_000839045.1_ViralProj14144_genomic.fna.gz",
+        "filename": "GCF_000839045.1_ViralProj14144_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003313.1 Vibrio phage K139, complete genome",
         "signatures": [
             {
                 "ksize": 31,

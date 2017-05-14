@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000923715.1/GCF_000923715.1_ViralProj253391_genomic.fna.gz",
+        "filename": "GCF_000923715.1_ViralProj253391_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_024382.1 Alcelaphine herpesvirus 2 isolate topi-AlHV-2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

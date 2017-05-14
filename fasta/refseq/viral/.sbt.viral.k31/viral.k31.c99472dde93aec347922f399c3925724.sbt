@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001974475.1/GCF_001974475.1_ViralProj368971_genomic.fna.gz",
+        "filename": "GCF_001974475.1_ViralProj368971_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033423.1 Lymphocystis disease virus Sa isolate SA9, complete genome",
         "signatures": [
             {
                 "ksize": 31,

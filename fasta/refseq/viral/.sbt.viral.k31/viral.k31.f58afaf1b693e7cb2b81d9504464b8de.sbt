@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001745075.1/GCF_001745075.1_ViralProj344124_genomic.fna.gz",
+        "filename": "GCF_001745075.1_ViralProj344124_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031037.1 Bacillus phage Nigalana, complete genome",
         "signatures": [
             {
                 "ksize": 31,

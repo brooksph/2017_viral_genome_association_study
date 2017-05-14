@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910075.1/GCF_000910075.1_ViralProj206485_genomic.fna.gz",
+        "filename": "GCF_000910075.1_ViralProj206485_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_021336.1 Bacillus phage MG-B1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

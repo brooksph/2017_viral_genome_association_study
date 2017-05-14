@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001904945.1/GCF_001904945.1_ViralProj357486_genomic.fna.gz",
+        "filename": "GCF_001904945.1_ViralProj357486_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032104.1 Arachis pintoi virus isolate Var A RdRp, TGBp1, TGBp2, 40 kDa protein, and CP genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

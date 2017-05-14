@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000901295.1/GCF_000901295.1_ViralProj184162_genomic.fna.gz",
+        "filename": "GCF_000901295.1_ViralProj184162_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_019920.1 Enterobacteria phage C-1 INW-2012, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

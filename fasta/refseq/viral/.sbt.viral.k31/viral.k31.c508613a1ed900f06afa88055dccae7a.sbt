@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000851505.1/GCF_000851505.1_ViralProj14820_genomic.fna.gz",
+        "filename": "GCF_000851505.1_ViralProj14820_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003871.1 Carrot red leaf luteovirus associated RNA clone a25 putative RNA dependent RNA polymerase, complete cds",
         "signatures": [
             {
                 "ksize": 31,

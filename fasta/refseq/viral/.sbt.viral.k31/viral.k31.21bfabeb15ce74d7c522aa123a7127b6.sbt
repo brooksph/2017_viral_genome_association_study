@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001925395.1/GCF_001925395.1_ViralProj359245_genomic.fna.gz",
+        "filename": "GCF_001925395.1_ViralProj359245_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032437.1 Beihai anemone virus 1 strain BHHK129576 hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000912795.1/GCF_000912795.1_ViralProj224248_genomic.fna.gz",
+        "filename": "GCF_000912795.1_ViralProj224248_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022581.1 Eel Virus European X complete genome, viral cRNA, isolate 153311",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000973195.1/GCF_000973195.1_ViralProj281396_genomic.fna.gz",
+        "filename": "GCF_000973195.1_ViralProj281396_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026818.1 Gemycircularvirus SL1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

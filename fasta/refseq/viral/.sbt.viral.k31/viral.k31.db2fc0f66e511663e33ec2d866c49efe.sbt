@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000868725.1/GCF_000868725.1_ViralProj18513_genomic.fna.gz",
+        "filename": "GCF_000868725.1_ViralProj18513_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008719.1 Sepik virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

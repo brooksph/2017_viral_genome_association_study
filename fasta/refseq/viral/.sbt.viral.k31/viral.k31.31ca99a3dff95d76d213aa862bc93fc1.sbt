@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000955435.1/GCF_000955435.1_ViralProj276877_genomic.fna.gz",
+        "filename": "GCF_000955435.1_ViralProj276877_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_026591.1 Mycobacterium phage Trike, complete genome",
         "signatures": [
             {
                 "ksize": 31,

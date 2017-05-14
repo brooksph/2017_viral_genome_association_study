@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001746035.1/GCF_001746035.1_ViralProj344192_genomic.fna.gz",
+        "filename": "GCF_001746035.1_ViralProj344192_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031101.1 Weissella phage WCP30, complete genome",
         "signatures": [
             {
                 "ksize": 31,

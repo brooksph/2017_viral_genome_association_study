@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001957375.1/GCF_001957375.1_ViralProj361610_genomic.fna.gz",
+        "filename": "GCF_001957375.1_ViralProj361610_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_032965.1 Hubei tombus-like virus 2 strain WHSFII19265 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

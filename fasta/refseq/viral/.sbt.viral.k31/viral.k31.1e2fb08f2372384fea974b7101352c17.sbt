@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001707005.1/GCF_001707005.1_ViralProj336557_genomic.fna.gz",
+        "filename": "GCF_001707005.1_ViralProj336557_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030743.1 Brejeira virus strain AR800208-B hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001744835.1/GCF_001744835.1_ViralProj344217_genomic.fna.gz",
+        "filename": "GCF_001744835.1_ViralProj344217_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031089.1 Ligustrum virus A isolate SK, complete genome",
         "signatures": [
             {
                 "ksize": 31,

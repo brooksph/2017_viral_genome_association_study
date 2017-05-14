@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000850305.1/GCF_000850305.1_ViralProj14726_genomic.fna.gz",
+        "filename": "GCF_000850305.1_ViralProj14726_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002803.1 Spring viraemia of carp virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

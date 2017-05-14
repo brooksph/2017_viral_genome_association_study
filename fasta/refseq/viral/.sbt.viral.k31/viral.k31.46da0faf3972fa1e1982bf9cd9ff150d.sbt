@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854745.1/GCF_000854745.1_ViralProj15001_genomic.fna.gz",
+        "filename": "GCF_000854745.1_ViralProj15001_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002161.1 Bovine parainfluenza virus 3, complete genome",
         "signatures": [
             {
                 "ksize": 31,

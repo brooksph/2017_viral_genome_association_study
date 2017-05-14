@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000842865.1/GCF_000842865.1_ViralProj14231_genomic.fna.gz",
+        "filename": "GCF_000842865.1_ViralProj14231_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003315.1 Haemophilus phage HP2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

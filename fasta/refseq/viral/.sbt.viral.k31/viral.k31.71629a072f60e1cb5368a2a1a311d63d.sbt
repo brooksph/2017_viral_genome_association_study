@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000899315.1/GCF_000899315.1_ViralProj176618_genomic.fna.gz",
+        "filename": "GCF_000899315.1_ViralProj176618_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_018713.1 Pestivirus strain Aydin/04-TR, complete genome",
         "signatures": [
             {
                 "ksize": 31,

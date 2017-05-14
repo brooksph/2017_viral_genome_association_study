@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000863925.1/GCF_000863925.1_ViralProj15501_genomic.fna.gz",
+        "filename": "GCF_000863925.1_ViralProj15501_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001549.1 Simian immunodeficiency virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000866545.1/GCF_000866545.1_ViralProj15532_genomic.fna.gz",
+        "filename": "GCF_000866545.1_ViralProj15532_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_007216.1 Wisteria vein mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

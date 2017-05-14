@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000875565.1/GCF_000875565.1_ViralProj30849_genomic.fna.gz",
+        "filename": "GCF_000875565.1_ViralProj30849_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011108.1 Cocksfoot mild mosaic virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

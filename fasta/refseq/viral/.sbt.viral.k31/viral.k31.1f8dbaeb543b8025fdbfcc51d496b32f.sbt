@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000867405.1/GCF_000867405.1_ViralProj17145_genomic.fna.gz",
+        "filename": "GCF_000867405.1_ViralProj17145_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_008195.1 Mycobacterium phage Cooper, complete genome",
         "signatures": [
             {
                 "ksize": 31,

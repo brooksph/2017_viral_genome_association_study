@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000854725.1/GCF_000854725.1_ViralMultiSegProj14997_genomic.fna.gz",
+        "filename": "GCF_000854725.1_ViralMultiSegProj14997_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_002052.1 Tomato spotted wilt virus RNA L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

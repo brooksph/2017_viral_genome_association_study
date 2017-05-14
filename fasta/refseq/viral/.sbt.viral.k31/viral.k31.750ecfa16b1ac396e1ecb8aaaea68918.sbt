@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000910955.1/GCF_000910955.1_ViralProj217879_genomic.fna.gz",
+        "filename": "GCF_000910955.1_ViralProj217879_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022229.1 Tomato yellow leaf curl Saudi virus isolate Hail1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000924675.1/GCF_000924675.1_ViralProj264939_genomic.fna.gz",
+        "filename": "GCF_000924675.1_ViralProj264939_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_025354.1 Curionopolis virus isolate BE AR 440009, complete genome",
         "signatures": [
             {
                 "ksize": 31,

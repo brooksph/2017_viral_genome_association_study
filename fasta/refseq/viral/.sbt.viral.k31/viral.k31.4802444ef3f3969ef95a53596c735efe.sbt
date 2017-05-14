@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000862225.3/GCF_000862225.3_ViralProj15326_genomic.fna.gz",
+        "filename": "GCF_000862225.3_ViralProj15326_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_001564.2 Cell fusing agent virus strain Galveston, complete genome",
         "signatures": [
             {
                 "ksize": 31,

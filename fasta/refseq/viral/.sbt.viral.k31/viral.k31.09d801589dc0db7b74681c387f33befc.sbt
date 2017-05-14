@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001685305.1/GCF_001685305.1_ViralMultiSegProj327702_genomic.fna.gz",
+        "filename": "GCF_001685305.1_ViralMultiSegProj327702_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030480.1 Pseudogymnoascus destructans virus isolate PdV80251 RNA-dependent RNA polymerase gene, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001669825.1/GCF_001669825.1_ViralMultiSegProj326000_genomic.fna.gz",
+        "filename": "GCF_001669825.1_ViralMultiSegProj326000_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_030310.1 Cotton yellow mosaic virus isolate Benin-Gossypium raimondii-55-14 segment DNA-A, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

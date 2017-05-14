@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001965495.1/GCF_001965495.1_ViralProj362116_genomic.fna.gz",
+        "filename": "GCF_001965495.1_ViralProj362116_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033179.1 Hubei permutotetra-like virus 3 strain spider127212 RdRp and hypothetical protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

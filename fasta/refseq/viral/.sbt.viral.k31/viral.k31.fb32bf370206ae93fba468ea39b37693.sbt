@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000913755.1/GCF_000913755.1_ViralProj227004_genomic.fna.gz",
+        "filename": "GCF_000913755.1_ViralProj227004_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_022751.1 Cyanophage PP, complete genome",
         "signatures": [
             {
                 "ksize": 31,

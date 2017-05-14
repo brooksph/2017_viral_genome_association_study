@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000870745.1/GCF_000870745.1_ViralMultiSegProj19747_genomic.fna.gz",
+        "filename": "GCF_000870745.1_ViralMultiSegProj19747_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_009537.1 Citrus variegation virus RNA1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

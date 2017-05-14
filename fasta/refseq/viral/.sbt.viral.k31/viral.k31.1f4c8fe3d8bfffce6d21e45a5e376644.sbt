@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000884635.1/GCF_000884635.1_ViralProj43589_genomic.fna.gz",
+        "filename": "GCF_000884635.1_ViralProj43589_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_013758.1 Haloarcula hispanica pleomorphic virus 1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

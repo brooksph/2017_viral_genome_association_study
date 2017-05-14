@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000860825.1/GCF_000860825.1_ViralProj15375_genomic.fna.gz",
+        "filename": "GCF_000860825.1_ViralProj15375_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003747.2 Ryegrass mottle virus isolate MAFF. No. 307043 from Japan, complete genome",
         "signatures": [
             {
                 "ksize": 31,

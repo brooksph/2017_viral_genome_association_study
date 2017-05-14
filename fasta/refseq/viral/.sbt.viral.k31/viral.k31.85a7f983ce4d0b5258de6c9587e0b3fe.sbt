@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001866285.1/GCF_001866285.1_ViralProj351826_genomic.fna.gz",
+        "filename": "GCF_001866285.1_ViralProj351826_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_031688.1 Mosquito dicistrovirus strain FH1, complete genome",
         "signatures": [
             {
                 "ksize": 31,

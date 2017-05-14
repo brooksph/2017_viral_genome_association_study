@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001430675.1/GCF_001430675.1_ViralMultiSegProj300790_genomic.fna.gz",
+        "filename": "GCF_001430675.1_ViralMultiSegProj300790_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_028144.1 Rice necrosis mosaic virus genomic RNA, segment 1, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

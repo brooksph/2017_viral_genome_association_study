@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874885.1/GCF_000874885.1_ViralProj28681_genomic.fna.gz",
+        "filename": "GCF_000874885.1_ViralProj28681_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010305.1 Ligustrum necrotic ringspot virus, complete genome",
         "signatures": [
             {
                 "ksize": 31,

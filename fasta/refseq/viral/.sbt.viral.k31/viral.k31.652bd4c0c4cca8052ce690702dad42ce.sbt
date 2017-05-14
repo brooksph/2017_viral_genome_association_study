@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000904515.1/GCF_000904515.1_ViralProj195501_genomic.fna.gz",
+        "filename": "GCF_000904515.1_ViralProj195501_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_020865.1 Cyanophage KBS-P-1A genomic sequence",
         "signatures": [
             {
                 "ksize": 31,

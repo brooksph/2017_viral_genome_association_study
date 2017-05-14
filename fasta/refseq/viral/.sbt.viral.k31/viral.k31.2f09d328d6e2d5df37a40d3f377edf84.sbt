@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852125.1/GCF_000852125.1_ViralMultiSegProj14788_genomic.fna.gz",
+        "filename": "GCF_000852125.1_ViralMultiSegProj14788_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003715.1 Pseudomonas phage phi-6 segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

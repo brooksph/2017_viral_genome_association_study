@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000874585.1/GCF_000874585.1_ViralMultiSegProj30367_genomic.fna.gz",
+        "filename": "GCF_000874585.1_ViralMultiSegProj30367_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_010984.1 Alternaria alternata dsRNA mycovirus segment L, complete sequence",
         "signatures": [
             {
                 "ksize": 31,

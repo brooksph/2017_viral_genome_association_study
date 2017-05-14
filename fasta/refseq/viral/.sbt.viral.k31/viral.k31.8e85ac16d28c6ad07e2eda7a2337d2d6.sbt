@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008795.1/GCF_002008795.1_ViralProj376934_genomic.fna.gz",
+        "filename": "GCF_002008795.1_ViralProj376934_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033817.1 Cassava satellite virus isolate Casatv_Br, complete genome",
         "signatures": [
             {
                 "ksize": 31,

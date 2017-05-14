@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_002008635.1/GCF_002008635.1_ViralProj376929_genomic.fna.gz",
+        "filename": "GCF_002008635.1_ViralProj376929_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033829.1 Kallithea virus isolate DrosEU46_Kharkiv_2014, complete genome",
         "signatures": [
             {
                 "ksize": 31,

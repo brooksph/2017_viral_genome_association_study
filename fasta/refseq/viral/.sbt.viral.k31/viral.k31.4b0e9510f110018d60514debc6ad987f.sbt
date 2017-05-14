@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000880295.1/GCF_000880295.1_ViralProj30693_genomic.fna.gz",
+        "filename": "GCF_000880295.1_ViralProj30693_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_011054.1 Mycobacterium phage Boomer, complete genome",
         "signatures": [
             {
                 "ksize": 31,

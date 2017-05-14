@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001274085.1/GCF_001274085.1_ViralProj293720_genomic.fna.gz",
+        "filename": "GCF_001274085.1_ViralProj293720_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_027781.1 Aiptasia sp. sea anemone associated circular virus isolate I0007C2, complete genome",
         "signatures": [
             {
                 "ksize": 31,

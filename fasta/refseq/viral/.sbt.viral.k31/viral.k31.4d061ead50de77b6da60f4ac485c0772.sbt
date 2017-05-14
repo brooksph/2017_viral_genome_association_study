@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001550585.1/GCF_001550585.1_ViralProj310914_genomic.fna.gz",
+        "filename": "GCF_001550585.1_ViralProj310914_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_029063.1 Nectarine virus M isolate NeVM/12C51, complete genome",
         "signatures": [
             {
                 "ksize": 31,

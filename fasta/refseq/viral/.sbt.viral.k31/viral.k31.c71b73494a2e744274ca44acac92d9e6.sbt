@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_001960115.1/GCF_001960115.1_ViralProj361802_genomic.fna.gz",
+        "filename": "GCF_001960115.1_ViralProj361802_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_033065.1 Wenling crustacean virus 1 strain WLJQ101409 RdRp, hypothetical protein, and putative structural protein genes, complete cds",
         "signatures": [
             {
                 "ksize": 31,

@@ -2,8 +2,9 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "GCF_000852285.1/GCF_000852285.1_ViralProj14821_genomic.fna.gz",
+        "filename": "GCF_000852285.1_ViralProj14821_genomic.fna.gz",
         "hash_function": "0.murmur64",
+        "name": "NC_003872.1 Blackcurrant reversion virus satellite RNA, complete genome",
         "signatures": [
             {
                 "ksize": 31,
